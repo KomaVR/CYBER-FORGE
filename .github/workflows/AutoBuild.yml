@@ -4,7 +4,7 @@ on:
   push:
     branches: [ main ]
   schedule:
-    - cron: '0 3 * * *'  # daily at 3AM UTC
+    - cron: '0 3 * * *'  # Daily at 3AM UTC
 
 permissions:
   contents: write
@@ -32,10 +32,25 @@ jobs:
           cd scraper
           python3 generate_hugo_content.py
 
-      - name: Force Rebuild Markdown Front-Matter
+      - name: Strictly Rebuild Front Matter
         run: |
           cd scraper
-          python3 force_rebuild_md.py
+          python3 strict_frontmatter_rebuild.py
+
+      - name: Run Markdown Front-Matter Fixer
+        run: |
+          cd scraper
+          python3 fix_existing_tool_pages.py
+
+      - name: Cleanup Front Matter
+        run: |
+          cd scraper
+          python3 cleanup_frontmatter.py
+
+      - name: Fix Filenames and Front Matter
+        run: |
+          cd scraper
+          python3 fix_filenames_and_frontmatter.py
 
       - name: Install Hugo
         uses: peaceiris/actions-hugo@v2
