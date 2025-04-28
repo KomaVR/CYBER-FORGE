@@ -8,10 +8,13 @@ Download the . Unzip the file to create a directory named algo-master containing
 
 
 Use git clone to create a directory named algo containing the Algo scripts:
-git clone https://github.com/trailofbits/algo.git
+
 
 
 "
 external_category: "Miscellaneous"
----[Visit Website](https://github.com/trailofbits/algo/archive/master.zip)
+---
+[Visit Website](https://github.com/trailofbits/algo.git)
+
+[Visit Website](https://github.com/trailofbits/algo/archive/master.zip)
 

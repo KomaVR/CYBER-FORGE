@@ -1,5 +1,4 @@
 ---
-title: "https://github.com/ambionics/phpggc#ascii-strings"
 description: "
 ASCII Strings
 
@@ -19,5 +18,8 @@ Balsn CTF 2020 - L5D
 
 "
 external_category: "Miscellaneous"
----[Visit Website](https://github.com/ambionics/phpggc#ascii-strings)
+---
+[Visit Website](https://github.com/ambionics/phpggc#ascii-strings)
+
+[Visit Website](https://github.com/ambionics/phpggc#ascii-strings)
 

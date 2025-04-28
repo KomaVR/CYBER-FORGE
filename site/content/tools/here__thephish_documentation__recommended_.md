@@ -12,11 +12,11 @@ The file configuration.json is the global configuration file that allows setting
 		\"folder\" : \"inbox\"
 	},
 	\"thehive\" : {
-		\"url\" : \"http://thehive:9000\",
+
 		\"apikey\" : \"\"
 	},
 	\"cortex\" : {
-		\"url\" : \"http://cortex:9001\",
+
 		\"apikey\" : \"\",
 		\"id\" : \"local\"
 	},
@@ -43,11 +43,14 @@ The file application.conf is used to integrate TheHive with Cortex and MISP. You
 The URLs at which TheHive, Cortex and MISP instances are reachable should also be replaced in the file templates/index.html so that the buttons on the web interface will be able to reach them. To do that, replace the last three href of this portion of code:
 <ul class=\"navbar-nav text-light\" id=\"accordionSidebar\">
     <li class=\"nav-item\"><a class=\"nav-link active\" href=\"/\" style=\"max-width: 114px;\" target=\"_blank\" rel=\"noopener noreferrer\"><img class=\"img-fluid\" data-bss-hover-animate=\"bounce\" src=\"../static/assets/img/logo_rounded.png\" style=\"margin-top: 0px;margin-left: 0px;\"></a></li>
-    <li class=\"nav-item\"><a class=\"nav-link\" href=\"http://thehive:9000\" style=\"max-width: 114px;\" target=\"_blank\" rel=\"noopener noreferrer\"><img class=\"img-fluid\" data-bss-hover-animate=\"bounce\" src=\"../static/assets/img/thehive.png\" style=\"margin-right: 0px;margin-left: 0px;\"></a></li>
-    <li class=\"nav-item\"><a class=\"nav-link\" href=\"http://cortex:9001\" style=\"max-width: 114px;\" target=\"_blank\" rel=\"noopener noreferrer\"><img class=\"img-fluid\" data-bss-hover-animate=\"bounce\" src=\"../static/assets/img/cortex.png\" style=\"transform: translate(0px);\"></a></li>
-    <li class=\"nav-item\"><a class=\"nav-link\" href=\"https://misp\" style=\"max-width: 114px;\" target=\"_blank\" rel=\"noopener noreferrer\"><img class=\"img-fluid\" data-bss-hover-animate=\"bounce\" src=\"../static/assets/img/misp.png\" style=\"transform: translate(0px);\"></a></li>
+
+
+
 </ul>
 "
 external_category: "Web Exploitation"
----[Visit Website](https://github.com/emalderson/ThePhish/tree/master/docker#configure-the-thehive-container)
+---
+[Visit Website](http://thehive:9000\)
+
+[Visit Website](https://github.com/emalderson/ThePhish/tree/master/docker#configure-the-thehive-container)
 

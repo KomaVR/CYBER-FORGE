@@ -9,9 +9,12 @@ Example
 N1CTF 2021 - Funny_web
 
 
-Tool: https://github.com/hack2fun/gopher_attack_mssql
+
 
 "
 external_category: "Web Exploitation"
----[Visit Website](https://ctftime.org/writeup/12808)
+---
+[Visit Website](https://github.com/hack2fun/gopher_attack_mssql)
+
+[Visit Website](https://ctftime.org/writeup/12808)
 

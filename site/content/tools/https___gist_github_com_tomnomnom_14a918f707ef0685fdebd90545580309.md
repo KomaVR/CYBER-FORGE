@@ -1,5 +1,4 @@
 ---
-title: "https://gist.github.com/tomnomnom/14a918f707ef0685fdebd90545580309"
 description: "
 一些 alert(document.domain) 的方法
 
@@ -14,5 +13,8 @@ alert.bind()(document.domain);
 
 "
 external_category: "Miscellaneous"
----[Visit Website](https://gist.github.com/tomnomnom/14a918f707ef0685fdebd90545580309)
+---
+[Visit Website](https://gist.github.com/tomnomnom/14a918f707ef0685fdebd90545580309)
+
+[Visit Website](https://gist.github.com/tomnomnom/14a918f707ef0685fdebd90545580309)
 

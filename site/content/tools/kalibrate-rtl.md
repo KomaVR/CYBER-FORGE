@@ -1,6 +1,9 @@
 ---
 title: "kalibrate-rtl"
-description: "fork of http://thre.at/kalibrate/ for use with rtl-sdr devices."
+
 external_category: "Miscellaneous"
----[Visit Website](https://github.com/steve-m/kalibrate-rtl)
+---
+[Visit Website](http://thre.at/kalibrate/)
+
+[Visit Website](https://github.com/steve-m/kalibrate-rtl)
 

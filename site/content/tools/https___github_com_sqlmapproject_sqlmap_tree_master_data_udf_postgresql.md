@@ -1,5 +1,4 @@
 ---
-title: "https://github.com/sqlmapproject/sqlmap/tree/master/data/udf/postgresql"
 description: "RCE
 
 CVE-2019–9193
@@ -33,5 +32,8 @@ SELECT sys_eval(\"id\");
 
 "
 external_category: "Web Exploitation"
----[Visit Website](https://github.com/sqlmapproject/sqlmap/tree/master/data/udf/postgresql)
+---
+[Visit Website](https://github.com/sqlmapproject/sqlmap/tree/master/data/udf/postgresql)
+
+[Visit Website](https://github.com/sqlmapproject/sqlmap/tree/master/data/udf/postgresql)
 

@@ -6,7 +6,7 @@ HTTP Method
 OPTIONS method
 
 查看可用 HTTP method
-curl -i -X OPTIONS 'http://evil.com/'
+
 
 
 HEAD method
@@ -24,5 +24,8 @@ Bypassing GitHub's OAuth flow
 
 "
 external_category: "Black Hat Tools"
----[Visit Website](https://werkzeug.palletsprojects.com/en/2.0.x/routing/#werkzeug.routing.Rule)
+---
+[Visit Website](http://evil.com/)
+
+[Visit Website](https://werkzeug.palletsprojects.com/en/2.0.x/routing/#werkzeug.routing.Rule)
 

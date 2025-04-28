@@ -1,5 +1,4 @@
 ---
-title: "http://example.com/a%2findex.php"
 description: "
 
 瀏覽器會把 a%2findex.php 當成一個檔案
@@ -29,5 +28,8 @@ CSS 語法容錯率很高
 
 "
 external_category: "Web Exploitation"
----[Visit Website](http://example.com/a%2findex.php)
+---
+[Visit Website](http://example.com/a%2findex.php)
+
+[Visit Website](http://example.com/a%2findex.php)
 

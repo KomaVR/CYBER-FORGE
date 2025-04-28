@@ -36,8 +36,11 @@ ENABLE_AUTO_IDS_EMAILS Y;
 
 
 
-Check the configuration file psad's documentation at http://www.cipherdyne.org/psad/docs/config.html for more details.
+
 "
 external_category: "Miscellaneous"
----[Visit Website](http://www.cipherdyne.org/psad/docs/config.html#EMAIL_ADDRESSES)
+---
+[Visit Website](http://www.cipherdyne.org/psad/docs/config.html)
+
+[Visit Website](http://www.cipherdyne.org/psad/docs/config.html#EMAIL_ADDRESSES)
 

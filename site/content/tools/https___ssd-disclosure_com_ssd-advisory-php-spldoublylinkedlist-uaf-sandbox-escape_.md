@@ -1,5 +1,4 @@
 ---
-title: "https://ssd-disclosure.com/ssd-advisory-php-spldoublylinkedlist-uaf-sandbox-escape/"
 description: "
 PHP SplDoublyLinkedList UAF Sandbox Escape
 
@@ -18,5 +17,8 @@ RealWorld CTF 3rd - MoP2021
 
 "
 external_category: "Malware Analysis"
----[Visit Website](https://ssd-disclosure.com/ssd-advisory-php-spldoublylinkedlist-uaf-sandbox-escape/)
+---
+[Visit Website](https://ssd-disclosure.com/ssd-advisory-php-spldoublylinkedlist-uaf-sandbox-escape/)
+
+[Visit Website](https://ssd-disclosure.com/ssd-advisory-php-spldoublylinkedlist-uaf-sandbox-escape/)
 

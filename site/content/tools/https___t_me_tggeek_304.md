@@ -1,5 +1,4 @@
 ---
-title: "https://t.me/TGgeek/304"
 description: "
 Tips
 
@@ -15,5 +14,8 @@ Telegram 账号的\"数字 id\"是注册时间越晚就越大吗？
 
 "
 external_category: "Miscellaneous"
----[Visit Website](https://t.me/TGgeek/304)
+---
+[Visit Website](https://t.me/TGgeek/304)
+
+[Visit Website](https://t.me/TGgeek/304)
 

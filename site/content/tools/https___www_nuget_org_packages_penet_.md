@@ -1,5 +1,4 @@
 ---
-title: "https://www.nuget.org/packages/PeNet/"
 description: "Custom Confirmatory DLL's :
 
 These are DLL files which assist the tool to get the confirmation whether the DLL's are been successfully loaded from the identified hijack path
@@ -10,5 +9,8 @@ Install NuGet Package:** PeNet** ->  (Prereq while compiling the ImpulsiveDLLHij
 
 "
 external_category: "Miscellaneous"
----[Visit Website](https://www.nuget.org/packages/PeNet/)
+---
+[Visit Website](https://www.nuget.org/packages/PeNet/)
+
+[Visit Website](https://www.nuget.org/packages/PeNet/)
 

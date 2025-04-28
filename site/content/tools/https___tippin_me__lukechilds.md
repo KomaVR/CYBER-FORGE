@@ -1,5 +1,4 @@
 ---
-title: "https://tippin.me/@lukechilds"
 description: "
 
 
@@ -9,5 +8,8 @@ description: "
 
 "
 external_category: "Miscellaneous"
----[Visit Website](https://tippin.me/@lukechilds)
+---
+[Visit Website](https://tippin.me/@lukechilds)
+
+[Visit Website](https://tippin.me/@lukechilds)
 

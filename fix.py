@@ -1,41 +1,44 @@
 import os
 import re
 
-def clean_hugo_markdown(directory):
+def fix_markdown(directory):
     for root, _, files in os.walk(directory):
         for file in files:
-            if file.endswith('.md'):
-                filepath = os.path.join(root, file)
-                with open(filepath, 'r', encoding='utf-8') as f:
+            if file.endswith(".md"):
+                path = os.path.join(root, file)
+                with open(path, "r", encoding="utf-8") as f:
                     content = f.read()
 
-                # Extract front matter
-                parts = content.split('---')
+                if "---" not in content:
+                    continue
+
+                parts = content.split("---")
                 if len(parts) < 3:
-                    continue  # Skip if not valid front matter
+                    continue
 
-                front_matter = parts[1]
-                body = parts[2]
+                front_matter, body = parts[1], parts[2]
 
-                # Search for url field
-                match = re.search(r'url:\s*"(http[s]?://[^"]+)"', front_matter)
-                if match:
-                    url = match.group(1)
-                    # Remove the url line
-                    front_matter = re.sub(r'url:\s*"(http[s]?://[^"]+)"\n?', '', front_matter)
+                # Check if any https:// URL is still in front matter
+                if "http://" in front_matter or "https://" in front_matter:
+                    print(f"Fixing {path}...")
 
-                    # Add link at the start of body
-                    link_md = f"[Visit Website]({url})\n\n"
-                    body = link_md + body.lstrip()
+                    # Extract URL if it exists
+                    url_match = re.search(r'(http[s]?://[^\s"\']+)', front_matter)
+                    if url_match:
+                        url = url_match.group(1)
 
-                    # Rebuild content
-                    new_content = f"---{front_matter}---{body}"
+                        # Remove entire line with the URL
+                        front_matter = re.sub(r'^.*(http[s]?://[^\s"\']+).*$', '', front_matter, flags=re.MULTILINE)
 
-                    with open(filepath, 'w', encoding='utf-8') as f:
-                        f.write(new_content)
+                        # Add link to body
+                        link = f"[Visit Website]({url})\n\n"
+                        body = link + body.lstrip()
 
-                    print(f"Fixed: {filepath}")
+                        # Rebuild full content
+                        new_content = f"---\n{front_matter.strip()}\n---\n{body}"
+
+                        with open(path, "w", encoding="utf-8") as f:
+                            f.write(new_content)
 
 if __name__ == "__main__":
-    directory_to_fix = "./site/content"  # Adjust if needed
-    clean_hugo_markdown(directory_to_fix)
+    fix_markdown("./site/content")

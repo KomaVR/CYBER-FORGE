@@ -1,5 +1,4 @@
 ---
-title: "https://github.com/quentinhardy/odat/releases/"
 description: "Version 2.0 (21/02/2016) :
 
 A new module (privesc) for using system privileges of an Oracle user (e.g. CREATE ANY PROCEDURE) in order to gain privileged access (i.e. DBA). System privileges that can be used by ODAT in this version:
@@ -17,5 +16,8 @@ standalone version moved to releases ()
 
 "
 external_category: "Reverse Engineering"
----[Visit Website](https://github.com/quentinhardy/odat/releases/)
+---
+[Visit Website](https://github.com/quentinhardy/odat/releases/)
+
+[Visit Website](https://github.com/quentinhardy/odat/releases/)
 

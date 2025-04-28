@@ -38,7 +38,7 @@ Nginx + Apache
 
 情境: Nginx -> Apache, Nginx deny /admin
 
-proxy_pass http://apache (No trailing slash，以原始資料送到後端)
+
 /admin//../flag
 
 Nginx: /flag
@@ -53,7 +53,7 @@ Nginx + WebLogic
 
 情境: Nginx -> WebLogic, Nginx deny /console
 
-proxy_pass http://weblogic;
+
 
 Nginx: /
 WebLogic: /console
@@ -103,9 +103,12 @@ Cadday: 用 normalized path 來 matching，但送出的卻不是 normalized path
 Example: SecurityFest CTF 2022 - tunnelvision
 
 
-ref: https://github.com/GrrrDog/weird_proxies/tree/master
+
 
 "
 external_category: "Web Exploitation"
----[Visit Website](https://lebr0nli.github.io/blog/security/nginx-gunicorn-CSAW2021/#exploit)
+---
+[Visit Website](http://apache)
+
+[Visit Website](https://lebr0nli.github.io/blog/security/nginx-gunicorn-CSAW2021/#exploit)
 

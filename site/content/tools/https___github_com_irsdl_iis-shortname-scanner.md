@@ -1,5 +1,4 @@
 ---
-title: "https://github.com/irsdl/IIS-ShortName-Scanner"
 description: "
 IIS 短檔名列舉
 
@@ -9,7 +8,7 @@ Example
 
 MidnightSun CTF 2024 - ASPowerTools
 
-webClient.DownloadString(\"http://../inetpub/wwwroot/aspowertools/FLAGFL~1.MAS\")
+
 
 
 
@@ -18,14 +17,17 @@ Tool:
 
 
 
-java -jar iis_shortname_scanner.jar 2 20 http://example.com/folder/
 
 
-https://github.com/sw33tLie/sns
+
+
 
 
 
 "
 external_category: "White Hat Tools"
----[Visit Website](https://github.com/irsdl/IIS-ShortName-Scanner)
+---
+[Visit Website](https://github.com/irsdl/IIS-ShortName-Scanner)
+
+[Visit Website](https://github.com/irsdl/IIS-ShortName-Scanner)
 

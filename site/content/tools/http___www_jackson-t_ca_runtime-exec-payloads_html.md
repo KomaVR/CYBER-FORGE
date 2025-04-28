@@ -1,5 +1,4 @@
 ---
-title: "http://www.jackson-t.ca/runtime-exec-payloads.html"
 description: "
 Java
 
@@ -8,5 +7,8 @@ java.lang.Runtime.exec() payload generator:
 
 "
 external_category: "Black Hat Tools"
----[Visit Website](http://www.jackson-t.ca/runtime-exec-payloads.html)
+---
+[Visit Website](http://www.jackson-t.ca/runtime-exec-payloads.html)
+
+[Visit Website](http://www.jackson-t.ca/runtime-exec-payloads.html)
 

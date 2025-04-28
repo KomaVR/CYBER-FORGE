@@ -1,5 +1,4 @@
 ---
-title: "https://ncviewer.com/"
 description: "
 View CNC GCode
 
@@ -7,5 +6,8 @@ View CNC GCode
 
 "
 external_category: "Miscellaneous"
----[Visit Website](https://ncviewer.com/)
+---
+[Visit Website](https://ncviewer.com/)
+
+[Visit Website](https://ncviewer.com/)
 

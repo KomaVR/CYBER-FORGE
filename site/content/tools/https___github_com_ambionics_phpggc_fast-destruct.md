@@ -1,5 +1,4 @@
 ---
-title: "https://github.com/ambionics/phpggc#fast-destruct"
 description: "
 Fast Destruct
 
@@ -18,5 +17,8 @@ Balsn CTF 2020 - L5D
 
 "
 external_category: "Miscellaneous"
----[Visit Website](https://github.com/ambionics/phpggc#fast-destruct)
+---
+[Visit Website](https://github.com/ambionics/phpggc#fast-destruct)
+
+[Visit Website](https://github.com/ambionics/phpggc#fast-destruct)
 

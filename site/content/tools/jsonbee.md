@@ -5,13 +5,16 @@ known jsonp endpoint
 
 Google:
 
-https://accounts.google.com/o/oauth2/revoke?callback=alert(1)
-https://www.google.com/complete/search?client=chrome&q=hello&callback=alert#1
+
+
 
 
 
 
 "
 external_category: "Miscellaneous"
----[Visit Website](https://github.com/zigoo0/JSONBee/blob/master/jsonp.txt)
+---
+[Visit Website](https://accounts.google.com/o/oauth2/revoke?callback=alert(1))
+
+[Visit Website](https://github.com/zigoo0/JSONBee/blob/master/jsonp.txt)
 

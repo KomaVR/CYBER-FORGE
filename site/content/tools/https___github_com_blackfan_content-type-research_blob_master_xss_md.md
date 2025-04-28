@@ -1,5 +1,4 @@
 ---
-title: "https://github.com/BlackFan/content-type-research/blob/master/XSS.md"
 description: "XSS
 
 
@@ -19,5 +18,8 @@ text/cache-manifest
 
 "
 external_category: "Web Exploitation"
----[Visit Website](https://github.com/BlackFan/content-type-research/blob/master/XSS.md)
+---
+[Visit Website](https://github.com/BlackFan/content-type-research/blob/master/XSS.md)
+
+[Visit Website](https://github.com/BlackFan/content-type-research/blob/master/XSS.md)
 

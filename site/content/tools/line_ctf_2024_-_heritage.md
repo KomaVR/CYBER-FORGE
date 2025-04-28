@@ -21,11 +21,14 @@ Example
 
 
 Seikai CTF 2023 - Frog WAF
-繞 openrasp: https://landgrey.me/blog/15/
+
 
 
 
 "
 external_category: "Black Hat Tools"
----[Visit Website](https://gist.github.com/tyage/e0afc9ff5051c2cc487a8cd9b6a1d7ea#heritage)
+---
+[Visit Website](https://landgrey.me/blog/15/)
+
+[Visit Website](https://gist.github.com/tyage/e0afc9ff5051c2cc487a8cd9b6a1d7ea#heritage)
 

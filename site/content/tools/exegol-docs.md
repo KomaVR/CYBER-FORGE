@@ -1,6 +1,9 @@
 ---
 title: "Exegol-docs"
-description: "The  repo for the documentation, destined for users as well as developpers and contributors. The GitHub repo holds the sources that are compiled on https://exegol.readthedocs.io/."
+
 external_category: "Miscellaneous"
----[Visit Website](https://github.com/ThePorgs/Exegol-docs)
+---
+[Visit Website](https://exegol.readthedocs.io/.)
+
+[Visit Website](https://github.com/ThePorgs/Exegol-docs)
 

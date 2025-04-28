@@ -1,5 +1,4 @@
 ---
-title: "https://github.com/tobefuturer/restore-symbol"
 description: "
 Configure IPPatch Options
 
@@ -45,5 +44,8 @@ NO
 
 "
 external_category: "Reverse Engineering"
----[Visit Website](https://github.com/tobefuturer/restore-symbol)
+---
+[Visit Website](https://github.com/tobefuturer/restore-symbol)
+
+[Visit Website](https://github.com/tobefuturer/restore-symbol)
 

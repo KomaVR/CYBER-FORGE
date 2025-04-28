@@ -1,5 +1,4 @@
 ---
-title: "http://169.254.169.254/latest/meta-data/"
 description: "
 AWS常見漏洞
 
@@ -30,7 +29,7 @@ metadata
 
 Tool
 
-https://andresriancho.github.io/nimbostratus/
+
 
 
 
@@ -38,5 +37,8 @@ https://andresriancho.github.io/nimbostratus/
 
 "
 external_category: "Web Exploitation"
----[Visit Website](http://169.254.169.254/latest/meta-data/)
+---
+[Visit Website](http://169.254.169.254/latest/meta-data/)
+
+[Visit Website](http://169.254.169.254/latest/meta-data/)
 

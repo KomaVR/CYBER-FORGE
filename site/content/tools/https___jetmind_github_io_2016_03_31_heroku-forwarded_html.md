@@ -1,5 +1,4 @@
 ---
-title: "https://jetmind.github.io/2016/03/31/heroku-forwarded.html"
 description: "
 X-forwarded-for 偽造來源IP
 
@@ -21,5 +20,8 @@ Example: angstromCTF 2021 - Spoofy
 
 "
 external_category: "Grey Hat Tools"
----[Visit Website](https://jetmind.github.io/2016/03/31/heroku-forwarded.html)
+---
+[Visit Website](https://jetmind.github.io/2016/03/31/heroku-forwarded.html)
+
+[Visit Website](https://jetmind.github.io/2016/03/31/heroku-forwarded.html)
 

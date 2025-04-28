@@ -1,5 +1,4 @@
 ---
-title: "https://threathunter.org/topic/594545184ea5b2f5516e2033"
 description: "
 agent节点支持端口复用
 agent提供了两种端口复用方法
@@ -37,5 +36,8 @@ python scripts/port_reuse.py --stop --rhost 192.168.204.135 --rport 80
 
 "
 external_category: "Web Exploitation"
----[Visit Website](https://threathunter.org/topic/594545184ea5b2f5516e2033)
+---
+[Visit Website](https://threathunter.org/topic/594545184ea5b2f5516e2033)
+
+[Visit Website](https://threathunter.org/topic/594545184ea5b2f5516e2033)
 

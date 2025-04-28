@@ -1,5 +1,4 @@
 ---
-title: "https://github.com/pimps/gopher-tomcat-deployer"
 description: "
 Tomcat
 
@@ -10,5 +9,8 @@ e.g. CTFZone 2019 qual - Catcontrol
 
 "
 external_category: "Miscellaneous"
----[Visit Website](https://github.com/pimps/gopher-tomcat-deployer)
+---
+[Visit Website](https://github.com/pimps/gopher-tomcat-deployer)
+
+[Visit Website](https://github.com/pimps/gopher-tomcat-deployer)
 

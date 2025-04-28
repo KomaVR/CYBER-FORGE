@@ -1,5 +1,4 @@
 ---
-title: "https://github.com/Escape-Technologies/graphql-wordlist"
 description: "
 GraphQL
 
@@ -123,5 +122,8 @@ HITCON 2018 - BabyQuery
 
 "
 external_category: "Grey Hat Tools"
----[Visit Website](https://github.com/Escape-Technologies/graphql-wordlist)
+---
+[Visit Website](https://github.com/Escape-Technologies/graphql-wordlist)
+
+[Visit Website](https://github.com/Escape-Technologies/graphql-wordlist)
 
