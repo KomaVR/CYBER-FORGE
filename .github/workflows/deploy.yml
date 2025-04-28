@@ -38,7 +38,21 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: '0.104.2'
+          
+      - name: Strictly Rebuild Front Matter
+        run: |
+          cd scraper
+          python3 strict_frontmatter_rebuild.py
 
+      - name: Fix Existing Markdown Files (Skip broken YAML)
+        run: |
+          cd scraper
+          python3 fix_filenames_and_frontmatter.py
+
+      - name: Cleanup Front Matter
+        run: |
+          cd scraper
+          python3 cleanup_frontmatter.py
       - name: Build Hugo Site
         run: |
           cd site
