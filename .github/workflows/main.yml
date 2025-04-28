@@ -1,47 +1,40 @@
-name: Auto-update Sources
+name: Auto-update sources
 
 on:
   push:
     branches:
       - main
   schedule:
-    - cron: '0 0 * * *'  # Optional: Runs once a day at midnight.
+    - cron: '0 0 * * *'  # Run every day at midnight
 
 jobs:
-  update-sources:
+  update_sources:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the repository code
-      - name: Checkout repository
-        uses: actions/checkout@v3
+    - name: Checkout code
+      uses: actions/checkout@v2
 
-      # Set up Python environment (if you need it)
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
 
-      # Install dependencies (if necessary)
-      - name: Install dependencies
-        run: |
-          pip install -r scraper/requirements.txt
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r scraper/requirements.txt
 
-      # Run the scraper to update sources.txt
-      - name: Run scraper/generate_sources.py
-        run: python scraper/generate_sources.py
+    - name: Run scraper and generate sources
+      env:
+        CYBERFORGE_GH_TOKEN: ${{ secrets.CYBERFORGE_GH_TOKEN }}  # Pass the token here
+      run: |
+        python scraper/generate_sources.py
 
-      # Set up git user for commit
-      - name: Set up git user
-        run: |
-          git config --global user.email "actions@github.com"
-          git config --global user.name "GitHub Actions"
-
-      # Commit changes to sources.txt
-      - name: Commit and push changes
-        env:
-          GH_TOKEN: ${{ secrets.CYBERFORGE_GH_TOKEN }}
-        run: |
-          git add scraper/sources.txt
-          git diff --quiet || git commit -m "Auto-update sources by GitHub Actions"
-          git push https://x-access-token:${GH_TOKEN}@github.com/KomaVR/CYBER-FORGE.git HEAD:main
+    - name: Commit and push changes
+      env:
+        GH_TOKEN: ${{ secrets.CYBERFORGE_GH_TOKEN }}  # Pass the token for git push
+      run: |
+        git add scraper/sources.txt
+        git diff --quiet || git commit -m "Auto-update sources by GitHub Actions"
+        git push https://x-access-token:${GH_TOKEN}@github.com/KomaVR/CYBER-FORGE.git HEAD:main
