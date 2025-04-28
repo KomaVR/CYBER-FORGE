@@ -52,7 +52,39 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: '0.104.2'
+          
+      - name: Purge Bad Markdown Files
+        run: |
+          python3 - <<EOF
+          import os
+          import yaml
 
+          content_dir = "site/content/tools"
+
+          for root, dirs, files in os.walk(content_dir):
+              for filename in files:
+                  if filename.endswith(".md"):
+                      path = os.path.join(root, filename)
+                      try:
+                          with open(path, "r", encoding="utf-8") as f:
+                              lines = f.readlines()
+
+                          if lines[0].strip() != '---':
+                              raise Exception("Missing starting ---")
+
+                          yaml_lines = []
+                          for line in lines[1:]:
+                              if line.strip() == '---':
+                                  break
+                              yaml_lines.append(line)
+
+                          yaml.safe_load("".join(yaml_lines))
+                      except Exception as e:
+                          print(f"Bad YAML in {path}: {e}")
+                          os.remove(path)
+                          print(f"Deleted bad file: {path}")
+          EOF
+          
       - name: Build Hugo Site
         run: |
           cd site
