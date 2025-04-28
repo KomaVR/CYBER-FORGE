@@ -1,6 +1,6 @@
 ---
 title: "Klear"
 description: ""
-external_url: "http://klear.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://klear.com)
+

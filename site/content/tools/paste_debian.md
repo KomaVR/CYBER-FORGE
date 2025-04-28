@@ -1,6 +1,6 @@
 ---
 title: "paste.debian"
 description: ""
-external_url: "https://Paste.debian.net"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://Paste.debian.net)
+

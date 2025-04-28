@@ -1,6 +1,6 @@
 ---
 title: "n-WN"
 description: ""
-external_url: "https://github.com/n-WN"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/n-WN)
+

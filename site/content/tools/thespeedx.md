@@ -2,6 +2,6 @@
 title: "TheSpeedX"
 description: "TheSpeedX
 SpeedX"
-external_url: "https://github.com/TheSpeedX"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/TheSpeedX)
+

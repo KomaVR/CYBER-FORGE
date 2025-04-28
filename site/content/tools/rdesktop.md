@@ -1,6 +1,6 @@
 ---
 title: "rdesktop"
 description: "for bitmap decompression."
-external_url: "https://github.com/rdesktop/rdesktop"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/rdesktop/rdesktop)
+

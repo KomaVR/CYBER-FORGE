@@ -5,6 +5,6 @@ description: "
 Interactive cheat sheet for Linux \"Living off the land\" techniques.
 
 "
-external_url: "https://gtfobins.github.io/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://gtfobins.github.io/)
+

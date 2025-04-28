@@ -1,6 +1,6 @@
 ---
 title: "OWASP-MASVS"
 description: ""
-external_url: "https://github.com/OWASP/owasp-masvs"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/OWASP/owasp-masvs)
+

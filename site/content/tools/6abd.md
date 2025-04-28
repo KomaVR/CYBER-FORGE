@@ -1,6 +1,6 @@
 ---
 title: "6abd"
 description: "(Me) | Project Lead and Developer"
-external_url: "https://github.com/6abd"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/6abd)
+

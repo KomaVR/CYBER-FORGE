@@ -1,6 +1,6 @@
 ---
 title: "Australian Criminal Intelligence Commison"
 description: "Specialist investigative capabilities and delivers and maintains national information sharing solutions."
-external_url: "https://www.acic.gov.au/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.acic.gov.au/)
+

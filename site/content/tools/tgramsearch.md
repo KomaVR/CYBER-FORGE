@@ -1,6 +1,6 @@
 ---
 title: "TgramSearch"
 description: ""
-external_url: "https://tgramsearch.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tgramsearch.com/)
+

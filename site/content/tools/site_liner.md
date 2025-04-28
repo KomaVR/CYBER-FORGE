@@ -1,6 +1,6 @@
 ---
 title: "Site Liner"
 description: ""
-external_url: "http://www.siteliner.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.siteliner.com/)
+

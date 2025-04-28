@@ -1,6 +1,6 @@
 ---
 title: "jvdsn"
 description: ""
-external_url: "https://github.com/jvdsn"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jvdsn)
+

@@ -1,6 +1,6 @@
 ---
 title: "passbolt"
 description: "The password manager your team was waiting for. Free, open source, extensible, based on OpenPGP."
-external_url: "https://www.passbolt.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.passbolt.com/)
+

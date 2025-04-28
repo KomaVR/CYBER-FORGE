@@ -1,6 +1,6 @@
 ---
 title: "dazjo"
 description: ""
-external_url: "https://github.com/dazjo"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/dazjo)
+

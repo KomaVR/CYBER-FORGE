@@ -3,6 +3,6 @@ title: "Discussions
         Collaborate outside of code"
 description: "
 "
-external_url: "https://github.com/features/discussions"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/features/discussions)
+

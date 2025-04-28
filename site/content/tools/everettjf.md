@@ -1,6 +1,6 @@
 ---
 title: "everettjf"
 description: ""
-external_url: "https://github.com/everettjf"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/everettjf)
+

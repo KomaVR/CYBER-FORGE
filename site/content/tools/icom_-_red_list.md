@@ -1,6 +1,6 @@
 ---
 title: "ICOM - Red List"
 description: ""
-external_url: "http://icom.museum/resources/red-lists-database"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://icom.museum/resources/red-lists-database)
+

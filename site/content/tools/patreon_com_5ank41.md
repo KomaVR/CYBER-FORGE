@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://patreon.com/5ANK41"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://patreon.com/5ANK41)
+

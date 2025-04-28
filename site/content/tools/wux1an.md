@@ -1,6 +1,6 @@
 ---
 title: "wux1an"
 description: ""
-external_url: "https://github.com/wux1an"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/wux1an)
+

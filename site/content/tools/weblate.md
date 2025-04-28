@@ -1,6 +1,6 @@
 ---
 title: "weblate"
 description: ""
-external_url: "https://github.com/weblate"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/weblate)
+

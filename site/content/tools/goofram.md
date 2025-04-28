@@ -1,6 +1,6 @@
 ---
 title: "Goofram"
 description: ""
-external_url: "http://www.goofram.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.goofram.com)
+

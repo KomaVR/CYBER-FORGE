@@ -1,6 +1,6 @@
 ---
 title: "kraigu"
 description: ""
-external_url: "https://github.com/kraigu"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/kraigu)
+

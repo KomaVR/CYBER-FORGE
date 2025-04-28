@@ -1,6 +1,6 @@
 ---
 title: "adamculpepper"
 description: ""
-external_url: "https://github.com/adamculpepper"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/adamculpepper)
+

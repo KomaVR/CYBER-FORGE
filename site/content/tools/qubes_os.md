@@ -1,6 +1,6 @@
 ---
 title: "Qubes OS"
 description: ""
-external_url: "https://www.qubes-os.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.qubes-os.org/)
+

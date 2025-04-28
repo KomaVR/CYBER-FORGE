@@ -1,6 +1,6 @@
 ---
 title: "Instructions for AdblockPlus"
 description: "(eg. uBlock, Adguard Home, Pi-Hole)"
-external_url: "https://github.com/notracking/hosts-blocklists/wiki/Install-AdblockPlus"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/notracking/hosts-blocklists/wiki/Install-AdblockPlus)
+

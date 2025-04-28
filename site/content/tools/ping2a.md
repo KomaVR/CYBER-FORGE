@@ -1,6 +1,6 @@
 ---
 title: "ping2A"
 description: ""
-external_url: "https://github.com/ping2A"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ping2A)
+

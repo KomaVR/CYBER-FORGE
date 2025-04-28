@@ -1,6 +1,6 @@
 ---
 title: "Canada411"
 description: "Search by person, phone number, and business. Free."
-external_url: "http://www.canada411.ca"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.canada411.ca)
+

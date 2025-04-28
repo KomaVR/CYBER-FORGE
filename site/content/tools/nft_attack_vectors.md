@@ -1,6 +1,6 @@
 ---
 title: "NFT Attack Vectors"
 description: ""
-external_url: "https://github.com/Quillhash/NFT-Attack-Vectors"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Quillhash/NFT-Attack-Vectors)
+

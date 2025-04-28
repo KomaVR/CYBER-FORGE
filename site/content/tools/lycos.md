@@ -1,6 +1,6 @@
 ---
 title: "Lycos"
 description: "A search engine for pictures, videos, news and products."
-external_url: "https://www.lycos.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.lycos.com)
+

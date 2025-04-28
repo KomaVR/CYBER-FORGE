@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/ShutdownRepo/targetedKerberoast"
 description: ""
-external_url: "https://github.com/ShutdownRepo/targetedKerberoast"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ShutdownRepo/targetedKerberoast)
+

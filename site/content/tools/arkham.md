@@ -1,6 +1,6 @@
 ---
 title: "Arkham"
 description: "Medium"
-external_url: "https://app.hackthebox.com/machines/179"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://app.hackthebox.com/machines/179)
+

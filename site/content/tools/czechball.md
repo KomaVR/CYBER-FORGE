@@ -1,6 +1,6 @@
 ---
 title: "Czechball"
 description: ""
-external_url: "https://github.com/Czechball"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Czechball)
+

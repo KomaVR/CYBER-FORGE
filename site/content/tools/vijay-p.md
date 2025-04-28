@@ -1,6 +1,6 @@
 ---
 title: "Vijay-P"
 description: ""
-external_url: "https://github.com/Vijay-P"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Vijay-P)
+

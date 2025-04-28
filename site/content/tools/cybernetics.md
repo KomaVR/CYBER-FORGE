@@ -1,6 +1,6 @@
 ---
 title: "Cybernetics"
 description: "Advanced"
-external_url: "https://app.hackthebox.com/prolabs/overview/cybernetics"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://app.hackthebox.com/prolabs/overview/cybernetics)
+

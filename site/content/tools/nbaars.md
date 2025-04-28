@@ -1,6 +1,6 @@
 ---
 title: "nbaars"
 description: ""
-external_url: "https://github.com/nbaars"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/nbaars)
+

@@ -1,6 +1,6 @@
 ---
 title: "Python Security"
 description: "A website for browsing and buying python-integrated cars having certain vehicular security features."
-external_url: "http://www.pythoncarsecurity.com/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://www.pythoncarsecurity.com/)
+

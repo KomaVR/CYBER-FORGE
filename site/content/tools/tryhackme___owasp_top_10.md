@@ -3,6 +3,6 @@ title: "TryHackMe | OWASP Top 10"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/owasptop10"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/owasptop10)
+

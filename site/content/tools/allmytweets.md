@@ -1,6 +1,6 @@
 ---
 title: "AllMyTweets"
 description: ""
-external_url: "https://www.allmytweets.net/connect/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.allmytweets.net/connect/)
+

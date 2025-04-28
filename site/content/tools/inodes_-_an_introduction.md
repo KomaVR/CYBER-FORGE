@@ -1,6 +1,6 @@
 ---
 title: "Inodes - an Introduction"
 description: ""
-external_url: "http://www.grymoire.com/Unix/Inodes.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.grymoire.com/Unix/Inodes.html)
+

@@ -1,6 +1,6 @@
 ---
 title: "SatelittesPro"
 description: ""
-external_url: "https://satellites.pro/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://satellites.pro/)
+

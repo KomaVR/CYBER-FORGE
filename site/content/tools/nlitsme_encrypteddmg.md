@@ -1,6 +1,6 @@
 ---
 title: "nlitsme/encrypteddmg"
 description: ""
-external_url: "https://github.com/nlitsme/encrypteddmg"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/nlitsme/encrypteddmg)
+

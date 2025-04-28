@@ -1,6 +1,6 @@
 ---
 title: "cast"
 description: "installer cli"
-external_url: "https://github.com/ekristen/cast"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ekristen/cast)
+

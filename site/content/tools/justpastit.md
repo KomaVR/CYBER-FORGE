@@ -1,6 +1,6 @@
 ---
 title: "justpastit"
 description: ""
-external_url: "https://justpaste.it"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://justpaste.it)
+

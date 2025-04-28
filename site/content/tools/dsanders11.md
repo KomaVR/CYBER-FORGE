@@ -1,6 +1,6 @@
 ---
 title: "dsanders11"
 description: ""
-external_url: "https://github.com/dsanders11"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/dsanders11)
+

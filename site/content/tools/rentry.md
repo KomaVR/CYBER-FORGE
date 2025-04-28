@@ -1,6 +1,6 @@
 ---
 title: "Rentry"
 description: ""
-external_url: "https://rentry.co/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://rentry.co/)
+

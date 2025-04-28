@@ -1,6 +1,6 @@
 ---
 title: "nullstreak"
 description: ""
-external_url: "https://github.com/nullstreak"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/nullstreak)
+

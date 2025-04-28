@@ -1,6 +1,6 @@
 ---
 title: "ReverseEngineering Challenges"
 description: ""
-external_url: "https://challenges.re"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://challenges.re)
+

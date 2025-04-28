@@ -1,6 +1,6 @@
 ---
 title: "kaganisildak"
 description: ""
-external_url: "https://github.com/kaganisildak"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/kaganisildak)
+

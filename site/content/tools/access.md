@@ -1,6 +1,6 @@
 ---
 title: "Access"
 description: "(red team initial access tools and techniques)"
-external_url: "https://github.com/mitre/access"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mitre/access)
+

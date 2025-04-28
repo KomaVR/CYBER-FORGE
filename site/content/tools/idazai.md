@@ -1,6 +1,6 @@
 ---
 title: "iDazai"
 description: ""
-external_url: "https://github.com/iDazai"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/iDazai)
+

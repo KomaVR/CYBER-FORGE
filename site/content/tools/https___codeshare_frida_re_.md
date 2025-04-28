@@ -1,6 +1,6 @@
 ---
 title: "https://codeshare.frida.re/"
 description: ""
-external_url: "https://codeshare.frida.re/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://codeshare.frida.re/)
+

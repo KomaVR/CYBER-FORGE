@@ -1,6 +1,6 @@
 ---
 title: "dnsenum"
 description: "is a perl script that enumerates DNS information."
-external_url: "https://github.com/fwaeytens/dnsenum"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/fwaeytens/dnsenum)
+

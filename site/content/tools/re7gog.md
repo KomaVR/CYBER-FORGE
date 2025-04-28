@@ -1,6 +1,6 @@
 ---
 title: "re7gog"
 description: ""
-external_url: "https://github.com/re7gog"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/re7gog)
+

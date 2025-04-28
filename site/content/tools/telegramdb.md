@@ -1,6 +1,6 @@
 ---
 title: "TelegramDB"
 description: ""
-external_url: "https://telegramdb.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://telegramdb.org/)
+

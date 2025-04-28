@@ -3,6 +3,6 @@ title: "TryHackMe | Sublist3r"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/rpsublist3r"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/rpsublist3r)
+

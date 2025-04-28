@@ -1,6 +1,6 @@
 ---
 title: "ADIDNS Revisited"
 description: ""
-external_url: "https://blog.netspi.com/adidns-revisited/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://blog.netspi.com/adidns-revisited/)
+

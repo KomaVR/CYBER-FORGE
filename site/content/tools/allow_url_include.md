@@ -7,6 +7,6 @@ To allow  Remote File Inclusions (RFI):
 allow_url_fopen = on [allow_url_fopen]
 
 "
-external_url: "https://secure.php.net/manual/en/filesystem.configuration.php#ini.allow-url-include"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://secure.php.net/manual/en/filesystem.configuration.php#ini.allow-url-include)
+

@@ -1,6 +1,6 @@
 ---
 title: "All contributors"
 description: "."
-external_url: "https://github.com/dwisiswant0/apkleaks/graphs/contributors"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/dwisiswant0/apkleaks/graphs/contributors)
+

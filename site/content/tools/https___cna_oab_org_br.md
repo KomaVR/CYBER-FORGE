@@ -1,6 +1,6 @@
 ---
 title: "https://cna.oab.org.br"
 description: ""
-external_url: "https://cna.oab.org.br"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://cna.oab.org.br)
+

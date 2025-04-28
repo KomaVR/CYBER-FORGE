@@ -1,6 +1,6 @@
 ---
 title: "https://cadastropre.com.br/#/consulta"
 description: ""
-external_url: "https://cadastropre.com.br/#/consulta"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://cadastropre.com.br/#/consulta)
+

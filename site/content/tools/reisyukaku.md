@@ -1,6 +1,6 @@
 ---
 title: "Reisyukaku"
 description: "/ ReiNX"
-external_url: "https://github.com/Reisyukaku/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Reisyukaku/)
+

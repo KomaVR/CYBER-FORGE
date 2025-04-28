@@ -1,6 +1,6 @@
 ---
 title: "Qira"
 description: "QEMU Interactive Runtime Analyser."
-external_url: "http://qira.me"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://qira.me)
+

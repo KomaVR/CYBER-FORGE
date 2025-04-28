@@ -1,6 +1,6 @@
 ---
 title: "mrexodia"
 description: ""
-external_url: "https://mrexodia.github.io"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://mrexodia.github.io)
+

@@ -3,6 +3,6 @@ title: "What is my User Agent"
 description: "
 
 "
-external_url: "https://webbrowsertools.com/useragent/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://webbrowsertools.com/useragent/)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://vuldb.com"
 description: "scipvuldb.csv"
-external_url: "https://vuldb.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://vuldb.com)
+

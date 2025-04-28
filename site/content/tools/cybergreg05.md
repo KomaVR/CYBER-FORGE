@@ -1,6 +1,6 @@
 ---
 title: "CyberGreg05"
 description: ""
-external_url: "https://github.com/CyberGreg05"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/CyberGreg05)
+

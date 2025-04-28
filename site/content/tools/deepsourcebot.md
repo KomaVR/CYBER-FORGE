@@ -2,6 +2,6 @@
 title: "deepsourcebot"
 description: "deepsourcebot
 DeepSource Bot"
-external_url: "https://github.com/deepsourcebot"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/deepsourcebot)
+

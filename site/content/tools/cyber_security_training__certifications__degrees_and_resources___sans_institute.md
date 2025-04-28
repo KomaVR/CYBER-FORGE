@@ -3,6 +3,6 @@ title: "Cyber Security Training, Certifications, Degrees and Resources | SANS In
 description: "
 
 "
-external_url: "https://computer-forensics.sans.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://computer-forensics.sans.org)
+

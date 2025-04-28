@@ -1,6 +1,6 @@
 ---
 title: "Behind the Name"
 description: "Random Name Generator"
-external_url: "https://www.behindthename.com/random/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.behindthename.com/random/)
+

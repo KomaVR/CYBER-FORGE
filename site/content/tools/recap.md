@@ -1,6 +1,6 @@
 ---
 title: "RECAP"
 description: ""
-external_url: "http://archive.recapthelaw.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://archive.recapthelaw.org/)
+

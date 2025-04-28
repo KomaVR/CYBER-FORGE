@@ -1,6 +1,6 @@
 ---
 title: "http://shentoushi.top/"
 description: ""
-external_url: "http://shentoushi.top/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://shentoushi.top/)
+

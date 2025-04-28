@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://afdian.com/a/leon406"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://afdian.com/a/leon406)
+

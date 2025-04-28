@@ -1,6 +1,6 @@
 ---
 title: "https://registro.br/tecnologia/ferramentas/pesquisa-de-usuario/"
 description: ""
-external_url: "https://registro.br/tecnologia/ferramentas/pesquisa-de-usuario/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://registro.br/tecnologia/ferramentas/pesquisa-de-usuario/)
+

@@ -1,6 +1,6 @@
 ---
 title: "gadgetinspector：利用链、漏洞检测工具"
 description: ""
-external_url: "https://github.com/5wimming/gadgetinspector"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/5wimming/gadgetinspector)
+

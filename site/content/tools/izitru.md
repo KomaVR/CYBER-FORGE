@@ -1,6 +1,6 @@
 ---
 title: "Izitru"
 description: ""
-external_url: "http://www.izitru.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.izitru.com/)
+

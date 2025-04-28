@@ -1,6 +1,6 @@
 ---
 title: "Better Business Bureau"
 description: ""
-external_url: "http://www.bbb.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.bbb.org)
+

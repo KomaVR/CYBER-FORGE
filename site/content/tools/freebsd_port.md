@@ -1,6 +1,6 @@
 ---
 title: "FreeBSD Port"
 description: ""
-external_url: "https://www.freshports.org/security/maltrail"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.freshports.org/security/maltrail)
+

@@ -1,6 +1,6 @@
 ---
 title: "IP Quality Score"
 description: ""
-external_url: "https://www.ipqualityscore.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ipqualityscore.com)
+

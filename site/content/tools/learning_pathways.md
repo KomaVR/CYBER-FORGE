@@ -2,6 +2,6 @@
 title: "Learning Pathways"
 description: "
 "
-external_url: "https://resources.github.com/learn/pathways"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://resources.github.com/learn/pathways)
+

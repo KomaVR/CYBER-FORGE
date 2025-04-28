@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/FalconForceTeam/SOAPHound"
 description: ""
-external_url: "https://github.com/FalconForceTeam/SOAPHound"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/FalconForceTeam/SOAPHound)
+

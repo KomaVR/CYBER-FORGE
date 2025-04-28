@@ -1,6 +1,6 @@
 ---
 title: "Awesome-serverless"
 description: ""
-external_url: "https://github.com/puresec/awesome-serverless-security/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/puresec/awesome-serverless-security/)
+

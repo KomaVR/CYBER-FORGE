@@ -1,6 +1,6 @@
 ---
 title: "Apple security-announce"
 description: "Subscribe to announcement mailing lists like ."
-external_url: "https://lists.apple.com/mailman/listinfo/security-announce"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://lists.apple.com/mailman/listinfo/security-announce)
+

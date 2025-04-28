@@ -1,6 +1,6 @@
 ---
 title: "Fuji"
 description: "Graphical interface for the forensic logical acquisition of Mac computers"
-external_url: "https://github.com/Lazza/Fuji"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://github.com/Lazza/Fuji)
+

@@ -2,6 +2,6 @@
 title: "fukusuket"
 description: "fukusuket
 Fukusuke Takahashi"
-external_url: "https://github.com/fukusuket"
-category: "Password Cracking"
----
+external_category: "Password Cracking"
+---[Visit Website](https://github.com/fukusuket)
+

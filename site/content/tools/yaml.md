@@ -1,6 +1,6 @@
 ---
 title: "YAML"
 description: "(yaml)"
-external_url: "http://www.arachni-scanner.com/reports/report.yml"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.arachni-scanner.com/reports/report.yml)
+

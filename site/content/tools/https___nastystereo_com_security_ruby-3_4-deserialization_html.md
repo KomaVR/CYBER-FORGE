@@ -5,6 +5,6 @@ description: "Ruby 3.4 Universal RCE Deserialization Gadget Chain by Luke Jahnke
 
 
 "
-external_url: "https://nastystereo.com/security/ruby-3.4-deserialization.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://nastystereo.com/security/ruby-3.4-deserialization.html)
+

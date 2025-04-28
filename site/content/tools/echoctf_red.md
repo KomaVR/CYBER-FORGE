@@ -1,6 +1,6 @@
 ---
 title: "echoCTF.RED"
 description: "Online CTF with a variety of targets to attack."
-external_url: "https://echoctf.red/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://echoctf.red/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Xmrchain"
 description: ""
-external_url: "https://xmrchain.net"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://xmrchain.net)
+

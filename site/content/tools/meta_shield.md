@@ -1,6 +1,6 @@
 ---
 title: "Meta Shield"
 description: ""
-external_url: "https://metashieldclean-up.elevenpaths.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://metashieldclean-up.elevenpaths.com/)
+

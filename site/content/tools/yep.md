@@ -1,6 +1,6 @@
 ---
 title: "Yep"
 description: ""
-external_url: "https://yep.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://yep.com/)
+

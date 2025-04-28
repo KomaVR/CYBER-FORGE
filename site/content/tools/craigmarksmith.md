@@ -1,6 +1,6 @@
 ---
 title: "craigmarksmith"
 description: ""
-external_url: "https://github.com/craigmarksmith"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/craigmarksmith)
+

@@ -6,6 +6,6 @@ Makes extremely interesting and in-depth videos about cyber.
 Has an amazing pwn series
 
 "
-external_url: "https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+

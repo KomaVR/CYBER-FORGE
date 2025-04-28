@@ -1,6 +1,6 @@
 ---
 title: "Software-Security-Learning"
 description: "by CHYbeta"
-external_url: "https://github.com/CHYbeta/Software-Security-Learning"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/CHYbeta/Software-Security-Learning)
+

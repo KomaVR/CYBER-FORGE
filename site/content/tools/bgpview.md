@@ -1,6 +1,6 @@
 ---
 title: "BGPView"
 description: ""
-external_url: "https://bgpview.io"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://bgpview.io)
+

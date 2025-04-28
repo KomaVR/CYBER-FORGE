@@ -1,6 +1,6 @@
 ---
 title: "PDF Search"
 description: ""
-external_url: "https://www.pdfsearch.io/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.pdfsearch.io/)
+

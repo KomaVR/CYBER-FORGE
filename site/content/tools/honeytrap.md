@@ -1,6 +1,6 @@
 ---
 title: "HoneyTrap"
 description: "Advanced Honeypot framework."
-external_url: "https://github.com/honeytrap/honeytrap"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/honeytrap/honeytrap)
+

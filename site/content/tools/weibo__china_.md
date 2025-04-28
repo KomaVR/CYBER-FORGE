@@ -1,6 +1,6 @@
 ---
 title: "Weibo (China)"
 description: ""
-external_url: "http://weibo.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://weibo.com)
+

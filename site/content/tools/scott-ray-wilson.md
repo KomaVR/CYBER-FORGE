@@ -1,6 +1,6 @@
 ---
 title: "scott-ray-wilson"
 description: ""
-external_url: "https://github.com/scott-ray-wilson"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/scott-ray-wilson)
+

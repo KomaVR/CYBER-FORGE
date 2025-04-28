@@ -1,6 +1,6 @@
 ---
 title: "https://portswigger.net/web-security/ssrf/url-validation-bypass-cheat-sheet"
 description: ""
-external_url: "https://portswigger.net/web-security/ssrf/url-validation-bypass-cheat-sheet"
-category: "Grey Hat Tools"
----
+external_category: "Grey Hat Tools"
+---[Visit Website](https://portswigger.net/web-security/ssrf/url-validation-bypass-cheat-sheet)
+

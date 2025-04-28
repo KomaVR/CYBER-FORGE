@@ -1,6 +1,6 @@
 ---
 title: "blockhead.info"
 description: ""
-external_url: "https://blockhead.info"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://blockhead.info)
+

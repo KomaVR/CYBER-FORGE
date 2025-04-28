@@ -1,6 +1,6 @@
 ---
 title: "lint-action"
 description: ""
-external_url: "https://github.com/lint-action"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/lint-action)
+

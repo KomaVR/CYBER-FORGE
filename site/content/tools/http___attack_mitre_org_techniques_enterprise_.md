@@ -1,6 +1,6 @@
 ---
 title: "http://attack.mitre.org/techniques/enterprise/"
 description: "Mitre ATT&CK techniques:"
-external_url: "http://attack.mitre.org/techniques/enterprise/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://attack.mitre.org/techniques/enterprise/)
+

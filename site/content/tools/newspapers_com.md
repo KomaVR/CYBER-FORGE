@@ -1,6 +1,6 @@
 ---
 title: "Newspapers.com"
 description: ""
-external_url: "http://www.newspapers.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.newspapers.com)
+

@@ -1,6 +1,6 @@
 ---
 title: "Google Search"
 description: ""
-external_url: "http://www.google.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.google.com/)
+

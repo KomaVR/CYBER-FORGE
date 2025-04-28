@@ -1,6 +1,6 @@
 ---
 title: "OSINT Amateur Hour"
 description: ""
-external_url: "https://www.secjuice.com/geolocation-osint-amateur-hour/"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://www.secjuice.com/geolocation-osint-amateur-hour/)
+

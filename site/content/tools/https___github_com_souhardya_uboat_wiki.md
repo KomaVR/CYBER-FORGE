@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/Souhardya/UBoat/wiki"
 description: "Follow the wiki at"
-external_url: "https://github.com/Souhardya/UBoat/wiki"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Souhardya/UBoat/wiki)
+

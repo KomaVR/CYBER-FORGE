@@ -1,6 +1,6 @@
 ---
 title: "RecursiveForest"
 description: ""
-external_url: "https://github.com/RecursiveForest"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/RecursiveForest)
+

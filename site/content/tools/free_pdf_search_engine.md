@@ -1,6 +1,6 @@
 ---
 title: "Free PDF Search Engine"
 description: ""
-external_url: "http://www.pdfgeni.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.pdfgeni.com/)
+

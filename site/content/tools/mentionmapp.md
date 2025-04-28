@@ -1,6 +1,6 @@
 ---
 title: "Mentionmapp"
 description: ""
-external_url: "http://mentionmapp.com/"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](http://mentionmapp.com/)
+

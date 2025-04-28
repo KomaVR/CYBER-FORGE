@@ -1,6 +1,6 @@
 ---
 title: "wabzqem"
 description: ""
-external_url: "https://github.com/wabzqem"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/wabzqem)
+

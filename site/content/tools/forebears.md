@@ -1,6 +1,6 @@
 ---
 title: "Forebears"
 description: ""
-external_url: "http://forebears.io/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://forebears.io/)
+

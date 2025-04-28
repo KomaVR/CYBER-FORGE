@@ -1,6 +1,6 @@
 ---
 title: "Eniro"
 description: "(SE)"
-external_url: "http://www.eniro.se/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.eniro.se/)
+

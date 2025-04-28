@@ -1,6 +1,6 @@
 ---
 title: "Eventbrite"
 description: ""
-external_url: "https://www.eventbrite.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.eventbrite.com)
+

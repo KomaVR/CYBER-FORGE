@@ -16,6 +16,6 @@ new option (-vvv) for showing SQL requests sent by ODAT in debugs
 standalone version moved to releases ()
 
 "
-external_url: "https://github.com/quentinhardy/odat/releases/"
-category: "Reverse Engineering"
----
+external_category: "Reverse Engineering"
+---[Visit Website](https://github.com/quentinhardy/odat/releases/)
+

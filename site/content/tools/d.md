@@ -1,6 +1,6 @@
 ---
 title: "D"
 description: ", research.dnstrails.com"
-external_url: "http://whois.icann.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://whois.icann.org)
+

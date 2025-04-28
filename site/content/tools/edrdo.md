@@ -1,6 +1,6 @@
 ---
 title: "edrdo"
 description: ""
-external_url: "https://github.com/edrdo"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/edrdo)
+

@@ -1,6 +1,6 @@
 ---
 title: "lkarlslund"
 description: "Adalanche"
-external_url: "https://github.com/lkarlslund"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/lkarlslund)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://site.ip138.com/"
 description: ""
-external_url: "https://site.ip138.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://site.ip138.com/)
+

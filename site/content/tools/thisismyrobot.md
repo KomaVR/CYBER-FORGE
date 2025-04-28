@@ -1,6 +1,6 @@
 ---
 title: "thisismyrobot"
 description: ""
-external_url: "https://github.com/thisismyrobot"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/thisismyrobot)
+

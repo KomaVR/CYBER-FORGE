@@ -4,6 +4,6 @@ description: "Yandex, be aware that sometimes Russia’s Yandex has better resul
 (
 than Google’s reverse image search,
 yandex.com/images "
-external_url: "https://twitter.com/trbrtc/status/900708029389307904"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://twitter.com/trbrtc/status/900708029389307904)
+

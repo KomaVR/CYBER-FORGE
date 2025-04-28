@@ -1,6 +1,6 @@
 ---
 title: "ivpaste"
 description: ""
-external_url: "https://Ivpaste.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://Ivpaste.com)
+

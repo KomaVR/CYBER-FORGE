@@ -1,6 +1,6 @@
 ---
 title: "WHO Data"
 description: ""
-external_url: "http://www.who.int/gho/en"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.who.int/gho/en)
+

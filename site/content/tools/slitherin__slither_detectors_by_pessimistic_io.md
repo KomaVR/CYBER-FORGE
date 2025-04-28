@@ -1,6 +1,6 @@
 ---
 title: "Slitherin: Slither Detectors by Pessimistic.io"
 description: ""
-external_url: "https://github.com/pessimistic-io/slitherin"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/pessimistic-io/slitherin)
+

@@ -3,6 +3,6 @@ title: "TryHackMe | Madeye's Castle"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/madeyescastle"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/madeyescastle)
+

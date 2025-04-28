@@ -1,6 +1,6 @@
 ---
 title: "Mblocks"
 description: ""
-external_url: "https://moneroblocks.info"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://moneroblocks.info)
+

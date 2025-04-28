@@ -1,6 +1,6 @@
 ---
 title: "https://aide.github.io/"
 description: ""
-external_url: "https://aide.github.io/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://aide.github.io/)
+

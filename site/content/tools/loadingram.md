@@ -1,6 +1,6 @@
 ---
 title: "loadingram"
 description: ""
-external_url: "https://loadingram.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://loadingram.com)
+

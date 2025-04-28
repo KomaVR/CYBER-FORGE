@@ -1,6 +1,6 @@
 ---
 title: "Xiaolu Dai @saragluna"
 description: ""
-external_url: "https://www.github.com/saragluna"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.github.com/saragluna)
+

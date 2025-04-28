@@ -1,6 +1,6 @@
 ---
 title: "srodriguez1357"
 description: "srodriguez1357"
-external_url: "https://github.com/srodriguez1357"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/srodriguez1357)
+

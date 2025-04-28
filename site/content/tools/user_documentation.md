@@ -1,6 +1,6 @@
 ---
 title: "User Documentation"
 description: ""
-external_url: "http://docs.owtf.org/en/latest/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://docs.owtf.org/en/latest/)
+

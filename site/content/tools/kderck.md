@@ -1,6 +1,6 @@
 ---
 title: "kderck"
 description: ""
-external_url: "https://github.com/kderck"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/kderck)
+

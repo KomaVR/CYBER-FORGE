@@ -1,6 +1,6 @@
 ---
 title: "https://wiki.debian.org/GmailAndExim4"
 description: ""
-external_url: "https://wiki.debian.org/GmailAndExim4"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://wiki.debian.org/GmailAndExim4)
+

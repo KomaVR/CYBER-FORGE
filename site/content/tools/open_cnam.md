@@ -1,6 +1,6 @@
 ---
 title: "Open Cnam"
 description: ""
-external_url: "https://www.opencnam.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.opencnam.com/)
+

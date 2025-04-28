@@ -1,6 +1,6 @@
 ---
 title: "Linguee"
 description: ""
-external_url: "http://www.linguee.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.linguee.com/)
+

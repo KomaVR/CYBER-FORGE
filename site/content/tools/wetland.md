@@ -1,6 +1,6 @@
 ---
 title: "Wetland"
 description: "A high interaction SSH honeypot."
-external_url: "https://github.com/ohmyadd/wetland"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ohmyadd/wetland)
+

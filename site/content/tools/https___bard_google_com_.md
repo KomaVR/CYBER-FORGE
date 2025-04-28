@@ -7,6 +7,6 @@ Find the __Secure-1PSID cookie in Application > Storage > Cookies
 Copy the value in the Cookie Value field in .env file.
 
 "
-external_url: "https://bard.google.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://bard.google.com/)
+

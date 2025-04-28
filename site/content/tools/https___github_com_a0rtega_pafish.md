@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/a0rtega/pafish"
 description: "Pafish tool: ."
-external_url: "https://github.com/a0rtega/pafish"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/a0rtega/pafish)
+

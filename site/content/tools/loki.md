@@ -1,6 +1,6 @@
 ---
 title: "Loki"
 description: "Simple IOC and Incident Response Scanner."
-external_url: "https://github.com/Neo23x0/Loki"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://github.com/Neo23x0/Loki)
+

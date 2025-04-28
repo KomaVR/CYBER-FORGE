@@ -1,6 +1,6 @@
 ---
 title: "https://consultafns.saude.gov.br/#/consolidada"
 description: ""
-external_url: "https://consultafns.saude.gov.br/#/consolidada"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://consultafns.saude.gov.br/#/consolidada)
+

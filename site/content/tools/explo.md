@@ -1,6 +1,6 @@
 ---
 title: "Explo"
 description: ""
-external_url: "https://github.com/dtag-dev-sec/explo"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/dtag-dev-sec/explo)
+

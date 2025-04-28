@@ -1,6 +1,6 @@
 ---
 title: "Brownie"
 description: ""
-external_url: "https://eth-brownie.readthedocs.io/en/stable/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://eth-brownie.readthedocs.io/en/stable/)
+

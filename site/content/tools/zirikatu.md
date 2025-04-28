@@ -1,6 +1,6 @@
 ---
 title: "zirikatu"
 description: "Fud Payload generator script."
-external_url: "https://github.com/pasahitz/zirikatu"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://github.com/pasahitz/zirikatu)
+

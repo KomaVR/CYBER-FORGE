@@ -1,6 +1,6 @@
 ---
 title: "imTranslator"
 description: ""
-external_url: "http://imtranslator.net/translation"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://imtranslator.net/translation)
+

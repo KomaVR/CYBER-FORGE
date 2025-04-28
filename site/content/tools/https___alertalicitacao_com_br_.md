@@ -1,6 +1,6 @@
 ---
 title: "https://alertalicitacao.com.br/"
 description: ""
-external_url: "https://alertalicitacao.com.br/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://alertalicitacao.com.br/)
+

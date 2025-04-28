@@ -1,6 +1,6 @@
 ---
 title: "http://www.kitploit.com/"
 description: ""
-external_url: "http://www.kitploit.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.kitploit.com/)
+

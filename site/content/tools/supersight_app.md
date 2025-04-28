@@ -1,6 +1,6 @@
 ---
 title: "supersight.app"
 description: ""
-external_url: "https://supersight.app"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://supersight.app)
+

@@ -1,6 +1,6 @@
 ---
 title: "NeoZ16"
 description: ""
-external_url: "https://github.com/NeoZ16"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/NeoZ16)
+

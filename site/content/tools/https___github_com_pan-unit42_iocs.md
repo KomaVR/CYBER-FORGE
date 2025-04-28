@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/pan-unit42/iocs"
 description: ""
-external_url: "https://github.com/pan-unit42/iocs"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/pan-unit42/iocs)
+

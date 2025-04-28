@@ -1,6 +1,6 @@
 ---
 title: "www.dracos-linux.org"
 description: "Dracos Linux (  )"
-external_url: "http://www.dracos-linux.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.dracos-linux.org)
+

@@ -1,6 +1,6 @@
 ---
 title: "ChainFuzz"
 description: ""
-external_url: "https://github.com/ChainSecurity/ChainFuzz"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ChainSecurity/ChainFuzz)
+

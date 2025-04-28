@@ -1,6 +1,6 @@
 ---
 title: "User Sherlock"
 description: ""
-external_url: "http://www.usersherlock.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.usersherlock.com/)
+

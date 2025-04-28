@@ -1,6 +1,6 @@
 ---
 title: "https://breachinsider.com/honey-buckets/"
 description: ""
-external_url: "https://breachinsider.com/honey-buckets/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://breachinsider.com/honey-buckets/)
+

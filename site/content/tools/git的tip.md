@@ -1,6 +1,6 @@
 ---
 title: "Git的tip"
 description: ""
-external_url: "https://github.com/521xueweihan/git-tips"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/521xueweihan/git-tips)
+

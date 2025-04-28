@@ -1,6 +1,6 @@
 ---
 title: "f-amato"
 description: ""
-external_url: "https://github.com/f-amato"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/f-amato)
+

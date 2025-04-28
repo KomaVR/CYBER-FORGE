@@ -6,6 +6,6 @@ Cyber Threat Intelligence(MITRE ATT&CK and CAPEC)
 
 
 "
-external_url: "https://github.com/mitre/cti"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mitre/cti)
+

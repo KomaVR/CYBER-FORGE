@@ -1,6 +1,6 @@
 ---
 title: "ikedam"
 description: ""
-external_url: "https://github.com/ikedam"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ikedam)
+

@@ -1,6 +1,6 @@
 ---
 title: "TikTok"
 description: ""
-external_url: "https://www.tiktok.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.tiktok.com/)
+

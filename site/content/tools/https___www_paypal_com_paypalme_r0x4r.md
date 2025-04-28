@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://www.paypal.com/paypalme/r0x4r"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.paypal.com/paypalme/r0x4r)
+

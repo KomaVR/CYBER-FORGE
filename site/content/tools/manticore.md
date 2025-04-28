@@ -1,6 +1,6 @@
 ---
 title: "Manticore"
 description: ""
-external_url: "https://github.com/trailofbits/manticore"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/trailofbits/manticore)
+

@@ -1,6 +1,6 @@
 ---
 title: "CanIUse.com"
 description: "Browser support tables for modern web technologies"
-external_url: "https://caniuse.com/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://caniuse.com/)
+

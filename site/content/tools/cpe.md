@@ -1,6 +1,6 @@
 ---
 title: "CPE"
 description: ""
-external_url: "http://cpe.mitre.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://cpe.mitre.org)
+

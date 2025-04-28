@@ -1,6 +1,6 @@
 ---
 title: "pferreir"
 description: ""
-external_url: "https://github.com/pferreir"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/pferreir)
+

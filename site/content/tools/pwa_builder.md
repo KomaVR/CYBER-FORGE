@@ -1,6 +1,6 @@
 ---
 title: "PWA Builder"
 description: ""
-external_url: "https://www.pwabuilder.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.pwabuilder.com/)
+

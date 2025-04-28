@@ -1,6 +1,6 @@
 ---
 title: "NameCheckup"
 description: ""
-external_url: "https://namecheckup.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://namecheckup.com/)
+

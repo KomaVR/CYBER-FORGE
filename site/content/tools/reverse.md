@@ -1,6 +1,6 @@
 ---
 title: "Reverse"
 description: ""
-external_url: "https://audiotrimmer.com/online-mp3-reverser/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://audiotrimmer.com/online-mp3-reverser/)
+

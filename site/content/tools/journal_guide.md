@@ -1,6 +1,6 @@
 ---
 title: "Journal Guide"
 description: ""
-external_url: "https://www.journalguide.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.journalguide.com)
+

@@ -1,6 +1,6 @@
 ---
 title: ".Net 反序列化之 ViewState 利用"
 description: ""
-external_url: "https://paper.seebug.org/1386/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://paper.seebug.org/1386/)
+

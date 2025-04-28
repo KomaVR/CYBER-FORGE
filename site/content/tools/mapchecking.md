@@ -1,6 +1,6 @@
 ---
 title: "MapChecking"
 description: ""
-external_url: "https://www.mapchecking.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.mapchecking.com/)
+

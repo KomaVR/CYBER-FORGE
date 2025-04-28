@@ -1,6 +1,6 @@
 ---
 title: "Boardreader"
 description: ""
-external_url: "http://boardreader.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://boardreader.com)
+

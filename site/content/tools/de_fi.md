@@ -1,6 +1,6 @@
 ---
 title: "de.fi"
 description: ""
-external_url: "https://de.fi"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://de.fi)
+

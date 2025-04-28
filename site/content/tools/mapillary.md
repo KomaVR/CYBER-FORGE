@@ -1,6 +1,6 @@
 ---
 title: "Mapillary"
 description: ""
-external_url: "https://www.mapillary.com/app/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.mapillary.com/app/)
+

@@ -1,6 +1,6 @@
 ---
 title: "angryFuzzer"
 description: "Tools for information gathering."
-external_url: "https://github.com/ihebski/angryFuzzer"
-category: "Grey Hat Tools"
----
+external_category: "Grey Hat Tools"
+---[Visit Website](https://github.com/ihebski/angryFuzzer)
+

@@ -1,6 +1,6 @@
 ---
 title: "Argus-SAF"
 description: "Argus static analysis framework."
-external_url: "http://pag.arguslab.org/argus-saf"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://pag.arguslab.org/argus-saf)
+

@@ -1,6 +1,6 @@
 ---
 title: "forced-request"
 description: ""
-external_url: "https://github.com/forced-request"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/forced-request)
+

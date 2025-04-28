@@ -1,6 +1,6 @@
 ---
 title: "https://thehackingsage.com/hackdroid/apps/privacy"
 description: "Privacy :"
-external_url: "https://thehackingsage.com/hackdroid/apps/privacy"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://thehackingsage.com/hackdroid/apps/privacy)
+

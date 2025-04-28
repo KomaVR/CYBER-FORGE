@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/Audi-1/sqli-labs"
 description: "Sqli-labs:"
-external_url: "https://github.com/Audi-1/sqli-labs"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/Audi-1/sqli-labs)
+

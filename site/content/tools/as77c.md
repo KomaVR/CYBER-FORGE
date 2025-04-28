@@ -1,6 +1,6 @@
 ---
 title: "as77c"
 description: ""
-external_url: "https://github.com/as77c"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/as77c)
+

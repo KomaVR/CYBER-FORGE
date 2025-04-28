@@ -1,6 +1,6 @@
 ---
 title: "Dice"
 description: ""
-external_url: "http://www.dice.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.dice.com)
+

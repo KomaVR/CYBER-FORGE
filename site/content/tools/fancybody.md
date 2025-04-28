@@ -1,6 +1,6 @@
 ---
 title: "fancybody"
 description: ""
-external_url: "https://github.com/fancybody"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/fancybody)
+

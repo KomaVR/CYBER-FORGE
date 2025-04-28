@@ -1,6 +1,6 @@
 ---
 title: "MISP documentation"
 description: ""
-external_url: "https://www.misp-project.org/documentation/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.misp-project.org/documentation/)
+

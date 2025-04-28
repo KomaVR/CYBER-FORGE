@@ -1,6 +1,6 @@
 ---
 title: "Lohita9"
 description: ""
-external_url: "https://github.com/Lohita9"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Lohita9)
+

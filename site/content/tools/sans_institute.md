@@ -1,6 +1,6 @@
 ---
 title: "SANS Institute"
 description: "and SANS DFIR."
-external_url: "http://sans.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://sans.org/)
+

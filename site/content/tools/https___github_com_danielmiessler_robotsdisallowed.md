@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/danielmiessler/RobotsDisallowed"
 description: "danielmiessler"
-external_url: "https://github.com/danielmiessler/RobotsDisallowed"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/danielmiessler/RobotsDisallowed)
+

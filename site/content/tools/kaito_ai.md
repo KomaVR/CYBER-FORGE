@@ -1,6 +1,6 @@
 ---
 title: "kaito.ai"
 description: ""
-external_url: "https://www.kaito.ai"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.kaito.ai)
+

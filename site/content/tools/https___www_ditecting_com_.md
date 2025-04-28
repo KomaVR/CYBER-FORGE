@@ -1,6 +1,6 @@
 ---
 title: "https://www.ditecting.com/"
 description: "Ditecting:"
-external_url: "https://www.ditecting.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ditecting.com/)
+

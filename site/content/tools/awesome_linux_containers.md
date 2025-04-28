@@ -1,6 +1,6 @@
 ---
 title: "Awesome Linux Containers"
 description: "A curated list of awesome Linux Containers frameworks, libraries and software."
-external_url: "https://github.com/Friz-zy/awesome-linux-containers"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Friz-zy/awesome-linux-containers)
+

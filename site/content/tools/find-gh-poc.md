@@ -4,6 +4,6 @@ description: "
 Github
 Search GitHub for repositories with  that mention the CVE ID.
 "
-external_url: "https://github.com/trickest/find-gh-poc"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/trickest/find-gh-poc)
+

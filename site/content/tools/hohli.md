@@ -1,6 +1,6 @@
 ---
 title: "Hohli"
 description: ""
-external_url: "http://charts.hohli.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://charts.hohli.com)
+

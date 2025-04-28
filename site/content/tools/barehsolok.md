@@ -1,6 +1,6 @@
 ---
 title: "BarehSolok"
 description: ""
-external_url: "https://github.com/BarehSolok"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/BarehSolok)
+

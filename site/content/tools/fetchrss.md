@@ -1,6 +1,6 @@
 ---
 title: "FetchRSS"
 description: ""
-external_url: "http://fetchrss.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://fetchrss.com)
+

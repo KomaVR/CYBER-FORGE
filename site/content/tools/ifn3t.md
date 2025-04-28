@@ -1,6 +1,6 @@
 ---
 title: "IFN3T"
 description: ""
-external_url: "https://github.com/IFN3T"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/IFN3T)
+

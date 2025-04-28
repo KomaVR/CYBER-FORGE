@@ -1,6 +1,6 @@
 ---
 title: "France24"
 description: ""
-external_url: "http://www.france24.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.france24.com)
+

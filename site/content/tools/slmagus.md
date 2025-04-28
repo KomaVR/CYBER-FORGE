@@ -1,6 +1,6 @@
 ---
 title: "slmagus"
 description: "slmagus"
-external_url: "https://github.com/slmagus"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/slmagus)
+

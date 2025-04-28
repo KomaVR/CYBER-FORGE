@@ -13,6 +13,6 @@ ironstrings 使用代码模拟执行（flare-emu）, 恢复构造的字符串
 Shellcode Hashes 生成Hash数据库
 
 "
-external_url: "https://github.com/fireeye/flare-ida"
-category: "Password Cracking"
----
+external_category: "Password Cracking"
+---[Visit Website](https://github.com/fireeye/flare-ida)
+

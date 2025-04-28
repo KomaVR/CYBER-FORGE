@@ -1,6 +1,6 @@
 ---
 title: "FindETH"
 description: ""
-external_url: "https://findeth.io"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://findeth.io)
+

@@ -1,6 +1,6 @@
 ---
 title: "arp-scan"
 description: "The ARP Scanner."
-external_url: "https://github.com/royhills/arp-scan"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://github.com/royhills/arp-scan)
+

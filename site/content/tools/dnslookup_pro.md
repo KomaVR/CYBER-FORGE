@@ -1,6 +1,6 @@
 ---
 title: "dnslookup.pro"
 description: "Advanced DNS Record Analysis & Troubleshooting"
-external_url: "https://dnslookup.pro/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://dnslookup.pro/)
+

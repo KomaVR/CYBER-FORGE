@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/zan8in/afrog"
 description: ""
-external_url: "https://github.com/zan8in/afrog"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/zan8in/afrog)
+

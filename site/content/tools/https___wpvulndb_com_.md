@@ -1,6 +1,6 @@
 ---
 title: "https://wpvulndb.com/"
 description: "WPScan Vulnerability Database"
-external_url: "https://wpvulndb.com/"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://wpvulndb.com/)
+

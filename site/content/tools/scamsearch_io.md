@@ -1,6 +1,6 @@
 ---
 title: "scamsearch.io"
 description: "Find your scammer online & report them"
-external_url: "https://scamsearch.io/#anchorCeckNow"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://scamsearch.io/#anchorCeckNow)
+

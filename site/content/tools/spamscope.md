@@ -1,6 +1,6 @@
 ---
 title: "SpamScope"
 description: "Fast Advanced Spam Analysis Tool."
-external_url: "https://github.com/SpamScope/spamscope"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/SpamScope/spamscope)
+

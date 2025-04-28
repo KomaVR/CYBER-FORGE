@@ -1,6 +1,6 @@
 ---
 title: "Windows elevation of privileges ToC"
 description: ""
-external_url: "https://guif.re/windowseop"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://guif.re/windowseop)
+

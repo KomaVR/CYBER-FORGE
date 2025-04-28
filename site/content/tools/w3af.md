@@ -1,6 +1,6 @@
 ---
 title: "W3af"
 description: "Web application attack and audit framework."
-external_url: "http://w3af.org"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://w3af.org)
+

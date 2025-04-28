@@ -5,6 +5,6 @@ description: "Diffie Hellman Key Exchange
 Elliptic Curve Diffie Hellman
 
 "
-external_url: "https://github.com/ashutosh1206/Crypton/tree/master/Diffie-Hellman-Key-Exchange"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ashutosh1206/Crypton/tree/master/Diffie-Hellman-Key-Exchange)
+

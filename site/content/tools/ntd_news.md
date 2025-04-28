@@ -1,6 +1,6 @@
 ---
 title: "NTD News"
 description: ""
-external_url: "https://www.ntd.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ntd.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "claustromaniac"
 description: ""
-external_url: "https://github.com/claustromaniac"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/claustromaniac)
+

@@ -1,6 +1,6 @@
 ---
 title: "StatsCrop"
 description: ""
-external_url: "http://www.statscrop.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.statscrop.com)
+

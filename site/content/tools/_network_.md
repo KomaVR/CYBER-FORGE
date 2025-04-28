@@ -1,6 +1,6 @@
 ---
 title: "[network]"
 description: ""
-external_url: "https://sn0int.readthedocs.io/en/latest/config.html#network"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://sn0int.readthedocs.io/en/latest/config.html#network)
+

@@ -1,6 +1,6 @@
 ---
 title: "Install manually"
 description: ""
-external_url: "https://docs.opencti.io/latest/deployment/installation/#install-manually"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://docs.opencti.io/latest/deployment/installation/#install-manually)
+

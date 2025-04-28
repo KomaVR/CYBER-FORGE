@@ -1,6 +1,6 @@
 ---
 title: "b1rdfree"
 description: ""
-external_url: "https://github.com/b1rdfree"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/b1rdfree)
+

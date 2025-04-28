@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Edge"
 description: ""
-external_url: "https://www.microsoft.com/en-us/windows/microsoft-edge/microsoft-edge"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.microsoft.com/en-us/windows/microsoft-edge/microsoft-edge)
+

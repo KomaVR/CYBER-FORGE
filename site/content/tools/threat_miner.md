@@ -1,6 +1,6 @@
 ---
 title: "Threat Miner"
 description: ""
-external_url: "https://www.threatminer.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.threatminer.org/)
+

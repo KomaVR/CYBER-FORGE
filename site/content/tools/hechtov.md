@@ -1,6 +1,6 @@
 ---
 title: "Hechtov"
 description: ""
-external_url: "https://github.com/Hechtov"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Hechtov)
+

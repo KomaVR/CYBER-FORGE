@@ -1,6 +1,6 @@
 ---
 title: "https://www.ficoupequeno.com/"
 description: ""
-external_url: "https://www.ficoupequeno.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ficoupequeno.com/)
+

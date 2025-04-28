@@ -1,6 +1,6 @@
 ---
 title: "jaredrummler/apkparser"
 description: "[541星][1y] [Java]  APK parser for Android"
-external_url: "https://github.com/jaredrummler/apkparser"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jaredrummler/apkparser)
+

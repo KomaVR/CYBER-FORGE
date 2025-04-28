@@ -1,6 +1,6 @@
 ---
 title: "Kevin W. Wall"
 description: ""
-external_url: "https://github.com/kwwall"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/kwwall)
+

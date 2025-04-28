@@ -1,6 +1,6 @@
 ---
 title: "dmur1"
 description: ""
-external_url: "https://github.com/dmur1"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/dmur1)
+

@@ -1,6 +1,6 @@
 ---
 title: "Deterministic Aperture: A distributed, load balancing algorithm"
 description: ""
-external_url: "https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer)
+

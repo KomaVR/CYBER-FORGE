@@ -1,6 +1,6 @@
 ---
 title: "Research Gate"
 description: ""
-external_url: "http://www.researchgate.net"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.researchgate.net)
+

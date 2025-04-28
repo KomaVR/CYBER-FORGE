@@ -1,6 +1,6 @@
 ---
 title: "OverTheWire - Semtex"
 description: ""
-external_url: "http://overthewire.org/wargames/semtex/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://overthewire.org/wargames/semtex/)
+

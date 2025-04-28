@@ -1,6 +1,6 @@
 ---
 title: "security.snyk.io"
 description: "Open Source Vulnerability Database"
-external_url: "https://security.snyk.io/"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://security.snyk.io/)
+

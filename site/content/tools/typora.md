@@ -1,6 +1,6 @@
 ---
 title: "Typora"
 description: ""
-external_url: "https://www.typora.io/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.typora.io/)
+

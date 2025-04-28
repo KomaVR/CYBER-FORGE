@@ -1,6 +1,6 @@
 ---
 title: "Carnet AI"
 description: ""
-external_url: "https://carnet.ai/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://carnet.ai/)
+

@@ -1,6 +1,6 @@
 ---
 title: "The Privacy, Security, & OSINT Show"
 description: ""
-external_url: "https://inteltechniques.com/podcast.html"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://inteltechniques.com/podcast.html)
+

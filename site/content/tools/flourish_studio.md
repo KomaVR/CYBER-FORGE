@@ -1,6 +1,6 @@
 ---
 title: "flourish.studio"
 description: ""
-external_url: "https://flourish.studio"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://flourish.studio)
+

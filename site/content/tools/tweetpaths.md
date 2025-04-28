@@ -1,6 +1,6 @@
 ---
 title: "Tweetpaths"
 description: ""
-external_url: "http://www.tweetpaths.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.tweetpaths.com/)
+

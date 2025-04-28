@@ -5,6 +5,6 @@ description: "
 kub-env
 
 "
-external_url: "http://metadata.google.internal/computeMetadata/v1beta1/instance/attributes/kube-env?alt=json"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://metadata.google.internal/computeMetadata/v1beta1/instance/attributes/kube-env?alt=json)
+

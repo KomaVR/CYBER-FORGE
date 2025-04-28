@@ -1,6 +1,6 @@
 ---
 title: "ianjuma"
 description: ""
-external_url: "https://github.com/ianjuma"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ianjuma)
+

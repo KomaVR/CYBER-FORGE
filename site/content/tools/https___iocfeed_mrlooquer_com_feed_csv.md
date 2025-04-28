@@ -1,6 +1,6 @@
 ---
 title: "https://iocfeed.mrlooquer.com/feed.csv"
 description: ""
-external_url: "https://iocfeed.mrlooquer.com/feed.csv"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://iocfeed.mrlooquer.com/feed.csv)
+

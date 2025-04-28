@@ -1,6 +1,6 @@
 ---
 title: "D9ping"
 description: ""
-external_url: "https://github.com/D9ping"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/D9ping)
+

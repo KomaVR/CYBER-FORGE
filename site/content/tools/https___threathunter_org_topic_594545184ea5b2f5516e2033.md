@@ -36,6 +36,6 @@ python scripts/port_reuse.py --start --rhost 192.168.204.135 --rport 80
 python scripts/port_reuse.py --stop --rhost 192.168.204.135 --rport 80
 
 "
-external_url: "https://threathunter.org/topic/594545184ea5b2f5516e2033"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://threathunter.org/topic/594545184ea5b2f5516e2033)
+

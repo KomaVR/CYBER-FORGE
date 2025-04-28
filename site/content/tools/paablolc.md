@@ -1,6 +1,6 @@
 ---
 title: "paabloLC"
 description: ""
-external_url: "https://github.com/paabloLC"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/paabloLC)
+

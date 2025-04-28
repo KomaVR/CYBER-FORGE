@@ -1,6 +1,6 @@
 ---
 title: "Feedly"
 description: ""
-external_url: "http://www.feedly.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.feedly.com)
+

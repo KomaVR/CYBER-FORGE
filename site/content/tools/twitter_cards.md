@@ -1,6 +1,6 @@
 ---
 title: "Twitter Cards"
 description: ""
-external_url: "https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards)
+

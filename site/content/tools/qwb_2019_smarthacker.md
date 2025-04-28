@@ -1,6 +1,6 @@
 ---
 title: "qwb_2019_smarthacker"
 description: ""
-external_url: "https://github.com/glzjin/qwb_2019_smarthacker"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/glzjin/qwb_2019_smarthacker)
+

@@ -1,6 +1,6 @@
 ---
 title: "NoPurposeInLife"
 description: ""
-external_url: "https://github.com/NoPurposeInLife"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/NoPurposeInLife)
+

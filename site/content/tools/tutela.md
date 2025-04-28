@@ -1,6 +1,6 @@
 ---
 title: "Tutela"
 description: ""
-external_url: "https://tutela.xyz/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tutela.xyz/)
+

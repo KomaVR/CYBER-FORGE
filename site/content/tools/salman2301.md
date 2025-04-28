@@ -1,6 +1,6 @@
 ---
 title: "Salman2301"
 description: ""
-external_url: "https://github.com/Salman2301"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Salman2301)
+

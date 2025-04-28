@@ -1,6 +1,6 @@
 ---
 title: "Developer-Y"
 description: ""
-external_url: "https://github.com/Developer-Y"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Developer-Y)
+

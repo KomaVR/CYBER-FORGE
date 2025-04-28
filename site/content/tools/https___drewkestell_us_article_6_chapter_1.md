@@ -1,6 +1,6 @@
 ---
 title: "https://drewkestell.us/Article/6/Chapter/1"
 description: "Bloog Bot by Drew Kestell"
-external_url: "https://drewkestell.us/Article/6/Chapter/1"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://drewkestell.us/Article/6/Chapter/1)
+

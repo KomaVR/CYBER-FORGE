@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/xiecat/fofax"
 description: "FofaX:"
-external_url: "https://github.com/xiecat/fofax"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/xiecat/fofax)
+

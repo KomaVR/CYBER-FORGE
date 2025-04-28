@@ -1,6 +1,6 @@
 ---
 title: "CheckURL"
 description: ""
-external_url: "https://github.com/UndeadSec/checkURL"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/UndeadSec/checkURL)
+

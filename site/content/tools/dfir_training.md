@@ -1,6 +1,6 @@
 ---
 title: "dfir.training"
 description: "Database of forensic resources focused on events, tools and more"
-external_url: "https://www.dfir.training/"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://www.dfir.training/)
+

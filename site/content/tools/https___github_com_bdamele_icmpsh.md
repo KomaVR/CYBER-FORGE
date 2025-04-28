@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/bdamele/icmpsh"
 description: "icmpsh: l"
-external_url: "https://github.com/bdamele/icmpsh"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/bdamele/icmpsh)
+

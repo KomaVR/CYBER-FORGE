@@ -1,6 +1,6 @@
 ---
 title: "Marine Vessel Traffic"
 description: ""
-external_url: "https://www.marinevesseltraffic.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.marinevesseltraffic.com/)
+

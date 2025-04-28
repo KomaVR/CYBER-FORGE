@@ -3,6 +3,6 @@ title: "Detailed Mimikatz Guide"
 description: "
 
 "
-external_url: "https://adsecurity.org/?page_id=1821"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://adsecurity.org/?page_id=1821)
+

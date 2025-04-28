@@ -1,6 +1,6 @@
 ---
 title: "NoSuck"
 description: ""
-external_url: "https://github.com/NoSuck"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/NoSuck)
+

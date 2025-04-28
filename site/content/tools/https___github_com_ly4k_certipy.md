@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/ly4k/Certipy"
 description: "Certipy:"
-external_url: "https://github.com/ly4k/Certipy"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ly4k/Certipy)
+

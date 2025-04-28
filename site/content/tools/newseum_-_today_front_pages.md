@@ -1,6 +1,6 @@
 ---
 title: "Newseum - Today Front Pages"
 description: ""
-external_url: "http://www.newseum.org/todaysfrontpages"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.newseum.org/todaysfrontpages)
+

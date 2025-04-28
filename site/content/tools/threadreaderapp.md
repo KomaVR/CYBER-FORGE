@@ -1,6 +1,6 @@
 ---
 title: "threadreaderapp"
 description: ""
-external_url: "https://threadreaderapp.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://threadreaderapp.com/)
+

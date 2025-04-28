@@ -1,6 +1,6 @@
 ---
 title: "Tgram.io"
 description: ""
-external_url: "https://tgram.io/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tgram.io/)
+

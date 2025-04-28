@@ -2,6 +2,6 @@
 title: "aarontp"
 description: "aarontp
 Aaron Peterson"
-external_url: "https://github.com/aarontp"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/aarontp)
+

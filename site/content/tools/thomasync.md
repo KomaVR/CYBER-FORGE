@@ -1,6 +1,6 @@
 ---
 title: "thomasync"
 description: ""
-external_url: "https://github.com/thomasync"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/thomasync)
+

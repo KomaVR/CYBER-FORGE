@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/fatedier/frp"
 description: "frp:"
-external_url: "https://github.com/fatedier/frp"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/fatedier/frp)
+

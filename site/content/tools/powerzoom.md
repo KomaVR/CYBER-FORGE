@@ -1,6 +1,6 @@
 ---
 title: "PowerZoom"
 description: ""
-external_url: "http://www.exploit4arab.org/exploits/399"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.exploit4arab.org/exploits/399)
+

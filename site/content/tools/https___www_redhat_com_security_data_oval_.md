@@ -1,6 +1,6 @@
 ---
 title: "https://www.redhat.com/security/data/oval/"
 description: "RedHat RHSAs:"
-external_url: "https://www.redhat.com/security/data/oval/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.redhat.com/security/data/oval/)
+

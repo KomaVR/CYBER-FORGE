@@ -1,6 +1,6 @@
 ---
 title: "AP"
 description: ""
-external_url: "http://hosted.ap.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://hosted.ap.org)
+

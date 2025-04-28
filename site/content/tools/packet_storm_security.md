@@ -1,6 +1,6 @@
 ---
 title: "Packet Storm Security"
 description: ""
-external_url: "http://packetstormsecurity.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://packetstormsecurity.org/)
+

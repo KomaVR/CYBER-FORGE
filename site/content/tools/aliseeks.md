@@ -1,6 +1,6 @@
 ---
 title: "Aliseeks"
 description: ""
-external_url: "https://www.aliseeks.com/search"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.aliseeks.com/search)
+

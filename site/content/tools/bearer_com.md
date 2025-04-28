@@ -1,6 +1,6 @@
 ---
 title: "Bearer.com"
 description: "Find out more at "
-external_url: "https://www.bearer.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.bearer.com)
+

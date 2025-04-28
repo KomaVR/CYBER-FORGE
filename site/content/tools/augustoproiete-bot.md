@@ -1,6 +1,6 @@
 ---
 title: "augustoproiete-bot"
 description: ""
-external_url: "https://github.com/augustoproiete-bot"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/augustoproiete-bot)
+

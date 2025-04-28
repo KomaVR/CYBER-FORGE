@@ -1,6 +1,6 @@
 ---
 title: "Grey Guide"
 description: ""
-external_url: "http://greyguide.isti.cnr.it"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://greyguide.isti.cnr.it)
+

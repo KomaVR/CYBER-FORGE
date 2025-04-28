@@ -1,6 +1,6 @@
 ---
 title: "SmallSEOTools"
 description: ""
-external_url: "http://smallseotools.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://smallseotools.com)
+

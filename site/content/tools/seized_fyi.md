@@ -1,6 +1,6 @@
 ---
 title: "seized.fyi"
 description: "List of seized websites"
-external_url: "https://seized.fyi/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://seized.fyi/)
+

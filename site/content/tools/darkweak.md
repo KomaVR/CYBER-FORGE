@@ -1,6 +1,6 @@
 ---
 title: "darkweak"
 description: "darkweak"
-external_url: "https://github.com/darkweak"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/darkweak)
+

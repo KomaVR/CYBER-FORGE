@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/INotGreen/SharpScan"
 description: "SharpScan:"
-external_url: "https://github.com/INotGreen/SharpScan"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/INotGreen/SharpScan)
+

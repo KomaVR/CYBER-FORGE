@@ -1,6 +1,6 @@
 ---
 title: "rcordovano"
 description: ""
-external_url: "https://github.com/rcordovano"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/rcordovano)
+

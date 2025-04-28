@@ -1,6 +1,6 @@
 ---
 title: "Jonathan Giles @jonathanGiles"
 description: ""
-external_url: "https://www.github.com/jonathanGiles"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.github.com/jonathanGiles)
+

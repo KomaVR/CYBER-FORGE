@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/extremecoders-re/pyinstxtractor"
 description: "exe->pyc"
-external_url: "https://github.com/extremecoders-re/pyinstxtractor"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/extremecoders-re/pyinstxtractor)
+

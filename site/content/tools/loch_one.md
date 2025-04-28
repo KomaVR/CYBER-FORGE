@@ -1,6 +1,6 @@
 ---
 title: "loch.one"
 description: ""
-external_url: "https://app.loch.one/welcome"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://app.loch.one/welcome)
+

@@ -3,6 +3,6 @@ title: "https://github.com/lewiswu1209/fingerprint"
 description: "
 
 "
-external_url: "https://github.com/lewiswu1209/fingerprint"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/lewiswu1209/fingerprint)
+

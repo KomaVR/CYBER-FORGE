@@ -1,6 +1,6 @@
 ---
 title: "dbd"
 description: "Durandal's Backdoor."
-external_url: "https://github.com/gitdurandal/dbd"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/gitdurandal/dbd)
+

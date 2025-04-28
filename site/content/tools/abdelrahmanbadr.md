@@ -1,6 +1,6 @@
 ---
 title: "abdelrahmanbadr"
 description: ""
-external_url: "https://github.com/abdelrahmanbadr"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/abdelrahmanbadr)
+

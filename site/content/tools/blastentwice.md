@@ -1,6 +1,6 @@
 ---
 title: "blastentwice"
 description: ""
-external_url: "https://github.com/blastentwice"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/blastentwice)
+

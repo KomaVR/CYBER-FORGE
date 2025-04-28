@@ -1,6 +1,6 @@
 ---
 title: "About anti-debug tricks"
 description: "🌎"
-external_url: "https://anti-debug.checkpoint.com"
-category: "Reverse Engineering"
----
+external_category: "Reverse Engineering"
+---[Visit Website](https://anti-debug.checkpoint.com)
+

@@ -1,6 +1,6 @@
 ---
 title: "Terra pattern"
 description: ""
-external_url: "http://www.terrapattern.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.terrapattern.com/)
+

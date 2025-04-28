@@ -1,6 +1,6 @@
 ---
 title: "International Energy Agency Statistics"
 description: ""
-external_url: "http://www.iea.org/statistics"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.iea.org/statistics)
+

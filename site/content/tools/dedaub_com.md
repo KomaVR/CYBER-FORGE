@@ -1,6 +1,6 @@
 ---
 title: "dedaub.com"
 description: ""
-external_url: "https://dedaub.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://dedaub.com)
+

@@ -1,6 +1,6 @@
 ---
 title: "reduckted"
 description: ""
-external_url: "https://github.com/reduckted"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/reduckted)
+

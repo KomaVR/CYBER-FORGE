@@ -1,6 +1,6 @@
 ---
 title: "pxplan：lv sec收集归纳的POC"
 description: ""
-external_url: "https://github.com/GREENHAT7/pxplan"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/GREENHAT7/pxplan)
+

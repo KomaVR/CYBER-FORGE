@@ -1,6 +1,6 @@
 ---
 title: "BitCrack"
 description: ""
-external_url: "https://github.com/brichard19/BitCrack"
-category: "Password Cracking"
----
+external_category: "Password Cracking"
+---[Visit Website](https://github.com/brichard19/BitCrack)
+

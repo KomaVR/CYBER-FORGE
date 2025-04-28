@@ -1,6 +1,6 @@
 ---
 title: "4plebs"
 description: ""
-external_url: "http://archive.4plebs.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://archive.4plebs.org/)
+

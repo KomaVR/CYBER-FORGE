@@ -1,6 +1,6 @@
 ---
 title: "Twitter Search Tool - Search For Tweets"
 description: ""
-external_url: "http://searchfortweets1.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://searchfortweets1.com/)
+

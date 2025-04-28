@@ -1,6 +1,6 @@
 ---
 title: "Academic Journals"
 description: ""
-external_url: "http://www.academicjournals.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.academicjournals.org)
+

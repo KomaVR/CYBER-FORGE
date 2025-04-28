@@ -1,6 +1,6 @@
 ---
 title: "publicarray"
 description: ""
-external_url: "https://github.com/publicarray"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/publicarray)
+

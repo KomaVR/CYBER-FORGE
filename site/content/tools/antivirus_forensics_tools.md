@@ -1,6 +1,6 @@
 ---
 title: "Antivirus Forensics Tools"
 description: "2012.03 [hackingarticles]"
-external_url: "http://www.hackingarticles.in/antivirus-forensics-tools/"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](http://www.hackingarticles.in/antivirus-forensics-tools/)
+

@@ -6,6 +6,6 @@ Good overall, but great pwn practice
 I'm currently working on putting writeups here
 
 "
-external_url: "https://ctf.hackucf.org/challenges"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://ctf.hackucf.org/challenges)
+

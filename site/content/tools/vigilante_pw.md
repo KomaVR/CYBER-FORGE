@@ -1,6 +1,6 @@
 ---
 title: "Vigilante.pw"
 description: ""
-external_url: "https://vigilante.pw/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://vigilante.pw/)
+

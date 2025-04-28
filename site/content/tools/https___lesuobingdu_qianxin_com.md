@@ -1,6 +1,6 @@
 ---
 title: "https://lesuobingdu.qianxin.com"
 description: "奇安信:"
-external_url: "https://lesuobingdu.qianxin.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://lesuobingdu.qianxin.com)
+

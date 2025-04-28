@@ -1,6 +1,6 @@
 ---
 title: "Yandex Wordstat"
 description: ""
-external_url: "https://wordstat.yandex.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://wordstat.yandex.com)
+

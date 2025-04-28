@@ -9,6 +9,6 @@ input[name=csrf][value^=\"2e\"]{background: url(http://kaibro.tw/2e)}
 
 
 "
-external_url: "https://github.com/w181496/CTF/tree/master/seccon2018-qual/GhostKingdom"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/w181496/CTF/tree/master/seccon2018-qual/GhostKingdom)
+

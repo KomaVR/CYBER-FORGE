@@ -1,6 +1,6 @@
 ---
 title: "secHub"
 description: "Python Security/Hacking Kit."
-external_url: "https://github.com/cys3c/secHub"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/cys3c/secHub)
+

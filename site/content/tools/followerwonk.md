@@ -1,6 +1,6 @@
 ---
 title: "Followerwonk"
 description: ""
-external_url: "http://followerwonk.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://followerwonk.com/)
+

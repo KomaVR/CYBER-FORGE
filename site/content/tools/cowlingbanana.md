@@ -1,6 +1,6 @@
 ---
 title: "CowlingBanana"
 description: ""
-external_url: "https://github.com/CowlingBanana"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/CowlingBanana)
+

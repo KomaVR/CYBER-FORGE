@@ -1,6 +1,6 @@
 ---
 title: "Telegram"
 description: ""
-external_url: "https://t.me/rizinorg"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://t.me/rizinorg)
+

@@ -1,6 +1,6 @@
 ---
 title: "Page Cached"
 description: ""
-external_url: "https://pagecached.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://pagecached.com/)
+

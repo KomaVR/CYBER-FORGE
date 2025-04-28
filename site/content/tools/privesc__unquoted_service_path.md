@@ -1,6 +1,6 @@
 ---
 title: "PrivEsc: Unquoted Service Path"
 description: ""
-external_url: "https://web.archive.org/web/20210731080629/https://gracefulsecurity.com/privesc-unquoted-service-path/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://web.archive.org/web/20210731080629/https://gracefulsecurity.com/privesc-unquoted-service-path/)
+

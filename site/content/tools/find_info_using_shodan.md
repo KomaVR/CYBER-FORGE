@@ -1,6 +1,6 @@
 ---
 title: "Find Info Using Shodan"
 description: ""
-external_url: "https://github.com/m4ll0k/Shodanfy.py"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://github.com/m4ll0k/Shodanfy.py)
+

@@ -1,6 +1,6 @@
 ---
 title: "Skimagram"
 description: "Search engine for Instagram"
-external_url: "https://skimagram.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://skimagram.com/)
+

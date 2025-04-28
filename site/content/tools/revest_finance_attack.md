@@ -1,6 +1,6 @@
 ---
 title: "Revest Finance attack"
 description: "27 March 2022 | Victim contract, Exploit contract, Exploit transaction"
-external_url: "https://slowmist.medium.com/revest-finance-incident-analysis-6fcd9b6be207"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://slowmist.medium.com/revest-finance-incident-analysis-6fcd9b6be207)
+

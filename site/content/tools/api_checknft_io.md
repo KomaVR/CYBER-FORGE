@@ -1,6 +1,6 @@
 ---
 title: "api.checknft.io"
 description: ""
-external_url: "https://api.checknft.io/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://api.checknft.io/)
+

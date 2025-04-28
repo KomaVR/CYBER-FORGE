@@ -1,6 +1,6 @@
 ---
 title: "himanshudabas"
 description: ""
-external_url: "https://github.com/himanshudabas"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/himanshudabas)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://metacpan.org/pod/Mac::iTunes::Library::Parse"
 description: ""
-external_url: "https://metacpan.org/pod/Mac::iTunes::Library::Parse"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://metacpan.org/pod/Mac::iTunes::Library::Parse)
+

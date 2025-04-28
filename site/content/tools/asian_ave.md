@@ -1,6 +1,6 @@
 ---
 title: "Asian Ave"
 description: ""
-external_url: "http://www.asianave.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.asianave.com)
+

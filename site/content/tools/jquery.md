@@ -1,6 +1,6 @@
 ---
 title: "JQuery"
 description: ""
-external_url: "http://jquery.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://jquery.com/)
+

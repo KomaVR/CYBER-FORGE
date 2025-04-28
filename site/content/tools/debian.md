@@ -1,6 +1,6 @@
 ---
 title: "Debian"
 description: ""
-external_url: "https://www.debian.org/security/oval/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.debian.org/security/oval/)
+

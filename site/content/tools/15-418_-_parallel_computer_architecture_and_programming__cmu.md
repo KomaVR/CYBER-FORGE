@@ -10,6 +10,6 @@ Parallel Computing - IIT Delhi
 Parallel Architectures 2012/13- University of Edinburgh
 
 "
-external_url: "http://15418.courses.cs.cmu.edu/spring2015/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://15418.courses.cs.cmu.edu/spring2015/)
+

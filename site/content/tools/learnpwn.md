@@ -5,6 +5,6 @@ description: "For this one, I suggest looking at my  repo instead, as this cheat
 However, I have included some notes amending to what I have here.
 
 "
-external_url: "https://github.com/Adamkadaban/LearnPwn"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Adamkadaban/LearnPwn)
+

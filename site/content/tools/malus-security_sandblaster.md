@@ -1,6 +1,6 @@
 ---
 title: "malus-security/sandblaster"
 description: ""
-external_url: "https://github.com/malus-security/sandblaster"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/malus-security/sandblaster)
+

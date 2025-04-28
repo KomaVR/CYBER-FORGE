@@ -2,6 +2,6 @@
 title: "Srinivas11789"
 description: "Srinivas11789
 Srinivas P G"
-external_url: "https://github.com/Srinivas11789"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Srinivas11789)
+

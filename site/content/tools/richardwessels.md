@@ -2,6 +2,6 @@
 title: "RichardWessels"
 description: "RichardWessels
 Richard Wessels"
-external_url: "https://github.com/RichardWessels"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/RichardWessels)
+

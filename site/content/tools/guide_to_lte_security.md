@@ -1,6 +1,6 @@
 ---
 title: "Guide to LTE Security"
 description: ""
-external_url: "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-187.pdf"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-187.pdf)
+

@@ -1,6 +1,6 @@
 ---
 title: "wereii"
 description: ""
-external_url: "https://github.com/wereii"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/wereii)
+

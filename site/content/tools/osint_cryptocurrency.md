@@ -1,6 +1,6 @@
 ---
 title: "OSINT cryptocurrency"
 description: ""
-external_url: "https://www.advisor-bm.com/post/osint-cryptocurrency-2022"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://www.advisor-bm.com/post/osint-cryptocurrency-2022)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/gophish/gophish"
 description: "gophish:  open-source phishing toolkit"
-external_url: "https://github.com/gophish/gophish"
-category: "Social Engineering"
----
+external_category: "Social Engineering"
+---[Visit Website](https://github.com/gophish/gophish)
+

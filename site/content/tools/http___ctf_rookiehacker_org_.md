@@ -1,6 +1,6 @@
 ---
 title: "http://ctf.rookiehacker.org/"
 description: ""
-external_url: "http://ctf.rookiehacker.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://ctf.rookiehacker.org/)
+

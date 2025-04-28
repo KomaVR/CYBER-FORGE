@@ -3,6 +3,6 @@ title: "TryHackMe | Fortress"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/fortress"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/fortress)
+

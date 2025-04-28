@@ -1,6 +1,6 @@
 ---
 title: "secretnodes.com"
 description: ""
-external_url: "https://secretnodes.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://secretnodes.com)
+

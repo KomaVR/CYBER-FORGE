@@ -1,6 +1,6 @@
 ---
 title: "Hsiang-Chih"
 description: ""
-external_url: "https://github.com/Hsiang-Chih"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Hsiang-Chih)
+

@@ -1,6 +1,6 @@
 ---
 title: "brightio"
 description: ""
-external_url: "https://github.com/brightio"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/brightio)
+

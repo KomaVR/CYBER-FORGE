@@ -1,6 +1,6 @@
 ---
 title: "ChatSearchRobot"
 description: ""
-external_url: "https://tgdev.io/bot/chatsearchrobot"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tgdev.io/bot/chatsearchrobot)
+

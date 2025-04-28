@@ -1,6 +1,6 @@
 ---
 title: "przydatek"
 description: ""
-external_url: "https://github.com/przydatek"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/przydatek)
+

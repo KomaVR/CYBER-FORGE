@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/shack2/Struts2VulsTools"
 description: "Struts2VulsTools:"
-external_url: "https://github.com/shack2/Struts2VulsTools"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/shack2/Struts2VulsTools)
+

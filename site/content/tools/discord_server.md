@@ -1,6 +1,6 @@
 ---
 title: "Discord server"
 description: ""
-external_url: "https://discord.gg/9tDyxYS"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://discord.gg/9tDyxYS)
+

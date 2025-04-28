@@ -1,6 +1,6 @@
 ---
 title: "lucyoa"
 description: ""
-external_url: "https://github.com/lucyoa"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/lucyoa)
+

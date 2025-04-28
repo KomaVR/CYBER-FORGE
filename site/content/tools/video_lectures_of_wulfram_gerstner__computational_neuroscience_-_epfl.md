@@ -1,6 +1,6 @@
 ---
 title: "Video Lectures of Wulfram Gerstner: Computational Neuroscience - EPFL"
 description: ""
-external_url: "http://lcn.epfl.ch/~gerstner/VideoLecturesGerstner.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://lcn.epfl.ch/~gerstner/VideoLecturesGerstner.html)
+

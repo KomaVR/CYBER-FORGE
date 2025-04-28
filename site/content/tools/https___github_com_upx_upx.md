@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/upx/upx"
 description: "UPX:"
-external_url: "https://github.com/upx/upx"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/upx/upx)
+

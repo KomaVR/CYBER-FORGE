@@ -1,6 +1,6 @@
 ---
 title: "TelegramBox"
 description: ""
-external_url: "https://tgbox.pro/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tgbox.pro/)
+

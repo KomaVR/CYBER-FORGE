@@ -1,6 +1,6 @@
 ---
 title: "Smart Contract Hash Matcher"
 description: ""
-external_url: "https://github.com/lpinilla/Smart-Contract-Hash-Matcher"
-category: "Password Cracking"
----
+external_category: "Password Cracking"
+---[Visit Website](https://github.com/lpinilla/Smart-Contract-Hash-Matcher)
+

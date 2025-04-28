@@ -1,6 +1,6 @@
 ---
 title: "devstein"
 description: ""
-external_url: "https://github.com/devstein"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/devstein)
+

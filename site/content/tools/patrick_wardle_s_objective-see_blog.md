@@ -1,6 +1,6 @@
 ---
 title: "Patrick Wardle's Objective-See blog"
 description: ""
-external_url: "https://objective-see.com/blog.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://objective-see.com/blog.html)
+

@@ -1,6 +1,6 @@
 ---
 title: "Dune SQL"
 description: ""
-external_url: "https://dune.com/blog/introducing-dune-sql"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://dune.com/blog/introducing-dune-sql)
+

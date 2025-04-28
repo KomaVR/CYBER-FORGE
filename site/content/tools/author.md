@@ -1,6 +1,6 @@
 ---
 title: "Author"
 description: ""
-external_url: "https://github.com/stuxnet999/MemLabs#author-bust_in_silhouette"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/stuxnet999/MemLabs#author-bust_in_silhouette)
+

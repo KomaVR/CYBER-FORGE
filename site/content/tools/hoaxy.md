@@ -1,6 +1,6 @@
 ---
 title: "Hoaxy"
 description: ""
-external_url: "https://hoaxy.iuni.iu.edu/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://hoaxy.iuni.iu.edu/)
+

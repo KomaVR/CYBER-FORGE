@@ -1,6 +1,6 @@
 ---
 title: "mireado"
 description: ""
-external_url: "https://github.com/mireado"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mireado)
+

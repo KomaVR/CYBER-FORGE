@@ -3,6 +3,6 @@ title: "https://twitter.com/ptswarm/status/1323266632920256512"
 description: "
 
 "
-external_url: "https://twitter.com/ptswarm/status/1323266632920256512"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://twitter.com/ptswarm/status/1323266632920256512)
+

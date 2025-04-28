@@ -3,6 +3,6 @@ title: "TryHackMe | Introductory Networking"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/introtonetworking"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://tryhackme.com/room/introtonetworking)
+

@@ -1,6 +1,6 @@
 ---
 title: "Trends24"
 description: ""
-external_url: "http://trends24.in"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://trends24.in)
+

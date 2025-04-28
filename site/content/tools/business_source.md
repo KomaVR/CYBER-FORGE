@@ -1,6 +1,6 @@
 ---
 title: "Business Source"
 description: ""
-external_url: "https://www.ebscohost.com/academic/business-source-complete"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ebscohost.com/academic/business-source-complete)
+

@@ -1,6 +1,6 @@
 ---
 title: "pd0wm"
 description: ""
-external_url: "https://github.com/pd0wm"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/pd0wm)
+

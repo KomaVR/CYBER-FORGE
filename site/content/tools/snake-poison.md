@@ -1,6 +1,6 @@
 ---
 title: "snake-poison"
 description: ""
-external_url: "https://github.com/snake-poison"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/snake-poison)
+

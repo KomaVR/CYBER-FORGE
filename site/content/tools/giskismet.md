@@ -1,6 +1,6 @@
 ---
 title: "giskismet"
 description: "Wireless recon visualization tool."
-external_url: "https://github.com/xtr4nge/giskismet"
-category: "Wireless Hacking"
----
+external_category: "Wireless Hacking"
+---[Visit Website](https://github.com/xtr4nge/giskismet)
+

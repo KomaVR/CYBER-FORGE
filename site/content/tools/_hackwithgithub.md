@@ -1,6 +1,6 @@
 ---
 title: "@HackwithGithub"
 description: "Twitter :"
-external_url: "https://twitter.com/HackwithGithub"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://twitter.com/HackwithGithub)
+

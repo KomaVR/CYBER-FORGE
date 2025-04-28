@@ -1,6 +1,6 @@
 ---
 title: "xtexx"
 description: ""
-external_url: "https://github.com/xtexx"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/xtexx)
+

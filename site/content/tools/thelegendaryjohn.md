@@ -1,6 +1,6 @@
 ---
 title: "thelegendaryjohn"
 description: ""
-external_url: "https://github.com/thelegendaryjohn"
-category: "Password Cracking"
----
+external_category: "Password Cracking"
+---[Visit Website](https://github.com/thelegendaryjohn)
+

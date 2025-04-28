@@ -3,6 +3,6 @@ title: "windows10相关漏洞EXP&POC"
 description: "
 
 "
-external_url: "https://github.com/nu11secur1ty/Windows10Exploits"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/nu11secur1ty/Windows10Exploits)
+

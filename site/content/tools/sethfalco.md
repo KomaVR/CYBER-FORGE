@@ -1,6 +1,6 @@
 ---
 title: "SethFalco"
 description: ""
-external_url: "https://github.com/SethFalco"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/SethFalco)
+

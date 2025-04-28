@@ -1,6 +1,6 @@
 ---
 title: "https://en.wikipedia.org/wiki/Network_Time_Protocol"
 description: ""
-external_url: "https://en.wikipedia.org/wiki/Network_Time_Protocol"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://en.wikipedia.org/wiki/Network_Time_Protocol)
+

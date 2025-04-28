@@ -1,6 +1,6 @@
 ---
 title: "https://servicos.dpf.gov.br/antecedentes-criminais/certidao"
 description: ""
-external_url: "https://servicos.dpf.gov.br/antecedentes-criminais/certidao"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://servicos.dpf.gov.br/antecedentes-criminais/certidao)
+

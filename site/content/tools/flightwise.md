@@ -1,6 +1,6 @@
 ---
 title: "Flightwise"
 description: ""
-external_url: "http://flightwise.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://flightwise.com/)
+

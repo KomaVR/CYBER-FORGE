@@ -1,6 +1,6 @@
 ---
 title: "coinbase/dexter"
 description: "[88星][6m] [Go]  Forensics acquisition framework designed to be extensible and secure"
-external_url: "https://github.com/coinbase/dexter"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://github.com/coinbase/dexter)
+

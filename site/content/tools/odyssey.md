@@ -1,6 +1,6 @@
 ---
 title: "Odyssey"
 description: ""
-external_url: "https://theodyssey.dev/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://theodyssey.dev/)
+

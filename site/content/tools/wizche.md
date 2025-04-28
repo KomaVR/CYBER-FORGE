@@ -1,6 +1,6 @@
 ---
 title: "wizche"
 description: ""
-external_url: "https://github.com/wizche"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/wizche)
+

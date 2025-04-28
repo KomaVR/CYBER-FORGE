@@ -1,6 +1,6 @@
 ---
 title: "IdiomaX Translation"
 description: ""
-external_url: "http://www.idiomax.com/online-translator.aspx"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.idiomax.com/online-translator.aspx)
+

@@ -1,6 +1,6 @@
 ---
 title: "uniwhales.io"
 description: ""
-external_url: "https://uniwhales.io"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://uniwhales.io)
+

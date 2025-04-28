@@ -1,6 +1,6 @@
 ---
 title: "Najdsi"
 description: "(SL)"
-external_url: "http://www.najdi.si/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.najdi.si/)
+

@@ -1,6 +1,6 @@
 ---
 title: "dguido"
 description: ""
-external_url: "https://github.com/dguido"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/dguido)
+

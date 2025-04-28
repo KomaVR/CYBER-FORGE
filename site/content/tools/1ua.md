@@ -1,6 +1,6 @@
 ---
 title: "1ua"
 description: ""
-external_url: "http://1ua.com.ua"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://1ua.com.ua)
+

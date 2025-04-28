@@ -1,6 +1,6 @@
 ---
 title: "infinitewarp"
 description: ""
-external_url: "https://github.com/infinitewarp"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/infinitewarp)
+

@@ -2,6 +2,6 @@
 title: "harikirank"
 description: "harikirank
 Hari Kiran"
-external_url: "https://github.com/harikirank"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/harikirank)
+

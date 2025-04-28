@@ -1,6 +1,6 @@
 ---
 title: "y-mehta"
 description: ""
-external_url: "https://github.com/y-mehta"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/y-mehta)
+

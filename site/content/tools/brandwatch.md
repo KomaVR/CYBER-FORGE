@@ -1,6 +1,6 @@
 ---
 title: "Brandwatch"
 description: ""
-external_url: "https://www.brandwatch.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.brandwatch.com)
+

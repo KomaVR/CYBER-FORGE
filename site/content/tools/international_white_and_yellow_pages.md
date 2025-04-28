@@ -1,6 +1,6 @@
 ---
 title: "International White and Yellow Pages"
 description: ""
-external_url: "http://www.wayp.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.wayp.com/)
+

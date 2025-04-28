@@ -1,6 +1,6 @@
 ---
 title: "http://sh3ll.me/"
 description: ""
-external_url: "http://sh3ll.me/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://sh3ll.me/)
+

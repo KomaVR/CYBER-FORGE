@@ -1,6 +1,6 @@
 ---
 title: "redr0n19"
 description: ""
-external_url: "https://github.com/redr0n19"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/redr0n19)
+

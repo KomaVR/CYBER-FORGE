@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/SaturnsVoid/GoBot"
 description: ""
-external_url: "https://github.com/SaturnsVoid/GoBot"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/SaturnsVoid/GoBot)
+

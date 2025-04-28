@@ -1,6 +1,6 @@
 ---
 title: "Naver (South Korea)"
 description: ""
-external_url: "http://www.naver.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.naver.com)
+

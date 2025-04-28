@@ -1,6 +1,6 @@
 ---
 title: "iZito"
 description: ""
-external_url: "http://www.izito.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.izito.com/)
+

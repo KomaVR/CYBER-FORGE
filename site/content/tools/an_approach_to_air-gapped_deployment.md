@@ -1,6 +1,6 @@
 ---
 title: "An approach to air-gapped deployment"
 description: ""
-external_url: "https://www.osti.gov/servlets/purl/1367293"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.osti.gov/servlets/purl/1367293)
+

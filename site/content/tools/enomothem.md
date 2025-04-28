@@ -2,6 +2,6 @@
 title: "enomothem"
 description: "enomothem
 伊诺"
-external_url: "https://github.com/enomothem"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/enomothem)
+

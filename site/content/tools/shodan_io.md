@@ -1,6 +1,6 @@
 ---
 title: "Shodan.io"
 description: ""
-external_url: "https://account.shodan.io/register"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://account.shodan.io/register)
+

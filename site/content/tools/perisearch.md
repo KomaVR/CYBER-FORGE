@@ -1,6 +1,6 @@
 ---
 title: "Perisearch"
 description: ""
-external_url: "https://www.perisearch.xyz/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.perisearch.xyz/)
+

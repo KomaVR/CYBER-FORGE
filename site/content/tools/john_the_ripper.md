@@ -1,6 +1,6 @@
 ---
 title: "John the Ripper"
 description: "Password cracker"
-external_url: "https://www.openwall.com/john/"
-category: "Password Cracking"
----
+external_category: "Password Cracking"
+---[Visit Website](https://www.openwall.com/john/)
+

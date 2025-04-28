@@ -1,6 +1,6 @@
 ---
 title: "SocialScan | Username or Email"
 description: ""
-external_url: "https://github.com/iojw/socialscan"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/iojw/socialscan)
+

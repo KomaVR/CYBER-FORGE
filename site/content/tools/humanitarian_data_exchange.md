@@ -1,6 +1,6 @@
 ---
 title: "Humanitarian Data Exchange"
 description: ""
-external_url: "https://data.humdata.org/organization/facebook"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://data.humdata.org/organization/facebook)
+

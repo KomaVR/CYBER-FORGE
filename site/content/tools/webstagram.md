@@ -1,6 +1,6 @@
 ---
 title: "Webstagram"
 description: "Instagram Search Account Instagram Web Viewer"
-external_url: "https://webstagram.org/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://webstagram.org/)
+

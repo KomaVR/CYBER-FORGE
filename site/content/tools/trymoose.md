@@ -1,6 +1,6 @@
 ---
 title: "trymoose"
 description: ""
-external_url: "https://github.com/trymoose"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/trymoose)
+

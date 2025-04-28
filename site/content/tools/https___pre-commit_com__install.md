@@ -3,6 +3,6 @@ title: "https://pre-commit.com/#install"
 description: "
 Install pre-commit from 
 "
-external_url: "https://pre-commit.com/#install"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://pre-commit.com/#install)
+

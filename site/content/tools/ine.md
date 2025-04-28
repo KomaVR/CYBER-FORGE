@@ -1,6 +1,6 @@
 ---
 title: "INE"
 description: "Practical Hands-on Online IT Training and Certifications"
-external_url: "https://ine.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://ine.com/)
+

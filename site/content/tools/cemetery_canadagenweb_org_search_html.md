@@ -1,6 +1,6 @@
 ---
 title: "cemetery.canadagenweb.org/search.html"
 description: ""
-external_url: "http://cemetery.canadagenweb.org/search.html"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://cemetery.canadagenweb.org/search.html)
+

@@ -1,6 +1,6 @@
 ---
 title: "mokrunka"
 description: ""
-external_url: "https://github.com/mokrunka"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mokrunka)
+

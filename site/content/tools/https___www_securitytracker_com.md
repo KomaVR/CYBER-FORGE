@@ -1,6 +1,6 @@
 ---
 title: "https://www.securitytracker.com"
 description: "securitytracker.csv -  (end-of-life)"
-external_url: "https://www.securitytracker.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.securitytracker.com)
+

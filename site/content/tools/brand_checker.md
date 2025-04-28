@@ -1,6 +1,6 @@
 ---
 title: "Brand Checker"
 description: ""
-external_url: "https://brandchecker.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://brandchecker.com/)
+

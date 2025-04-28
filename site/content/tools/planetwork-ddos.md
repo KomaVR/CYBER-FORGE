@@ -1,6 +1,6 @@
 ---
 title: "Planetwork-DDOS"
 description: "No description provided"
-external_url: "https://github.com/Hydra7/Planetwork-DDOS"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://github.com/Hydra7/Planetwork-DDOS)
+

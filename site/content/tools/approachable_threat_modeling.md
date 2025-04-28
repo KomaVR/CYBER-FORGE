@@ -1,6 +1,6 @@
 ---
 title: "Approachable threat modeling"
 description: ""
-external_url: "https://increment.com/security/approachable-threat-modeling/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://increment.com/security/approachable-threat-modeling/)
+

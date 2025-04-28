@@ -3,6 +3,6 @@ title: "Spamhaus"
 description: "
  - Lookup Reputation Checker.
 "
-external_url: "https://check.spamhaus.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://check.spamhaus.org/)
+

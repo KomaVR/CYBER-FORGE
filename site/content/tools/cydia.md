@@ -1,6 +1,6 @@
 ---
 title: "Cydia"
 description: ""
-external_url: "https://cydia.saurik.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://cydia.saurik.com)
+

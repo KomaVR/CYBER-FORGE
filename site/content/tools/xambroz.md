@@ -1,6 +1,6 @@
 ---
 title: "xambroz"
 description: ""
-external_url: "https://github.com/xambroz"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/xambroz)
+

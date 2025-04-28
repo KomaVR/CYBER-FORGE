@@ -1,6 +1,6 @@
 ---
 title: "CVFox"
 description: ""
-external_url: "http://www.cvfox.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.cvfox.com)
+

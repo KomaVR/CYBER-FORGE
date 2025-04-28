@@ -1,6 +1,6 @@
 ---
 title: "sqlmate"
 description: "A friend of SQLmap which will do what you always expected from SQLmap.."
-external_url: "https://github.com/s0md3v/sqlmate"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/s0md3v/sqlmate)
+

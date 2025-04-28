@@ -1,6 +1,6 @@
 ---
 title: "soPDF.com"
 description: ""
-external_url: "http://www.sopdf.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.sopdf.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Pew Research Center"
 description: ""
-external_url: "http://www.pewinternet.org/datasets"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.pewinternet.org/datasets)
+

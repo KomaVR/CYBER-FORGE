@@ -1,6 +1,6 @@
 ---
 title: "omache"
 description: ""
-external_url: "https://github.com/omache"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/omache)
+

@@ -6,6 +6,6 @@ description: "
 Unpixelate text
 
 "
-external_url: "https://github.com/beurtschipper/Depix"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/beurtschipper/Depix)
+

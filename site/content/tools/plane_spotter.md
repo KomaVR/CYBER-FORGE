@@ -1,6 +1,6 @@
 ---
 title: "Plane Spotter"
 description: ""
-external_url: "https://www.planespotters.net/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.planespotters.net/)
+

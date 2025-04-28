@@ -1,6 +1,6 @@
 ---
 title: "Your Navigation"
 description: ""
-external_url: "http://yournavigation.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://yournavigation.org/)
+

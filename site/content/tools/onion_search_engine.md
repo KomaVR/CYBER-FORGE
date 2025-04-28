@@ -1,6 +1,6 @@
 ---
 title: "Onion Search Engine"
 description: ""
-external_url: "https://onionsearchengine.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://onionsearchengine.com/)
+

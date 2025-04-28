@@ -1,6 +1,6 @@
 ---
 title: "GlobalExperts"
 description: ""
-external_url: "http://www.theglobalexperts.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.theglobalexperts.org)
+

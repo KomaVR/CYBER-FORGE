@@ -3,6 +3,6 @@ title: "Human Hacking – Chris Hadnagy"
 description: "
 
 "
-external_url: "https://humanhackingbook.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://humanhackingbook.com/)
+

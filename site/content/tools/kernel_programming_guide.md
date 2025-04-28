@@ -7,6 +7,6 @@ IOKit Fundamentals
 Virtual Memory System
 
 "
-external_url: "https://developer.apple.com/library/content/documentation/Darwin/Conceptual/KernelProgramming"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://developer.apple.com/library/content/documentation/Darwin/Conceptual/KernelProgramming)
+

@@ -1,6 +1,6 @@
 ---
 title: "qb-auto"
 description: ""
-external_url: "https://github.com/qb-auto"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/qb-auto)
+

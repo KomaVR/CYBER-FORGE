@@ -1,6 +1,6 @@
 ---
 title: "Broken Browser"
 description: "Fun with Browser Vulnerabilities."
-external_url: "https://www.brokenbrowser.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.brokenbrowser.com/)
+

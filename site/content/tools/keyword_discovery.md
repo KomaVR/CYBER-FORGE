@@ -1,6 +1,6 @@
 ---
 title: "Keyword Discovery"
 description: ""
-external_url: "http://www.keyworddiscovery.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.keyworddiscovery.com)
+

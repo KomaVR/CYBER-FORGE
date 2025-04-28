@@ -1,6 +1,6 @@
 ---
 title: "0xscope.com"
 description: ""
-external_url: "https://0xscope.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://0xscope.com)
+

@@ -1,6 +1,6 @@
 ---
 title: "liorazi"
 description: ""
-external_url: "https://github.com/liorazi"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/liorazi)
+

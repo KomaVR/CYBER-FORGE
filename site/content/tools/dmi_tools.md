@@ -1,6 +1,6 @@
 ---
 title: "DMI Tools"
 description: ""
-external_url: "https://wiki.digitalmethods.net/Dmi/ToolDatabase"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://wiki.digitalmethods.net/Dmi/ToolDatabase)
+

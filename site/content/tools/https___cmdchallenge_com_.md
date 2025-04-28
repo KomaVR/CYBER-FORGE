@@ -1,6 +1,6 @@
 ---
 title: "https://cmdchallenge.com/"
 description: ""
-external_url: "https://cmdchallenge.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://cmdchallenge.com/)
+

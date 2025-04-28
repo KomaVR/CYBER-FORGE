@@ -3,6 +3,6 @@ title: "Learning Resources"
 description: "
 
 "
-external_url: "https://netmaker.io/blog"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://netmaker.io/blog)
+

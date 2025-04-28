@@ -1,6 +1,6 @@
 ---
 title: "funnelfiasco"
 description: ""
-external_url: "https://github.com/funnelfiasco"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/funnelfiasco)
+

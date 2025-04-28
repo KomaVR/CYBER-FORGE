@@ -1,6 +1,6 @@
 ---
 title: "Pybelt"
 description: "The hackers tool belt."
-external_url: "https://github.com/Ekultek/Pybelt"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Ekultek/Pybelt)
+

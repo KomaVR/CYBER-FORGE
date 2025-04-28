@@ -1,6 +1,6 @@
 ---
 title: "Archive-Bot"
 description: ""
-external_url: "https://github.com/Nukesor/archivebot"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Nukesor/archivebot)
+

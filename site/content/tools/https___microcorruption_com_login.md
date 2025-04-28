@@ -1,6 +1,6 @@
 ---
 title: "https://microcorruption.com/login"
 description: ""
-external_url: "https://microcorruption.com/login"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://microcorruption.com/login)
+

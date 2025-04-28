@@ -3,6 +3,6 @@ title: "Netmaker + Traefik Proxy"
 description: "
 
 "
-external_url: "https://github.com/bsherman/netmaker-traefik"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/bsherman/netmaker-traefik)
+

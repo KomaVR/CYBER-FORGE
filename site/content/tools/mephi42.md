@@ -1,6 +1,6 @@
 ---
 title: "mephi42"
 description: ""
-external_url: "https://github.com/mephi42"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mephi42)
+

@@ -1,6 +1,6 @@
 ---
 title: "Global Container Shipping Platform | Container Tracking, Ocean Schedules"
 description: ""
-external_url: "https://shipsgo.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://shipsgo.com/)
+

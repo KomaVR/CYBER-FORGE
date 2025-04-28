@@ -1,6 +1,6 @@
 ---
 title: "TimmyOVO"
 description: ""
-external_url: "https://github.com/TimmyOVO"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/TimmyOVO)
+

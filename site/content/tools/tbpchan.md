@@ -1,6 +1,6 @@
 ---
 title: "tbpchan"
 description: ""
-external_url: "https://tbpchan.net"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tbpchan.net)
+

@@ -12,6 +12,6 @@ john .txt
 
 
 "
-external_url: "https://jwt.io/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://jwt.io/)
+

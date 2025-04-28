@@ -1,6 +1,6 @@
 ---
 title: "OSIF"
 description: "Open Source Information Facebook."
-external_url: "https://github.com/CiKu370/OSIF"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/CiKu370/OSIF)
+

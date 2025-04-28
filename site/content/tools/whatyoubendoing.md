@@ -1,6 +1,6 @@
 ---
 title: "whatyoubendoing"
 description: ""
-external_url: "https://github.com/whatyoubendoing"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/whatyoubendoing)
+

@@ -1,6 +1,6 @@
 ---
 title: "DanielAsher"
 description: ""
-external_url: "https://github.com/DanielAsher"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/DanielAsher)
+

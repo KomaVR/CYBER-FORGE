@@ -1,6 +1,6 @@
 ---
 title: "OWASP Bricks"
 description: ""
-external_url: "http://sechow.com/bricks/download.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://sechow.com/bricks/download.html)
+

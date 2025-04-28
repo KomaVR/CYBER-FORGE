@@ -1,6 +1,6 @@
 ---
 title: "vxcute"
 description: ""
-external_url: "https://github.com/vxcute"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/vxcute)
+

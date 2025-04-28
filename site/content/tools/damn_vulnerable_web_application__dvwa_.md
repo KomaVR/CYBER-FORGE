@@ -1,6 +1,6 @@
 ---
 title: "Damn Vulnerable Web Application (DVWA)"
 description: ""
-external_url: "https://github.com/ethicalhack3r/DVWA"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/ethicalhack3r/DVWA)
+

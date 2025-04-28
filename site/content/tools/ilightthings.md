@@ -1,6 +1,6 @@
 ---
 title: "ILightThings"
 description: ""
-external_url: "https://github.com/ILightThings"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ILightThings)
+

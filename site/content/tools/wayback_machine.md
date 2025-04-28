@@ -1,6 +1,6 @@
 ---
 title: "Wayback Machine"
 description: ": Internet Archive"
-external_url: "http://web.archive.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://web.archive.org/)
+

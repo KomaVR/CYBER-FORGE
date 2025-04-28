@@ -1,6 +1,6 @@
 ---
 title: "Python"
 description: ""
-external_url: "https://lief.re/doc/latest/installation.html#python"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://lief.re/doc/latest/installation.html#python)
+

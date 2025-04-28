@@ -1,6 +1,6 @@
 ---
 title: "https://leadscloud.github.io/serp-analyzer/"
 description: "serp-analyzer:  show domain/IP"
-external_url: "https://leadscloud.github.io/serp-analyzer/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://leadscloud.github.io/serp-analyzer/)
+

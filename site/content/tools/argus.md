@@ -1,6 +1,6 @@
 ---
 title: "Argus"
 description: ""
-external_url: "http://qosient.com/argus/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://qosient.com/argus/)
+

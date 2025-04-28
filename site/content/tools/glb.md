@@ -1,6 +1,6 @@
 ---
 title: "glb"
 description: ""
-external_url: "https://github.com/glb"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/glb)
+

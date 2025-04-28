@@ -2,6 +2,6 @@
 title: "Partners"
 description: "
 "
-external_url: "https://partner.github.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://partner.github.com)
+

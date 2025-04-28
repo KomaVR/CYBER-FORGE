@@ -1,6 +1,6 @@
 ---
 title: "Cybervaca"
 description: ", (founder). Twitter (X): @CyberVaca_"
-external_url: "https://github.com/cybervaca"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/cybervaca)
+

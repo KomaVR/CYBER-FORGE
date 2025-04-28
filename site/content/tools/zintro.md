@@ -1,6 +1,6 @@
 ---
 title: "Zintro"
 description: ""
-external_url: "https://www.zintro.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.zintro.com)
+

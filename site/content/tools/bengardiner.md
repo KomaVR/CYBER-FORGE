@@ -1,6 +1,6 @@
 ---
 title: "BenGardiner"
 description: ""
-external_url: "https://github.com/BenGardiner"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/BenGardiner)
+

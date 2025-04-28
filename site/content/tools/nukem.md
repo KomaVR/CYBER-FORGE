@@ -1,6 +1,6 @@
 ---
 title: "Nukem"
 description: ""
-external_url: "https://github.com/Nukem9"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Nukem9)
+

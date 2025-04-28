@@ -1,6 +1,6 @@
 ---
 title: "EggShell"
 description: "iOS/macOS/Linux Remote Administration Tool."
-external_url: "https://github.com/neoneggplant/EggShell"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/neoneggplant/EggShell)
+

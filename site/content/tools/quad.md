@@ -1,6 +1,6 @@
 ---
 title: "quad"
 description: ""
-external_url: "https://github.com/quad"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/quad)
+

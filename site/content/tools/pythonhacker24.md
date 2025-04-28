@@ -1,6 +1,6 @@
 ---
 title: "PythonHacker24"
 description: ""
-external_url: "https://github.com/PythonHacker24"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/PythonHacker24)
+

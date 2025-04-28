@@ -1,6 +1,6 @@
 ---
 title: "Parsero"
 description: "| Robots.txt audit tool."
-external_url: "https://github.com/behindthefirewalls/Parsero"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/behindthefirewalls/Parsero)
+

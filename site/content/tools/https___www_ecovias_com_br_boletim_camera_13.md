@@ -5,6 +5,6 @@ description: "ANCHIETA TREVO DA VOLKSWAGEM
 
 
 "
-external_url: "https://www.ecovias.com.br/boletim/camera/13"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ecovias.com.br/boletim/camera/13)
+

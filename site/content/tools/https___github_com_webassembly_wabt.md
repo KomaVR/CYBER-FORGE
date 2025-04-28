@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/WebAssembly/wabt"
 description: ""
-external_url: "https://github.com/WebAssembly/wabt"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/WebAssembly/wabt)
+

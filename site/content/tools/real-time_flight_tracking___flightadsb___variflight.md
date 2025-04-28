@@ -1,6 +1,6 @@
 ---
 title: "real-time flight tracking | Flightadsb | VariFlight"
 description: ""
-external_url: "http://flightadsb.variflight.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://flightadsb.variflight.com/)
+

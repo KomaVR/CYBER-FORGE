@@ -1,6 +1,6 @@
 ---
 title: "Building Secure & Reliable Systems"
 description: "📔"
-external_url: "https://amzn.to/4gty0yV"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://amzn.to/4gty0yV)
+

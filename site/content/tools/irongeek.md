@@ -1,6 +1,6 @@
 ---
 title: "IronGeek"
 description: ""
-external_url: "http://www.irongeek.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.irongeek.com/)
+

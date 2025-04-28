@@ -9,6 +9,6 @@ description: "
 7.3 - all versions to date
 
 "
-external_url: "https://github.com/mm0r1/exploits/tree/master/php7-gc-bypass"
-category: "Grey Hat Tools"
----
+external_category: "Grey Hat Tools"
+---[Visit Website](https://github.com/mm0r1/exploits/tree/master/php7-gc-bypass)
+

@@ -1,6 +1,6 @@
 ---
 title: "Vehicle History Reports"
 description: ""
-external_url: "https://www.faxvin.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.faxvin.com/)
+

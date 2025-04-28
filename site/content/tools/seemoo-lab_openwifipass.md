@@ -5,6 +5,6 @@ description: "Apple Wi-Fi Password Sharing
 
 
 "
-external_url: "https://github.com/seemoo-lab/openwifipass"
-category: "Wireless Hacking"
----
+external_category: "Wireless Hacking"
+---[Visit Website](https://github.com/seemoo-lab/openwifipass)
+

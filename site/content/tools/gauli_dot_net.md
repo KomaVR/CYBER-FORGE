@@ -1,6 +1,6 @@
 ---
 title: "Gauli(dot)Net"
 description: "Lab Penetration"
-external_url: "https://gauli.net/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://gauli.net/)
+

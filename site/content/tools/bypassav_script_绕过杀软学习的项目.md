@@ -1,6 +1,6 @@
 ---
 title: "BypassAV_Script：绕过杀软学习的项目"
 description: ""
-external_url: "https://github.com/komomon/BypassAV_Script"
-category: "Grey Hat Tools"
----
+external_category: "Grey Hat Tools"
+---[Visit Website](https://github.com/komomon/BypassAV_Script)
+

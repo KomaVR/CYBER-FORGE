@@ -1,6 +1,6 @@
 ---
 title: "Crt.sh"
 description: ": Domain certificate Search"
-external_url: "https://crt.sh/?a=1"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://crt.sh/?a=1)
+

@@ -1,6 +1,6 @@
 ---
 title: "Clip Blast"
 description: ""
-external_url: "http://www.clipblast.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.clipblast.com)
+

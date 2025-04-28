@@ -3,6 +3,6 @@ title: "DCSC"
 description: "
 
 "
-external_url: "https://www.defensie.nl/onderwerpen/cyber-security/dcsc"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.defensie.nl/onderwerpen/cyber-security/dcsc)
+

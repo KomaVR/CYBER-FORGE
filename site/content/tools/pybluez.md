@@ -1,6 +1,6 @@
 ---
 title: "pybluez"
 description: "Bluetooth Python extension module."
-external_url: "https://github.com/karulis/pybluez"
-category: "Wireless Hacking"
----
+external_category: "Wireless Hacking"
+---[Visit Website](https://github.com/karulis/pybluez)
+

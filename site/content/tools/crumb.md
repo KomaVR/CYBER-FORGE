@@ -1,6 +1,6 @@
 ---
 title: "crumb"
 description: "CSRF  generation and validation for hapi."
-external_url: "https://github.com/hapijs/crumb"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/hapijs/crumb)
+

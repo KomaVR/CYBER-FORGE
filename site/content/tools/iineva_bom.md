@@ -5,6 +5,6 @@ description: "NeXT / Apple \"Bill of Materials\" / pkg / bom
 
 
 "
-external_url: "https://github.com/iineva/bom"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/iineva/bom)
+

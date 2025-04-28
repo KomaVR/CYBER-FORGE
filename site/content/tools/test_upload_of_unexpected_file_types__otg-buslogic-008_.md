@@ -7,6 +7,6 @@ Secured File Upload
 Test Upload of Malicious Files (OTG-BUSLOGIC-009)
 
 "
-external_url: "https://github.com/Voorivex/pentest-guide/tree/master/Secured-File-Upload"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Voorivex/pentest-guide/tree/master/Secured-File-Upload)
+

@@ -1,6 +1,6 @@
 ---
 title: "spinningbluebird"
 description: ""
-external_url: "https://github.com/spinningbluebird"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/spinningbluebird)
+

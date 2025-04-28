@@ -6,6 +6,6 @@ Web Application Assessment
 
 
 "
-external_url: "https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets)
+

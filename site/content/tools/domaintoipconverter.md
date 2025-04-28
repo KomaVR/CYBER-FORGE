@@ -1,6 +1,6 @@
 ---
 title: "Domaintoipconverter"
 description: ": Bulk domain to IP converter"
-external_url: "http://domaintoipconverter.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://domaintoipconverter.com/)
+

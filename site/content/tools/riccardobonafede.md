@@ -1,6 +1,6 @@
 ---
 title: "RiccardoBonafede"
 description: ""
-external_url: "https://github.com/RiccardoBonafede"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/RiccardoBonafede)
+

@@ -13,6 +13,6 @@ https://github.com/assetnote/wordlists
 https://github.com/rapid7/metasploit-framework/tree/master/data/wordlists
 
 "
-external_url: "https://github.com/danielmiessler/SecLists"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/danielmiessler/SecLists)
+

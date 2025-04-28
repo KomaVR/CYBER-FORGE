@@ -1,6 +1,6 @@
 ---
 title: "POChouse：POC&EXP仓库、hvv弹药库、Nday、1day"
 description: ""
-external_url: "https://github.com/DawnFlame/POChouse"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/DawnFlame/POChouse)
+

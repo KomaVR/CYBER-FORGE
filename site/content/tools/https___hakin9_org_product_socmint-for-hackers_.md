@@ -6,6 +6,6 @@ Hakin9 Magazine
 
 
 "
-external_url: "https://hakin9.org/product/socmint-for-hackers/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://hakin9.org/product/socmint-for-hackers/)
+

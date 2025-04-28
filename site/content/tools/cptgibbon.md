@@ -1,6 +1,6 @@
 ---
 title: "CptGibbon"
 description: ""
-external_url: "https://github.com/CptGibbon"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/CptGibbon)
+

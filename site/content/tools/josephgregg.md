@@ -1,6 +1,6 @@
 ---
 title: "JosephGregg"
 description: ""
-external_url: "https://github.com/JosephGregg"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/JosephGregg)
+

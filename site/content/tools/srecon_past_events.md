@@ -1,6 +1,6 @@
 ---
 title: "SRECon Past Events"
 description: ""
-external_url: "https://www.usenix.org/srecon#past"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://www.usenix.org/srecon#past)
+

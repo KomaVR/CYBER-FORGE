@@ -1,6 +1,6 @@
 ---
 title: "iCloud security and privacy overview"
 description: ""
-external_url: "https://support.apple.com/102651"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://support.apple.com/102651)
+

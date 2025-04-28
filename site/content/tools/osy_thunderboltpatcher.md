@@ -1,6 +1,6 @@
 ---
 title: "osy/ThunderboltPatcher"
 description: ""
-external_url: "https://github.com/osy/ThunderboltPatcher"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/osy/ThunderboltPatcher)
+

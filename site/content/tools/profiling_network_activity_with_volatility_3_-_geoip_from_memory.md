@@ -1,6 +1,6 @@
 ---
 title: "Profiling Network Activity with Volatility 3 - GeoIP from Memory"
 description: ""
-external_url: "https://www.youtube.com/watch?v=egv63oso8Qc"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://www.youtube.com/watch?v=egv63oso8Qc)
+

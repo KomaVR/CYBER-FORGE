@@ -6,6 +6,6 @@ Link to the proceedings:
 Link to the paper: paper6.pdf
 
 "
-external_url: "https://ceur-ws.org/Vol-3260/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://ceur-ws.org/Vol-3260/)
+

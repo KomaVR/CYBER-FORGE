@@ -1,6 +1,6 @@
 ---
 title: "profihost"
 description: "profihost"
-external_url: "https://github.com/profihost"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/profihost)
+

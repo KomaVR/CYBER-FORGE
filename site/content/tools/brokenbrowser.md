@@ -22,6 +22,6 @@ https://www.brokenbrowser.com/css-history-leak/
 https://www.brokenbrowser.com/grabdatafrominput/
 
 "
-external_url: "https://www.brokenbrowser.com"
-category: "Grey Hat Tools"
----
+external_category: "Grey Hat Tools"
+---[Visit Website](https://www.brokenbrowser.com)
+

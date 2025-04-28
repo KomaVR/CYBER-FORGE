@@ -1,6 +1,6 @@
 ---
 title: "Opera"
 description: ""
-external_url: "http://www.opera.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.opera.com)
+

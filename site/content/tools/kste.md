@@ -1,6 +1,6 @@
 ---
 title: "kste"
 description: ""
-external_url: "https://github.com/kste"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/kste)
+

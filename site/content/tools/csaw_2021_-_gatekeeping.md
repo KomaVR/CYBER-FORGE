@@ -106,6 +106,6 @@ Example: SecurityFest CTF 2022 - tunnelvision
 ref: https://github.com/GrrrDog/weird_proxies/tree/master
 
 "
-external_url: "https://lebr0nli.github.io/blog/security/nginx-gunicorn-CSAW2021/#exploit"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://lebr0nli.github.io/blog/security/nginx-gunicorn-CSAW2021/#exploit)
+

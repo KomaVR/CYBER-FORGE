@@ -8,6 +8,6 @@ https://who.is/
 https://www.whoxy.com/
 
 "
-external_url: "https://whois.chinaz.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://whois.chinaz.com/)
+

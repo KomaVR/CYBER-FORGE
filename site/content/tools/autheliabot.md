@@ -1,6 +1,6 @@
 ---
 title: "autheliabot"
 description: ""
-external_url: "https://github.com/autheliabot"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/autheliabot)
+

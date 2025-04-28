@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Academic"
 description: ""
-external_url: "http://academic.research.microsoft.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://academic.research.microsoft.com)
+

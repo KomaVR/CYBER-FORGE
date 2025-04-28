@@ -2,6 +2,6 @@
 title: "adysec"
 description: "adysec
 AdySec"
-external_url: "https://github.com/adysec"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/adysec)
+

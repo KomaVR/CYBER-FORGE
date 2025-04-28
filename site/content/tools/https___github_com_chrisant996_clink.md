@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/chrisant996/clink"
 description: "command line enhancement for cmd.exe"
-external_url: "https://github.com/chrisant996/clink"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/chrisant996/clink)
+

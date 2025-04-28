@@ -1,6 +1,6 @@
 ---
 title: "Twitonomy"
 description: ""
-external_url: "http://www.twitonomy.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.twitonomy.com/)
+

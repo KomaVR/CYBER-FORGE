@@ -1,6 +1,6 @@
 ---
 title: "Virtual Radar"
 description: ""
-external_url: "https://radar.freedar.uk/VirtualRadar/desktop.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://radar.freedar.uk/VirtualRadar/desktop.html)
+

@@ -1,6 +1,6 @@
 ---
 title: "gpxlnx"
 description: ""
-external_url: "https://github.com/gpxlnx"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/gpxlnx)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/dushixiang/evil-mysql-server"
 description: ""
-external_url: "https://github.com/dushixiang/evil-mysql-server"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://github.com/dushixiang/evil-mysql-server)
+

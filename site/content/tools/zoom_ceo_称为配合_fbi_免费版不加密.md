@@ -11,6 +11,6 @@ Zoom漏洞：超 50 万个 Zoom 账户泄露并在 Dark Web 出售
 
 
 "
-external_url: "https://www.solidot.org/story?sid=64555"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://www.solidot.org/story?sid=64555)
+

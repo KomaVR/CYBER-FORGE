@@ -1,6 +1,6 @@
 ---
 title: "Interlock"
 description: ""
-external_url: "https://www.interlock.network/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.interlock.network/)
+

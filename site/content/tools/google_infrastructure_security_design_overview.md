@@ -1,6 +1,6 @@
 ---
 title: "Google Infrastructure Security Design Overview"
 description: ""
-external_url: "https://cloud.google.com/security/infrastructure/design"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://cloud.google.com/security/infrastructure/design)
+

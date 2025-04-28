@@ -1,6 +1,6 @@
 ---
 title: "VK to RSS Appspot"
 description: ""
-external_url: "http://vk-to-rss.appspot.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://vk-to-rss.appspot.com/)
+

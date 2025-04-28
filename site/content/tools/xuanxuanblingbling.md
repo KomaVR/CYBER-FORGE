@@ -1,6 +1,6 @@
 ---
 title: "xuanxuanblingbling"
 description: ""
-external_url: "https://github.com/xuanxuanblingbling"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/xuanxuanblingbling)
+

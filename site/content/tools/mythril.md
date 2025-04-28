@@ -1,6 +1,6 @@
 ---
 title: "Mythril"
 description: ""
-external_url: "https://github.com/ConsenSys/mythril"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ConsenSys/mythril)
+

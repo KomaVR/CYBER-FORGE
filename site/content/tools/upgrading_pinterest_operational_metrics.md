@@ -1,6 +1,6 @@
 ---
 title: "Upgrading Pinterest operational metrics"
 description: ""
-external_url: "https://medium.com/pinterest-engineering/upgrading-pinterest-operational-metrics-8718d058079a"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://medium.com/pinterest-engineering/upgrading-pinterest-operational-metrics-8718d058079a)
+

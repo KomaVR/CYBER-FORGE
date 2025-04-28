@@ -1,6 +1,6 @@
 ---
 title: "RFC-8446 - TLS"
 description: ""
-external_url: "https://tools.ietf.org/html/rfc8446"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tools.ietf.org/html/rfc8446)
+

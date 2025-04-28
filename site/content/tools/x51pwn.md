@@ -1,6 +1,6 @@
 ---
 title: "x51pwn"
 description: "x51pwn"
-external_url: "https://github.com/x51pwn"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/x51pwn)
+

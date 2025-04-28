@@ -1,6 +1,6 @@
 ---
 title: "Forensic challenges"
 description: "Mindmap of forensic challenges"
-external_url: "https://www.amanhardikar.com/mindmaps/ForensicChallenges.html"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://www.amanhardikar.com/mindmaps/ForensicChallenges.html)
+

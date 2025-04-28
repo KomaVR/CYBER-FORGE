@@ -1,6 +1,6 @@
 ---
 title: "ret2libc"
 description: ""
-external_url: "https://github.com/ret2libc"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ret2libc)
+

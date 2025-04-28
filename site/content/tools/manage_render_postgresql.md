@@ -1,6 +1,6 @@
 ---
 title: "Manage render PostgreSQL"
 description: ""
-external_url: "https://www.bytebase.com/docs/how-to/integrations/render"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://www.bytebase.com/docs/how-to/integrations/render)
+

@@ -1,6 +1,6 @@
 ---
 title: "detectify-cves"
 description: ""
-external_url: "https://github.com/gwen001/detectify-cves"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/gwen001/detectify-cves)
+

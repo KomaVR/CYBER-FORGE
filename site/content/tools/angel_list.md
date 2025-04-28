@@ -1,6 +1,6 @@
 ---
 title: "Angel List"
 description: ""
-external_url: "https://angel.co"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://angel.co)
+

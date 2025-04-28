@@ -1,6 +1,6 @@
 ---
 title: "FusionCharts"
 description: ""
-external_url: "http://www.fusioncharts.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.fusioncharts.com)
+

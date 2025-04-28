@@ -1,6 +1,6 @@
 ---
 title: "SPARTA"
 description: "Network Infrastructure Penetration Testing Tool."
-external_url: "http://sparta.secforce.com"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](http://sparta.secforce.com)
+

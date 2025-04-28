@@ -1,6 +1,6 @@
 ---
 title: "Scamdex"
 description: ""
-external_url: "http://www.scamdex.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.scamdex.com)
+

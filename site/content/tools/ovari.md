@@ -1,6 +1,6 @@
 ---
 title: "ovari"
 description: ""
-external_url: "https://github.com/ovari"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ovari)
+

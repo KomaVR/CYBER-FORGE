@@ -1,6 +1,6 @@
 ---
 title: "ZIION VM"
 description: ""
-external_url: "https://www.ziion.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ziion.org/)
+

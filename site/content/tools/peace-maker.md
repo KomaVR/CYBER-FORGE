@@ -1,6 +1,6 @@
 ---
 title: "peace-maker"
 description: ""
-external_url: "https://github.com/peace-maker"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/peace-maker)
+

@@ -1,6 +1,6 @@
 ---
 title: "alfonso-cabrera"
 description: ""
-external_url: "https://github.com/alfonso-cabrera"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/alfonso-cabrera)
+

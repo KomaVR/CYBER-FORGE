@@ -1,6 +1,6 @@
 ---
 title: "GraphyStories"
 description: ""
-external_url: "http://app.graphystories.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://app.graphystories.com)
+

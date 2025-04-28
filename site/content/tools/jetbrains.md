@@ -1,6 +1,6 @@
 ---
 title: "JetBrains"
 description: "for free PyCharm license!"
-external_url: "https://www.jetbrains.com/opensource/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.jetbrains.com/opensource/)
+

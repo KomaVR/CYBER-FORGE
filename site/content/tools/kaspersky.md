@@ -1,6 +1,6 @@
 ---
 title: "Kaspersky"
 description: ", for initially funding this project"
-external_url: "https://kaspersky.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://kaspersky.com)
+

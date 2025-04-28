@@ -1,6 +1,6 @@
 ---
 title: "i-shivamsoni"
 description: ""
-external_url: "https://github.com/i-shivamsoni"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/i-shivamsoni)
+

@@ -1,6 +1,6 @@
 ---
 title: "hiddeco"
 description: ""
-external_url: "https://github.com/hiddeco"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/hiddeco)
+

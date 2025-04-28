@@ -1,6 +1,6 @@
 ---
 title: "Missing Persons Australia"
 description: ""
-external_url: "https://missingpersons.gov.au/view-all-profiles"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://missingpersons.gov.au/view-all-profiles)
+

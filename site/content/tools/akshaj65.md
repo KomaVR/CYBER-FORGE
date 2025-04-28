@@ -1,6 +1,6 @@
 ---
 title: "akshaj65"
 description: ""
-external_url: "https://github.com/akshaj65"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/akshaj65)
+

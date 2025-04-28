@@ -1,6 +1,6 @@
 ---
 title: "decai"
 description: "Decompiler based on AI"
-external_url: "https://github.com/radareorg/r2ai"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/radareorg/r2ai)
+

@@ -1,6 +1,6 @@
 ---
 title: "Sibyl"
 description: ": A function divination tool"
-external_url: "https://github.com/cea-sec/Sibyl"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/cea-sec/Sibyl)
+

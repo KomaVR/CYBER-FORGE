@@ -5,6 +5,6 @@ description: "Really good resource from John Hammond for different types of chal
 
 
 "
-external_url: "https://github.com/JohnHammond/ctf-katana"
-category: "Password Cracking"
----
+external_category: "Password Cracking"
+---[Visit Website](https://github.com/JohnHammond/ctf-katana)
+

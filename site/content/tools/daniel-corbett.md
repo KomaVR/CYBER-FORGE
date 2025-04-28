@@ -1,6 +1,6 @@
 ---
 title: "daniel-corbett"
 description: ""
-external_url: "https://github.com/daniel-corbett"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/daniel-corbett)
+

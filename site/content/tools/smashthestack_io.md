@@ -1,6 +1,6 @@
 ---
 title: "SmashTheStack IO"
 description: ""
-external_url: "http://io.smashthestack.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://io.smashthestack.org/)
+

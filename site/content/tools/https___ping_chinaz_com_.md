@@ -8,6 +8,6 @@ https://www.webpagetest.org/
 https://dnscheck.pingdom.com/
 
 "
-external_url: "https://ping.chinaz.com/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://ping.chinaz.com/)
+

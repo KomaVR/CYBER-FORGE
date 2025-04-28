@@ -1,6 +1,6 @@
 ---
 title: "https://cnpj.biz/"
 description: ""
-external_url: "https://cnpj.biz/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://cnpj.biz/)
+

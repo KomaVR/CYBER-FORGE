@@ -1,6 +1,6 @@
 ---
 title: "Mind Map (v1)"
 description: ""
-external_url: "https://github.com/bhavsec/reconspider#mind-map-v1"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/bhavsec/reconspider#mind-map-v1)
+

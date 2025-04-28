@@ -10,6 +10,6 @@ Ubuntu CVE Tracker
 Microsoft CVRF
 
 "
-external_url: "https://git.alpinelinux.org/cgit/alpine-secdb/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://git.alpinelinux.org/cgit/alpine-secdb/)
+

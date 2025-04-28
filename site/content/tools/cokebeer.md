@@ -1,6 +1,6 @@
 ---
 title: "cokeBeer"
 description: "cokeBeer"
-external_url: "https://github.com/cokeBeer"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/cokeBeer)
+

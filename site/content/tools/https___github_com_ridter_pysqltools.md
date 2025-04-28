@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/Ridter/PySQLTools"
 description: ""
-external_url: "https://github.com/Ridter/PySQLTools"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/Ridter/PySQLTools)
+

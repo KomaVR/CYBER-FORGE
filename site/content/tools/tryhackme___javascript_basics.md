@@ -3,6 +3,6 @@ title: "TryHackMe | JavaScript Basics"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/javascriptbasics"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/javascriptbasics)
+

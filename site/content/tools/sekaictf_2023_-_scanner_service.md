@@ -11,6 +11,6 @@ Example
 
 
 "
-external_url: "https://blog.huli.tw/2023/09/02/corctf-sekaictf-2023-writeup/#scanner-service-146-solves"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://blog.huli.tw/2023/09/02/corctf-sekaictf-2023-writeup/#scanner-service-146-solves)
+

@@ -1,6 +1,6 @@
 ---
 title: "Riggs333"
 description: ""
-external_url: "https://github.com/Riggs333"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Riggs333)
+

@@ -1,6 +1,6 @@
 ---
 title: "CompeteShark"
 description: ""
-external_url: "http://competeshark.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://competeshark.com)
+

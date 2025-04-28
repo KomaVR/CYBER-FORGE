@@ -1,6 +1,6 @@
 ---
 title: "stjepanjurekovic"
 description: ""
-external_url: "https://github.com/stjepanjurekovic"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/stjepanjurekovic)
+

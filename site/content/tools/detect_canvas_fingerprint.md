@@ -3,6 +3,6 @@ title: "Detect Canvas Fingerprint"
 description: "
 
 "
-external_url: "https://webbrowsertools.com/canvas-fingerprint/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://webbrowsertools.com/canvas-fingerprint/)
+

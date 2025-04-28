@@ -1,6 +1,6 @@
 ---
 title: "https://rootsh.com/"
 description: ""
-external_url: "https://rootsh.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://rootsh.com/)
+

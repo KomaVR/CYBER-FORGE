@@ -1,6 +1,6 @@
 ---
 title: "εxodus"
 description: ""
-external_url: "https://github.com/Exodus-Privacy/exodus"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Exodus-Privacy/exodus)
+

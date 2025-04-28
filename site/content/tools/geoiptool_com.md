@@ -5,6 +5,6 @@ Geo IP Tool, check your own IP, handy to check if your VPN is
 working,
 
 "
-external_url: "https://geoiptool.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://geoiptool.com)
+

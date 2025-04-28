@@ -1,6 +1,6 @@
 ---
 title: "bitlisten.com"
 description: ""
-external_url: "https://www.bitlisten.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.bitlisten.com/)
+

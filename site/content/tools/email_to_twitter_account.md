@@ -1,6 +1,6 @@
 ---
 title: "Email to Twitter account"
 description: ""
-external_url: "https://www.aware-online.com/en/email-to-twitter-account/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.aware-online.com/en/email-to-twitter-account/)
+

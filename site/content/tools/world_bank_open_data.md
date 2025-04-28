@@ -1,6 +1,6 @@
 ---
 title: "World Bank Open Data"
 description: ""
-external_url: "https://data.worldbank.org.cn/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://data.worldbank.org.cn/)
+

@@ -1,6 +1,6 @@
 ---
 title: "nansen.ai"
 description: ""
-external_url: "https://nansen.ai"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://nansen.ai)
+

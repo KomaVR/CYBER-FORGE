@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/CHYbeta/Web-Security-Learning"
 description: ""
-external_url: "https://github.com/CHYbeta/Web-Security-Learning"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/CHYbeta/Web-Security-Learning)
+

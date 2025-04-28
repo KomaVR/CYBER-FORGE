@@ -1,6 +1,6 @@
 ---
 title: "https://whereisk0shl.top/"
 description: ""
-external_url: "https://whereisk0shl.top/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://whereisk0shl.top/)
+

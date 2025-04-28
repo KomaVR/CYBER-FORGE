@@ -1,6 +1,6 @@
 ---
 title: "GitHub Integration"
 description: ""
-external_url: "https://vuls.io/docs/en/usage-scan-non-os-packages.html#usage-integrate-with-github-security-alerts"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://vuls.io/docs/en/usage-scan-non-os-packages.html#usage-integrate-with-github-security-alerts)
+

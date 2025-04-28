@@ -1,6 +1,6 @@
 ---
 title: "meduzen"
 description: ""
-external_url: "https://github.com/meduzen"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/meduzen)
+

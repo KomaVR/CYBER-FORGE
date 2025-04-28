@@ -1,6 +1,6 @@
 ---
 title: "PROFILING: OPTIMISATION"
 description: ""
-external_url: "https://technology.riotgames.com/news/profiling-optimisation"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://technology.riotgames.com/news/profiling-optimisation)
+

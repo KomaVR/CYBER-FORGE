@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://www.buymeacoffee.com/securefirmware"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.buymeacoffee.com/securefirmware)
+

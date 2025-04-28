@@ -3,6 +3,6 @@ title: "TryHackMe | Anonymous"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/anonymous"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/anonymous)
+

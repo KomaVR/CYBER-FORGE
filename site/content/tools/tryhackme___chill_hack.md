@@ -3,6 +3,6 @@ title: "TryHackMe | Chill Hack"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/chillhack"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/chillhack)
+

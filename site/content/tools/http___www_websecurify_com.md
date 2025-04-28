@@ -1,6 +1,6 @@
 ---
 title: "http://www.websecurify.com"
 description: "Websecurify"
-external_url: "http://www.websecurify.com"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://www.websecurify.com)
+

@@ -1,6 +1,6 @@
 ---
 title: "Node-appland"
 description: "NodeJS tool to download APKs from appland."
-external_url: "https://github.com/dweinstein/node-appland"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/dweinstein/node-appland)
+

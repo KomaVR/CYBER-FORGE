@@ -1,6 +1,6 @@
 ---
 title: "BASE64 Decode and Encode"
 description: ""
-external_url: "https://www.base64encode.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.base64encode.org/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Abinator"
 description: ""
-external_url: "https://github.com/Whynot63/abinator"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Whynot63/abinator)
+

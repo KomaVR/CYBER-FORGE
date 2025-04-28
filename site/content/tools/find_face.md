@@ -1,6 +1,6 @@
 ---
 title: "Find Face"
 description: "(RU)"
-external_url: "http://findface.ru/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://findface.ru/)
+

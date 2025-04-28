@@ -1,6 +1,6 @@
 ---
 title: "https://portaldatransparencia.gov.br/coronavirus"
 description: ""
-external_url: "https://portaldatransparencia.gov.br/coronavirus"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://portaldatransparencia.gov.br/coronavirus)
+

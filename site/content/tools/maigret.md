@@ -1,6 +1,6 @@
 ---
 title: "Maigret"
 description: "Collect a dossier on a person by username."
-external_url: "https://github.com/soxoj/maigret"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/soxoj/maigret)
+

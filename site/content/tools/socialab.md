@@ -1,6 +1,6 @@
 ---
 title: "socialab"
 description: ""
-external_url: "http://www.socilab.com/#home"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.socilab.com/#home)
+

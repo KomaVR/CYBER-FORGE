@@ -1,6 +1,6 @@
 ---
 title: "Yasni"
 description: ""
-external_url: "http://www.yasni.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.yasni.com/)
+

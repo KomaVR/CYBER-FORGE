@@ -1,6 +1,6 @@
 ---
 title: "Ethereum leveldb Explorer"
 description: ""
-external_url: "https://tudmotu.github.io/leveldb-explorer"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tudmotu.github.io/leveldb-explorer)
+

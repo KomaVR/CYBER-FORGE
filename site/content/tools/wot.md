@@ -1,6 +1,6 @@
 ---
 title: "WOT"
 description: ""
-external_url: "https://www.mywot.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.mywot.com)
+

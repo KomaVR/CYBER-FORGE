@@ -1,6 +1,6 @@
 ---
 title: "kevoreilly"
 description: ""
-external_url: "https://github.com/kevoreilly"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/kevoreilly)
+

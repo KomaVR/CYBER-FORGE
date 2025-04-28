@@ -1,6 +1,6 @@
 ---
 title: "jerbia"
 description: ""
-external_url: "https://github.com/jerbia"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jerbia)
+

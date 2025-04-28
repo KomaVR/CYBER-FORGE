@@ -7,6 +7,6 @@ https://github.com/chenjiandongx/pls go ver.
 https://github.com/chenjiandongx/how python ver.
 
 "
-external_url: "https://github.com/jaywcjlove/linux-command"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jaywcjlove/linux-command)
+

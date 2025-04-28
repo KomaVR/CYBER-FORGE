@@ -1,6 +1,6 @@
 ---
 title: "http://www8.hp.com/us/en/software-solutions/webinspect-dynamic-analysis-dast/index.html"
 description: "HP Web Inspect"
-external_url: "http://www8.hp.com/us/en/software-solutions/webinspect-dynamic-analysis-dast/index.html"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://www8.hp.com/us/en/software-solutions/webinspect-dynamic-analysis-dast/index.html)
+

@@ -1,6 +1,6 @@
 ---
 title: "AttackRuleMap - Mapping of Atomic Red Team tests and Sigma Rules"
 description: ""
-external_url: "https://attackrulemap.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://attackrulemap.com/)
+

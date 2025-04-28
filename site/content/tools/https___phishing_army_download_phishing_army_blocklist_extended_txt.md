@@ -1,6 +1,6 @@
 ---
 title: "https://phishing.army/download/phishing_army_blocklist_extended.txt"
 description: ""
-external_url: "https://phishing.army/download/phishing_army_blocklist_extended.txt"
-category: "Social Engineering"
----
+external_category: "Social Engineering"
+---[Visit Website](https://phishing.army/download/phishing_army_blocklist_extended.txt)
+

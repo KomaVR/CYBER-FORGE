@@ -1,6 +1,6 @@
 ---
 title: "Sinfonietta/hostfiles"
 description: ""
-external_url: "https://github.com/Sinfonietta/hostfiles"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Sinfonietta/hostfiles)
+

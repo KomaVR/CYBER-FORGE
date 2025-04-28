@@ -1,6 +1,6 @@
 ---
 title: "sinwindie/OSINT"
 description: ""
-external_url: "https://github.com/sinwindie/OSINT"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://github.com/sinwindie/OSINT)
+

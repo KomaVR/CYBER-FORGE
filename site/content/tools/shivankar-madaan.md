@@ -1,6 +1,6 @@
 ---
 title: "shivankar-madaan"
 description: ""
-external_url: "https://github.com/shivankar-madaan"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/shivankar-madaan)
+

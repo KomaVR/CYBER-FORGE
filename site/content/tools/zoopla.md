@@ -1,6 +1,6 @@
 ---
 title: "Zoopla"
 description: "(UK)"
-external_url: "https://www.zoopla.co.uk/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.zoopla.co.uk/)
+

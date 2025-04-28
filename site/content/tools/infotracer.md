@@ -1,6 +1,6 @@
 ---
 title: "InfoTracer"
 description: "Search for people. (Searches are paid)"
-external_url: "https://infotracer.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://infotracer.com/)
+

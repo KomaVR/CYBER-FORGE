@@ -1,6 +1,6 @@
 ---
 title: "doctashay"
 description: ""
-external_url: "https://github.com/doctashay"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/doctashay)
+

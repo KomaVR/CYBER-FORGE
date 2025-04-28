@@ -1,6 +1,6 @@
 ---
 title: "shahrilnet"
 description: ""
-external_url: "https://github.com/shahrilnet"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/shahrilnet)
+

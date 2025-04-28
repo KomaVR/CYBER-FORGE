@@ -1,6 +1,6 @@
 ---
 title: "breadcrumbs.app"
 description: ""
-external_url: "https://www.breadcrumbs.app/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.breadcrumbs.app/)
+

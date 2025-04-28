@@ -1,6 +1,6 @@
 ---
 title: "HTTP/2 notebook"
 description: ""
-external_url: "https://github.com/secdev/scapy/blob/master/doc/notebooks/HTTP_2_Tuto.ipynb"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/secdev/scapy/blob/master/doc/notebooks/HTTP_2_Tuto.ipynb)
+

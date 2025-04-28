@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://sponsor.owasp-juice.shop"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://sponsor.owasp-juice.shop)
+

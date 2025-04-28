@@ -1,6 +1,6 @@
 ---
 title: "return42"
 description: ""
-external_url: "https://github.com/return42"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/return42)
+

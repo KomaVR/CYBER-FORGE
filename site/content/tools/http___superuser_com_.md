@@ -1,6 +1,6 @@
 ---
 title: "http://superuser.com/"
 description: "SuperUser -  (snippets from various questions and answers)"
-external_url: "http://superuser.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://superuser.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "CWE"
 description: ""
-external_url: "http://cwe.mitre.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://cwe.mitre.org)
+

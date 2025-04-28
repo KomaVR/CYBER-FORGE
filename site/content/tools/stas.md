@@ -1,6 +1,6 @@
 ---
 title: "stas"
 description: ""
-external_url: "https://github.com/stas"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/stas)
+

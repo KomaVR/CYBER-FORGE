@@ -1,6 +1,6 @@
 ---
 title: "Nextron's Aurora Agent"
 description: ""
-external_url: "https://www.nextron-systems.com/aurora/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.nextron-systems.com/aurora/)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://tools.pediy.com/"
 description: ""
-external_url: "https://tools.pediy.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tools.pediy.com/)
+

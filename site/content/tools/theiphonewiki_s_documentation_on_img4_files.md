@@ -9,6 +9,6 @@ tihmstar/img4tool
 h3adshotzz/img4helper
 
 "
-external_url: "https://www.theiphonewiki.com/wiki/IMG4_File_Format"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.theiphonewiki.com/wiki/IMG4_File_Format)
+

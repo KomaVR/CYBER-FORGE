@@ -7,6 +7,6 @@ llama-3.2-90b-text-preview
 mixtral-8x7b-32768
 
 "
-external_url: "https://console.groq.com/playground"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://console.groq.com/playground)
+

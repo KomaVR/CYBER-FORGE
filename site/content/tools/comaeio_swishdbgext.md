@@ -1,6 +1,6 @@
 ---
 title: "comaeio/swishdbgext"
 description: "[252星][1y] [C++]  Incident Response & Digital Forensics Debugging Extension"
-external_url: "https://github.com/comaeio/SwishDbgExt"
-category: "Reverse Engineering"
----
+external_category: "Reverse Engineering"
+---[Visit Website](https://github.com/comaeio/SwishDbgExt)
+

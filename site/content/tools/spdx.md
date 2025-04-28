@@ -1,6 +1,6 @@
 ---
 title: "SPDX"
 description: ""
-external_url: "https://spdx.dev/specifications/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://spdx.dev/specifications/)
+

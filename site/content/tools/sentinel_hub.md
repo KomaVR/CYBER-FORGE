@@ -1,6 +1,6 @@
 ---
 title: "Sentinel Hub"
 description: ""
-external_url: "https://www.sentinel-hub.com/explore/sentinelplayground/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.sentinel-hub.com/explore/sentinelplayground/)
+

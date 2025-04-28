@@ -1,6 +1,6 @@
 ---
 title: "https://goteleport.com/docs/reference/architecture/"
 description: "Architecture:"
-external_url: "https://goteleport.com/docs/reference/architecture/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://goteleport.com/docs/reference/architecture/)
+

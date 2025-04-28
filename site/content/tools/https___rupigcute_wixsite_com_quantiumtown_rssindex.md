@@ -1,6 +1,6 @@
 ---
 title: "https://rupigcute.wixsite.com/quantiumtown/rssindex"
 description: ""
-external_url: "https://rupigcute.wixsite.com/quantiumtown/rssindex"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://rupigcute.wixsite.com/quantiumtown/rssindex)
+

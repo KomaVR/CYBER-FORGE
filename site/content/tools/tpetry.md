@@ -1,6 +1,6 @@
 ---
 title: "tpetry"
 description: ""
-external_url: "https://github.com/tpetry"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/tpetry)
+

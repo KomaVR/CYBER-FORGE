@@ -1,6 +1,6 @@
 ---
 title: "galiail"
 description: ""
-external_url: "https://github.com/galiail"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/galiail)
+

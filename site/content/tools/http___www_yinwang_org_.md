@@ -1,6 +1,6 @@
 ---
 title: "http://www.yinwang.org/"
 description: ""
-external_url: "http://www.yinwang.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.yinwang.org/)
+

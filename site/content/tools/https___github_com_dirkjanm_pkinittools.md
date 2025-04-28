@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/dirkjanm/PKINITtools"
 description: "PKINITtools:"
-external_url: "https://github.com/dirkjanm/PKINITtools"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/dirkjanm/PKINITtools)
+

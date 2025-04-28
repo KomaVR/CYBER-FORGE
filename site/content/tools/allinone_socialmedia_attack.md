@@ -1,6 +1,6 @@
 ---
 title: "AllinOne SocialMedia Attack"
 description: ""
-external_url: "https://github.com/Matrix07ksa/Brute_Force"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Matrix07ksa/Brute_Force)
+

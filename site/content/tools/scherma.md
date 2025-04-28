@@ -1,6 +1,6 @@
 ---
 title: "scherma"
 description: ""
-external_url: "https://github.com/scherma"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/scherma)
+

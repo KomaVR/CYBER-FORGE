@@ -6,6 +6,6 @@ description: "DFU / Recovery
 Technical analysis of the checkm8 exploit
 
 "
-external_url: "https://github.com/libimobiledevice/libirecovery"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://github.com/libimobiledevice/libirecovery)
+

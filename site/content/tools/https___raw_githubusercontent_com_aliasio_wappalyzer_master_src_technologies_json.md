@@ -3,6 +3,6 @@ title: "https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/technolo
 description: "
 
 "
-external_url: "https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/technologies.json"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/technologies.json)
+

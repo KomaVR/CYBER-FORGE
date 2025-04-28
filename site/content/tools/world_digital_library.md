@@ -1,6 +1,6 @@
 ---
 title: "World Digital Library"
 description: ""
-external_url: "http://www.wdl.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.wdl.org)
+

@@ -1,6 +1,6 @@
 ---
 title: "http://packetstormsecurity.com/"
 description: "Global Security Resource"
-external_url: "http://packetstormsecurity.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://packetstormsecurity.com/)
+

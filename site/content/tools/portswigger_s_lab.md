@@ -15,6 +15,6 @@ Example: Express-GraphQL,
 
 
 "
-external_url: "https://portswigger.net/web-security/graphql/lab-graphql-csrf-via-graphql-api"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://portswigger.net/web-security/graphql/lab-graphql-csrf-via-graphql-api)
+

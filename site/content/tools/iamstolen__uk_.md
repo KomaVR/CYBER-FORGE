@@ -1,6 +1,6 @@
 ---
 title: "iamstolen (UK)"
 description: ""
-external_url: "http://www.iamstolen.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.iamstolen.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "jurelou"
 description: "Initial work"
-external_url: "https://github.com/jurelou"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jurelou)
+

@@ -1,6 +1,6 @@
 ---
 title: "chrissparksnj"
 description: ""
-external_url: "https://github.com/chrissparksnj"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/chrissparksnj)
+

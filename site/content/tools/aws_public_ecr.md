@@ -1,6 +1,6 @@
 ---
 title: "AWS Public ECR"
 description: ""
-external_url: "https://gallery.ecr.aws/prowler-cloud/prowler"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://gallery.ecr.aws/prowler-cloud/prowler)
+

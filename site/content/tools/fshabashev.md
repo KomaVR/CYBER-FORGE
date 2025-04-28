@@ -1,6 +1,6 @@
 ---
 title: "fshabashev"
 description: ""
-external_url: "https://github.com/fshabashev"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/fshabashev)
+

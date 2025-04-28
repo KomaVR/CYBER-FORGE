@@ -1,6 +1,6 @@
 ---
 title: "CoinPath"
 description: ""
-external_url: "https://bitquery.io/products/coinpath"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://bitquery.io/products/coinpath)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/rebeyond/Behinder"
 description: ""
-external_url: "https://github.com/rebeyond/Behinder"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/rebeyond/Behinder)
+

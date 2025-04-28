@@ -1,6 +1,6 @@
 ---
 title: "XamlAnimatedGif"
 description: "by Thomas Levesque"
-external_url: "https://github.com/XamlAnimatedGif/WpfAnimatedGif"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/XamlAnimatedGif/WpfAnimatedGif)
+

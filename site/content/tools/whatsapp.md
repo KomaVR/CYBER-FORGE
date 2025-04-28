@@ -1,6 +1,6 @@
 ---
 title: "WhatsApp"
 description: ""
-external_url: "https://www.whatsapp.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.whatsapp.com/)
+

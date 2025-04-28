@@ -1,6 +1,6 @@
 ---
 title: "Inmate Locator"
 description: ""
-external_url: "http://theinmatelocator.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://theinmatelocator.com)
+

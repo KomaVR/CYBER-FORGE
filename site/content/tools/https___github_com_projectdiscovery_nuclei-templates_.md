@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/projectdiscovery/nuclei-templates/"
 description: ""
-external_url: "https://github.com/projectdiscovery/nuclei-templates/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/projectdiscovery/nuclei-templates/)
+

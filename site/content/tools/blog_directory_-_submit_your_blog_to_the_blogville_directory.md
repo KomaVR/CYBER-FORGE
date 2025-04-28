@@ -1,6 +1,6 @@
 ---
 title: "Blog Directory - Submit Your Blog to the Blogville Directory"
 description: ""
-external_url: "https://blogville.us/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://blogville.us/)
+

@@ -1,6 +1,6 @@
 ---
 title: "BJNFNE"
 description: ""
-external_url: "https://github.com/BJNFNE"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/BJNFNE)
+

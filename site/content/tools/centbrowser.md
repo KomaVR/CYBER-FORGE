@@ -1,6 +1,6 @@
 ---
 title: "CentBrowser"
 description: ""
-external_url: "http://www.centbrowser.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.centbrowser.com)
+

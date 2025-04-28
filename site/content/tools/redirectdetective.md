@@ -1,6 +1,6 @@
 ---
 title: "RedirectDetective"
 description: ""
-external_url: "http://redirectdetective.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://redirectdetective.com)
+

@@ -1,6 +1,6 @@
 ---
 title: "Betaface"
 description: ""
-external_url: "https://www.betaface.com/demo.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.betaface.com/demo.html)
+

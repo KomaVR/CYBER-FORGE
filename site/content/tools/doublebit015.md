@@ -1,6 +1,6 @@
 ---
 title: "doublebit015"
 description: ""
-external_url: "https://github.com/doublebit015"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/doublebit015)
+

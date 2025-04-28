@@ -1,6 +1,6 @@
 ---
 title: "ipapi"
 description: "IP Address Location"
-external_url: "https://ipapi.co/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://ipapi.co/)
+

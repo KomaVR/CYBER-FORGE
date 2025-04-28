@@ -1,6 +1,6 @@
 ---
 title: "judaschwartz"
 description: ""
-external_url: "https://github.com/judaschwartz"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/judaschwartz)
+

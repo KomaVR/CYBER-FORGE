@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/VincentSit/ChinaMobilePhoneNumberRegex"
 description: ""
-external_url: "https://github.com/VincentSit/ChinaMobilePhoneNumberRegex"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex)
+

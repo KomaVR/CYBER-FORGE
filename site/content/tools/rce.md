@@ -3,6 +3,6 @@ title: "RCE"
 description: "
 
 "
-external_url: "https://github.com/Az0x7/vulnerability-Checklist/blob/main/Rce/Rce.md"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Az0x7/vulnerability-Checklist/blob/main/Rce/Rce.md)
+

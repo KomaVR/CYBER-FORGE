@@ -1,6 +1,6 @@
 ---
 title: "Open DNS"
 description: ""
-external_url: "https://www.opendns.com/home-internet-security"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.opendns.com/home-internet-security)
+

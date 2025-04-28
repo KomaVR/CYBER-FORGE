@@ -1,6 +1,6 @@
 ---
 title: "reverseShellList：快速生成反弹shell payload"
 description: ""
-external_url: "https://github.com/AbelChe/reverseShellList"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://github.com/AbelChe/reverseShellList)
+

@@ -1,6 +1,6 @@
 ---
 title: "Free Full PDF"
 description: ""
-external_url: "http://www.freefullpdf.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.freefullpdf.com)
+

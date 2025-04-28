@@ -1,6 +1,6 @@
 ---
 title: "WilliamBruneau"
 description: ""
-external_url: "https://github.com/WilliamBruneau"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/WilliamBruneau)
+

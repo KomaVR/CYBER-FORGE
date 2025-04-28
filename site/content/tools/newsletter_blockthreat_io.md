@@ -1,6 +1,6 @@
 ---
 title: "newsletter.blockthreat.io"
 description: ""
-external_url: "https://newsletter.blockthreat.io/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://newsletter.blockthreat.io/)
+

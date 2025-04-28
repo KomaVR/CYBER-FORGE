@@ -1,6 +1,6 @@
 ---
 title: "k03mad"
 description: ""
-external_url: "https://github.com/k03mad"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/k03mad)
+

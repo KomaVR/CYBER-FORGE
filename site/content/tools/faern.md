@@ -1,6 +1,6 @@
 ---
 title: "faern"
 description: ""
-external_url: "https://github.com/faern"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/faern)
+

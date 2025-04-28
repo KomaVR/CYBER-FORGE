@@ -5,6 +5,6 @@ description: "
 Tiny XSS Payload
 
 "
-external_url: "https://tinyxss.terjanq.me/"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://tinyxss.terjanq.me/)
+

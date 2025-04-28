@@ -1,6 +1,6 @@
 ---
 title: "Kribrum"
 description: ""
-external_url: "https://kribrum.io/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://kribrum.io/)
+

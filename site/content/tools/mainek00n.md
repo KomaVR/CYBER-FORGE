@@ -1,6 +1,6 @@
 ---
 title: "MaineK00n"
 description: ""
-external_url: "https://github.com/MaineK00n"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/MaineK00n)
+

@@ -1,6 +1,6 @@
 ---
 title: "duneninja.com for dune.xyz"
 description: ""
-external_url: "https://duneninja.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://duneninja.com)
+

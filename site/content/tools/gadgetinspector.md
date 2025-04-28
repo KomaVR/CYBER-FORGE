@@ -6,6 +6,6 @@ Bytecode Analyzer
 找 gadget chain
 
 "
-external_url: "https://github.com/JackOfMostTrades/gadgetinspector"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/JackOfMostTrades/gadgetinspector)
+

@@ -1,6 +1,6 @@
 ---
 title: "Bitchute"
 description: ""
-external_url: "https://www.bitchute.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.bitchute.com/)
+

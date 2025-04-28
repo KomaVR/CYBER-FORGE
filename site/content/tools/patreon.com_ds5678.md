@@ -8,7 +8,6 @@ description: "
 
 
 "
-external_url: "https://patreon.com/ds5678"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://patreon.com/ds5678)
 

@@ -1,6 +1,6 @@
 ---
 title: "kustermariocoding"
 description: ""
-external_url: "https://github.com/kustermariocoding"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/kustermariocoding)
+

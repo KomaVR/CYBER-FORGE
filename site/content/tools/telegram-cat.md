@@ -1,6 +1,6 @@
 ---
 title: "Telegram-Cat"
 description: ""
-external_url: "https://telegrm-cat.com/channelscat/allchannels"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://telegrm-cat.com/channelscat/allchannels)
+

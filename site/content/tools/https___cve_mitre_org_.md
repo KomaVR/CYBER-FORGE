@@ -1,6 +1,6 @@
 ---
 title: "https://cve.mitre.org/"
 description: "CVE:"
-external_url: "https://cve.mitre.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://cve.mitre.org/)
+

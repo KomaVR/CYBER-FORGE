@@ -1,6 +1,6 @@
 ---
 title: "Threat intelligence and Blacklist queries"
 description: ""
-external_url: "https://asciinema.org/a/295949"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://asciinema.org/a/295949)
+

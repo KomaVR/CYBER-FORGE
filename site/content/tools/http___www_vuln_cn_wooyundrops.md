@@ -1,6 +1,6 @@
 ---
 title: "http://www.vuln.cn/wooyundrops"
 description: ""
-external_url: "http://www.vuln.cn/wooyundrops"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.vuln.cn/wooyundrops)
+

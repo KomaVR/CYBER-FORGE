@@ -1,6 +1,6 @@
 ---
 title: "TelegramOnlineSpy"
 description: ""
-external_url: "https://github.com/Forichok/TelegramOnlineSpy"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Forichok/TelegramOnlineSpy)
+

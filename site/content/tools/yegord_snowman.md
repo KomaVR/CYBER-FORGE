@@ -9,6 +9,6 @@ nocode 命令行工具
 nc 核心代码，可作为库使用
 
 "
-external_url: "https://github.com/yegord/snowman"
-category: "Reverse Engineering"
----
+external_category: "Reverse Engineering"
+---[Visit Website](https://github.com/yegord/snowman)
+

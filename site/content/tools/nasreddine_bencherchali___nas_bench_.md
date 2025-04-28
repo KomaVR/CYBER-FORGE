@@ -1,6 +1,6 @@
 ---
 title: "Nasreddine Bencherchali (@nas_bench)"
 description: ""
-external_url: "https://twitter.com/nas_bench"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://twitter.com/nas_bench)
+

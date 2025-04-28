@@ -1,6 +1,6 @@
 ---
 title: "solidity-coverage"
 description: ""
-external_url: "https://github.com/sc-forks/solidity-coverage"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/sc-forks/solidity-coverage)
+

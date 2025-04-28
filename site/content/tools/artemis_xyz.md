@@ -1,6 +1,6 @@
 ---
 title: "artemis.xyz"
 description: ""
-external_url: "https://app.artemis.xyz/dashboard"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://app.artemis.xyz/dashboard)
+

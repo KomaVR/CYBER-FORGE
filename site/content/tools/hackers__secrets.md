@@ -1,6 +1,6 @@
 ---
 title: "Hackers' Secrets"
 description: ""
-external_url: "http://www.onlinepot.org/security/HackersSecrets.pdf"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.onlinepot.org/security/HackersSecrets.pdf)
+

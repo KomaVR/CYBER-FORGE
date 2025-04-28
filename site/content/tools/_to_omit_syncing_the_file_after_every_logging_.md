@@ -16,6 +16,6 @@ cat << EOF | sudo tee /etc/rsyslog.d/10-iptables.conf
 & stop
 EOF
 "
-external_url: "https://www.rsyslog.com/doc/v8-stable/configuration/actions.html#regular-file"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.rsyslog.com/doc/v8-stable/configuration/actions.html#regular-file)
+

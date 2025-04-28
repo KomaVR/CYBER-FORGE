@@ -1,6 +1,6 @@
 ---
 title: "Slangit"
 description: ""
-external_url: "http://slangit.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://slangit.com/)
+

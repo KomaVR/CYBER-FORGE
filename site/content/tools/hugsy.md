@@ -1,6 +1,6 @@
 ---
 title: "hugsy"
 description: ""
-external_url: "https://github.com/hugsy"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/hugsy)
+

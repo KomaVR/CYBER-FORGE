@@ -4,6 +4,6 @@ description: "
 
 This exercise explains how you can tamper with an encrypted cookies to access another user's account.
 "
-external_url: "https://pentesterlab.com/exercises/ecb"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://pentesterlab.com/exercises/ecb)
+

@@ -1,6 +1,6 @@
 ---
 title: "courtsystem.com"
 description: ""
-external_url: "http://www.courtsystem.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.courtsystem.org/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Digital Attack Map"
 description: ""
-external_url: "https://www.digitalattackmap.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.digitalattackmap.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Gaploid"
 description: ""
-external_url: "https://github.com/Gaploid"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Gaploid)
+

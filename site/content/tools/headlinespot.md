@@ -1,6 +1,6 @@
 ---
 title: "HeadlineSpot"
 description: ""
-external_url: "http://www.headlinespot.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.headlinespot.com)
+

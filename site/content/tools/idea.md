@@ -1,6 +1,6 @@
 ---
 title: "IDEA"
 description: ""
-external_url: "http://www.jetbrains.com/idea/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.jetbrains.com/idea/)
+

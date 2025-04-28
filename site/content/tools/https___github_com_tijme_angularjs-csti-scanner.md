@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/tijme/angularjs-csti-scanner"
 description: "Automated client-side template injection (sandbox escape/bypass) detection for AngularJS (ACSTIS)."
-external_url: "https://github.com/tijme/angularjs-csti-scanner"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://github.com/tijme/angularjs-csti-scanner)
+

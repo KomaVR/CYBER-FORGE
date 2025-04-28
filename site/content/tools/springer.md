@@ -1,6 +1,6 @@
 ---
 title: "Springer"
 description: ""
-external_url: "http://link.springer.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://link.springer.com)
+

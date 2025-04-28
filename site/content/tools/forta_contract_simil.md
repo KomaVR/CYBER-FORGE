@@ -1,6 +1,6 @@
 ---
 title: "Forta Contract Simil"
 description: ""
-external_url: "https://github.com/Soptq/forta-contract-simil"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Soptq/forta-contract-simil)
+

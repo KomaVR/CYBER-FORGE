@@ -1,6 +1,6 @@
 ---
 title: "piquark6046"
 description: ""
-external_url: "https://github.com/piquark6046"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/piquark6046)
+

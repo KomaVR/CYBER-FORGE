@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/xsuperbug/payloads"
 description: "xsuperbug"
-external_url: "https://github.com/xsuperbug/payloads"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://github.com/xsuperbug/payloads)
+

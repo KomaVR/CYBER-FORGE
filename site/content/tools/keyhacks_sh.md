@@ -1,6 +1,6 @@
 ---
 title: "keyhacks.sh"
 description: ""
-external_url: "https://github.com/gwen001/keyhacks.sh"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/gwen001/keyhacks.sh)
+

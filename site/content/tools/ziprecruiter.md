@@ -1,6 +1,6 @@
 ---
 title: "ZipRecruiter"
 description: ""
-external_url: "https://www.ziprecruiter.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ziprecruiter.com)
+

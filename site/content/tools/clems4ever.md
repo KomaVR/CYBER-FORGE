@@ -1,6 +1,6 @@
 ---
 title: "clems4ever"
 description: ""
-external_url: "https://github.com/clems4ever"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/clems4ever)
+

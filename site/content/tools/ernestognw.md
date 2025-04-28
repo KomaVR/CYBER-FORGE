@@ -1,6 +1,6 @@
 ---
 title: "ernestognw"
 description: ""
-external_url: "https://github.com/ernestognw"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ernestognw)
+

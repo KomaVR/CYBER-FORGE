@@ -1,6 +1,6 @@
 ---
 title: "Liffy"
 description: "LFI exploitation tool."
-external_url: "https://github.com/hvqzao/liffy"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://github.com/hvqzao/liffy)
+

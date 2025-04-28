@@ -1,6 +1,6 @@
 ---
 title: "tickr.ai"
 description: ""
-external_url: "https://www.tickr.ai"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.tickr.ai)
+

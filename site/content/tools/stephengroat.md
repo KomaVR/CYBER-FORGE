@@ -1,6 +1,6 @@
 ---
 title: "stephengroat"
 description: ""
-external_url: "https://github.com/stephengroat"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/stephengroat)
+

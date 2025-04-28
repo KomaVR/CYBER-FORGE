@@ -1,6 +1,6 @@
 ---
 title: "harshitm98"
 description: ""
-external_url: "https://github.com/harshitm98"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/harshitm98)
+

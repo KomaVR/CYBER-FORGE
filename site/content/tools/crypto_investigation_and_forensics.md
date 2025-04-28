@@ -1,6 +1,6 @@
 ---
 title: "Crypto Investigation and Forensics"
 description: ""
-external_url: "https://youtu.be/Tld1kWJlwUE"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://youtu.be/Tld1kWJlwUE)
+

@@ -1,6 +1,6 @@
 ---
 title: "QuickMaps"
 description: ""
-external_url: "https://chrome.google.com/webstore/detail/quick-maps/bgbojmobaekecckmomemopckmeipecij"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://chrome.google.com/webstore/detail/quick-maps/bgbojmobaekecckmomemopckmeipecij)
+

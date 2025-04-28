@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/chenjiandongx/pls"
 description: "go ver."
-external_url: "https://github.com/chenjiandongx/pls"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/chenjiandongx/pls)
+

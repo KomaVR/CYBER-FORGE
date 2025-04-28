@@ -1,6 +1,6 @@
 ---
 title: "PolyUnpack"
 description: "Implemention attempt of the general approach for extracting the original hidden code of PE files without any heuristic assumptions."
-external_url: "https://github.com/PlatonovIvan/PolyUnpack"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/PlatonovIvan/PolyUnpack)
+

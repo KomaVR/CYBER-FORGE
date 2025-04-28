@@ -1,6 +1,6 @@
 ---
 title: "earthlng"
 description: ""
-external_url: "https://github.com/earthlng"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/earthlng)
+

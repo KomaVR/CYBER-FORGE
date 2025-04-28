@@ -3,6 +3,6 @@ title: "TryHackMe | Windows x64 Assembly"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/win64assembly"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/win64assembly)
+

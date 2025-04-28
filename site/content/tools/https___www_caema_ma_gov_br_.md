@@ -1,6 +1,6 @@
 ---
 title: "https://www.caema.ma.gov.br/"
 description: "CAEMA"
-external_url: "https://www.caema.ma.gov.br/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.caema.ma.gov.br/)
+

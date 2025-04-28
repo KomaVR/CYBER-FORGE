@@ -20,6 +20,6 @@ Example: angstromCTF 2021 - Spoofy
 
 
 "
-external_url: "https://jetmind.github.io/2016/03/31/heroku-forwarded.html"
-category: "Grey Hat Tools"
----
+external_category: "Grey Hat Tools"
+---[Visit Website](https://jetmind.github.io/2016/03/31/heroku-forwarded.html)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://urlabuse.com/public/data/data.json"
 description: ""
-external_url: "https://urlabuse.com/public/data/data.json"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://urlabuse.com/public/data/data.json)
+

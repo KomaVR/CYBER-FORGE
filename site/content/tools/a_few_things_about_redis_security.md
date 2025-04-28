@@ -1,6 +1,6 @@
 ---
 title: "A few things about Redis security"
 description: ""
-external_url: "http://antirez.com/news/96"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://antirez.com/news/96)
+

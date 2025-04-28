@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/NickSanzotta/BurpIntruder"
 description: "NickSanzotta"
-external_url: "https://github.com/NickSanzotta/BurpIntruder"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/NickSanzotta/BurpIntruder)
+

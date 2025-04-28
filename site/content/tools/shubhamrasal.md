@@ -1,6 +1,6 @@
 ---
 title: "ShubhamRasal"
 description: ""
-external_url: "https://github.com/ShubhamRasal"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ShubhamRasal)
+

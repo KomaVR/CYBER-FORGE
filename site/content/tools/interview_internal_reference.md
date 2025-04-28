@@ -1,6 +1,6 @@
 ---
 title: "interview_internal_reference"
 description: ""
-external_url: "https://github.com/0voice/interview_internal_reference"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/0voice/interview_internal_reference)
+

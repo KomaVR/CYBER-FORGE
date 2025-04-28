@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/faciltech/scan-user"
 description: ""
-external_url: "https://github.com/faciltech/scan-user"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/faciltech/scan-user)
+

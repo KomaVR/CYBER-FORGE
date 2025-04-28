@@ -1,6 +1,6 @@
 ---
 title: "亚马逊提供 Alexa 录音的非人工审听选项"
 description: ""
-external_url: "https://www.solidot.org/story?sid=61594"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.solidot.org/story?sid=61594)
+

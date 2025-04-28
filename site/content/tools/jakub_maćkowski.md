@@ -1,6 +1,6 @@
 ---
 title: "Jakub Maćkowski"
 description: ""
-external_url: "https://github.com/mackowski"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mackowski)
+

@@ -1,6 +1,6 @@
 ---
 title: "Free Website Translation"
 description: ""
-external_url: "http://free-website-translation.com/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://free-website-translation.com/)
+

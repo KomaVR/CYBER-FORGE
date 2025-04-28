@@ -1,6 +1,6 @@
 ---
 title: "https://thehackingsage.com/hackdroid/apps/ide"
 description: "IDE / Coding :"
-external_url: "https://thehackingsage.com/hackdroid/apps/ide"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://thehackingsage.com/hackdroid/apps/ide)
+

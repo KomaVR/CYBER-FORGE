@@ -1,6 +1,6 @@
 ---
 title: "akhal3d96"
 description: ""
-external_url: "https://github.com/akhal3d96"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/akhal3d96)
+

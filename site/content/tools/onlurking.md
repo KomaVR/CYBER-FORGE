@@ -1,6 +1,6 @@
 ---
 title: "onlurking"
 description: ""
-external_url: "https://github.com/onlurking"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/onlurking)
+

@@ -1,6 +1,6 @@
 ---
 title: "Information Retrieval - WS 2022/23 - Universität Freiburg"
 description: ""
-external_url: "https://ad-wiki.informatik.uni-freiburg.de/teaching/InformationRetrievalWS2223"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://ad-wiki.informatik.uni-freiburg.de/teaching/InformationRetrievalWS2223)
+

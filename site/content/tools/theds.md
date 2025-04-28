@@ -1,6 +1,6 @@
 ---
 title: "TheDS"
 description: ""
-external_url: "https://github.com/TheDS"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/TheDS)
+

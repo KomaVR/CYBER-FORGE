@@ -1,6 +1,6 @@
 ---
 title: "ajm4n"
 description: "adPEAS"
-external_url: "https://github.com/ajm4n"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ajm4n)
+

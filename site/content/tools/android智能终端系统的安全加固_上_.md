@@ -1,6 +1,6 @@
 ---
 title: "Android智能终端系统的安全加固（上）"
 description: "2019.12 [aliyun]"
-external_url: "https://xz.aliyun.com/t/6852"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://xz.aliyun.com/t/6852)
+

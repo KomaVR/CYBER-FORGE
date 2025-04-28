@@ -1,6 +1,6 @@
 ---
 title: "EyupErgin"
 description: ""
-external_url: "https://github.com/EyupErgin"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/EyupErgin)
+

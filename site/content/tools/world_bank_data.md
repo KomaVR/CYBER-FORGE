@@ -1,6 +1,6 @@
 ---
 title: "World Bank Data"
 description: ""
-external_url: "http://datatopics.worldbank.org/consumption/home"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://datatopics.worldbank.org/consumption/home)
+

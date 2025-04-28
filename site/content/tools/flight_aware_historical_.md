@@ -1,6 +1,6 @@
 ---
 title: "Flight Aware(Historical)"
 description: ""
-external_url: "https://flightaware.com/live/flight_event_history.rvt?ident="
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://flightaware.com/live/flight_event_history.rvt?ident=)
+

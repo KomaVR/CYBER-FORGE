@@ -1,6 +1,6 @@
 ---
 title: "@mholt6"
 description: "Author on X:"
-external_url: "https://x.com/mholt6"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://x.com/mholt6)
+

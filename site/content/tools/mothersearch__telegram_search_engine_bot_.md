@@ -1,6 +1,6 @@
 ---
 title: "MotherSearch (Telegram Search Engine Bot)"
 description: ""
-external_url: "https://t.me/MotherSearchBot"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://t.me/MotherSearchBot)
+

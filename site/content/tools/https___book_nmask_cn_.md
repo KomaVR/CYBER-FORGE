@@ -1,6 +1,6 @@
 ---
 title: "https://book.nmask.cn/"
 description: ""
-external_url: "https://book.nmask.cn/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://book.nmask.cn/)
+

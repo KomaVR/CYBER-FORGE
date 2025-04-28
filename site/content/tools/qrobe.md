@@ -1,6 +1,6 @@
 ---
 title: "Qrobe"
 description: ""
-external_url: "http://qrobe.it/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://qrobe.it/)
+

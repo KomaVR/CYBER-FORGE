@@ -2,6 +2,6 @@
 title: "MarcoG3"
 description: "MarcoG3
 Marco"
-external_url: "https://github.com/MarcoG3"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/MarcoG3)
+

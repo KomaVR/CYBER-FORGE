@@ -1,6 +1,6 @@
 ---
 title: "Resilience Engineering at LinkedIn with Project Waterbear"
 description: ""
-external_url: "https://engineering.linkedin.com/blog/2017/11/resilience-engineering-at-linkedin-with-project-waterbear"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://engineering.linkedin.com/blog/2017/11/resilience-engineering-at-linkedin-with-project-waterbear)
+

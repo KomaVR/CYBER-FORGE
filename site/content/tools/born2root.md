@@ -1,6 +1,6 @@
 ---
 title: "Born2Root"
 description: ""
-external_url: "https://www.hackingarticles.in/hack-born2root-vm-ctf-challenge/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.hackingarticles.in/hack-born2root-vm-ctf-challenge/)
+

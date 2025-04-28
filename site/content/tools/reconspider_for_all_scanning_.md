@@ -1,6 +1,6 @@
 ---
 title: "ReconSpider(For All Scanning)"
 description: ""
-external_url: "https://github.com/bhavsec/reconspider"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://github.com/bhavsec/reconspider)
+

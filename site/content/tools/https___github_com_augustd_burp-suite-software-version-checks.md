@@ -3,6 +3,6 @@ title: "https://github.com/augustd/burp-suite-software-version-checks"
 description: "
 
 "
-external_url: "https://github.com/augustd/burp-suite-software-version-checks"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/augustd/burp-suite-software-version-checks)
+

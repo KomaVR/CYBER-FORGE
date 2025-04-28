@@ -1,6 +1,6 @@
 ---
 title: "baruchiro"
 description: ""
-external_url: "https://github.com/baruchiro"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/baruchiro)
+

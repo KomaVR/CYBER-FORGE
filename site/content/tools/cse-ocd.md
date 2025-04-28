@@ -1,6 +1,6 @@
 ---
 title: "cse-ocd"
 description: ""
-external_url: "https://github.com/cse-ocd"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/cse-ocd)
+

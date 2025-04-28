@@ -1,6 +1,6 @@
 ---
 title: "Newsinshorts"
 description: ""
-external_url: "http://newsinshorts.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://newsinshorts.com)
+

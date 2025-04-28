@@ -1,6 +1,6 @@
 ---
 title: "https://tools.emailhippo.com/"
 description: "Verify emails:"
-external_url: "https://tools.emailhippo.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tools.emailhippo.com/)
+

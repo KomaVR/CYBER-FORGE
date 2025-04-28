@@ -1,6 +1,6 @@
 ---
 title: "andj"
 description: ""
-external_url: "https://github.com/andj"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/andj)
+

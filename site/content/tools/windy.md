@@ -1,6 +1,6 @@
 ---
 title: "Windy"
 description: ""
-external_url: "https://www.windy.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.windy.com/)
+

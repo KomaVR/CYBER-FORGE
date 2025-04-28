@@ -1,6 +1,6 @@
 ---
 title: "awesome-windows-security"
 description: ""
-external_url: "https://github.com/chryzsh/awesome-windows-security#-privilege-escalation"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/chryzsh/awesome-windows-security#-privilege-escalation)
+

@@ -1,6 +1,6 @@
 ---
 title: "jarrault"
 description: ""
-external_url: "https://github.com/jarrault"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jarrault)
+

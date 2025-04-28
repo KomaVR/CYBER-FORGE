@@ -1,6 +1,6 @@
 ---
 title: "tamjid0x01"
 description: ""
-external_url: "https://github.com/tamjid0x01"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/tamjid0x01)
+

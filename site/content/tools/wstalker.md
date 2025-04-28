@@ -1,6 +1,6 @@
 ---
 title: "WStalker"
 description: "An easy proxy."
-external_url: "https://github.com/nccgroup/wstalker"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/nccgroup/wstalker)
+

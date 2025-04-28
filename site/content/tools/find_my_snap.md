@@ -1,6 +1,6 @@
 ---
 title: "Find my snap"
 description: ""
-external_url: "http://findmysnap.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://findmysnap.com/)
+

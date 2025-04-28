@@ -3,6 +3,6 @@ title: "https://drive.google.com/file/d/1XC7grFDeX2JvzaeVORKas1NumkLIAJL7/view?u
 description: "
 
 "
-external_url: "https://drive.google.com/file/d/1XC7grFDeX2JvzaeVORKas1NumkLIAJL7/view?usp=sharing"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://drive.google.com/file/d/1XC7grFDeX2JvzaeVORKas1NumkLIAJL7/view?usp=sharing)
+

@@ -1,6 +1,6 @@
 ---
 title: "Webcam"
 description: "(NL)"
-external_url: "https://webcam.nl"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://webcam.nl)
+

@@ -1,6 +1,6 @@
 ---
 title: "Discussion Group"
 description: ""
-external_url: "https://groups.google.com/forum/#!forum/iamthecavalry"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://groups.google.com/forum/#!forum/iamthecavalry)
+

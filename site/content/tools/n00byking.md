@@ -1,6 +1,6 @@
 ---
 title: "N00byKing"
 description: ""
-external_url: "https://github.com/N00byKing"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/N00byKing)
+

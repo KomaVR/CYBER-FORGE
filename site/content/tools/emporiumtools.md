@@ -1,6 +1,6 @@
 ---
 title: "EmporiumTools"
 description: ""
-external_url: "https://t.me/EmporiumTools"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://t.me/EmporiumTools)
+

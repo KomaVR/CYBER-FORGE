@@ -6,6 +6,6 @@ Cross Site Request Forgery
 
 
 "
-external_url: "https://github.com/Voorivex/pentest-guide/tree/master/Cross-Site-Request-Forgery"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/Voorivex/pentest-guide/tree/master/Cross-Site-Request-Forgery)
+

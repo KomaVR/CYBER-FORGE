@@ -1,6 +1,6 @@
 ---
 title: "https://site.bibipecas.com.br/home"
 description: ""
-external_url: "https://site.bibipecas.com.br/home"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://site.bibipecas.com.br/home)
+

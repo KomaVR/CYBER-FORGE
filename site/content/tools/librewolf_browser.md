@@ -1,6 +1,6 @@
 ---
 title: "LibreWolf Browser"
 description: ""
-external_url: "https://librewolf.net/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://librewolf.net/)
+

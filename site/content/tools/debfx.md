@@ -1,6 +1,6 @@
 ---
 title: "debfx"
 description: ""
-external_url: "https://github.com/debfx"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/debfx)
+

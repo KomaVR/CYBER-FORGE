@@ -1,6 +1,6 @@
 ---
 title: "OSINTCurious"
 description: ""
-external_url: "https://osintcurio.us/"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://osintcurio.us/)
+

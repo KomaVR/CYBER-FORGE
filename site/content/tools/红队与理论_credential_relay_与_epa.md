@@ -1,6 +1,6 @@
 ---
 title: "红队与理论：Credential Relay 与 EPA"
 description: ""
-external_url: "https://paper.seebug.org/844/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://paper.seebug.org/844/)
+

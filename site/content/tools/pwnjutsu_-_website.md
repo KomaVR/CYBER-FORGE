@@ -16,6 +16,6 @@ A Process Mining-Based Method for Attacker Profiling Using the MITRE ATT&CK Taxo
 
 
 "
-external_url: "https://pwnjutsu.irisa.fr"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://pwnjutsu.irisa.fr)
+

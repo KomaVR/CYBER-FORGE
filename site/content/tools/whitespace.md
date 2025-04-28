@@ -1,6 +1,6 @@
 ---
 title: "Whitespace"
 description: ""
-external_url: "https://github.com/beardog108/snow10"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/beardog108/snow10)
+

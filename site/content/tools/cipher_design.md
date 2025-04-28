@@ -1,6 +1,6 @@
 ---
 title: "Cipher Design"
 description: ""
-external_url: "http://cipherdesign.co.uk/service/php-obfuscator"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://cipherdesign.co.uk/service/php-obfuscator)
+

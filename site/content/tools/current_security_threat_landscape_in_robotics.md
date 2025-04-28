@@ -12,6 +12,6 @@ Protecting robot endpoints against cyber-threats, ROS-Industrial Conference 2020
 Robots and Privacy, Shmoocon 2020
 
 "
-external_url: "https://www.youtube.com/watch?v=5pWqROTERgU&list=PLf4Fnww4KiFdjCAfs04ynv40xbpqFPibm&index=10"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.youtube.com/watch?v=5pWqROTERgU&list=PLf4Fnww4KiFdjCAfs04ynv40xbpqFPibm&index=10)
+

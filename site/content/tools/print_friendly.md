@@ -9,6 +9,6 @@ If the document is only available in HTML, print a \"clean\" version (e.g. with 
 
 
 "
-external_url: "https://printfriendly.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://printfriendly.com/)
+

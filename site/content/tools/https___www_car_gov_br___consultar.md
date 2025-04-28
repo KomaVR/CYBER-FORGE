@@ -1,6 +1,6 @@
 ---
 title: "https://www.car.gov.br/#/consultar"
 description: ""
-external_url: "https://www.car.gov.br/#/consultar"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.car.gov.br/#/consultar)
+

@@ -1,6 +1,6 @@
 ---
 title: "rafaveira3"
 description: ""
-external_url: "https://github.com/rafaveira3"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/rafaveira3)
+

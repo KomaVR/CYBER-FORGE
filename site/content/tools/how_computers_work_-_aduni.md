@@ -12,6 +12,6 @@ CS-224 - Computer Organization, 2009-2010 Spring, Bilkent University (YouTube pl
 INFORMATICS 2C - INTRODUCTION TO COMPUTER SYSTEMS (AUTUMN 2016) - University of Edinburgh
 
 "
-external_url: "http://aduni.org/courses/hcw/index.php?view=cw"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://aduni.org/courses/hcw/index.php?view=cw)
+

@@ -12,6 +12,6 @@ Testing for JSON Web Token Flaw (EXTRA-TEST-006)
 Test Cross Origin Resource Sharing (OTG-CLIENT-007)
 
 "
-external_url: "https://github.com/Voorivex/pentest-guide/tree/master/Privilege-Escalation"
-category: "Grey Hat Tools"
----
+external_category: "Grey Hat Tools"
+---[Visit Website](https://github.com/Voorivex/pentest-guide/tree/master/Privilege-Escalation)
+

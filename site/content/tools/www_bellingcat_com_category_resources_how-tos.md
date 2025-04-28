@@ -5,6 +5,6 @@ Bellingcat’s resources,
 ,
 for example:
 "
-external_url: "http://www.bellingcat.com/category/resources/how-tos/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.bellingcat.com/category/resources/how-tos/)
+

@@ -1,6 +1,6 @@
 ---
 title: "yhjun1026"
 description: ""
-external_url: "https://github.com/yhjun1026"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/yhjun1026)
+

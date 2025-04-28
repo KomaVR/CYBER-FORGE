@@ -1,6 +1,6 @@
 ---
 title: "https://rapidapi.com/"
 description: "public API"
-external_url: "https://rapidapi.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://rapidapi.com/)
+

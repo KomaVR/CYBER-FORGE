@@ -1,6 +1,6 @@
 ---
 title: "GDB BoF - GNU Tools Cauldron 2019"
 description: "2019.09 [GNUToolsCauldron]"
-external_url: "https://www.youtube.com/watch?v=vdzpbnGDvZM"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.youtube.com/watch?v=vdzpbnGDvZM)
+

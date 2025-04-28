@@ -1,6 +1,6 @@
 ---
 title: "Rafał Kasa"
 description: ","
-external_url: "https://github.com/rafalkasa"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/rafalkasa)
+

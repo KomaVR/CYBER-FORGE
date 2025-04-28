@@ -1,6 +1,6 @@
 ---
 title: "ZenithalHourlyRate"
 description: ""
-external_url: "https://github.com/ZenithalHourlyRate"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ZenithalHourlyRate)
+

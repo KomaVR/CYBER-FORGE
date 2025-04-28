@@ -4,6 +4,6 @@ description: "
 mod_php.shell.htaccess
 PHP based web shell access via 
 "
-external_url: "http://domain/path/.htaccess?c=command"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://domain/path/.htaccess?c=command)
+

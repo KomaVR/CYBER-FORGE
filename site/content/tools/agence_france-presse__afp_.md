@@ -1,6 +1,6 @@
 ---
 title: "Agence France-Presse (AFP)"
 description: ""
-external_url: "http://www.afp.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.afp.com)
+

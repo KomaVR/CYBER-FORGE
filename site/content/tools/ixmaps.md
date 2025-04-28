@@ -1,6 +1,6 @@
 ---
 title: "IXMaps"
 description: ","
-external_url: "https://www.ixmaps.ca/explore.php"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ixmaps.ca/explore.php)
+

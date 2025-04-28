@@ -1,6 +1,6 @@
 ---
 title: "Pierre-Gronau-ndaal"
 description: ""
-external_url: "https://github.com/Pierre-Gronau-ndaal"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Pierre-Gronau-ndaal)
+

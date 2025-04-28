@@ -9,6 +9,6 @@ Programming for Designers - COMP1400-T2 (2010) - UNSW
 05-600 HCI Pro Seminar - Fall 2015 - CMU
 
 "
-external_url: "https://hci.stanford.edu/courses/cs147/2015/au/calendar.php"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://hci.stanford.edu/courses/cs147/2015/au/calendar.php)
+

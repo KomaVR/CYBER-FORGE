@@ -1,6 +1,6 @@
 ---
 title: "South Australia Police Force"
 description: "Australian  Website."
-external_url: "https://www.police.sa.gov.au/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://www.police.sa.gov.au/)
+

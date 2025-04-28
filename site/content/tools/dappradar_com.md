@@ -1,6 +1,6 @@
 ---
 title: "dappradar.com"
 description: ""
-external_url: "https://dappradar.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://dappradar.com)
+

@@ -1,6 +1,6 @@
 ---
 title: "Metatube"
 description: ""
-external_url: "http://www.metatube.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.metatube.com)
+

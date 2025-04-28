@@ -1,6 +1,6 @@
 ---
 title: "Slimjet"
 description: ""
-external_url: "http://www.slimjet.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.slimjet.com)
+

@@ -1,6 +1,6 @@
 ---
 title: "Underground"
 description: ""
-external_url: "https://vx-underground.org/samples.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://vx-underground.org/samples.html)
+

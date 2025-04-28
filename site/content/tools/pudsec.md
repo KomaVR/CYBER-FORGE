@@ -1,6 +1,6 @@
 ---
 title: "pudsec"
 description: ""
-external_url: "https://github.com/pudsec"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/pudsec)
+

@@ -1,6 +1,6 @@
 ---
 title: "Flight Stats"
 description: ""
-external_url: "http://www.flightstats.com/go/Home/home.do"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.flightstats.com/go/Home/home.do)
+

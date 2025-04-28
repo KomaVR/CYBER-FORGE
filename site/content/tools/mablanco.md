@@ -1,6 +1,6 @@
 ---
 title: "mablanco"
 description: ""
-external_url: "https://github.com/mablanco"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mablanco)
+

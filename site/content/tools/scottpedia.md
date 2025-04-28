@@ -1,6 +1,6 @@
 ---
 title: "scottpedia"
 description: ""
-external_url: "https://github.com/scottpedia"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/scottpedia)
+

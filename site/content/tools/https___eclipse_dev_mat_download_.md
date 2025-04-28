@@ -1,6 +1,6 @@
 ---
 title: "https://eclipse.dev/mat/download/"
 description: "Memory Analyzer:"
-external_url: "https://eclipse.dev/mat/download/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://eclipse.dev/mat/download/)
+

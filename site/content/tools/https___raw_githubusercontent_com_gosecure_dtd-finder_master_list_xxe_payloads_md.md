@@ -3,6 +3,6 @@ title: "https://raw.githubusercontent.com/GoSecure/dtd-finder/master/list/xxe_pa
 description: "
 
 "
-external_url: "https://raw.githubusercontent.com/GoSecure/dtd-finder/master/list/xxe_payloads.md"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://raw.githubusercontent.com/GoSecure/dtd-finder/master/list/xxe_payloads.md)
+

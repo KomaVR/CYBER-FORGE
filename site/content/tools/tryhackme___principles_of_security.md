@@ -3,6 +3,6 @@ title: "TryHackMe | Principles of Security"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/principlesofsecurity"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/principlesofsecurity)
+

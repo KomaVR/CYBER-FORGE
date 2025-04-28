@@ -1,6 +1,6 @@
 ---
 title: "Plugin Tutorials"
 description: "."
-external_url: "https://github.com/urbanadventurer/WhatWeb/tree/master/my-plugins"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/urbanadventurer/WhatWeb/tree/master/my-plugins)
+

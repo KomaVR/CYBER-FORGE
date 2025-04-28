@@ -6,6 +6,6 @@ unicode converter
 
 
 "
-external_url: "https://www.branah.com/unicode-converter"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.branah.com/unicode-converter)
+

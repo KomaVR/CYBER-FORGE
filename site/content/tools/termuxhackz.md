@@ -1,6 +1,6 @@
 ---
 title: "TermuxHackz"
 description: ""
-external_url: "https://github.com/TermuxHackz"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/TermuxHackz)
+

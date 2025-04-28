@@ -1,6 +1,6 @@
 ---
 title: "Download the latest PDF"
 description: "⬇️"
-external_url: "https://github.com/OWASP/owasp-mastg/releases/latest"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/OWASP/owasp-mastg/releases/latest)
+

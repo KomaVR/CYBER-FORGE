@@ -1,6 +1,6 @@
 ---
 title: "AndroidSecNotes"
 description: "notes"
-external_url: "https://github.com/JnuSimba/AndroidSecNotes"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/JnuSimba/AndroidSecNotes)
+

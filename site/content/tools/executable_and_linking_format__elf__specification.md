@@ -1,6 +1,6 @@
 ---
 title: "Executable and linking format (ELF) specification"
 description: "📋"
-external_url: "https://refspecs.linuxfoundation.org/elf/elf.pdf"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://refspecs.linuxfoundation.org/elf/elf.pdf)
+

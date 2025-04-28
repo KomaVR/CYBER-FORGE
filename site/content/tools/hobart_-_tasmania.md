@@ -1,6 +1,6 @@
 ---
 title: "Hobart - Tasmania"
 description: ""
-external_url: "https://en.wikipedia.org/wiki/Hobart"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://en.wikipedia.org/wiki/Hobart)
+

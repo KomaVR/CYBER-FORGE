@@ -3,6 +3,6 @@ title: "https://github.com/abrignoni/ALEAPP"
 description: "
 ALEAPP:  (MIT LICENSE).
 "
-external_url: "https://github.com/abrignoni/ALEAPP"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/abrignoni/ALEAPP)
+

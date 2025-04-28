@@ -1,6 +1,6 @@
 ---
 title: "HIS Piers"
 description: ""
-external_url: "https://www.ihs.com/products/piers.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ihs.com/products/piers.html)
+

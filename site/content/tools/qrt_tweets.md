@@ -1,6 +1,6 @@
 ---
 title: "qrt tweets"
 description: ""
-external_url: "http://qtrtweets.com/twitter/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://qtrtweets.com/twitter/)
+

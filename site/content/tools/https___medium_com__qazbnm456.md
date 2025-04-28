@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://medium.com/@qazbnm456"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://medium.com/@qazbnm456)
+

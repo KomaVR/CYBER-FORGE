@@ -1,6 +1,6 @@
 ---
 title: "https://datarecovery.com/rd/default-passwords/"
 description: "datarecovery:  online"
-external_url: "https://datarecovery.com/rd/default-passwords/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://datarecovery.com/rd/default-passwords/)
+

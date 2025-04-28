@@ -1,6 +1,6 @@
 ---
 title: "chemamartinez"
 description: ""
-external_url: "https://github.com/chemamartinez"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/chemamartinez)
+

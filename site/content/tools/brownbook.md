@@ -1,6 +1,6 @@
 ---
 title: "brownbook"
 description: ""
-external_url: "https://www.brownbook.net/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.brownbook.net/)
+

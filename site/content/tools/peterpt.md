@@ -1,6 +1,6 @@
 ---
 title: "peterpt"
 description: "Maintainer & Contributor"
-external_url: "https://github.com/peterpt"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/peterpt)
+

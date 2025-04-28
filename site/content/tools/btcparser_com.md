@@ -1,6 +1,6 @@
 ---
 title: "btcparser.com"
 description: ""
-external_url: "https://btcparser.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://btcparser.com)
+

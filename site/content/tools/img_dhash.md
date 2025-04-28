@@ -1,6 +1,6 @@
 ---
 title: "img_dhash"
 description: ""
-external_url: "https://sn0int.readthedocs.io/en/latest/reference.html#img-dhash"
-category: "Password Cracking"
----
+external_category: "Password Cracking"
+---[Visit Website](https://sn0int.readthedocs.io/en/latest/reference.html#img-dhash)
+

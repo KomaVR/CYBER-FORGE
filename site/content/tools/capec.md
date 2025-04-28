@@ -1,6 +1,6 @@
 ---
 title: "CAPEC"
 description: ""
-external_url: "http://capec.mitre.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://capec.mitre.org)
+

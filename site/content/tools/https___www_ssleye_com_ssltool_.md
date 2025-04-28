@@ -1,6 +1,6 @@
 ---
 title: "https://www.ssleye.com/ssltool/"
 description: ""
-external_url: "https://www.ssleye.com/ssltool/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ssleye.com/ssltool/)
+

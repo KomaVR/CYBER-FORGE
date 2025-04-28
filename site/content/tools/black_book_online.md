@@ -1,6 +1,6 @@
 ---
 title: "Black Book Online"
 description: "Free. Nationwide directory of public record lookups."
-external_url: "https://www.blackbookonline.info"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.blackbookonline.info)
+

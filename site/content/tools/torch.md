@@ -1,6 +1,6 @@
 ---
 title: "Torch"
 description: ""
-external_url: "http://www.torchbrowser.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.torchbrowser.com)
+

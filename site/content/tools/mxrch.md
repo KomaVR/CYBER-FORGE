@@ -1,6 +1,6 @@
 ---
 title: "mxrch"
 description: "(and for the logo)"
-external_url: "https://github.com/mxrch"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mxrch)
+

@@ -1,6 +1,6 @@
 ---
 title: "Tokugero"
 description: "Tokugero"
-external_url: "https://github.com/Tokugero"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Tokugero)
+

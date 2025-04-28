@@ -1,6 +1,6 @@
 ---
 title: "cydia2020"
 description: ""
-external_url: "https://github.com/cydia2020"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/cydia2020)
+

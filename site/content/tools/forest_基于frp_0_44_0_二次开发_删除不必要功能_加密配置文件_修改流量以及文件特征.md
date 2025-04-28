@@ -1,6 +1,6 @@
 ---
 title: "Forest：基于frp(0.44.0)二次开发，删除不必要功能，加密配置文件，修改流量以及文件特征"
 description: ""
-external_url: "https://github.com/seventeenman/Forest"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/seventeenman/Forest)
+

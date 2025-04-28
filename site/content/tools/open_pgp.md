@@ -1,6 +1,6 @@
 ---
 title: "Open PGP"
 description: ""
-external_url: "https://www.enigmail.net/index.php/en"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.enigmail.net/index.php/en)
+

@@ -1,6 +1,6 @@
 ---
 title: "adityanandanx"
 description: ""
-external_url: "https://github.com/adityanandanx"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/adityanandanx)
+

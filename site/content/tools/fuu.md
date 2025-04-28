@@ -1,6 +1,6 @@
 ---
 title: "FUU"
 description: "Fast Universal Unpacker."
-external_url: "https://github.com/crackinglandia/fuu"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/crackinglandia/fuu)
+

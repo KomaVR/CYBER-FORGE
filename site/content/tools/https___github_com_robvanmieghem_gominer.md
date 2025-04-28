@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/robvanmieghem/gominer"
 description: ""
-external_url: "https://github.com/robvanmieghem/gominer"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/robvanmieghem/gominer)
+

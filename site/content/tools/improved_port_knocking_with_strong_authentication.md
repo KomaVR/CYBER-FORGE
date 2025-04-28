@@ -1,6 +1,6 @@
 ---
 title: "Improved Port Knocking with Strong Authentication"
 description: ""
-external_url: "https://www.acsac.org/2005/papers/156.pdf"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.acsac.org/2005/papers/156.pdf)
+

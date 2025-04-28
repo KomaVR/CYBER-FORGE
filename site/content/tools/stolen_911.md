@@ -1,6 +1,6 @@
 ---
 title: "Stolen 911"
 description: ""
-external_url: "https://stolen911.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://stolen911.com/)
+

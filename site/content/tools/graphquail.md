@@ -1,6 +1,6 @@
 ---
 title: "graphquail"
 description: ""
-external_url: "https://github.com/forcesunseen/graphquail"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/forcesunseen/graphquail)
+

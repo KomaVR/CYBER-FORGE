@@ -2,6 +2,6 @@
 title: "cadosecurity"
 description: "cadosecurity
 cado security"
-external_url: "https://github.com/cadosecurity"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/cadosecurity)
+

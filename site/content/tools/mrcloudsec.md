@@ -1,6 +1,6 @@
 ---
 title: "MrCloudSec"
 description: ""
-external_url: "https://github.com/MrCloudSec"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/MrCloudSec)
+

@@ -1,6 +1,6 @@
 ---
 title: "JustinGrote"
 description: ""
-external_url: "https://github.com/JustinGrote"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/JustinGrote)
+

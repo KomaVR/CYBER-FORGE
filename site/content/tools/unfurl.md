@@ -1,6 +1,6 @@
 ---
 title: "unfurl"
 description: "Extract and visualize data from URLs"
-external_url: "https://github.com/obsidianforensics/unfurl"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/obsidianforensics/unfurl)
+

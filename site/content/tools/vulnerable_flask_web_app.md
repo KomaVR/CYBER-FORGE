@@ -1,6 +1,6 @@
 ---
 title: "Vulnerable Flask Web App"
 description: "vulnerable Flask Web App lab environment"
-external_url: "https://github.com/anil-yelken/Vulnerable-Flask-App"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/anil-yelken/Vulnerable-Flask-App)
+

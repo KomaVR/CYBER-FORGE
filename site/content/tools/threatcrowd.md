@@ -1,6 +1,6 @@
 ---
 title: "Threatcrowd"
 description: ""
-external_url: "https://threatcrowd.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://threatcrowd.org/)
+

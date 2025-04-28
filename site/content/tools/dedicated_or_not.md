@@ -1,6 +1,6 @@
 ---
 title: "Dedicated or Not"
 description: ""
-external_url: "http://dedicatedornot.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://dedicatedornot.com)
+

@@ -2,6 +2,6 @@
 title: "zhanang19"
 description: "zhanang19
 Zainal Hasan"
-external_url: "https://github.com/zhanang19"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/zhanang19)
+

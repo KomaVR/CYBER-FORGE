@@ -1,6 +1,6 @@
 ---
 title: "Slideshare"
 description: ""
-external_url: "http://www.slideshare.net/abrahamaranguren/presentations"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.slideshare.net/abrahamaranguren/presentations)
+

@@ -1,6 +1,6 @@
 ---
 title: "files.fm"
 description: "Explore content shared by community"
-external_url: "https://files.fm/discover"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://files.fm/discover)
+

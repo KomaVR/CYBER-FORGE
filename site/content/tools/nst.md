@@ -1,6 +1,6 @@
 ---
 title: "NST"
 description: "Network Security Toolkit distribution."
-external_url: "http://networksecuritytoolkit.org"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](http://networksecuritytoolkit.org)
+

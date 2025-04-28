@@ -1,6 +1,6 @@
 ---
 title: "antinalysis.org"
 description: ""
-external_url: "https://antinalysis.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://antinalysis.org)
+

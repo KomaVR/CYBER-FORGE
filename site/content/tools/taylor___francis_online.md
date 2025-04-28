@@ -1,6 +1,6 @@
 ---
 title: "Taylor & Francis Online"
 description: ""
-external_url: "http://www.tandfonline.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.tandfonline.com)
+

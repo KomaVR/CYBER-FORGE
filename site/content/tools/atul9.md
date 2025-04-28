@@ -1,6 +1,6 @@
 ---
 title: "Atul9"
 description: ""
-external_url: "https://github.com/Atul9"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Atul9)
+

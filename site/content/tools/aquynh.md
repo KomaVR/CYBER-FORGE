@@ -1,6 +1,6 @@
 ---
 title: "aquynh"
 description: ""
-external_url: "https://github.com/aquynh"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/aquynh)
+

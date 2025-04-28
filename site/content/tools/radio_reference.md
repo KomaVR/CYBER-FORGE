@@ -1,6 +1,6 @@
 ---
 title: "Radio Reference"
 description: ""
-external_url: "http://www.radioreference.com/apps/db/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.radioreference.com/apps/db/)
+

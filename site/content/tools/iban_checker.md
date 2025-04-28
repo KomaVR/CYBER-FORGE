@@ -1,6 +1,6 @@
 ---
 title: "IBAN checker"
 description: ""
-external_url: "https://www.iban.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.iban.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/TheRook/subbrute"
 description: "TheRook"
-external_url: "https://github.com/TheRook/subbrute"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/TheRook/subbrute)
+

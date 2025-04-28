@@ -1,6 +1,6 @@
 ---
 title: "hauziz"
 description: ""
-external_url: "https://hauziz.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://hauziz.com/)
+

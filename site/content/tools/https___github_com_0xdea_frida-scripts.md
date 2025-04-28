@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/0xdea/frida-scripts"
 description: ""
-external_url: "https://github.com/0xdea/frida-scripts"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/0xdea/frida-scripts)
+

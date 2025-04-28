@@ -1,6 +1,6 @@
 ---
 title: "Mailvelope"
 description: ""
-external_url: "https://www.mailvelope.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.mailvelope.com)
+

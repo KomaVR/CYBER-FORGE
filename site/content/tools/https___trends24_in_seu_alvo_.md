@@ -1,6 +1,6 @@
 ---
 title: "https://trends24.in/SEU_ALVO/"
 description: ""
-external_url: "https://trends24.in/SEU_ALVO/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://trends24.in/SEU_ALVO/)
+

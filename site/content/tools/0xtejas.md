@@ -1,6 +1,6 @@
 ---
 title: "0xtejas"
 description: ""
-external_url: "https://github.com/0xtejas"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/0xtejas)
+

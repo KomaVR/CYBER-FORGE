@@ -1,6 +1,6 @@
 ---
 title: "GraphQL NoSQL Injection Through JSON Types"
 description: "Written by Pete."
-external_url: "http://www.petecorey.com/blog/2017/06/12/graphql-nosql-injection-through-json-types/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://www.petecorey.com/blog/2017/06/12/graphql-nosql-injection-through-json-types/)
+

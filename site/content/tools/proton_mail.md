@@ -1,6 +1,6 @@
 ---
 title: "Proton Mail"
 description: ""
-external_url: "https://protonmail.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://protonmail.com)
+

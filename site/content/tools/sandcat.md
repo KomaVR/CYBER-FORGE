@@ -1,6 +1,6 @@
 ---
 title: "Sandcat"
 description: "(default agent)"
-external_url: "https://github.com/mitre/sandcat"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mitre/sandcat)
+

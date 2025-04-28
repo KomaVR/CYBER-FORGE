@@ -1,6 +1,6 @@
 ---
 title: "JamesConlan96"
 description: ""
-external_url: "https://github.com/JamesConlan96"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/JamesConlan96)
+

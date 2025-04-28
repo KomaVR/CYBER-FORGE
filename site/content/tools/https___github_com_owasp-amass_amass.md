@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/owasp-amass/amass"
 description: "Amass:"
-external_url: "https://github.com/owasp-amass/amass"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/owasp-amass/amass)
+

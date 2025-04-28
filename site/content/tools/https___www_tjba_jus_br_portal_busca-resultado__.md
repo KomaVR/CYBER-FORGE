@@ -1,6 +1,6 @@
 ---
 title: "https://www.tjba.jus.br/portal/busca-resultado/#"
 description: ""
-external_url: "https://www.tjba.jus.br/portal/busca-resultado/#"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.tjba.jus.br/portal/busca-resultado/#)
+

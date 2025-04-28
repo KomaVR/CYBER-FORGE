@@ -1,6 +1,6 @@
 ---
 title: "PayloadsAllTheThings - SQL Injection"
 description: "Written by @swisskyrepo."
-external_url: "https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection)
+

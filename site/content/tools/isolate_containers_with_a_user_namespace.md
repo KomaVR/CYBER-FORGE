@@ -1,6 +1,6 @@
 ---
 title: "Isolate containers with a user namespace"
 description: ""
-external_url: "https://docs.docker.com/engine/security/userns-remap/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://docs.docker.com/engine/security/userns-remap/)
+

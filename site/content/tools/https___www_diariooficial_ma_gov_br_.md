@@ -1,6 +1,6 @@
 ---
 title: "https://www.diariooficial.ma.gov.br/"
 description: "Diário Oficial GOV| Maranhão"
-external_url: "https://www.diariooficial.ma.gov.br/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.diariooficial.ma.gov.br/)
+

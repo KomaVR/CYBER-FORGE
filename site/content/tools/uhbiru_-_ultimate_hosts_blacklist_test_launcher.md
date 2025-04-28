@@ -5,6 +5,6 @@ description: "
 The tool to update/test our input source repositories.
 
 "
-external_url: "https://pypi.org/project/ultimate-hosts-blacklist-test-launcher/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://pypi.org/project/ultimate-hosts-blacklist-test-launcher/)
+

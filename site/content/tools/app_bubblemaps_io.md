@@ -1,6 +1,6 @@
 ---
 title: "app.bubblemaps.io"
 description: ""
-external_url: "https://app.bubblemaps.io/eth"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://app.bubblemaps.io/eth)
+

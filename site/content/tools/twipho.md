@@ -1,6 +1,6 @@
 ---
 title: "Twipho"
 description: ""
-external_url: "http://www.twipho.net/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.twipho.net/)
+

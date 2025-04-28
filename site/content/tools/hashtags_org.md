@@ -1,6 +1,6 @@
 ---
 title: "Hashtags.org"
 description: ""
-external_url: "http://www.hashtags.org/"
-category: "Password Cracking"
----
+external_category: "Password Cracking"
+---[Visit Website](http://www.hashtags.org/)
+

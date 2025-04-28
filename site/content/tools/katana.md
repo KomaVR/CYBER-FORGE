@@ -1,6 +1,6 @@
 ---
 title: "katana"
 description: "JS files & Source Code Scraping ()"
-external_url: "https://github.com/projectdiscovery/katana"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/projectdiscovery/katana)
+

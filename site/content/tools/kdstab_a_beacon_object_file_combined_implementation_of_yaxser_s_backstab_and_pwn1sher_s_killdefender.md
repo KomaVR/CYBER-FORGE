@@ -1,6 +1,6 @@
 ---
 title: "KDStab：a Beacon Object File combined implementation of Yaxser's Backstab and pwn1sher's KillDefender for use with Cobalt Strike"
 description: ""
-external_url: "https://github.com/Octoberfest7/KDStab"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://github.com/Octoberfest7/KDStab)
+

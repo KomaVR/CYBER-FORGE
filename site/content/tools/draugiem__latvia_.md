@@ -1,6 +1,6 @@
 ---
 title: "Draugiem (Latvia)"
 description: ""
-external_url: "https://www.draugiem.lv"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.draugiem.lv)
+

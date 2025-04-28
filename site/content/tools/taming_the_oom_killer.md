@@ -1,6 +1,6 @@
 ---
 title: "Taming the OOM killer"
 description: ""
-external_url: "https://lwn.net/Articles/317814/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://lwn.net/Articles/317814/)
+

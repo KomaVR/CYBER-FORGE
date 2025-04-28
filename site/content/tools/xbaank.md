@@ -1,6 +1,6 @@
 ---
 title: "xBaank"
 description: ""
-external_url: "https://github.com/xBaank"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/xBaank)
+

@@ -1,6 +1,6 @@
 ---
 title: "Crossfilter"
 description: ""
-external_url: "http://square.github.io/crossfilter"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://square.github.io/crossfilter)
+

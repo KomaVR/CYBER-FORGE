@@ -8,6 +8,6 @@ ILSpy - an open-source .NET assembly browser and decompiler
 dnSpy - .NET assembly editor, decompiler, and debugger
 
 "
-external_url: "https://www.jetbrains.com/decompiler/"
-category: "Reverse Engineering"
----
+external_category: "Reverse Engineering"
+---[Visit Website](https://www.jetbrains.com/decompiler/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Remix VSC"
 description: ""
-external_url: "https://marketplace.visualstudio.com/items?itemName=RemixProject.ethereum-remix"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://marketplace.visualstudio.com/items?itemName=RemixProject.ethereum-remix)
+

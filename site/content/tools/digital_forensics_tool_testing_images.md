@@ -1,6 +1,6 @@
 ---
 title: "Digital Forensics Tool Testing Images"
 description: ""
-external_url: "http://dftt.sourceforge.net"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](http://dftt.sourceforge.net)
+

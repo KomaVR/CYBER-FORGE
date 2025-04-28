@@ -3,6 +3,6 @@ title: "TryHackMe | Carpe Diem 1"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/carpediem1"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/carpediem1)
+

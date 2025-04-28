@@ -7,6 +7,6 @@ https://github.com/galkan/crowbar supports sshkey and openvpn
 https://github.com/evilsocket/legba/
 
 "
-external_url: "https://github.com/vanhauser-thc/thc-hydra"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://github.com/vanhauser-thc/thc-hydra)
+

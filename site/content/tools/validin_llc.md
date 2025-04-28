@@ -1,6 +1,6 @@
 ---
 title: "Validin LLC"
 description: ""
-external_url: "https://twitter.com/ValidinLLC/status/1719666086390517762"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://twitter.com/ValidinLLC/status/1719666086390517762)
+

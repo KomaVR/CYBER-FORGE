@@ -1,6 +1,6 @@
 ---
 title: "Managing Tailpipe"
 description: ""
-external_url: "https://tailpipe.io/docs/manage"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tailpipe.io/docs/manage)
+

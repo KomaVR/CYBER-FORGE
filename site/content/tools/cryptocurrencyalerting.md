@@ -1,6 +1,6 @@
 ---
 title: "CryptocurrencyAlerting"
 description: ""
-external_url: "https://cryptocurrencyalerting.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://cryptocurrencyalerting.com)
+

@@ -5,6 +5,6 @@ description: "ANCHIETA RIBEIRAO DOS COUROS
 
 
 "
-external_url: "https://www.ecovias.com.br/boletim/camera/11"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ecovias.com.br/boletim/camera/11)
+

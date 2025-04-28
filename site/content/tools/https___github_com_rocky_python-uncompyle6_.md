@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/rocky/python-uncompyle6/"
 description: "pyc->py"
-external_url: "https://github.com/rocky/python-uncompyle6/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/rocky/python-uncompyle6/)
+

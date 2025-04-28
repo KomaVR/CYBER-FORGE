@@ -1,6 +1,6 @@
 ---
 title: "Deploys at Slack"
 description: ""
-external_url: "https://slack.engineering/deploys-at-slack/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://slack.engineering/deploys-at-slack/)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://urlabuse.com/public/files"
 description: ""
-external_url: "https://urlabuse.com/public/files"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://urlabuse.com/public/files)
+

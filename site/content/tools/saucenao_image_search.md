@@ -1,6 +1,6 @@
 ---
 title: "SauceNAO Image Search"
 description: ""
-external_url: "https://saucenao.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://saucenao.com/)
+

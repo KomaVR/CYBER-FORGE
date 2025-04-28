@@ -1,6 +1,6 @@
 ---
 title: "spoNge369"
 description: ""
-external_url: "https://github.com/spoNge369"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/spoNge369)
+

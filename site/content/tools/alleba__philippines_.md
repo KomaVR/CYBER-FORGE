@@ -1,6 +1,6 @@
 ---
 title: "Alleba (Philippines)"
 description: "Philippines search engine"
-external_url: "http://www.alleba.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.alleba.com)
+

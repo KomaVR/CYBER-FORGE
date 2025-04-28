@@ -1,6 +1,6 @@
 ---
 title: "IP地址查询"
 description: ""
-external_url: "http://ip38.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://ip38.com/)
+

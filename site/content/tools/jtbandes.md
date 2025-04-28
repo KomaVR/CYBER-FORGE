@@ -1,6 +1,6 @@
 ---
 title: "jtbandes"
 description: ""
-external_url: "https://github.com/jtbandes"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jtbandes)
+

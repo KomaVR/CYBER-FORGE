@@ -8,6 +8,6 @@ coverage-pin 使用Pin收集覆盖信息
 插件 支持IDA和BinNinja
 
 "
-external_url: "https://github.com/gaasedelen/lighthouse"
-category: "Reverse Engineering"
----
+external_category: "Reverse Engineering"
+---[Visit Website](https://github.com/gaasedelen/lighthouse)
+

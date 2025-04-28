@@ -1,6 +1,6 @@
 ---
 title: "OpenGazettes"
 description: ""
-external_url: "http://opengazettes.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://opengazettes.com/)
+

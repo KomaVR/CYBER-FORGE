@@ -3,6 +3,6 @@ title: "Social Engineering in IT Security: Tools, Tactics, and Techniques, Sharo
 description: "
 
 "
-external_url: "https://www.amazon.com/Social-Engineering-Security-Techniques-Networking/dp/0071818464"
-category: "Social Engineering"
----
+external_category: "Social Engineering"
+---[Visit Website](https://www.amazon.com/Social-Engineering-Security-Techniques-Networking/dp/0071818464)
+

@@ -13,6 +13,6 @@ How To Automatically Embed Payloads In APK's - Evil-Droid, Thefatrat & Apkinject
 Bind FUD Payload with JPG and Hack over WAN with TheFatRat
 
 "
-external_url: "https://www.youtube.com/watch?v=FsSgJFxyzFQ"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://www.youtube.com/watch?v=FsSgJFxyzFQ)
+

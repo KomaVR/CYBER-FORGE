@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/n00py/DCSync"
 description: ""
-external_url: "https://github.com/n00py/DCSync"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/n00py/DCSync)
+

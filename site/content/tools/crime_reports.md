@@ -1,6 +1,6 @@
 ---
 title: "Crime Reports"
 description: ""
-external_url: "https://www.crimereports.com/home/#!/dashboard"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.crimereports.com/home/#!/dashboard)
+

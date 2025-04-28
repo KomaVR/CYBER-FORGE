@@ -1,6 +1,6 @@
 ---
 title: "Google Input Tools"
 description: ""
-external_url: "https://www.google.com/inputtools/try"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.google.com/inputtools/try)
+

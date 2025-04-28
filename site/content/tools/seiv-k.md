@@ -1,6 +1,6 @@
 ---
 title: "SeiV-K"
 description: ""
-external_url: "https://github.com/SeiV-K"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/SeiV-K)
+

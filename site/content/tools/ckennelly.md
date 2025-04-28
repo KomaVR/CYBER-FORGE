@@ -1,6 +1,6 @@
 ---
 title: "ckennelly"
 description: ""
-external_url: "https://github.com/ckennelly"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ckennelly)
+

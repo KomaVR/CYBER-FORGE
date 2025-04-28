@@ -1,6 +1,6 @@
 ---
 title: "Smalise"
 description: "Excellent Smali language support with"
-external_url: "https://github.com/LoyieKing/Smalise"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/LoyieKing/Smalise)
+

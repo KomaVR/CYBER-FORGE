@@ -1,6 +1,6 @@
 ---
 title: "Bscscan"
 description: ""
-external_url: "https://bscscan.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://bscscan.com/)
+

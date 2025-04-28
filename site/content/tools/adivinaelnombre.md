@@ -1,6 +1,6 @@
 ---
 title: "adivinaelnombre"
 description: ""
-external_url: "https://github.com/adivinaelnombre"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/adivinaelnombre)
+

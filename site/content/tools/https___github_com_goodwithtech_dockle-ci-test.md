@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/goodwithtech/dockle-ci-test"
 description: "Repository:"
-external_url: "https://github.com/goodwithtech/dockle-ci-test"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/goodwithtech/dockle-ci-test)
+

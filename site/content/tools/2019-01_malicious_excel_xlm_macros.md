@@ -10,6 +10,6 @@ c354467ec5d323fecf94d33bc05eab65f90a916c39137d2b751b0e637ca5a3e4.exe
 79a56ca8a7fdeed1f09466af66c24ddef5ef97ac026297f4ea32db6e01a81190.dll
 
 "
-external_url: "http://blog.inquest.net/blog/2019/01/29/Carving-Sneaky-XLM-Files/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://blog.inquest.net/blog/2019/01/29/Carving-Sneaky-XLM-Files/)
+

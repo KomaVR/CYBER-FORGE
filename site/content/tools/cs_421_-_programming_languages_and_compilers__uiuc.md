@@ -1,6 +1,6 @@
 ---
 title: "CS 421 - Programming Languages and Compilers, UIUC"
 description: ""
-external_url: "https://courses.engr.illinois.edu/cs421/fa2014/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://courses.engr.illinois.edu/cs421/fa2014/)
+

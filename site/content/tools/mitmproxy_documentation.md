@@ -9,6 +9,6 @@ Proxy server listening at http://*:9999
 IMPORTANT
 To configure your client to use the proxy exposed by mitm proxy, please consult the  for more information.
 "
-external_url: "https://docs.mitmproxy.org/stable/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://docs.mitmproxy.org/stable/)
+

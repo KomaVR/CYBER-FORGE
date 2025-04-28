@@ -1,6 +1,6 @@
 ---
 title: "How to force ssh client to use only password auth?"
 description: ""
-external_url: "https://unix.stackexchange.com/questions/15138/how-to-force-ssh-client-to-use-only-password-auth"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://unix.stackexchange.com/questions/15138/how-to-force-ssh-client-to-use-only-password-auth)
+

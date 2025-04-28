@@ -1,6 +1,6 @@
 ---
 title: "Cyber Alert"
 description: ""
-external_url: "http://www.cyberalert.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.cyberalert.com)
+

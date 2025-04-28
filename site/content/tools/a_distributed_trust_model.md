@@ -1,6 +1,6 @@
 ---
 title: "A Distributed Trust Model"
 description: ""
-external_url: "https://d1wqtxts1xzle7.cloudfront.net/33336702/nspw1997-rahman.pdf?1396028832=&response-content-disposition=inline%3B+filename%3DA_distributed_trust_model.pdf&Expires=1597138446&Signature=YJNEg8R68k0zWOQu3cIzt7xvOHBXIvSCKR4x~XDMmoeoc8I4RAW24PYxcBU1EXtHak5manFUSKJe-8ghp23dt-n37x20TRU0Jon6Sc7eOEehjFuzJdqkZku1XGBR7MWzN5s8kbMdKManuSz4XRD9ay4P~ptL06KpactCoqqMc4XC663fSXj3CYF93ndEK9R9k6EYH4~62YSC7SRezdEB1gDPdyUlax64joBmuuH2SqYOQ2uGMOpkExz6lZNkDUjrMOHAVIe1DNjetldITrk6W1BUBipO9sVqWVsYuMS-zw5tiY3jdEaMUqR57pN6ZQY9ipRx8ux~3dq1crjHMPH7Ug__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://d1wqtxts1xzle7.cloudfront.net/33336702/nspw1997-rahman.pdf?1396028832=&response-content-disposition=inline%3B+filename%3DA_distributed_trust_model.pdf&Expires=1597138446&Signature=YJNEg8R68k0zWOQu3cIzt7xvOHBXIvSCKR4x~XDMmoeoc8I4RAW24PYxcBU1EXtHak5manFUSKJe-8ghp23dt-n37x20TRU0Jon6Sc7eOEehjFuzJdqkZku1XGBR7MWzN5s8kbMdKManuSz4XRD9ay4P~ptL06KpactCoqqMc4XC663fSXj3CYF93ndEK9R9k6EYH4~62YSC7SRezdEB1gDPdyUlax64joBmuuH2SqYOQ2uGMOpkExz6lZNkDUjrMOHAVIe1DNjetldITrk6W1BUBipO9sVqWVsYuMS-zw5tiY3jdEaMUqR57pN6ZQY9ipRx8ux~3dq1crjHMPH7Ug__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+

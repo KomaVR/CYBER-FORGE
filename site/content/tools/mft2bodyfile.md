@@ -1,6 +1,6 @@
 ---
 title: "mft2bodyfile"
 description: ""
-external_url: "https://github.com/janstarke/mft2bodyfile"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/janstarke/mft2bodyfile)
+

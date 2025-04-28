@@ -10,6 +10,6 @@ Trevisan LinkedIn Boolean Search Generator
 LinkedIn X-Ray Search Tool
 
 "
-external_url: "https://freepeoplesearchtool.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://freepeoplesearchtool.com/)
+

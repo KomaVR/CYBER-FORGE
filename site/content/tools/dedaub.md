@@ -1,6 +1,6 @@
 ---
 title: "Dedaub"
 description: ""
-external_url: "https://library.dedaub.com/decompile"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://library.dedaub.com/decompile)
+

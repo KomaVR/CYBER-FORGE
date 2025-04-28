@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "http://paypal.me/brandonskerritt"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://paypal.me/brandonskerritt)
+

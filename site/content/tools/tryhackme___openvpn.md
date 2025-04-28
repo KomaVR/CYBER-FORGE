@@ -3,6 +3,6 @@ title: "TryHackMe | OpenVPN"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/openvpn"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/openvpn)
+

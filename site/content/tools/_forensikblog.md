@@ -1,6 +1,6 @@
 ---
 title: "@forensikblog"
 description: "Computer forensic geek"
-external_url: "https://twitter.com/forensikblog"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://twitter.com/forensikblog)
+

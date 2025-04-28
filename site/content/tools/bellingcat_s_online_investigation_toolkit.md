@@ -1,6 +1,6 @@
 ---
 title: "Bellingcat's Online Investigation Toolkit"
 description: ""
-external_url: "http://bit.ly/bcattools"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://bit.ly/bcattools)
+

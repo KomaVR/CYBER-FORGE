@@ -12,6 +12,6 @@ Peering relationships separated by type (upstream/downstream/uncertain), and sor
 Announced prefixes aggregated to the most relevant less-specific INET(6)NUM object (actual ).
 
 "
-external_url: "https://www.ripe.net/manage-ips-and-asns/db/support/documentation/ripe-database-documentation/rpsl-object-types/4-2-descriptions-of-primary-objects/4-2-4-description-of-the-inetnum-object"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ripe.net/manage-ips-and-asns/db/support/documentation/ripe-database-documentation/rpsl-object-types/4-2-descriptions-of-primary-objects/4-2-4-description-of-the-inetnum-object)
+

@@ -1,6 +1,6 @@
 ---
 title: "Ice3man543"
 description: ""
-external_url: "https://github.com/Ice3man543"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Ice3man543)
+

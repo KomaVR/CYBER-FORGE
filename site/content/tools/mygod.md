@@ -1,6 +1,6 @@
 ---
 title: "Mygod"
 description: ""
-external_url: "https://github.com/Mygod"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Mygod)
+

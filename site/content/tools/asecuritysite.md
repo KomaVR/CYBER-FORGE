@@ -1,6 +1,6 @@
 ---
 title: "asecuritysite"
 description: ";"
-external_url: "https://asecuritysite.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://asecuritysite.com/)
+

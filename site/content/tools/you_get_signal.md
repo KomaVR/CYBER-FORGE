@@ -1,6 +1,6 @@
 ---
 title: "You Get Signal"
 description: ""
-external_url: "http://www.yougetsignal.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.yougetsignal.com)
+

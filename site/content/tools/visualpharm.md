@@ -1,6 +1,6 @@
 ---
 title: "VisualPharm"
 description: "Bug icon by"
-external_url: "https://www.visualpharm.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.visualpharm.com)
+

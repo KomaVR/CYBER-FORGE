@@ -1,6 +1,6 @@
 ---
 title: "NordVPN"
 description: ""
-external_url: "https://nordvpn.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://nordvpn.com/)
+

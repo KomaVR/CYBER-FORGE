@@ -1,6 +1,6 @@
 ---
 title: "kao"
 description: ""
-external_url: "https://lifeinhex.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://lifeinhex.com)
+

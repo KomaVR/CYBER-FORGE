@@ -1,6 +1,6 @@
 ---
 title: "sqlchop"
 description: "SQL injection detection engine by chaitin."
-external_url: "https://sqlchop.chaitin.cn/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://sqlchop.chaitin.cn/)
+

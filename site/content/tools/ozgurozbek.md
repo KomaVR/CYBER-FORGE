@@ -1,6 +1,6 @@
 ---
 title: "ozgurozbek"
 description: ""
-external_url: "https://github.com/ozgurozbek"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ozgurozbek)
+

@@ -1,6 +1,6 @@
 ---
 title: "http://sigma-soschuva.cptec.inpe.br/#"
 description: ""
-external_url: "http://sigma-soschuva.cptec.inpe.br/#"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://sigma-soschuva.cptec.inpe.br/#)
+

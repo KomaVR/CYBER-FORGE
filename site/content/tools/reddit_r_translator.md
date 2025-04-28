@@ -1,6 +1,6 @@
 ---
 title: "Reddit/r/translator"
 description: ""
-external_url: "https://www.reddit.com/r/translator"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.reddit.com/r/translator)
+

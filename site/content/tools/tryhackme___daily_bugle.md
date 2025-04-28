@@ -3,6 +3,6 @@ title: "TryHackMe | Daily Bugle"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/dailybugle"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/dailybugle)
+

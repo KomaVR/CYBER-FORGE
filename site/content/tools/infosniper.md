@@ -1,6 +1,6 @@
 ---
 title: "Infosniper"
 description: ""
-external_url: "http://www.infosniper.net"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.infosniper.net)
+

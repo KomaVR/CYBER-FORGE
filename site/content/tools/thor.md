@@ -1,6 +1,6 @@
 ---
 title: "Thor"
 description: "BruteForce SSH Login Credentials much Faster."
-external_url: "https://github.com/vrikodar/Thor"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/vrikodar/Thor)
+

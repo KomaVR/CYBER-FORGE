@@ -15,6 +15,6 @@ Rails 5.2 後，可透過 credentials.yml.enc 和 master.key 還原
 
 
 "
-external_url: "https://github.com/w181496/Web-CTF-Cheatsheet/blob/master/scripts/others/secret_key_base_decrypt.rb"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/w181496/Web-CTF-Cheatsheet/blob/master/scripts/others/secret_key_base_decrypt.rb)
+

@@ -1,6 +1,6 @@
 ---
 title: "Adventures in Automotive Networks and Control Units (aka car hacking)"
 description: ""
-external_url: "http://illmatics.com/car_hacking.pdf"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](http://illmatics.com/car_hacking.pdf)
+

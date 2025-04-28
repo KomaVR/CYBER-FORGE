@@ -1,6 +1,6 @@
 ---
 title: "ifeLawal"
 description: ""
-external_url: "https://github.com/ifeLawal"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ifeLawal)
+

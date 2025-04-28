@@ -1,6 +1,6 @@
 ---
 title: "UkrOpen"
 description: ""
-external_url: "http://ukropen.net/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://ukropen.net/)
+

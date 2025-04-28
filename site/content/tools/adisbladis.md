@@ -1,6 +1,6 @@
 ---
 title: "adisbladis"
 description: ""
-external_url: "https://github.com/adisbladis"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/adisbladis)
+

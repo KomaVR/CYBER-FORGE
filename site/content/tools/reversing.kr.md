@@ -1,7 +1,6 @@
 ---
 title: "reversing.kr"
 description: ""
-external_url: "http://reversing.kr/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://reversing.kr/)
 

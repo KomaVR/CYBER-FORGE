@@ -1,6 +1,6 @@
 ---
 title: "Bank for International Settlements Statistics"
 description: ""
-external_url: "http://www.bis.org/statistics/index.htm"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.bis.org/statistics/index.htm)
+

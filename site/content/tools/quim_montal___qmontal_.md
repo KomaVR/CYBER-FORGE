@@ -1,6 +1,6 @@
 ---
 title: "Quim Montal (@qmontal)"
 description: ""
-external_url: "https://github.com/qmontal"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/qmontal)
+

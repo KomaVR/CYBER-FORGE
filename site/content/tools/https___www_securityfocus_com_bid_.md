@@ -1,6 +1,6 @@
 ---
 title: "https://www.securityfocus.com/bid/"
 description: "securityfocus.csv"
-external_url: "https://www.securityfocus.com/bid/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.securityfocus.com/bid/)
+

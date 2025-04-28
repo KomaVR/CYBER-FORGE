@@ -1,6 +1,6 @@
 ---
 title: "https://threatview.io/Downloads/IP-High-Confidence-Feed.txt"
 description: ""
-external_url: "https://threatview.io/Downloads/IP-High-Confidence-Feed.txt"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://threatview.io/Downloads/IP-High-Confidence-Feed.txt)
+

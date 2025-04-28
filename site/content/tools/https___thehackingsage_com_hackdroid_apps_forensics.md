@@ -1,6 +1,6 @@
 ---
 title: "https://thehackingsage.com/hackdroid/apps/forensics"
 description: "Forensics :"
-external_url: "https://thehackingsage.com/hackdroid/apps/forensics"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://thehackingsage.com/hackdroid/apps/forensics)
+

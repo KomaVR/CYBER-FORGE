@@ -1,6 +1,6 @@
 ---
 title: "Homepage"
 description: "🌐"
-external_url: "https://caldera.mitre.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://caldera.mitre.org)
+

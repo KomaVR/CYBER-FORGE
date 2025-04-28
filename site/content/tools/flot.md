@@ -1,6 +1,6 @@
 ---
 title: "Flot"
 description: ""
-external_url: "http://www.flotcharts.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.flotcharts.org)
+

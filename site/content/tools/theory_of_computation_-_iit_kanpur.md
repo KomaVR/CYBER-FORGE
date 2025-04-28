@@ -1,6 +1,6 @@
 ---
 title: "Theory of Computation - IIT Kanpur"
 description: ""
-external_url: "https://nptel.ac.in/courses/106104028/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://nptel.ac.in/courses/106104028/)
+

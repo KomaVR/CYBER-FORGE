@@ -1,6 +1,6 @@
 ---
 title: "adeebshihadeh"
 description: ""
-external_url: "https://github.com/adeebshihadeh"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/adeebshihadeh)
+

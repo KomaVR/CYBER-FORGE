@@ -1,6 +1,6 @@
 ---
 title: "diosmosis"
 description: ""
-external_url: "https://github.com/diosmosis"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/diosmosis)
+

@@ -3,6 +3,6 @@ title: "TryHackMe | Advent of Cyber 2 [2020]"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/adventofcyber2"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/adventofcyber2)
+

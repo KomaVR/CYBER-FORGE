@@ -1,6 +1,6 @@
 ---
 title: "PDF Drive - Search and download PDF files for free."
 description: ""
-external_url: "https://www.pdfdrive.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.pdfdrive.com/)
+

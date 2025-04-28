@@ -1,6 +1,6 @@
 ---
 title: "Newspaper Map"
 description: ""
-external_url: "http://newspapermap.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://newspapermap.com)
+

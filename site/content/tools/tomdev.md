@@ -1,6 +1,6 @@
 ---
 title: "tomdev"
 description: ""
-external_url: "https://github.com/tomdev"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/tomdev)
+

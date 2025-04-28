@@ -1,6 +1,6 @@
 ---
 title: "https://ipstack.com/documentation"
 description: "IP Stack"
-external_url: "https://ipstack.com/documentation"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://ipstack.com/documentation)
+

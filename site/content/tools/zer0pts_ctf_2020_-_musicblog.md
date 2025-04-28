@@ -12,6 +12,6 @@ strip_tags(\"<s/trong>b</strong>\", \"<strong>\")
 Example: 
 
 "
-external_url: "https://github.com/w181496/CTF/tree/master/zer0pts2020/MusicBlog"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/w181496/CTF/tree/master/zer0pts2020/MusicBlog)
+

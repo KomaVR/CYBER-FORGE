@@ -1,6 +1,6 @@
 ---
 title: "MEV Toolkit"
 description: ""
-external_url: "https://github.com/go-outside-labs/mev-toolkit"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/go-outside-labs/mev-toolkit)
+

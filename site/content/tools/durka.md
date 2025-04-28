@@ -1,6 +1,6 @@
 ---
 title: "durka"
 description: ""
-external_url: "https://github.com/durka"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/durka)
+

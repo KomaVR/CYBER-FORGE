@@ -1,6 +1,6 @@
 ---
 title: "Esri"
 description: ""
-external_url: "http://www.esri.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.esri.com)
+

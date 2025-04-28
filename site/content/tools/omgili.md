@@ -1,6 +1,6 @@
 ---
 title: "Omgili"
 description: ""
-external_url: "http://omgili.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://omgili.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Microsoft SRE Page"
 description: ""
-external_url: "https://docs.microsoft.com/en-us/azure/site-reliability-engineering/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://docs.microsoft.com/en-us/azure/site-reliability-engineering/)
+

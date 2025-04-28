@@ -1,6 +1,6 @@
 ---
 title: "iOS Penetration Testing"
 description: ""
-external_url: "https://www.apress.com/gp/book/9781484223543"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.apress.com/gp/book/9781484223543)
+

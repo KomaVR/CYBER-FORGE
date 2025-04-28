@@ -1,6 +1,6 @@
 ---
 title: "https://www.eff.org/pages/cell-site-simulatorsimsi-catchers"
 description: ""
-external_url: "https://www.eff.org/pages/cell-site-simulatorsimsi-catchers"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.eff.org/pages/cell-site-simulatorsimsi-catchers)
+

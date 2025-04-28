@@ -1,6 +1,6 @@
 ---
 title: "chowmean"
 description: ""
-external_url: "https://github.com/chowmean"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/chowmean)
+

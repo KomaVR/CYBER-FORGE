@@ -3,6 +3,6 @@ title: "http://tool.leavesongs.com/"
 description: "
 
 "
-external_url: "http://tool.leavesongs.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://tool.leavesongs.com/)
+

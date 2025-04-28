@@ -1,6 +1,6 @@
 ---
 title: "Badoo"
 description: ""
-external_url: "http://www.badoo.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.badoo.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "mapausch"
 description: ""
-external_url: "https://github.com/mapausch"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mapausch)
+

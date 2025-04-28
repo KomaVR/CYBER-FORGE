@@ -1,6 +1,6 @@
 ---
 title: "ipaddress"
 description: ""
-external_url: "https://pypi.python.org/pypi/ipaddress"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://pypi.python.org/pypi/ipaddress)
+

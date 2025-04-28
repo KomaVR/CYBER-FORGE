@@ -1,6 +1,6 @@
 ---
 title: "Areizen"
 description: ""
-external_url: "https://github.com/Areizen"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Areizen)
+

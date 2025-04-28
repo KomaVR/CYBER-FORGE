@@ -2,6 +2,6 @@
 title: "splitline"
 description: "splitline
 \"
-external_url: "https://github.com/splitline"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/splitline)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://www.detran.ma.gov.br/inicio/paginas/Home.xhtml"
 description: "Serviços disponíveis Detran| Maranhão"
-external_url: "https://www.detran.ma.gov.br/inicio/paginas/Home.xhtml"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.detran.ma.gov.br/inicio/paginas/Home.xhtml)
+

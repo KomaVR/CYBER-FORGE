@@ -1,6 +1,6 @@
 ---
 title: "thesilas"
 description: ""
-external_url: "https://github.com/thesilas"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/thesilas)
+

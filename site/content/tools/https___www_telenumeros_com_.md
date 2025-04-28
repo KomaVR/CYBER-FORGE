@@ -1,6 +1,6 @@
 ---
 title: "https://www.telenumeros.com/"
 description: ""
-external_url: "https://www.telenumeros.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.telenumeros.com/)
+

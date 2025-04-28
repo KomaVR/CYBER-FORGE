@@ -1,6 +1,6 @@
 ---
 title: "https://threatfox.abuse.ch/downloads/hostfile/"
 description: ""
-external_url: "https://threatfox.abuse.ch/downloads/hostfile/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://threatfox.abuse.ch/downloads/hostfile/)
+

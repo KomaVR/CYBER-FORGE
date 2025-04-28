@@ -1,6 +1,6 @@
 ---
 title: "Detectify"
 description: ""
-external_url: "https://detectify.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://detectify.com/)
+

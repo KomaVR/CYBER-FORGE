@@ -1,6 +1,6 @@
 ---
 title: "sudouser777"
 description: ""
-external_url: "https://github.com/sudouser777"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/sudouser777)
+

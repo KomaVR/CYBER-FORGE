@@ -1,6 +1,6 @@
 ---
 title: "Feed Exileed"
 description: ""
-external_url: "http://feed.exileed.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://feed.exileed.com)
+

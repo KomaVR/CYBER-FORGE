@@ -1,6 +1,6 @@
 ---
 title: "Mantis"
 description: "Hard"
-external_url: "https://app.hackthebox.com/machines/98"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://app.hackthebox.com/machines/98)
+

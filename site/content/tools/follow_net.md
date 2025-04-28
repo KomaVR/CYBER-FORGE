@@ -1,6 +1,6 @@
 ---
 title: "Follow.net"
 description: ""
-external_url: "http://follow.net"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://follow.net)
+

@@ -1,6 +1,6 @@
 ---
 title: "Academia"
 description: ""
-external_url: "https://www.academia.edu"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.academia.edu)
+

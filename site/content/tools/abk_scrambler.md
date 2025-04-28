@@ -1,6 +1,6 @@
 ---
 title: "ABK Scrambler"
 description: "COM file scrambler and protector recoded from ABKprot."
-external_url: "https://defacto2.net/f/a520164?packer=abk-scrambler"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://defacto2.net/f/a520164?packer=abk-scrambler)
+

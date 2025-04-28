@@ -1,6 +1,6 @@
 ---
 title: "smarek"
 description: ""
-external_url: "https://github.com/smarek"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/smarek)
+

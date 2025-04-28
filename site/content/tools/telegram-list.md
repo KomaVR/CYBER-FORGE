@@ -1,6 +1,6 @@
 ---
 title: "Telegram-List"
 description: ""
-external_url: "https://github.com/goq/telegram-list"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/goq/telegram-list)
+

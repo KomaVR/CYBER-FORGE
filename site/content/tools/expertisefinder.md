@@ -1,6 +1,6 @@
 ---
 title: "ExpertiseFinder"
 description: ""
-external_url: "http://www.expertisefinder.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.expertisefinder.com)
+

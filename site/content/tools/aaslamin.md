@@ -1,6 +1,6 @@
 ---
 title: "aaslamin"
 description: ""
-external_url: "https://github.com/aaslamin"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/aaslamin)
+

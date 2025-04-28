@@ -3,6 +3,6 @@ title: "checkmedia.org"
 description: "
 Check for collaborative fact-checking,  
 "
-external_url: "http://www.checkdesk.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.checkdesk.org)
+

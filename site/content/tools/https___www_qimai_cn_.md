@@ -1,6 +1,6 @@
 ---
 title: "https://www.qimai.cn/"
 description: ""
-external_url: "https://www.qimai.cn/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.qimai.cn/)
+

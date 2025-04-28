@@ -1,6 +1,6 @@
 ---
 title: "License Information"
 description: ""
-external_url: "https://github.com/bhavsec/reconspider#license-information"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/bhavsec/reconspider#license-information)
+

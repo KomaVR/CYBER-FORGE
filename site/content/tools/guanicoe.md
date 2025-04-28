@@ -1,6 +1,6 @@
 ---
 title: "guanicoe"
 description: ""
-external_url: "https://github.com/guanicoe"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/guanicoe)
+

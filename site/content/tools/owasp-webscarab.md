@@ -1,6 +1,6 @@
 ---
 title: "OWASP-WebScarab"
 description: "OWASP WebScarab."
-external_url: "https://github.com/OWASP/OWASP-WebScarab"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/OWASP/OWASP-WebScarab)
+

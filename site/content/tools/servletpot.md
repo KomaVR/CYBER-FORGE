@@ -1,6 +1,6 @@
 ---
 title: "Servletpot"
 description: "Web application Honeypot."
-external_url: "https://github.com/schmalle/servletpot"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/schmalle/servletpot)
+

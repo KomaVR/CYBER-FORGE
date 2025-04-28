@@ -1,6 +1,6 @@
 ---
 title: "French"
 description: ""
-external_url: "https://github.com/clallier94/wstg-translation-fr"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/clallier94/wstg-translation-fr)
+

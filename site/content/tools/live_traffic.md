@@ -1,6 +1,6 @@
 ---
 title: "Live Traffic"
 description: "Real-time monitoring of Europe’s live traffic cameras"
-external_url: "https://livetraffic.eu/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://livetraffic.eu/)
+

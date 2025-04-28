@@ -1,6 +1,6 @@
 ---
 title: "Follow"
 description: ""
-external_url: "https://twitter.com/JasunTate/status/1603473012774211585"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://twitter.com/JasunTate/status/1603473012774211585)
+

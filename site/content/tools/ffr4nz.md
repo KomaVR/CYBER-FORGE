@@ -1,6 +1,6 @@
 ---
 title: "ffr4nz"
 description: ""
-external_url: "https://github.com/ffr4nz"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ffr4nz)
+

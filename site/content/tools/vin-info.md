@@ -1,6 +1,6 @@
 ---
 title: "Vin-Info"
 description: "(UK)"
-external_url: "https://uk.vin-info.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://uk.vin-info.com)
+

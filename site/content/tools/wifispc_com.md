@@ -1,6 +1,6 @@
 ---
 title: "wifispc.com"
 description: "Free map of Wi-Fi passwords anywhere you go!"
-external_url: "https://wifispc.com/"
-category: "Wireless Hacking"
----
+external_category: "Wireless Hacking"
+---[Visit Website](https://wifispc.com/)
+

@@ -2,6 +2,6 @@
 title: "jamespfennell"
 description: "jamespfennell
 James Fennell"
-external_url: "https://github.com/jamespfennell"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jamespfennell)
+

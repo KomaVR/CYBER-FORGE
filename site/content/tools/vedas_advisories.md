@@ -1,6 +1,6 @@
 ---
 title: "VEDAS Advisories"
 description: ""
-external_url: "https://vedas.arpsyndicate.io"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://vedas.arpsyndicate.io)
+

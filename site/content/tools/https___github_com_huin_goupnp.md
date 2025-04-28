@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/huin/goupnp"
 description: ""
-external_url: "https://github.com/huin/goupnp"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/huin/goupnp)
+

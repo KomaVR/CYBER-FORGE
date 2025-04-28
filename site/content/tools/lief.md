@@ -1,6 +1,6 @@
 ---
 title: "LIEF"
 description: "Discord:"
-external_url: "https://discord.gg/7hRFGWYedu"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://discord.gg/7hRFGWYedu)
+

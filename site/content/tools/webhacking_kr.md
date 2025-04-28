@@ -1,6 +1,6 @@
 ---
 title: "Webhacking.kr"
 description: ""
-external_url: "http://webhacking.kr/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://webhacking.kr/)
+

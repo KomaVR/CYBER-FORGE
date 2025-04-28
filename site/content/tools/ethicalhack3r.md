@@ -1,6 +1,6 @@
 ---
 title: "ethicalhack3r"
 description: ""
-external_url: "https://github.com/ethicalhack3r"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ethicalhack3r)
+

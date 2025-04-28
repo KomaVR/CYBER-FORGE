@@ -1,6 +1,6 @@
 ---
 title: "https://nvd.nist.gov/"
 description: "National Vulnerability Database:"
-external_url: "https://nvd.nist.gov/"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://nvd.nist.gov/)
+

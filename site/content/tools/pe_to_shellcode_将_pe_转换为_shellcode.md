@@ -1,6 +1,6 @@
 ---
 title: "pe_to_shellcode：将 PE 转换为 shellcode"
 description: ""
-external_url: "https://github.com/hasherezade/pe_to_shellcode"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/hasherezade/pe_to_shellcode)
+

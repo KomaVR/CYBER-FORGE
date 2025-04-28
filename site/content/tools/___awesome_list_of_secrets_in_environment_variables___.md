@@ -1,6 +1,6 @@
 ---
 title: "🦄🔒 Awesome list of secrets in environment variables 🖥️"
 description: ""
-external_url: "https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables)
+

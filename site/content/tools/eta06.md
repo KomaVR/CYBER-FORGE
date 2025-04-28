@@ -1,6 +1,6 @@
 ---
 title: "Eta06"
 description: ""
-external_url: "https://github.com/Eta06"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Eta06)
+

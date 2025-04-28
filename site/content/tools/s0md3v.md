@@ -1,6 +1,6 @@
 ---
 title: "S0md3v"
 description: ""
-external_url: "https://github.com/s0md3v/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/s0md3v/)
+

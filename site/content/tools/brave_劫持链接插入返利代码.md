@@ -11,6 +11,6 @@ Brave 称自动插入返利代码是失误所致
 
 
 "
-external_url: "https://www.solidot.org/story?sid=64593"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.solidot.org/story?sid=64593)
+

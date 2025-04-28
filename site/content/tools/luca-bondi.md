@@ -1,6 +1,6 @@
 ---
 title: "luca-bondi"
 description: ""
-external_url: "https://github.com/luca-bondi"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/luca-bondi)
+

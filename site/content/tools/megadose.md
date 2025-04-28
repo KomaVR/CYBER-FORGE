@@ -2,6 +2,6 @@
 title: "megadose"
 description: "megadose
 Palenath"
-external_url: "https://github.com/megadose"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/megadose)
+

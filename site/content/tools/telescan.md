@@ -1,6 +1,6 @@
 ---
 title: "Telescan"
 description: ""
-external_url: "https://github.com/pielco11/telescan"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/pielco11/telescan)
+

@@ -1,6 +1,6 @@
 ---
 title: "TGRAM β"
 description: ""
-external_url: "https://tgram.me/channels"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tgram.me/channels)
+

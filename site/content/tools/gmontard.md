@@ -1,6 +1,6 @@
 ---
 title: "gmontard"
 description: ""
-external_url: "https://github.com/gmontard"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/gmontard)
+

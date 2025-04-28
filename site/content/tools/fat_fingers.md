@@ -1,6 +1,6 @@
 ---
 title: "Fat Fingers"
 description: ""
-external_url: "http://fatfingers.com/default.aspx"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://fatfingers.com/default.aspx)
+

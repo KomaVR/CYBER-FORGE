@@ -1,6 +1,6 @@
 ---
 title: "https://www.ferryscanner.com/pt/navios-de-ferry"
 description: ""
-external_url: "https://www.ferryscanner.com/pt/navios-de-ferry"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://www.ferryscanner.com/pt/navios-de-ferry)
+

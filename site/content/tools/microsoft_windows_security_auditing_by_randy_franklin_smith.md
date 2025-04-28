@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Windows Security Auditing by Randy Franklin Smith"
 description: "Better known as Ultimate Windows Security."
-external_url: "https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/)
+

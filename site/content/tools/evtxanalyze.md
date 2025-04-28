@@ -1,6 +1,6 @@
 ---
 title: "evtxanalyze"
 description: ""
-external_url: "https://github.com/dfir-dd/dfir-toolkit/blob/main/doc/evtxanalyze.md"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/dfir-dd/dfir-toolkit/blob/main/doc/evtxanalyze.md)
+

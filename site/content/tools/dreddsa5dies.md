@@ -2,6 +2,6 @@
 title: "dreddsa5dies"
 description: "dreddsa5dies
 Viktor Solovev"
-external_url: "https://github.com/dreddsa5dies"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/dreddsa5dies)
+

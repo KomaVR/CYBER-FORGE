@@ -1,6 +1,6 @@
 ---
 title: "stoffu"
 description: ""
-external_url: "https://github.com/stoffu"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/stoffu)
+

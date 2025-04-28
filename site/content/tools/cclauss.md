@@ -1,6 +1,6 @@
 ---
 title: "cclauss"
 description: ""
-external_url: "https://github.com/cclauss"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/cclauss)
+

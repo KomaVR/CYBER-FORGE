@@ -1,6 +1,6 @@
 ---
 title: "https://subgraph.com/vega/"
 description: "Vega"
-external_url: "https://subgraph.com/vega/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://subgraph.com/vega/)
+

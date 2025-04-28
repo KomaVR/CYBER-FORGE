@@ -3,6 +3,6 @@ title: "https://portswigger.net/web-security/request-smuggling"
 description: "
 
 "
-external_url: "https://portswigger.net/web-security/request-smuggling"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://portswigger.net/web-security/request-smuggling)
+

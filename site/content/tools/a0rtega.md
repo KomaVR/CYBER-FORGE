@@ -1,6 +1,6 @@
 ---
 title: "a0rtega"
 description: ""
-external_url: "https://github.com/a0rtega"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/a0rtega)
+

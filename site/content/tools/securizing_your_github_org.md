@@ -1,6 +1,6 @@
 ---
 title: "Securizing your GitHub org"
 description: ""
-external_url: "https://dev.to/nodesecure/securize-your-github-org-4lb7"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://dev.to/nodesecure/securize-your-github-org-4lb7)
+

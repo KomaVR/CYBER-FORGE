@@ -1,6 +1,6 @@
 ---
 title: "Justin Henderson (@smapper)"
 description: ""
-external_url: "https://github.com/SMAPPER"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/SMAPPER)
+

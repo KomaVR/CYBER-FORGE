@@ -1,6 +1,6 @@
 ---
 title: "Epic Privacy Browser"
 description: ""
-external_url: "https://www.epicbrowser.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.epicbrowser.com)
+

@@ -1,6 +1,6 @@
 ---
 title: "Gdasl"
 description: ""
-external_url: "https://github.com/Gdasl"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Gdasl)
+

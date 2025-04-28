@@ -1,6 +1,6 @@
 ---
 title: "https://linuxtechlab.com/beginners-guide-to-selinux/"
 description: ""
-external_url: "https://linuxtechlab.com/beginners-guide-to-selinux/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://linuxtechlab.com/beginners-guide-to-selinux/)
+

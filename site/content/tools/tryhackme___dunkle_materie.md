@@ -3,6 +3,6 @@ title: "TryHackMe | Dunkle Materie"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/dunklematerieptxc9"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/dunklematerieptxc9)
+

@@ -1,6 +1,6 @@
 ---
 title: "FollowThatPage"
 description: ""
-external_url: "http://www.followthatpage.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.followthatpage.com)
+

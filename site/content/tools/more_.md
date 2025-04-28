@@ -1,6 +1,6 @@
 ---
 title: "More!"
 description: ""
-external_url: "https://www.bettercap.org/modules/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.bettercap.org/modules/)
+

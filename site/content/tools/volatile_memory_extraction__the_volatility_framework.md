@@ -1,6 +1,6 @@
 ---
 title: "Volatile Memory Extraction: The Volatility Framework"
 description: "2015.11 [n0where]"
-external_url: "https://n0where.net/volatile-memory-extraction"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://n0where.net/volatile-memory-extraction)
+

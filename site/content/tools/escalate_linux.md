@@ -1,6 +1,6 @@
 ---
 title: "Escalate_Linux"
 description: ""
-external_url: "https://www.hackingarticles.in/escalate_linux-vulnhub-walkthrough-part-1/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.hackingarticles.in/escalate_linux-vulnhub-walkthrough-part-1/)
+

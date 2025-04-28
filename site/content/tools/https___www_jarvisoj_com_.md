@@ -1,6 +1,6 @@
 ---
 title: "https://www.jarvisoj.com/"
 description: ""
-external_url: "https://www.jarvisoj.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.jarvisoj.com/)
+

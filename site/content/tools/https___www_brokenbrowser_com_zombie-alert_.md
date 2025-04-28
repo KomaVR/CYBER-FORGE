@@ -1,6 +1,6 @@
 ---
 title: "https://www.brokenbrowser.com/zombie-alert/"
 description: ""
-external_url: "https://www.brokenbrowser.com/zombie-alert/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.brokenbrowser.com/zombie-alert/)
+

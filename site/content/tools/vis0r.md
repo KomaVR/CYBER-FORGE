@@ -1,6 +1,6 @@
 ---
 title: "Vis0r"
 description: "for his personal support."
-external_url: "https://github.com/vmotos"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/vmotos)
+

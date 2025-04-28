@@ -1,6 +1,6 @@
 ---
 title: "https://docs.polyswarm.io/consumers"
 description: "Polyswarm:"
-external_url: "https://docs.polyswarm.io/consumers"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://docs.polyswarm.io/consumers)
+

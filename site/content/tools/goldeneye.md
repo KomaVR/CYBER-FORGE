@@ -1,6 +1,6 @@
 ---
 title: "GoldenEye"
 description: ""
-external_url: "https://github.com/jseidl/GoldenEye"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jseidl/GoldenEye)
+

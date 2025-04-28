@@ -1,6 +1,6 @@
 ---
 title: "OSCP-Prep-Resources"
 description: ""
-external_url: "https://github.com/burntmybagel/OSCP-Prep"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/burntmybagel/OSCP-Prep)
+

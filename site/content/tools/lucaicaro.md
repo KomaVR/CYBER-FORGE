@@ -1,6 +1,6 @@
 ---
 title: "LucaIcaro"
 description: ""
-external_url: "https://github.com/LucaIcaro"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/LucaIcaro)
+

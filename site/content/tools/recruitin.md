@@ -1,6 +1,6 @@
 ---
 title: "Recruitin"
 description: ""
-external_url: "https://recruitin.net"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://recruitin.net)
+

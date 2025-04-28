@@ -1,6 +1,6 @@
 ---
 title: "ImHex Plugin Template"
 description: ""
-external_url: "https://github.com/WerWolv/ImHex-Plugin-Template"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/WerWolv/ImHex-Plugin-Template)
+

@@ -1,6 +1,6 @@
 ---
 title: "MetaFinder"
 description: "Metadata finder ()"
-external_url: "https://github.com/Josue87/MetaFinder"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Josue87/MetaFinder)
+

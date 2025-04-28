@@ -19,6 +19,6 @@ description: "
 
 
 "
-external_url: "https://github.com/l4ys/lazyida"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/l4ys/lazyida)
+

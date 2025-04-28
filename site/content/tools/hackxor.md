@@ -1,6 +1,6 @@
 ---
 title: "Hackxor"
 description: "Realistic web application hacking game - Written by @albinowax."
-external_url: "http://hackxor.net/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://hackxor.net/)
+

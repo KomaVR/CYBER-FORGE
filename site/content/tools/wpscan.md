@@ -1,6 +1,6 @@
 ---
 title: "WPScan"
 description: "is a black box WordPress vulnerability scanner."
-external_url: "https://wpscan.org"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://wpscan.org)
+

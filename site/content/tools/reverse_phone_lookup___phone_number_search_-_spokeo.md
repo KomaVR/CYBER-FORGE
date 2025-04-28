@@ -1,6 +1,6 @@
 ---
 title: "Reverse Phone Lookup | Phone Number Search - Spokeo"
 description: ""
-external_url: "https://www.spokeo.com/reverse-phone-lookup"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.spokeo.com/reverse-phone-lookup)
+

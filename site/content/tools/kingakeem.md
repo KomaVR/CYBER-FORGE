@@ -1,6 +1,6 @@
 ---
 title: "KingAkeem"
 description: "Co-owner"
-external_url: "https://github.com/KingAkeem"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/KingAkeem)
+

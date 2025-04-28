@@ -1,6 +1,6 @@
 ---
 title: "XSS Payloads"
 description: "The wonderland of JavaScript unexpected usages, and more"
-external_url: "http://www.xss-payloads.com/"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](http://www.xss-payloads.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Remote DNS Lookup"
 description: ""
-external_url: "https://remote.12dt.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://remote.12dt.com)
+

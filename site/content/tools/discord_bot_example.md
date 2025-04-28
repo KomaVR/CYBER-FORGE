@@ -1,6 +1,6 @@
 ---
 title: "Discord Bot Example"
 description: ""
-external_url: "https://www.blacklanternsecurity.com/bbot/Stable/dev/discord_bot"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.blacklanternsecurity.com/bbot/Stable/dev/discord_bot)
+

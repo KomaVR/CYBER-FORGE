@@ -1,6 +1,6 @@
 ---
 title: "Notablist"
 description: ""
-external_url: "https://www.notablist.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.notablist.com)
+

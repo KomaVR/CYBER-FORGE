@@ -6,6 +6,6 @@ Monitors
 Timers
 
 "
-external_url: "https://sn0int.readthedocs.io/en/latest/notifications.html#running-sn0int-automatically"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://sn0int.readthedocs.io/en/latest/notifications.html#running-sn0int-automatically)
+

@@ -2,6 +2,6 @@
 title: "jctello"
 description: "jctello
 Juan C. Tello"
-external_url: "https://github.com/jctello"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jctello)
+

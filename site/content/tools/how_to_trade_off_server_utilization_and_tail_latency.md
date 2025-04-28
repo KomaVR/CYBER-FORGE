@@ -1,6 +1,6 @@
 ---
 title: "How to Trade off Server Utilization and Tail Latency"
 description: ""
-external_url: "https://www.usenix.org/conference/srecon19asia/presentation/plenz"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.usenix.org/conference/srecon19asia/presentation/plenz)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://urlabuse.com/public/misp"
 description: ""
-external_url: "https://urlabuse.com/public/misp"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://urlabuse.com/public/misp)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://www.consultaserialaparelho.com.br/public-web/homeSiga"
 description: ""
-external_url: "https://www.consultaserialaparelho.com.br/public-web/homeSiga"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://www.consultaserialaparelho.com.br/public-web/homeSiga)
+

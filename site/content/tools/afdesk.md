@@ -1,6 +1,6 @@
 ---
 title: "afdesk"
 description: ""
-external_url: "https://github.com/afdesk"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/afdesk)
+

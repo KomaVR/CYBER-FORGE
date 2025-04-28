@@ -1,6 +1,6 @@
 ---
 title: "http://www.shellpub.com"
 description: ""
-external_url: "http://www.shellpub.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.shellpub.com)
+

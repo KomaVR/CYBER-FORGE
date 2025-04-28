@@ -1,6 +1,6 @@
 ---
 title: "Application Protector"
 description: "Tool for protecting Windows applications."
-external_url: "https://sourceforge.net/projects/balaji/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://sourceforge.net/projects/balaji/)
+

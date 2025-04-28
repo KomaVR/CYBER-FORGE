@@ -3,6 +3,6 @@ title: "TryHackMe | Sudo Security Bypass"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/sudovulnsbypass"
-category: "Grey Hat Tools"
----
+external_category: "Grey Hat Tools"
+---[Visit Website](https://tryhackme.com/room/sudovulnsbypass)
+

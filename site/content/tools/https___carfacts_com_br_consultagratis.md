@@ -1,6 +1,6 @@
 ---
 title: "https://carfacts.com.br/ConsultaGratis"
 description: ""
-external_url: "https://carfacts.com.br/ConsultaGratis"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://carfacts.com.br/ConsultaGratis)
+

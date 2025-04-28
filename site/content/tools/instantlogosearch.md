@@ -1,6 +1,6 @@
 ---
 title: "InstantLogoSearch"
 description: ""
-external_url: "http://instantlogosearch.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://instantlogosearch.com/)
+

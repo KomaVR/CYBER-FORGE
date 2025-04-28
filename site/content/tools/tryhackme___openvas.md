@@ -3,6 +3,6 @@ title: "TryHackMe | OpenVAS"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/openvas"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://tryhackme.com/room/openvas)
+

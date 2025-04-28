@@ -1,6 +1,6 @@
 ---
 title: "VulnLab"
 description: "A vulnerable web application lab using Docker"
-external_url: "https://github.com/Yavuzlar/VulnLab"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/Yavuzlar/VulnLab)
+

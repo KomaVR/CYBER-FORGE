@@ -1,6 +1,6 @@
 ---
 title: "jacob-baines"
 description: ""
-external_url: "https://github.com/jacob-baines"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jacob-baines)
+

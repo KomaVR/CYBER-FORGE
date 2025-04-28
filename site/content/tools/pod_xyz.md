@@ -1,6 +1,6 @@
 ---
 title: "pod.xyz"
 description: ""
-external_url: "https://pod.xyz/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://pod.xyz/)
+

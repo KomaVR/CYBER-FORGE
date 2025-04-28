@@ -1,6 +1,6 @@
 ---
 title: "WhoisMind"
 description: ""
-external_url: "http://www.whoismind.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.whoismind.com)
+

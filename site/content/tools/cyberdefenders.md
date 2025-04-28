@@ -1,6 +1,6 @@
 ---
 title: "CyberDefenders"
 description: ""
-external_url: "https://cyberdefenders.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://cyberdefenders.org)
+

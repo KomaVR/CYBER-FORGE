@@ -1,6 +1,6 @@
 ---
 title: "paste.ubuntu"
 description: ""
-external_url: "https://paste.ubuntu.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://paste.ubuntu.com)
+

@@ -1,6 +1,6 @@
 ---
 title: "AlekKras"
 description: ""
-external_url: "https://github.com/AlekKras"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/AlekKras)
+

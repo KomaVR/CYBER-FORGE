@@ -1,6 +1,6 @@
 ---
 title: "info.yewbow.org"
 description: ""
-external_url: "https://info.yewbow.org/#/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://info.yewbow.org/#/)
+

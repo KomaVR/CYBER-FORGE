@@ -1,6 +1,6 @@
 ---
 title: "coreb1t"
 description: ""
-external_url: "https://github.com/coreb1t"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/coreb1t)
+

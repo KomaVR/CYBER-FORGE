@@ -1,6 +1,6 @@
 ---
 title: "Telegramzy"
 description: ""
-external_url: "https://telegramzy.ru/katalog-kanalov/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://telegramzy.ru/katalog-kanalov/)
+

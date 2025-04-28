@@ -1,6 +1,6 @@
 ---
 title: "Alumni.net"
 description: ""
-external_url: "http://www.alumni.net/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.alumni.net/)
+

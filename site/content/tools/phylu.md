@@ -1,6 +1,6 @@
 ---
 title: "Phylu"
 description: ""
-external_url: "https://github.com/Phylu"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Phylu)
+

@@ -3,6 +3,6 @@ title: "Wazuh Bosh"
 description: "
 
 "
-external_url: "https://github.com/wazuh/wazuh-bosh"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/wazuh/wazuh-bosh)
+

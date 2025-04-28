@@ -1,6 +1,6 @@
 ---
 title: "Joe Sandbox"
 description: "Threat hunting & search engine"
-external_url: "https://www.joesandbox.com/"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://www.joesandbox.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "controlc"
 description: ""
-external_url: "https://Controlc.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://Controlc.com)
+

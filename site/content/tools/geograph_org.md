@@ -2,6 +2,6 @@
 title: "geograph.org"
 description: "Geograph, georeferenced
 images,  "
-external_url: "http://www.geograph.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.geograph.org)
+

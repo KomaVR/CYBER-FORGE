@@ -1,6 +1,6 @@
 ---
 title: "proxystrike"
 description: "Automatically exported from code.google.com/p/."
-external_url: "https://github.com/qunxyz/proxystrike"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/qunxyz/proxystrike)
+

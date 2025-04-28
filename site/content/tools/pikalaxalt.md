@@ -1,6 +1,6 @@
 ---
 title: "PikalaxALT"
 description: ""
-external_url: "https://github.com/PikalaxALT"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/PikalaxALT)
+

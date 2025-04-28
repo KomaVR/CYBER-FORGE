@@ -1,6 +1,6 @@
 ---
 title: "https://respondendo.ibge.gov.br/verifique-a-identidade-do-entrevistador.html"
 description: ""
-external_url: "https://respondendo.ibge.gov.br/verifique-a-identidade-do-entrevistador.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://respondendo.ibge.gov.br/verifique-a-identidade-do-entrevistador.html)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://vulsee.com/tools/shiroDe/shiroDecrypt.html"
 description: "Shiro rememberMe Decrypt:"
-external_url: "https://vulsee.com/tools/shiroDe/shiroDecrypt.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://vulsee.com/tools/shiroDe/shiroDecrypt.html)
+

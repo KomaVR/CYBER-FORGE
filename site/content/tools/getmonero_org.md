@@ -1,6 +1,6 @@
 ---
 title: "getmonero.org"
 description: "Web:"
-external_url: "https://getmonero.org"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://getmonero.org)
+

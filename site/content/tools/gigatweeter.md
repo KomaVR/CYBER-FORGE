@@ -1,6 +1,6 @@
 ---
 title: "Gigatweeter"
 description: ""
-external_url: "http://gigatweeter.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://gigatweeter.com/)
+

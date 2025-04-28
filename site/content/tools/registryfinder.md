@@ -1,6 +1,6 @@
 ---
 title: "Registryfinder"
 description: ""
-external_url: "https://registryfinder.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://registryfinder.com/)
+

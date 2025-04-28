@@ -1,6 +1,6 @@
 ---
 title: "UVRX"
 description: ""
-external_url: "http://www.uvrx.com/social.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.uvrx.com/social.html)
+

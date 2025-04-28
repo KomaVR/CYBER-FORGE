@@ -1,6 +1,6 @@
 ---
 title: "renxin-bling"
 description: ""
-external_url: "https://github.com/renxin-bling"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/renxin-bling)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://portswigger.net/web-security"
 description: "PortSwigger Web Security Academy:"
-external_url: "https://portswigger.net/web-security"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://portswigger.net/web-security)
+

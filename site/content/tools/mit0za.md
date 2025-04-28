@@ -1,6 +1,6 @@
 ---
 title: "mit0za"
 description: ""
-external_url: "https://github.com/mit0za"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mit0za)
+

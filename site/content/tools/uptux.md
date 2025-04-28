@@ -1,6 +1,6 @@
 ---
 title: "uptux"
 description: ": Specialized privilege escalation checks for Linux systems."
-external_url: "https://github.com/initstring/uptux"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/initstring/uptux)
+

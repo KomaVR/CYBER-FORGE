@@ -1,6 +1,6 @@
 ---
 title: "Transparent California"
 description: ""
-external_url: "http://transparentcalifornia.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://transparentcalifornia.com)
+

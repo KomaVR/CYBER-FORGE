@@ -1,6 +1,6 @@
 ---
 title: "Python Cheat Sheet #2"
 description: "Learn python3 in one picture (Online version) (PNG version)"
-external_url: "https://github.com/coodict/python3-in-one-pic"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/coodict/python3-in-one-pic)
+

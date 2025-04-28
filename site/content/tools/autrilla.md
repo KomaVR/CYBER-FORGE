@@ -1,6 +1,6 @@
 ---
 title: "autrilla"
 description: ""
-external_url: "https://github.com/autrilla"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/autrilla)
+

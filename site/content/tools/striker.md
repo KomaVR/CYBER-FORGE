@@ -1,6 +1,6 @@
 ---
 title: "Striker"
 description: ""
-external_url: "https://github.com/s0md3v/Striker"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/s0md3v/Striker)
+

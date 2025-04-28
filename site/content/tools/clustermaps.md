@@ -1,6 +1,6 @@
 ---
 title: "Clustermaps"
 description: "Find people and address information associated with them"
-external_url: "https://clustrmaps.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://clustrmaps.com/)
+

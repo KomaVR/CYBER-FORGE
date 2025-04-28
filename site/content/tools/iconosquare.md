@@ -1,6 +1,6 @@
 ---
 title: "Iconosquare"
 description: ""
-external_url: "http://iconosquare.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://iconosquare.com)
+

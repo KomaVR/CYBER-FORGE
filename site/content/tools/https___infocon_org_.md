@@ -1,6 +1,6 @@
 ---
 title: "https://infocon.org/"
 description: "Infocon:"
-external_url: "https://infocon.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://infocon.org/)
+

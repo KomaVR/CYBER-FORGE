@@ -1,6 +1,6 @@
 ---
 title: "Deepce"
 description: ": Docker Enumeration, Escalation of Privileges and Container Escapes (DEEPCE)"
-external_url: "https://github.com/stealthcopter/deepce"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/stealthcopter/deepce)
+

@@ -1,6 +1,6 @@
 ---
 title: "Crivo"
 description: ""
-external_url: "https://github.com/GMDSantana/crivo"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/GMDSantana/crivo)
+

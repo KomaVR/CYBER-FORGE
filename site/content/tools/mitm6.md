@@ -1,6 +1,6 @@
 ---
 title: "mitm6"
 description: ""
-external_url: "https://github.com/fox-it/mitm6"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/fox-it/mitm6)
+

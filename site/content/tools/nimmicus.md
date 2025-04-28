@@ -1,6 +1,6 @@
 ---
 title: "nimmicus"
 description: ""
-external_url: "https://github.com/nimmicus"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/nimmicus)
+

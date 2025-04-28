@@ -1,6 +1,6 @@
 ---
 title: "solidlint.com"
 description: ""
-external_url: "https://www.solidlint.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.solidlint.com)
+

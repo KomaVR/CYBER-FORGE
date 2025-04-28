@@ -1,6 +1,6 @@
 ---
 title: "su-vikas"
 description: ""
-external_url: "https://github.com/su-vikas"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/su-vikas)
+

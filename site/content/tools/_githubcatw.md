@@ -1,6 +1,6 @@
 ---
 title: "@githubcatw"
 description: "Connection dialog base"
-external_url: "https://github.com/githubcatw"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/githubcatw)
+

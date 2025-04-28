@@ -1,6 +1,6 @@
 ---
 title: "seanwolter"
 description: ""
-external_url: "https://github.com/seanwolter"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/seanwolter)
+

@@ -1,6 +1,6 @@
 ---
 title: "RED HAWK (All In One Scanning)"
 description: ""
-external_url: "https://github.com/Tuhinshubhra/RED_HAWK"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Tuhinshubhra/RED_HAWK)
+

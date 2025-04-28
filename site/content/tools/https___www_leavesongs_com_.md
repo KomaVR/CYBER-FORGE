@@ -1,6 +1,6 @@
 ---
 title: "https://www.leavesongs.com/"
 description: ""
-external_url: "https://www.leavesongs.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.leavesongs.com/)
+

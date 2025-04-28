@@ -1,6 +1,6 @@
 ---
 title: "RuStore"
 description: ""
-external_url: "https://rustore.ru/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://rustore.ru/)
+

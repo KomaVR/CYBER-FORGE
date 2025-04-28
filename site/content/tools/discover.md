@@ -1,6 +1,6 @@
 ---
 title: "discover"
 description: "So much more to"
-external_url: "https://caddyserver.com/features"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://caddyserver.com/features)
+

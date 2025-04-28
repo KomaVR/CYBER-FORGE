@@ -2,6 +2,6 @@
 title: "gquere"
 description: "gquere
 Guillaume Quéré"
-external_url: "https://github.com/gquere"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/gquere)
+

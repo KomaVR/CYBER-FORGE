@@ -1,6 +1,6 @@
 ---
 title: "1NuNTXo7Aato7XguFkvwYnTAFV2immXmjS"
 description: ""
-external_url: "https://blockchain.info/id/address/1NuNTXo7Aato7XguFkvwYnTAFV2immXmjS"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://blockchain.info/id/address/1NuNTXo7Aato7XguFkvwYnTAFV2immXmjS)
+

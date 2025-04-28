@@ -1,6 +1,6 @@
 ---
 title: "Geosearch"
 description: ""
-external_url: "http://www.geosearchtool.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.geosearchtool.com)
+

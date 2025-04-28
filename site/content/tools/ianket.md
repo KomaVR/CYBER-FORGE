@@ -1,6 +1,6 @@
 ---
 title: "ianket"
 description: ""
-external_url: "https://github.com/ianket"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ianket)
+

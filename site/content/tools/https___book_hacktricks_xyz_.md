@@ -1,6 +1,6 @@
 ---
 title: "https://book.hacktricks.xyz/"
 description: ""
-external_url: "https://book.hacktricks.xyz/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://book.hacktricks.xyz/)
+

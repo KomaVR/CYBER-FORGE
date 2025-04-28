@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://paypal.me/elceef"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://paypal.me/elceef)
+

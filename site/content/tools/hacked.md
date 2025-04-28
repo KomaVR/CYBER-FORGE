@@ -1,6 +1,6 @@
 ---
 title: "Hacked"
 description: ""
-external_url: "https://hacked.slowmist.io"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://hacked.slowmist.io)
+

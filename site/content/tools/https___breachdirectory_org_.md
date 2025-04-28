@@ -1,6 +1,6 @@
 ---
 title: "https://breachdirectory.org/"
 description: ""
-external_url: "https://breachdirectory.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://breachdirectory.org/)
+

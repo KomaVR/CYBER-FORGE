@@ -1,6 +1,6 @@
 ---
 title: "Crack Station"
 description: ""
-external_url: "http://crackstation.net/"
-category: "Password Cracking"
----
+external_category: "Password Cracking"
+---[Visit Website](http://crackstation.net/)
+

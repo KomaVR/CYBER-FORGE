@@ -1,6 +1,6 @@
 ---
 title: "Oxford Journals"
 description: ""
-external_url: "http://www.oxfordjournals.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.oxfordjournals.org)
+

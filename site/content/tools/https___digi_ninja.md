@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://digi.ninja"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://digi.ninja)
+

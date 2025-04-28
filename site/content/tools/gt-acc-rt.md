@@ -1,6 +1,6 @@
 ---
 title: "GT-ACC-RT"
 description: ""
-external_url: "https://github.com/GT-ACC-RT"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/GT-ACC-RT)
+

@@ -1,6 +1,6 @@
 ---
 title: "psychonic"
 description: ""
-external_url: "https://github.com/psychonic"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/psychonic)
+

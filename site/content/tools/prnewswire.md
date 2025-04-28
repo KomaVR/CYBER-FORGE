@@ -1,6 +1,6 @@
 ---
 title: "PRNewswire"
 description: ""
-external_url: "https://prnmedia.prnewswire.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://prnmedia.prnewswire.com)
+

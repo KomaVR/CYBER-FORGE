@@ -1,6 +1,6 @@
 ---
 title: "spacelatte"
 description: ""
-external_url: "https://github.com/spacelatte"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/spacelatte)
+

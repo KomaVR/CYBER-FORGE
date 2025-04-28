@@ -1,6 +1,6 @@
 ---
 title: "Imdb"
 description: ""
-external_url: "https://www.imdb.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.imdb.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "jbruni"
 description: ""
-external_url: "https://github.com/jbruni"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jbruni)
+

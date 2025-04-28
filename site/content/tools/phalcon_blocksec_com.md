@@ -1,6 +1,6 @@
 ---
 title: "phalcon.blocksec.com"
 description: "& PhalconV2"
-external_url: "https://phalcon.blocksec.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://phalcon.blocksec.com)
+

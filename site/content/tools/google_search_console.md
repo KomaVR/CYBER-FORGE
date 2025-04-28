@@ -1,6 +1,6 @@
 ---
 title: "Google Search Console"
 description: ""
-external_url: "https://search.google.com/search-console"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://search.google.com/search-console)
+

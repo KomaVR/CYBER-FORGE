@@ -1,6 +1,6 @@
 ---
 title: "Aralhi"
 description: ""
-external_url: "https://github.com/Aralhi"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Aralhi)
+

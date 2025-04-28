@@ -1,6 +1,6 @@
 ---
 title: "https://masterpessimistaa.wordpress.com"
 description: "Blog:"
-external_url: "https://masterpessimistaa.wordpress.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://masterpessimistaa.wordpress.com)
+

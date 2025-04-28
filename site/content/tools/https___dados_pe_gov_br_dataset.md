@@ -1,6 +1,6 @@
 ---
 title: "https://dados.pe.gov.br/dataset"
 description: ""
-external_url: "https://dados.pe.gov.br/dataset"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://dados.pe.gov.br/dataset)
+

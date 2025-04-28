@@ -3,6 +3,6 @@ title: "File Search Engine"
 description: "
 
 "
-external_url: "https://www.filesearch.link/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.filesearch.link/)
+

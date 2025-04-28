@@ -1,6 +1,6 @@
 ---
 title: "Tableau Public"
 description: ""
-external_url: "https://public.tableau.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://public.tableau.com)
+

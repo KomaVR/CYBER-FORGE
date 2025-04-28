@@ -1,6 +1,6 @@
 ---
 title: "Dwordcito"
 description: ""
-external_url: "https://github.com/Dwordcito"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Dwordcito)
+

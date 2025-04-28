@@ -1,6 +1,6 @@
 ---
 title: "im-bug"
 description: ""
-external_url: "https://github.com/im-bug"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/im-bug)
+

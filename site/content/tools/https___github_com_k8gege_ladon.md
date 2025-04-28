@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/k8gege/Ladon"
 description: ""
-external_url: "https://github.com/k8gege/Ladon"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/k8gege/Ladon)
+

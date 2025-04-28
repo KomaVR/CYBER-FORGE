@@ -3,6 +3,6 @@ title: "TryHackMe | Brainpan 1"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/brainpan"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/brainpan)
+

@@ -3,6 +3,6 @@ title: "TryHackMe | Cryptography for Dummies"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/cryptographyfordummies"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/cryptographyfordummies)
+

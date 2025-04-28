@@ -3,6 +3,6 @@ title: "TryHackMe | KoTH Food CTF"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/kothfoodctf"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/kothfoodctf)
+

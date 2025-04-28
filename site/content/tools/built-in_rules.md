@@ -15,6 +15,6 @@ A10: Server-Side Request Forgery (SSRF).
 
 Note: all the rules and their code patterns are accessible through the documentation.
 "
-external_url: "https://docs.bearer.com/reference/rules/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://docs.bearer.com/reference/rules/)
+

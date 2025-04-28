@@ -1,6 +1,6 @@
 ---
 title: "Info.com"
 description: ""
-external_url: "http://www.info.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.info.com/)
+

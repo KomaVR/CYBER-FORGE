@@ -1,6 +1,6 @@
 ---
 title: "Topix"
 description: ""
-external_url: "http://www.topix.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.topix.com)
+

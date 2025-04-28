@@ -1,6 +1,6 @@
 ---
 title: "JavierBejMen"
 description: ""
-external_url: "https://github.com/JavierBejMen"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/JavierBejMen)
+

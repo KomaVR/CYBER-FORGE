@@ -1,6 +1,6 @@
 ---
 title: "github/softu2f"
 description: "[1998星][2m] [Swift]  Software U2F authenticator for macOS"
-external_url: "https://github.com/github/softu2f"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/github/softu2f)
+

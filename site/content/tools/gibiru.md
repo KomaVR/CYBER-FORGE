@@ -1,6 +1,6 @@
 ---
 title: "Gibiru"
 description: ""
-external_url: "https://gibiru.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://gibiru.com/)
+

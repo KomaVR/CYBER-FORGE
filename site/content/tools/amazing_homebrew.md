@@ -11,6 +11,6 @@ built/ported onto webOS would likely never be accepted onto LG's official
 Content Store.
 
 "
-external_url: "https://repo.webosbrew.org"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://repo.webosbrew.org)
+

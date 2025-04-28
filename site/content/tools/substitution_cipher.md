@@ -1,6 +1,6 @@
 ---
 title: "Substitution Cipher"
 description: ""
-external_url: "https://www.quipqiup.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.quipqiup.com/)
+

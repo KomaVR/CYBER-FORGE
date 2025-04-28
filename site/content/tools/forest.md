@@ -18,6 +18,6 @@ Cybernetics - Advanced
 APT Labs - Advanced
 
 "
-external_url: "https://app.hackthebox.com/machines/212"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://app.hackthebox.com/machines/212)
+

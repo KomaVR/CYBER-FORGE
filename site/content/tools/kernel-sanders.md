@@ -1,6 +1,6 @@
 ---
 title: "kernel-sanders"
 description: ""
-external_url: "https://github.com/kernel-sanders"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/kernel-sanders)
+

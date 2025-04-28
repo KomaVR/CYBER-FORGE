@@ -1,6 +1,6 @@
 ---
 title: "badtouch"
 description: "Scriptable network authentication cracker"
-external_url: "https://github.com/kpcyrd/badtouch"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://github.com/kpcyrd/badtouch)
+

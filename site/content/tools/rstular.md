@@ -1,6 +1,6 @@
 ---
 title: "rstular"
 description: ""
-external_url: "https://github.com/rstular"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/rstular)
+

@@ -1,6 +1,6 @@
 ---
 title: "mewmew/dissection"
 description: "[411星][9m] [Assembly]  The dissection of a simple \"hello world\" ELF binary."
-external_url: "https://github.com/mewmew/dissection"
-category: "Reverse Engineering"
----
+external_category: "Reverse Engineering"
+---[Visit Website](https://github.com/mewmew/dissection)
+

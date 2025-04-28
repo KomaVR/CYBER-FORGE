@@ -3,6 +3,6 @@ title: "TryHackMe | CMesS"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/cmess"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/cmess)
+

@@ -6,6 +6,6 @@ Bellingcat members,
 ,
 for example:
 "
-external_url: "https://firstdraftnews.com/resources/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://firstdraftnews.com/resources/)
+

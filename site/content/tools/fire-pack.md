@@ -1,6 +1,6 @@
 ---
 title: "Fire-Pack"
 description: ""
-external_url: "http://files.dhs.nu/files_source/axe.zip?fire-pack"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://files.dhs.nu/files_source/axe.zip?fire-pack)
+

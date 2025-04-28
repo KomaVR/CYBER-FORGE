@@ -1,6 +1,6 @@
 ---
 title: "Newspapers List"
 description: ""
-external_url: "https://www.newspapers-list.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.newspapers-list.com/)
+

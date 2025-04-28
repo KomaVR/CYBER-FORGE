@@ -1,6 +1,6 @@
 ---
 title: "blacklanternsecurity"
 description: "MANSPIDER"
-external_url: "https://github.com/blacklanternsecurity/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/blacklanternsecurity/)
+

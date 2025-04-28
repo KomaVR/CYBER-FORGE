@@ -1,6 +1,6 @@
 ---
 title: "FireWall.X GitHub"
 description: ""
-external_url: "https://github.com/firewall-x"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/firewall-x)
+

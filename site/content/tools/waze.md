@@ -1,6 +1,6 @@
 ---
 title: "Waze"
 description: ""
-external_url: "https://www.waze.com/live-map"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.waze.com/live-map)
+

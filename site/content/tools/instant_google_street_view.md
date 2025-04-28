@@ -1,6 +1,6 @@
 ---
 title: "Instant Google Street View"
 description: ""
-external_url: "http://www.instantstreetview.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.instantstreetview.com)
+

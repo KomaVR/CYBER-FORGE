@@ -1,6 +1,6 @@
 ---
 title: "draw.io"
 description: ""
-external_url: "https://draw.io"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://draw.io)
+

@@ -11,6 +11,6 @@ https://dnsdumpster.com/
 https://rapiddns.io/
 
 "
-external_url: "https://hackertarget.com/find-dns-host-records"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://hackertarget.com/find-dns-host-records)
+

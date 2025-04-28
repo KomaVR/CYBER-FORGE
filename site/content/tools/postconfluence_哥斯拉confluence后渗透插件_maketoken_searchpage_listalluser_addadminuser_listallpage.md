@@ -1,6 +1,6 @@
 ---
 title: "PostConfluence：哥斯拉Confluence后渗透插件 MakeToken SearchPage ListAllUser AddAdminUser ListAllPage"
 description: ""
-external_url: "https://github.com/BeichenDream/PostConfluence"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/BeichenDream/PostConfluence)
+

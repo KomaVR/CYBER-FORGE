@@ -1,6 +1,6 @@
 ---
 title: "maheshrijal"
 description: ""
-external_url: "https://github.com/maheshrijal"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/maheshrijal)
+

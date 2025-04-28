@@ -1,6 +1,6 @@
 ---
 title: "smicallef"
 description: ""
-external_url: "https://github.com/smicallef"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/smicallef)
+

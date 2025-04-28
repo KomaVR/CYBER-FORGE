@@ -1,6 +1,6 @@
 ---
 title: "Kompass"
 description: "Business directory and search."
-external_url: "http://www.kompass.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.kompass.com)
+

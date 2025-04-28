@@ -1,6 +1,6 @@
 ---
 title: "diagrams.net Docs"
 description: ""
-external_url: "https://www.diagrams.net/doc"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.diagrams.net/doc)
+

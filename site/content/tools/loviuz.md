@@ -1,6 +1,6 @@
 ---
 title: "loviuz"
 description: ""
-external_url: "https://github.com/loviuz"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/loviuz)
+

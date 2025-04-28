@@ -1,6 +1,6 @@
 ---
 title: "OBITORASU"
 description: ""
-external_url: "https://github.com/OBITORASU"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/OBITORASU)
+

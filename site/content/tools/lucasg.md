@@ -1,6 +1,6 @@
 ---
 title: "lucasg"
 description: ""
-external_url: "https://github.com/lucasg"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/lucasg)
+

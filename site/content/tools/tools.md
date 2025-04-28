@@ -1,6 +1,6 @@
 ---
 title: "Tools"
 description: ""
-external_url: "https://github.com/pret/gb-asm-tools"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/pret/gb-asm-tools)
+

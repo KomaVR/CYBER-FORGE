@@ -1,6 +1,6 @@
 ---
 title: "amalmurali47"
 description: ""
-external_url: "https://github.com/amalmurali47"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/amalmurali47)
+

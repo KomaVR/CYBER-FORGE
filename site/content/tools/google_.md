@@ -1,6 +1,6 @@
 ---
 title: "Google+"
 description: ""
-external_url: "https://plus.google.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://plus.google.com/)
+

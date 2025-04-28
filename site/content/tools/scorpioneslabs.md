@@ -1,6 +1,6 @@
 ---
 title: "ScorpionesLabs"
 description: "MSSqlPwner"
-external_url: "https://github.com/ScorpionesLabs"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/ScorpionesLabs)
+

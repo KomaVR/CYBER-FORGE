@@ -1,6 +1,6 @@
 ---
 title: "One Look Reverse Dictionary"
 description: ""
-external_url: "http://www.onelook.com/reverse-dictionary.shtml"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.onelook.com/reverse-dictionary.shtml)
+

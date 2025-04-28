@@ -1,6 +1,6 @@
 ---
 title: "CVGadget"
 description: ""
-external_url: "http://www.cvgadget.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.cvgadget.com/)
+

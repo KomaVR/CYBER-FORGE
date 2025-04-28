@@ -1,6 +1,6 @@
 ---
 title: "liba2k"
 description: ""
-external_url: "https://github.com/liba2k"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/liba2k)
+

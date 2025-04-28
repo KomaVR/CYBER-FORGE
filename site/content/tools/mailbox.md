@@ -1,6 +1,6 @@
 ---
 title: "Mailbox"
 description: ""
-external_url: "https://mailbox.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://mailbox.org)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://dadosabertos.bcb.gov.br/dataset"
 description: ""
-external_url: "https://dadosabertos.bcb.gov.br/dataset"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://dadosabertos.bcb.gov.br/dataset)
+

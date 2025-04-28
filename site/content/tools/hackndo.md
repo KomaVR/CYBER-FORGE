@@ -1,6 +1,6 @@
 ---
 title: "Hackndo"
 description: "pyGPOAbuse"
-external_url: "https://github.com/Hackndo"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Hackndo)
+

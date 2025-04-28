@@ -1,6 +1,6 @@
 ---
 title: "mlq"
 description: ""
-external_url: "https://github.com/mlq"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mlq)
+

@@ -1,6 +1,6 @@
 ---
 title: "Forensically"
 description: ""
-external_url: "https://29a.ch/photo-forensics/"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://29a.ch/photo-forensics/)
+

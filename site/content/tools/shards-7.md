@@ -1,6 +1,6 @@
 ---
 title: "shards-7"
 description: ""
-external_url: "https://github.com/shards-7"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/shards-7)
+

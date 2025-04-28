@@ -1,6 +1,6 @@
 ---
 title: "Ashley Madison"
 description: ""
-external_url: "https://ashley.cynic.al/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://ashley.cynic.al/)
+

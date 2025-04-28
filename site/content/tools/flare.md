@@ -1,6 +1,6 @@
 ---
 title: "FLARE"
 description: "A fully customizable, Windows-based security distribution for malware analysis, incident response, penetration testing, etc."
-external_url: "https://github.com/fireeye/flare-vm"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://github.com/fireeye/flare-vm)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://www.car.gov.br/publico/imoveis/index"
 description: ""
-external_url: "https://www.car.gov.br/publico/imoveis/index"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.car.gov.br/publico/imoveis/index)
+

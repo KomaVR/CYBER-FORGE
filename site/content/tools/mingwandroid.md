@@ -1,6 +1,6 @@
 ---
 title: "mingwandroid"
 description: ""
-external_url: "https://github.com/mingwandroid"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mingwandroid)
+

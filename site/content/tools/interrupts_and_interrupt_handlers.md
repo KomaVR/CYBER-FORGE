@@ -1,6 +1,6 @@
 ---
 title: "Interrupts and Interrupt Handlers"
 description: ""
-external_url: "https://notes.shichao.io/lkd/ch7/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://notes.shichao.io/lkd/ch7/)
+

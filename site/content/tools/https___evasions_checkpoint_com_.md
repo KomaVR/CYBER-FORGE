@@ -1,6 +1,6 @@
 ---
 title: "https://evasions.checkpoint.com/"
 description: ""
-external_url: "https://evasions.checkpoint.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://evasions.checkpoint.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Eurojobs"
 description: ""
-external_url: "https://www.eurojobs.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.eurojobs.com)
+

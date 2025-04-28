@@ -1,6 +1,6 @@
 ---
 title: "EasyDMARC Domain Scanner"
 description: ""
-external_url: "https://easydmarc.com/tools/domain-scanner"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://easydmarc.com/tools/domain-scanner)
+

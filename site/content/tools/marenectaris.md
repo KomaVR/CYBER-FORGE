@@ -1,6 +1,6 @@
 ---
 title: "MareNectaris"
 description: ""
-external_url: "https://github.com/MareNectaris"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/MareNectaris)
+

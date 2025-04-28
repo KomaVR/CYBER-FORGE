@@ -1,6 +1,6 @@
 ---
 title: "https://dl.threat-list.com/1/domains.txt"
 description: ""
-external_url: "https://dl.threat-list.com/1/domains.txt"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://dl.threat-list.com/1/domains.txt)
+

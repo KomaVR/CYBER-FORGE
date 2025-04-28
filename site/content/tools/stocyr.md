@@ -1,6 +1,6 @@
 ---
 title: "stocyr"
 description: ""
-external_url: "https://github.com/stocyr"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/stocyr)
+

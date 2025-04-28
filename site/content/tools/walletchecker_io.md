@@ -1,6 +1,6 @@
 ---
 title: "walletchecker.io"
 description: ""
-external_url: "http://walletchecker.io"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://walletchecker.io)
+

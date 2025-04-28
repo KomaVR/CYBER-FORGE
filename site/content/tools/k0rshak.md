@@ -1,6 +1,6 @@
 ---
 title: "K0RSHAK"
 description: ""
-external_url: "https://github.com/K0RSHAK"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/K0RSHAK)
+

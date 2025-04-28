@@ -1,6 +1,6 @@
 ---
 title: "xwings"
 description: ""
-external_url: "https://github.com/xwings"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/xwings)
+

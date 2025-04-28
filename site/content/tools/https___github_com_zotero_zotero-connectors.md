@@ -3,6 +3,6 @@ title: "https://github.com/zotero/zotero-connectors"
 description: "Zotero Connector - Browser extension for Zotero, a tool to help you collect,
 organize, cite, and share your research sources:
 "
-external_url: "https://github.com/zotero/zotero-connectors"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/zotero/zotero-connectors)
+

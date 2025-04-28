@@ -1,6 +1,6 @@
 ---
 title: "jyoung8607"
 description: ""
-external_url: "https://github.com/jyoung8607"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jyoung8607)
+

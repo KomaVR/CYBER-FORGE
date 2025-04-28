@@ -1,6 +1,6 @@
 ---
 title: "gmkbenjamin"
 description: ""
-external_url: "https://github.com/gmkbenjamin"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/gmkbenjamin)
+

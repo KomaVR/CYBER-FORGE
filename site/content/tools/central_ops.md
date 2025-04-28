@@ -1,6 +1,6 @@
 ---
 title: "Central Ops"
 description: ""
-external_url: "http://centralops.net"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://centralops.net)
+

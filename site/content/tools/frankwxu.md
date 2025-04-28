@@ -2,6 +2,6 @@
 title: "frankwxu"
 description: "frankwxu
 Frank Xu"
-external_url: "https://github.com/frankwxu"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/frankwxu)
+

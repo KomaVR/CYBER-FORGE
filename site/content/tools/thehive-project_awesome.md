@@ -1,6 +1,6 @@
 ---
 title: "TheHive-Project/awesome"
 description: ""
-external_url: "https://github.com/TheHive-Project/awesome"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/TheHive-Project/awesome)
+

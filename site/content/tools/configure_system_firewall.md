@@ -5,6 +5,6 @@ description: "Ability to  from the GUI (nftables).
 Configure input policy, allow inbound services, etc.
 
 "
-external_url: "https://github.com/evilsocket/opensnitch/wiki/System-rules"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/evilsocket/opensnitch/wiki/System-rules)
+

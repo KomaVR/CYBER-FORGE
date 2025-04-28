@@ -1,6 +1,6 @@
 ---
 title: "majr"
 description: ""
-external_url: "https://github.com/majr"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/majr)
+

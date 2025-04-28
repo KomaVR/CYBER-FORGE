@@ -5,6 +5,6 @@ description: "
 Lots of web challenges with a good range of difficulty
 
 "
-external_url: "http://websec.fr/#"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://websec.fr/#)
+

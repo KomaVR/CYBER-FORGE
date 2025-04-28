@@ -1,6 +1,6 @@
 ---
 title: "EE319K Embedded Systems - UT Austin"
 description: ""
-external_url: "http://users.ece.utexas.edu/~valvano/Volume1/E-Book/VideoLinks.htm"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://users.ece.utexas.edu/~valvano/Volume1/E-Book/VideoLinks.htm)
+

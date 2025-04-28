@@ -1,6 +1,6 @@
 ---
 title: "kazegls"
 description: ""
-external_url: "https://github.com/kazegls"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/kazegls)
+

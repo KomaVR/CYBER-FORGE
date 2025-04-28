@@ -1,6 +1,6 @@
 ---
 title: "https://desaparecidos.osasco.sp.gov.br/#/portal"
 description: ""
-external_url: "https://desaparecidos.osasco.sp.gov.br/#/portal"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://desaparecidos.osasco.sp.gov.br/#/portal)
+

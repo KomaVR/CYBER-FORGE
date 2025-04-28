@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/wux1an/wxapkg"
 description: ""
-external_url: "https://github.com/wux1an/wxapkg"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/wux1an/wxapkg)
+

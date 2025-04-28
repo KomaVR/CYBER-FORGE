@@ -1,6 +1,6 @@
 ---
 title: "Canadian Business Resource"
 description: ""
-external_url: "http://www.cbr.ca/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.cbr.ca/)
+

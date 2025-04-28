@@ -1,6 +1,6 @@
 ---
 title: "Firefox"
 description: ""
-external_url: "https://www.mozilla.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.mozilla.org)
+

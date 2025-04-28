@@ -12,6 +12,6 @@ Test for the Circumvention of Work Flows (OTG-BUSLOGIC-006)
 Test Defenses Against Application Mis-use (OTG-BUSLOGIC-007)
 
 "
-external_url: "https://github.com/Voorivex/pentest-guide/tree/master/Business-Logic"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Voorivex/pentest-guide/tree/master/Business-Logic)
+

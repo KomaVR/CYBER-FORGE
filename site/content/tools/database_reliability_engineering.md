@@ -1,6 +1,6 @@
 ---
 title: "Database Reliability Engineering"
 description: "📔"
-external_url: "https://amzn.to/4hPCYr6"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://amzn.to/4hPCYr6)
+

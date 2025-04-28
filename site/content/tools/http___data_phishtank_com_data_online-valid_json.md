@@ -1,6 +1,6 @@
 ---
 title: "http://data.phishtank.com/data/online-valid.json"
 description: ""
-external_url: "http://data.phishtank.com/data/online-valid.json"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://data.phishtank.com/data/online-valid.json)
+

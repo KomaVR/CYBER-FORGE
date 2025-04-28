@@ -1,6 +1,6 @@
 ---
 title: "SameID"
 description: ""
-external_url: "http://sameid.net"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://sameid.net)
+

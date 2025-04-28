@@ -1,6 +1,6 @@
 ---
 title: "qiew"
 description: ""
-external_url: "https://github.com/mtivadar/qiew"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mtivadar/qiew)
+

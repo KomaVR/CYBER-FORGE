@@ -1,6 +1,6 @@
 ---
 title: "https://cn.relingo.net/en/"
 description: "relingo:  translator"
-external_url: "https://cn.relingo.net/en/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://cn.relingo.net/en/)
+

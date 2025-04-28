@@ -1,6 +1,6 @@
 ---
 title: "https://www.cybrary.it/"
 description: "Cybrary:"
-external_url: "https://www.cybrary.it/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.cybrary.it/)
+

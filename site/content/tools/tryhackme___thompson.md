@@ -3,6 +3,6 @@ title: "TryHackMe | Thompson"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/bsidesgtthompson"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/bsidesgtthompson)
+

@@ -1,6 +1,6 @@
 ---
 title: "Icevision.xyz"
 description: ""
-external_url: "https://icevision.xyz/landing"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://icevision.xyz/landing)
+

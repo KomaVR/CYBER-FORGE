@@ -1,6 +1,6 @@
 ---
 title: "NGINX Ultimate Bad Blocker"
 description: ""
-external_url: "https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker)
+

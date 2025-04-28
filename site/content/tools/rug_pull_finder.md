@@ -1,6 +1,6 @@
 ---
 title: "Rug Pull Finder"
 description: ""
-external_url: "https://www.rugpullfinder.io/confirmedrugpulls"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.rugpullfinder.io/confirmedrugpulls)
+

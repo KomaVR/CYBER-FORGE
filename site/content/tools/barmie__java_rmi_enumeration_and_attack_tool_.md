@@ -1,6 +1,6 @@
 ---
 title: "BaRMIe: Java RMI enumeration and attack tool."
 description: ""
-external_url: "https://github.com/NickstaDB/BaRMIe"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/NickstaDB/BaRMIe)
+

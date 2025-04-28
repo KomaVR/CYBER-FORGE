@@ -1,6 +1,6 @@
 ---
 title: "Whoisology"
 description: ""
-external_url: "https://whoisology.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://whoisology.com)
+

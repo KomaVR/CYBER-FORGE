@@ -1,6 +1,6 @@
 ---
 title: "XPoCe"
 description: ""
-external_url: "http://newosxbook.com/tools/XPoCe2.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://newosxbook.com/tools/XPoCe2.html)
+

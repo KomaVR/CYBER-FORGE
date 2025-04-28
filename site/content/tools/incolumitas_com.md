@@ -1,6 +1,6 @@
 ---
 title: "Incolumitas.com"
 description: ""
-external_url: "https://incolumitas.com/pages/Datacenter-IP-API/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://incolumitas.com/pages/Datacenter-IP-API/)
+

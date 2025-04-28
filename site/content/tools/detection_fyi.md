@@ -1,6 +1,6 @@
 ---
 title: "Detection.FYI"
 description: "Search Sigma rules"
-external_url: "https://detection.fyi/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://detection.fyi/)
+

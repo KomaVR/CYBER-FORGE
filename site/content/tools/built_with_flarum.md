@@ -1,6 +1,6 @@
 ---
 title: "Built With Flarum"
 description: ""
-external_url: "https://builtwithflarum.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://builtwithflarum.com/)
+

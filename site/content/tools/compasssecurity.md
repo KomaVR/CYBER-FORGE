@@ -1,6 +1,6 @@
 ---
 title: "CompassSecurity"
 description: "mssqlrelay"
-external_url: "https://github.com/CompassSecurity"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/CompassSecurity)
+

@@ -1,6 +1,6 @@
 ---
 title: "Ask"
 description: "something and get a answer."
-external_url: "https://www.ask.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ask.com)
+

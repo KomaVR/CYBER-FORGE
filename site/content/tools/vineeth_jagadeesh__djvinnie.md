@@ -1,6 +1,6 @@
 ---
 title: "Vineeth Jagadeesh @djvinnie"
 description: ""
-external_url: "https://www.github.com/djvinnie"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.github.com/djvinnie)
+

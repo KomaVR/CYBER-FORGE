@@ -1,6 +1,6 @@
 ---
 title: "Yamli (Arabic Search Engine)"
 description: ""
-external_url: "http://www.yamli.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.yamli.com/)
+

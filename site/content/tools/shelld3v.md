@@ -1,6 +1,6 @@
 ---
 title: "shelld3v"
 description: ""
-external_url: "https://github.com/shelld3v"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/shelld3v)
+

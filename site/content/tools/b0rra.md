@@ -1,6 +1,6 @@
 ---
 title: "B0rrA"
 description: ""
-external_url: "https://github.com/B0rrA"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/B0rrA)
+

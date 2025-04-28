@@ -1,6 +1,6 @@
 ---
 title: "Levin's Code Signing"
 description: ""
-external_url: "http://www.newosxbook.com/articles/CodeSigning.pdf"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.newosxbook.com/articles/CodeSigning.pdf)
+

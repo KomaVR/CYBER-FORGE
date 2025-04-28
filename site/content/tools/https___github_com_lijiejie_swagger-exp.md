@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/lijiejie/swagger-exp"
 description: "swagger-exp:"
-external_url: "https://github.com/lijiejie/swagger-exp"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/lijiejie/swagger-exp)
+

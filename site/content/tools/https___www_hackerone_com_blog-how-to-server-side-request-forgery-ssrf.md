@@ -3,6 +3,6 @@ title: "https://www.hackerone.com/blog-How-To-Server-Side-Request-Forgery-SSRF"
 description: "
 
 "
-external_url: "https://www.hackerone.com/blog-How-To-Server-Side-Request-Forgery-SSRF"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.hackerone.com/blog-How-To-Server-Side-Request-Forgery-SSRF)
+

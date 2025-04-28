@@ -1,6 +1,6 @@
 ---
 title: "Metager"
 description: "(DE)"
-external_url: "https://metager.de"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://metager.de)
+

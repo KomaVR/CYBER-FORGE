@@ -9,6 +9,6 @@ backends. GUAC only supports ent with PostgreSQL. Other ent backends such as
 MySQL and
 SQLite are unsupported.
 "
-external_url: "https://github.com/guacsec/guac/tree/main/pkg/assembler/backends/ent"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/guacsec/guac/tree/main/pkg/assembler/backends/ent)
+

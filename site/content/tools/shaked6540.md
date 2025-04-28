@@ -1,6 +1,6 @@
 ---
 title: "shaked6540"
 description: ""
-external_url: "https://github.com/shaked6540"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/shaked6540)
+

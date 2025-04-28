@@ -1,6 +1,6 @@
 ---
 title: "DigitalForensicsMagazine"
 description: ""
-external_url: "https://digitalforensicsmagazine.com/blogs/"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://digitalforensicsmagazine.com/blogs/)
+

@@ -1,6 +1,6 @@
 ---
 title: "🔥 Cryptocurrency Security Solution"
 description: ""
-external_url: "https://github.com/slowmist/cryptocurrency-security"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/slowmist/cryptocurrency-security)
+

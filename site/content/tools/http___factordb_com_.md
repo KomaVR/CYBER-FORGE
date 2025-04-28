@@ -1,6 +1,6 @@
 ---
 title: "http://factordb.com/"
 description: ""
-external_url: "http://factordb.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://factordb.com/)
+

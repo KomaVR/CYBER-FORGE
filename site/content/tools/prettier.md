@@ -1,6 +1,6 @@
 ---
 title: "Prettier"
 description: "+ Solidity Plugin"
-external_url: "https://prettier.io/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://prettier.io/)
+

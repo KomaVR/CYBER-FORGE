@@ -1,6 +1,6 @@
 ---
 title: "MX Toolbox"
 description: ""
-external_url: "https://mxtoolbox.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://mxtoolbox.com/)
+

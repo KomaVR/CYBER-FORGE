@@ -1,6 +1,6 @@
 ---
 title: "golemgalvanize"
 description: ""
-external_url: "https://github.com/golemgalvanize"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/golemgalvanize)
+

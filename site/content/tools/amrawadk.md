@@ -1,6 +1,6 @@
 ---
 title: "amrawadk"
 description: ""
-external_url: "https://github.com/amrawadk"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/amrawadk)
+

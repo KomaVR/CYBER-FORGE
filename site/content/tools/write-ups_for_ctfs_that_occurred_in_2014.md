@@ -1,6 +1,6 @@
 ---
 title: "Write-ups for CTFs that occurred in 2014"
 description: ""
-external_url: "https://github.com/ctfs/write-ups-2014"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ctfs/write-ups-2014)
+

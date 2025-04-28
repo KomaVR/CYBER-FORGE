@@ -1,6 +1,6 @@
 ---
 title: "Netvibes"
 description: ""
-external_url: "http://www.netvibes.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.netvibes.com)
+

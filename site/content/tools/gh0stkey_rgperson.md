@@ -1,6 +1,6 @@
 ---
 title: "gh0stkey/RGPerson"
 description: ""
-external_url: "https://github.com/gh0stkey/RGPerson"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/gh0stkey/RGPerson)
+

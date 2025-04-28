@@ -1,6 +1,6 @@
 ---
 title: "The Magpie Developer"
 description: ""
-external_url: "https://blog.codinghorror.com/the-magpie-developer/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://blog.codinghorror.com/the-magpie-developer/)
+

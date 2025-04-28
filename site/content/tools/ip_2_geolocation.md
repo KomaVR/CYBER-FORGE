@@ -1,6 +1,6 @@
 ---
 title: "IP 2 Geolocation"
 description: ""
-external_url: "http://ip2geolocation.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://ip2geolocation.com)
+

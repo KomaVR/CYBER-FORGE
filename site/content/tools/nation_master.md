@@ -1,6 +1,6 @@
 ---
 title: "Nation Master"
 description: ""
-external_url: "http://www.nationmaster.com/statistics"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.nationmaster.com/statistics)
+

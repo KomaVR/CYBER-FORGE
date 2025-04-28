@@ -1,6 +1,6 @@
 ---
 title: "cryptostats.community"
 description: ""
-external_url: "https://cryptostats.community"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://cryptostats.community)
+

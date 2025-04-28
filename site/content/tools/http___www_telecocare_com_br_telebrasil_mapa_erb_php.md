@@ -1,6 +1,6 @@
 ---
 title: "http://www.telecocare.com.br/telebrasil/mapa_erb.php"
 description: ""
-external_url: "http://www.telecocare.com.br/telebrasil/mapa_erb.php"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.telecocare.com.br/telebrasil/mapa_erb.php)
+

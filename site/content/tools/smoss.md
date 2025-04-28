@@ -1,6 +1,6 @@
 ---
 title: "Smoss"
 description: ""
-external_url: "https://github.com/Smoss"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Smoss)
+

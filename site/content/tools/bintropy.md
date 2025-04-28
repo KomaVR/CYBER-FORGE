@@ -1,6 +1,6 @@
 ---
 title: "Bintropy"
 description: "Prototype analysis tool that estimates the likelihood that a binary file contains compressed or encrypted bytes."
-external_url: "https://github.com/dhondta/bintropy"
-category: "Reverse Engineering"
----
+external_category: "Reverse Engineering"
+---[Visit Website](https://github.com/dhondta/bintropy)
+

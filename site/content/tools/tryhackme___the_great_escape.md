@@ -3,6 +3,6 @@ title: "TryHackMe | The Great Escape"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/thegreatescape"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/thegreatescape)
+

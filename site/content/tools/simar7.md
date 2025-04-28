@@ -1,6 +1,6 @@
 ---
 title: "simar7"
 description: ""
-external_url: "https://github.com/simar7"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/simar7)
+

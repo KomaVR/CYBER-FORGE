@@ -1,6 +1,6 @@
 ---
 title: "mothran"
 description: ""
-external_url: "https://github.com/mothran"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mothran)
+

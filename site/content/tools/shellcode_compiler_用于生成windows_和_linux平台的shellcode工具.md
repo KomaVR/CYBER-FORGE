@@ -1,6 +1,6 @@
 ---
 title: "Shellcode Compiler：用于生成Windows 和 Linux平台的shellcode工具"
 description: ""
-external_url: "https://github.com/NytroRST/ShellcodeCompiler"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/NytroRST/ShellcodeCompiler)
+

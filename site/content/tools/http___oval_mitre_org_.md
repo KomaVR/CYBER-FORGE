@@ -1,6 +1,6 @@
 ---
 title: "http://oval.mitre.org/"
 description: ""
-external_url: "http://oval.mitre.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://oval.mitre.org/)
+

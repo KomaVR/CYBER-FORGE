@@ -1,6 +1,6 @@
 ---
 title: "https://www.rangeforce.com/"
 description: "RangeForce:"
-external_url: "https://www.rangeforce.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.rangeforce.com/)
+

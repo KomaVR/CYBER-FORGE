@@ -1,6 +1,6 @@
 ---
 title: "Sileo"
 description: ""
-external_url: "https://getsileo.app/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://getsileo.app/)
+

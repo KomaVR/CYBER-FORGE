@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/hashcat/hashcat"
 description: ""
-external_url: "https://github.com/hashcat/hashcat"
-category: "Password Cracking"
----
+external_category: "Password Cracking"
+---[Visit Website](https://github.com/hashcat/hashcat)
+

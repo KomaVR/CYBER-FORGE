@@ -1,6 +1,6 @@
 ---
 title: "https://smscodeonline.com/"
 description: ""
-external_url: "https://smscodeonline.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://smscodeonline.com/)
+

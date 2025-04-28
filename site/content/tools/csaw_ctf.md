@@ -1,6 +1,6 @@
 ---
 title: "CSAW CTF"
 description: ""
-external_url: "https://ctf.isis.poly.edu/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://ctf.isis.poly.edu/)
+

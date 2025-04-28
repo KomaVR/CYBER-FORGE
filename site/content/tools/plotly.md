@@ -1,6 +1,6 @@
 ---
 title: "Plotly"
 description: ""
-external_url: "https://plot.ly"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://plot.ly)
+

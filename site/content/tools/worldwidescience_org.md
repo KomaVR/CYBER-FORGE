@@ -1,6 +1,6 @@
 ---
 title: "WorldWideScience.org"
 description: ""
-external_url: "http://worldwidescience.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://worldwidescience.org)
+

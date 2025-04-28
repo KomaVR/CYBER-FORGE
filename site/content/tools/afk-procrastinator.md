@@ -1,6 +1,6 @@
 ---
 title: "afk-procrastinator"
 description: ""
-external_url: "https://github.com/afk-procrastinator"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/afk-procrastinator)
+

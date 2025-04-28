@@ -1,6 +1,6 @@
 ---
 title: "DevOps Weekly Newsletter"
 description: ""
-external_url: "http://devopsweekly.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://devopsweekly.com)
+

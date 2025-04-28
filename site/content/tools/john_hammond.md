@@ -1,6 +1,6 @@
 ---
 title: "John Hammond"
 description: ""
-external_url: "https://www.youtube.com/@_JohnHammond/videos"
-category: "Password Cracking"
----
+external_category: "Password Cracking"
+---[Visit Website](https://www.youtube.com/@_JohnHammond/videos)
+

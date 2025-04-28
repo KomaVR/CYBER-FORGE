@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/mzfr/liffy"
 description: ""
-external_url: "https://github.com/mzfr/liffy"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mzfr/liffy)
+

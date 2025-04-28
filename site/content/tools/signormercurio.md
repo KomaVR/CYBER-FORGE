@@ -1,6 +1,6 @@
 ---
 title: "SignorMercurio"
 description: ""
-external_url: "https://github.com/SignorMercurio"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/SignorMercurio)
+

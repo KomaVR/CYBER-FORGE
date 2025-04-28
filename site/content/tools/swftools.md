@@ -1,6 +1,6 @@
 ---
 title: "Swftools"
 description: "Collection of utilities to work with SWF files."
-external_url: "http://www.swftools.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.swftools.org/)
+

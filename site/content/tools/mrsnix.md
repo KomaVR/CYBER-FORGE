@@ -1,6 +1,6 @@
 ---
 title: "MrSnix"
 description: ""
-external_url: "https://github.com/MrSnix"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/MrSnix)
+

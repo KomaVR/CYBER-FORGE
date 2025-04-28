@@ -1,6 +1,6 @@
 ---
 title: "ctrlsam"
 description: ""
-external_url: "https://github.com/ctrlsam"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ctrlsam)
+

@@ -1,6 +1,6 @@
 ---
 title: "cgdecker"
 description: ""
-external_url: "https://github.com/cgdecker"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/cgdecker)
+

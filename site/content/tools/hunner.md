@@ -1,6 +1,6 @@
 ---
 title: "Hunner"
 description: "Hacking framework."
-external_url: "https://github.com/b3-v3r/Hunner"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/b3-v3r/Hunner)
+

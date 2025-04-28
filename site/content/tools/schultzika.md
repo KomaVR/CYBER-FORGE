@@ -1,6 +1,6 @@
 ---
 title: "schultzika"
 description: ""
-external_url: "https://github.com/schultzika"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/schultzika)
+

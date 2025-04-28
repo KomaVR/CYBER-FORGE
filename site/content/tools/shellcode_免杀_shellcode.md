@@ -1,6 +1,6 @@
 ---
 title: "shellcode：免杀 shellcode"
 description: ""
-external_url: "https://github.com/9bie/shellcode"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/9bie/shellcode)
+

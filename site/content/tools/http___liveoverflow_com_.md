@@ -1,6 +1,6 @@
 ---
 title: "http://liveoverflow.com/"
 description: ""
-external_url: "http://liveoverflow.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://liveoverflow.com/)
+

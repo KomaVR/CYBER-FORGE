@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/marcelki/sockstress"
 description: ""
-external_url: "https://github.com/marcelki/sockstress"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/marcelki/sockstress)
+

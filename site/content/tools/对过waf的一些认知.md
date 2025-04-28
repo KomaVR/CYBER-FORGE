@@ -1,6 +1,6 @@
 ---
 title: "对过WAF的一些认知"
 description: ""
-external_url: "http://static.anquanke.com/download/b/security-geek-2019-q2/article-18.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://static.anquanke.com/download/b/security-geek-2019-q2/article-18.html)
+

@@ -1,6 +1,6 @@
 ---
 title: "weeman"
 description: "HTTP server for phishing in python."
-external_url: "https://github.com/evait-security/weeman"
-category: "Social Engineering"
----
+external_category: "Social Engineering"
+---[Visit Website](https://github.com/evait-security/weeman)
+

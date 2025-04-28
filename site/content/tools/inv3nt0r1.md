@@ -1,6 +1,6 @@
 ---
 title: "Inv3nt0r1"
 description: ""
-external_url: "https://github.com/Inv3nt0r1"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Inv3nt0r1)
+

@@ -1,6 +1,6 @@
 ---
 title: "The Definitive Guide to Same-origin Policy"
 description: ""
-external_url: "https://www.netsparker.com/whitepaper-same-origin-policy/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.netsparker.com/whitepaper-same-origin-policy/)
+

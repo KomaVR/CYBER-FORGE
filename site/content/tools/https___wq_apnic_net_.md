@@ -7,6 +7,6 @@ https://bgp.he.net/
 https://bgpview.io/
 
 "
-external_url: "https://wq.apnic.net/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://wq.apnic.net/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Reddit/hacking"
 description: "Discuss about hacking and web security."
-external_url: "https://www.reddit.com/r/hacking"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://www.reddit.com/r/hacking)
+

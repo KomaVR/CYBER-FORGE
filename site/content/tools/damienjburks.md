@@ -1,6 +1,6 @@
 ---
 title: "damienjburks"
 description: ""
-external_url: "https://github.com/damienjburks"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/damienjburks)
+

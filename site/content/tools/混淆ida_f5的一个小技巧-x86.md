@@ -1,6 +1,6 @@
 ---
 title: "混淆IDA F5的一个小技巧-x86"
 description: "2019.05 [aliyun]"
-external_url: "https://xz.aliyun.com/t/5062"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://xz.aliyun.com/t/5062)
+

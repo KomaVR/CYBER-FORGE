@@ -1,6 +1,6 @@
 ---
 title: "https://www.creama.org.br/"
 description: "CREAMA"
-external_url: "https://www.creama.org.br/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.creama.org.br/)
+

@@ -1,6 +1,6 @@
 ---
 title: "pudo"
 description: ""
-external_url: "https://github.com/pudo"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/pudo)
+

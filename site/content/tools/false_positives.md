@@ -1,6 +1,6 @@
 ---
 title: "false positives"
 description: "do not remove  and/or are no longer active 1 2"
-external_url: "https://csrc.nist.gov/glossary/term/false_positive"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://csrc.nist.gov/glossary/term/false_positive)
+

@@ -2,6 +2,6 @@
 title: "WhistleMaster"
 description: "WhistleMaster
 WM"
-external_url: "https://github.com/WhistleMaster"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/WhistleMaster)
+

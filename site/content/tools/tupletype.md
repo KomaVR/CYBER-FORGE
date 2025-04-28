@@ -1,6 +1,6 @@
 ---
 title: "TupleType"
 description: ""
-external_url: "https://github.com/TupleType"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/TupleType)
+

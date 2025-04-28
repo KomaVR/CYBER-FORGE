@@ -1,6 +1,6 @@
 ---
 title: "Qi Wireless Charging"
 description: ""
-external_url: "https://www.wirelesspowerconsortium.com/knowledge-base/specifications/download-the-qi-specifications.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.wirelesspowerconsortium.com/knowledge-base/specifications/download-the-qi-specifications.html)
+

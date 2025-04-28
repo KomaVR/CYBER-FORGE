@@ -1,6 +1,6 @@
 ---
 title: "noobpk"
 description: ""
-external_url: "https://github.com/noobpk/frida-ios-hook"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/noobpk/frida-ios-hook)
+

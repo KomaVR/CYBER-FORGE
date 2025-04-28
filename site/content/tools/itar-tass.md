@@ -1,6 +1,6 @@
 ---
 title: "Itar-Tass"
 description: ""
-external_url: "http://www.itar-tass.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.itar-tass.com)
+

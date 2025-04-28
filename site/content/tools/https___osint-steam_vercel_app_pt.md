@@ -1,6 +1,6 @@
 ---
 title: "https://osint-steam.vercel.app/pt"
 description: ""
-external_url: "https://osint-steam.vercel.app/pt"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://osint-steam.vercel.app/pt)
+

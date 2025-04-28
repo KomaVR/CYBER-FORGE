@@ -1,6 +1,6 @@
 ---
 title: "athre0z"
 description: ""
-external_url: "https://github.com/athre0z"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/athre0z)
+

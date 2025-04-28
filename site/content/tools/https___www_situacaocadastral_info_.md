@@ -1,6 +1,6 @@
 ---
 title: "https://www.situacaocadastral.info/"
 description: ""
-external_url: "https://www.situacaocadastral.info/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.situacaocadastral.info/)
+

@@ -3,6 +3,6 @@ title: "TryHackMe | Introduction to OWASP ZAP"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/learnowaspzap"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://tryhackme.com/room/learnowaspzap)
+

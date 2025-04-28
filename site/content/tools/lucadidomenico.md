@@ -1,6 +1,6 @@
 ---
 title: "lucadidomenico"
 description: ""
-external_url: "https://github.com/lucadidomenico"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/lucadidomenico)
+

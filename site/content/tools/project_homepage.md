@@ -1,6 +1,6 @@
 ---
 title: "Project homepage"
 description: ""
-external_url: "http://owtf.github.io/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://owtf.github.io/)
+

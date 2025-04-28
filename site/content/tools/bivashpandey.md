@@ -1,6 +1,6 @@
 ---
 title: "bivashpandey"
 description: ""
-external_url: "https://github.com/bivashpandey"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/bivashpandey)
+

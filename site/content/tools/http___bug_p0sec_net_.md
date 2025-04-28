@@ -1,6 +1,6 @@
 ---
 title: "http://bug.p0sec.net/"
 description: ""
-external_url: "http://bug.p0sec.net/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://bug.p0sec.net/)
+

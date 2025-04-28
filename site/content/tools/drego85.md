@@ -1,6 +1,6 @@
 ---
 title: "drego85"
 description: ""
-external_url: "https://github.com/drego85"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/drego85)
+

@@ -1,6 +1,6 @@
 ---
 title: "Math & Cryptography"
 description: ""
-external_url: "https://xn--2-umb.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://xn--2-umb.com)
+

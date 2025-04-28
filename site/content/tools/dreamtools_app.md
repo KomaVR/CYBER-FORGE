@@ -1,6 +1,6 @@
 ---
 title: "dreamtools.app"
 description: ""
-external_url: "https://dreamtools.app/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://dreamtools.app/)
+

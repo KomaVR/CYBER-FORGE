@@ -1,6 +1,6 @@
 ---
 title: "Google Trends"
 description: ""
-external_url: "https://www.google.com/trends"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.google.com/trends)
+

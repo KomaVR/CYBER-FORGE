@@ -1,6 +1,6 @@
 ---
 title: "http://www.cnblogs.com/figure9/"
 description: ""
-external_url: "http://www.cnblogs.com/figure9/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.cnblogs.com/figure9/)
+

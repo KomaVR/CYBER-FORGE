@@ -1,6 +1,6 @@
 ---
 title: "fr0ster"
 description: ""
-external_url: "https://github.com/fr0ster"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/fr0ster)
+

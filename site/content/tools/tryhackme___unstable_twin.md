@@ -3,6 +3,6 @@ title: "TryHackMe | Unstable Twin"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/unstabletwin"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/unstabletwin)
+

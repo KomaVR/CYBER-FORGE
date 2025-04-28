@@ -1,6 +1,6 @@
 ---
 title: "#19 Read command file when start up"
 description: ""
-external_url: "https://github.com/WangYihang/Platypus/issues/19"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/WangYihang/Platypus/issues/19)
+

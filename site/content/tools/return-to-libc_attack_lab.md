@@ -4,6 +4,6 @@ description: "
 
 Using the return-to-libc technique to defeat the \"non-executable stack\" countermeasure of the buffer-overflow attack.
 "
-external_url: "http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Return_to_libc"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Return_to_libc)
+

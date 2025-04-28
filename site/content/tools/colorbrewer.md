@@ -1,6 +1,6 @@
 ---
 title: "Colorbrewer"
 description: ""
-external_url: "http://colorbrewer2.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://colorbrewer2.org)
+

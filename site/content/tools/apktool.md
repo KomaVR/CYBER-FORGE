@@ -1,6 +1,6 @@
 ---
 title: "ApkTool"
 description: "Android Decompiler."
-external_url: "http://ibotpeaches.github.io/Apktool/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://ibotpeaches.github.io/Apktool/)
+

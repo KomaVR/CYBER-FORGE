@@ -1,6 +1,6 @@
 ---
 title: "sagan"
 description: "Sagan uses a 'Snort like' engine and rules to analyze logs (syslog/event log/snmptrap/netflow/etc)."
-external_url: "http://sagan.quadrantsec.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://sagan.quadrantsec.com/)
+

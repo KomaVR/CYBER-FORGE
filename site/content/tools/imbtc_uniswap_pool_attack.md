@@ -1,6 +1,6 @@
 ---
 title: "imBTC Uniswap pool attack"
 description: "18 April 2020 | Victim contract, Exploit contract, Exploit transaction"
-external_url: "https://milkroad.com/news/imbtc-uniswap-hack"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://milkroad.com/news/imbtc-uniswap-hack)
+

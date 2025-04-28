@@ -1,6 +1,6 @@
 ---
 title: "http://samurai.inguardians.com"
 description: "Samurai Web Testing Framework"
-external_url: "http://samurai.inguardians.com"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://samurai.inguardians.com)
+

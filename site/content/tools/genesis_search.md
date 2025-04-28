@@ -1,6 +1,6 @@
 ---
 title: "Genesis Search"
 description: ""
-external_url: "http://boogle.store/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://boogle.store/)
+

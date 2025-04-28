@@ -9,6 +9,6 @@ Javascript 大小寫特性
 
 
 "
-external_url: "https://www.leavesongs.com/HTML/javascript-up-low-ercase-tip.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.leavesongs.com/HTML/javascript-up-low-ercase-tip.html)
+

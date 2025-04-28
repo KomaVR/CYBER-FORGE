@@ -1,6 +1,6 @@
 ---
 title: "Hootsuite"
 description: ""
-external_url: "http://hootsuite.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://hootsuite.com)
+

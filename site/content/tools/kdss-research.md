@@ -1,6 +1,6 @@
 ---
 title: "KDSS-Research"
 description: ""
-external_url: "https://github.com/KDSS-Research"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/KDSS-Research)
+

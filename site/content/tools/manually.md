@@ -1,6 +1,6 @@
 ---
 title: "manually"
 description: "Install Go >= 1.17 (using your package manager, or )"
-external_url: "https://go.dev/doc/install"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://go.dev/doc/install)
+

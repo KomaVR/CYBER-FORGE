@@ -1,6 +1,6 @@
 ---
 title: "Twingly"
 description: ""
-external_url: "http://www.twingly.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.twingly.com)
+

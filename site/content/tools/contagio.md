@@ -1,6 +1,6 @@
 ---
 title: "Contagio"
 description: "is a collection of the latest malware samples, threats, observations, and analyses."
-external_url: "https://contagiodump.blogspot.com"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://contagiodump.blogspot.com)
+

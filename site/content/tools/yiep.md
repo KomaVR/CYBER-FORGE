@@ -1,6 +1,6 @@
 ---
 title: "Yiep"
 description: ""
-external_url: "https://github.com/Yiep"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Yiep)
+

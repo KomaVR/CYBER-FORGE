@@ -1,6 +1,6 @@
 ---
 title: "https://thehackingsage.com/hackdroid/apps/wireless"
 description: "Wireless :"
-external_url: "https://thehackingsage.com/hackdroid/apps/wireless"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://thehackingsage.com/hackdroid/apps/wireless)
+

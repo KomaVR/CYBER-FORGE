@@ -1,6 +1,6 @@
 ---
 title: "monoidic"
 description: ""
-external_url: "https://github.com/monoidic"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/monoidic)
+

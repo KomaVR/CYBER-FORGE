@@ -1,6 +1,6 @@
 ---
 title: "ScienceDirect"
 description: ""
-external_url: "http://www.sciencedirect.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.sciencedirect.com)
+

@@ -1,6 +1,6 @@
 ---
 title: "labo-flg"
 description: ""
-external_url: "https://github.com/labo-flg"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/labo-flg)
+

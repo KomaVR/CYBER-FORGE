@@ -1,6 +1,6 @@
 ---
 title: "CainYzb"
 description: ""
-external_url: "https://github.com/CainYzb"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/CainYzb)
+

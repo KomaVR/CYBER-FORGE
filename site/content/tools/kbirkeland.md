@@ -1,6 +1,6 @@
 ---
 title: "kbirkeland"
 description: ""
-external_url: "https://github.com/kbirkeland"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/kbirkeland)
+

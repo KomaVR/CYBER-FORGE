@@ -1,6 +1,6 @@
 ---
 title: "navlys"
 description: ""
-external_url: "https://twitter.com/navlys_/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://twitter.com/navlys_/)
+

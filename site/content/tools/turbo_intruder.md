@@ -1,6 +1,6 @@
 ---
 title: "Turbo Intruder"
 description: "Burp Suite extension for sending large numbers of HTTP requests"
-external_url: "https://portswigger.net/research/turbo-intruder-embracing-the-billion-request-attack"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://portswigger.net/research/turbo-intruder-embracing-the-billion-request-attack)
+

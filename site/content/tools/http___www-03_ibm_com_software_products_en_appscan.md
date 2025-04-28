@@ -1,6 +1,6 @@
 ---
 title: "http://www-03.ibm.com/software/products/en/appscan"
 description: "IBM Security AppScan"
-external_url: "http://www-03.ibm.com/software/products/en/appscan"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www-03.ibm.com/software/products/en/appscan)
+

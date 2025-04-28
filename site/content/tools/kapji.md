@@ -1,6 +1,6 @@
 ---
 title: "KapJI"
 description: ""
-external_url: "https://github.com/KapJI"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/KapJI)
+

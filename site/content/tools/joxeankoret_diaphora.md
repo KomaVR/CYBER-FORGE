@@ -1,6 +1,6 @@
 ---
 title: "joxeankoret/diaphora"
 description: "[1554星][13d] [Py]  program diffing"
-external_url: "https://github.com/joxeankoret/diaphora"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/joxeankoret/diaphora)
+

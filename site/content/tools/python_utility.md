@@ -1,6 +1,6 @@
 ---
 title: "Python utility"
 description: ""
-external_url: "https://thrysoee.dk/iospcap/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://thrysoee.dk/iospcap/)
+

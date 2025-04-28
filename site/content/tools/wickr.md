@@ -1,6 +1,6 @@
 ---
 title: "Wickr"
 description: ""
-external_url: "https://wickr.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://wickr.com)
+

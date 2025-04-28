@@ -3,6 +3,6 @@ title: "TryHackMe | Red Stone One Carat"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/redstoneonecarat"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/redstoneonecarat)
+

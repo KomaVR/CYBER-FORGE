@@ -1,6 +1,6 @@
 ---
 title: "graphql-introspection-analyzer"
 description: ""
-external_url: "https://github.com/gwen001/graphql-introspection-analyzer"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/gwen001/graphql-introspection-analyzer)
+

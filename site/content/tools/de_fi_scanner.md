@@ -1,6 +1,6 @@
 ---
 title: "de.fi/scanner"
 description: ""
-external_url: "https://de.fi/scanner"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://de.fi/scanner)
+

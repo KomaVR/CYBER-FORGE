@@ -1,6 +1,6 @@
 ---
 title: "ADF"
 description: ""
-external_url: "https://github.com/ong/awesome-decentralized-finance"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ong/awesome-decentralized-finance)
+

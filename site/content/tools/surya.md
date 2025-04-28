@@ -1,6 +1,6 @@
 ---
 title: "Surya"
 description: ""
-external_url: "https://github.com/ConsenSys/surya"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ConsenSys/surya)
+

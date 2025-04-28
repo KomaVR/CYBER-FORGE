@@ -1,6 +1,6 @@
 ---
 title: "thesurlydev"
 description: ""
-external_url: "https://github.com/thesurlydev"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/thesurlydev)
+

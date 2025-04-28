@@ -1,6 +1,6 @@
 ---
 title: "searchface.ru"
 description: ""
-external_url: "http://searchface.ru/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://searchface.ru/)
+

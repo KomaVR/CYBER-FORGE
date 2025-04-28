@@ -1,6 +1,6 @@
 ---
 title: "Harvard TweetMap"
 description: ""
-external_url: "http://worldmap.harvard.edu/tweetmap"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://worldmap.harvard.edu/tweetmap)
+

@@ -1,6 +1,6 @@
 ---
 title: "thomaspatzke"
 description: ""
-external_url: "https://github.com/thomaspatzke"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/thomaspatzke)
+

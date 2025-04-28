@@ -1,6 +1,6 @@
 ---
 title: "Mzack9999"
 description: ""
-external_url: "https://github.com/Mzack9999"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Mzack9999)
+

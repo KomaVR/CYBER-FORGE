@@ -1,6 +1,6 @@
 ---
 title: "Aleph Open Search"
 description: ""
-external_url: "https://open-search.aleph-networks.eu"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://open-search.aleph-networks.eu)
+

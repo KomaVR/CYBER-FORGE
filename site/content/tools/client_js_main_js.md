@@ -11,6 +11,6 @@ request.successActor: when the success condition evaluated to true, this success
 
 When the BootstrapStep object has been constructed, call .run() for running indefinitely or .run(timeout_ms) for failing when no response has been received after a specific timeout. The run function returns a Promise.
 "
-external_url: "https://github.com/sigalor/whatsapp-web-reveng/blob/master/client/js/main.js"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/sigalor/whatsapp-web-reveng/blob/master/client/js/main.js)
+

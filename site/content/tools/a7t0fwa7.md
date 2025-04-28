@@ -1,6 +1,6 @@
 ---
 title: "a7t0fwa7"
 description: ""
-external_url: "https://github.com/a7t0fwa7"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/a7t0fwa7)
+

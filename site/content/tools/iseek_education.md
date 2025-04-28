@@ -1,6 +1,6 @@
 ---
 title: "iSEEK Education"
 description: ""
-external_url: "http://education.iseek.com/iseek/home.page"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://education.iseek.com/iseek/home.page)
+

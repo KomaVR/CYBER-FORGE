@@ -1,6 +1,6 @@
 ---
 title: "btcrecover"
 description: ""
-external_url: "https://github.com/gurnec/btcrecover"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/gurnec/btcrecover)
+

@@ -1,6 +1,6 @@
 ---
 title: "Naukri (India)"
 description: ""
-external_url: "http://www.naukri.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.naukri.com)
+

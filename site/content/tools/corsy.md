@@ -1,6 +1,6 @@
 ---
 title: "Corsy"
 description: "Cors ()"
-external_url: "https://github.com/s0md3v/Corsy"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/s0md3v/Corsy)
+

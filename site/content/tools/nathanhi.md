@@ -1,6 +1,6 @@
 ---
 title: "nathanhi"
 description: ""
-external_url: "https://github.com/nathanhi"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/nathanhi)
+

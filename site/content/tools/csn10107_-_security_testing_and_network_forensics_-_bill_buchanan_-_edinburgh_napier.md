@@ -1,6 +1,6 @@
 ---
 title: "CSN10107 - Security Testing and Network Forensics - Bill Buchanan - Edinburgh Napier"
 description: ""
-external_url: "https://asecuritysite.com/csn10107"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://asecuritysite.com/csn10107)
+

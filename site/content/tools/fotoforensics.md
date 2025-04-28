@@ -1,6 +1,6 @@
 ---
 title: "FotoForensics"
 description: ""
-external_url: "http://www.fotoforensics.com"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](http://www.fotoforensics.com)
+

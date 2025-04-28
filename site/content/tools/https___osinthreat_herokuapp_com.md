@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://osinthreat.herokuapp.com"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://osinthreat.herokuapp.com)
+

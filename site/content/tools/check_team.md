@@ -3,6 +3,6 @@ title: "Check team"
 description: "
 Bellingcat’s 
 "
-external_url: "https://checkmedia.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://checkmedia.org/)
+

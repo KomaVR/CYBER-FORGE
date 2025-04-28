@@ -2,6 +2,6 @@
 title: "Heavens-c"
 description: "Heavens-c
 Heavens"
-external_url: "https://github.com/Heavens-c"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Heavens-c)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/sullo/nikto"
 description: "Nikto web server scanner"
-external_url: "https://github.com/sullo/nikto"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://github.com/sullo/nikto)
+

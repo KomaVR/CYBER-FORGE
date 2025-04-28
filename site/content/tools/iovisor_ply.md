@@ -1,6 +1,6 @@
 ---
 title: "iovisor/ply"
 description: "[509星][8m] [C]  Dynamic Tracing in Linux"
-external_url: "https://github.com/iovisor/ply"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/iovisor/ply)
+

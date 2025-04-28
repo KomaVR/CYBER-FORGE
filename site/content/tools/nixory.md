@@ -1,6 +1,6 @@
 ---
 title: "Nixory"
 description: ""
-external_url: "http://nixory.sourceforge.net"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://nixory.sourceforge.net)
+

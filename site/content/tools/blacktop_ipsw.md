@@ -1,6 +1,6 @@
 ---
 title: "blacktop/ipsw"
 description: ""
-external_url: "https://github.com/blacktop/ipsw"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/blacktop/ipsw)
+

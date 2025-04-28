@@ -1,6 +1,6 @@
 ---
 title: "Surveilliance Self Defense"
 description: ""
-external_url: "https://ssd.eff.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://ssd.eff.org)
+

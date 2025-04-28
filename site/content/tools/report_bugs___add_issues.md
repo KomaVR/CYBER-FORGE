@@ -1,6 +1,6 @@
 ---
 title: "Report bugs & add issues"
 description: ""
-external_url: "https://github.com/anouarbensaad/VulnX/issues/new"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/anouarbensaad/VulnX/issues/new)
+

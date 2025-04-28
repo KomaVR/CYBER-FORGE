@@ -1,6 +1,6 @@
 ---
 title: "Network-Tools"
 description: ""
-external_url: "http://network-tools.com/"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](http://network-tools.com/)
+

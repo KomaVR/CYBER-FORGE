@@ -2,6 +2,6 @@
 title: "apps.sentinel-hub.com/sentinel-playground"
 description: "Sentinel Playground,
       "
-external_url: "http://apps.sentinel-hub.com/sentinel-playground"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://apps.sentinel-hub.com/sentinel-playground)
+

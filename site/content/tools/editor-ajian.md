@@ -1,6 +1,6 @@
 ---
 title: "editor-Ajian"
 description: ""
-external_url: "https://github.com/editor-Ajian"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/editor-Ajian)
+

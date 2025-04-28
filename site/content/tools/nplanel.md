@@ -1,6 +1,6 @@
 ---
 title: "nplanel"
 description: ""
-external_url: "https://github.com/nplanel"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/nplanel)
+

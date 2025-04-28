@@ -1,6 +1,6 @@
 ---
 title: "HTTP Status Codes"
 description: ""
-external_url: "https://httpstatuses.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://httpstatuses.com/)
+

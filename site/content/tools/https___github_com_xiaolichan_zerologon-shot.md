@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/XiaoliChan/zerologon-Shot"
 description: ""
-external_url: "https://github.com/XiaoliChan/zerologon-Shot"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/XiaoliChan/zerologon-Shot)
+

@@ -1,6 +1,6 @@
 ---
 title: "Pliad CTF"
 description: ""
-external_url: "http://www.plaidctf.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.plaidctf.com/)
+

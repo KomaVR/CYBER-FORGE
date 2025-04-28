@@ -9,6 +9,6 @@ GramPages
 Skimagram - Search engine for Instagram
 
 "
-external_url: "https://www.gramfind.com/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://www.gramfind.com/)
+

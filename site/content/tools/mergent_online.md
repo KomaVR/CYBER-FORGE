@@ -1,6 +1,6 @@
 ---
 title: "Mergent Online"
 description: ""
-external_url: "http://www.mergentonline.com/login.php"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.mergentonline.com/login.php)
+

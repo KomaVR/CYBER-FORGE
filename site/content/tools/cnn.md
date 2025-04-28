@@ -1,6 +1,6 @@
 ---
 title: "CNN"
 description: ""
-external_url: "http://edition.cnn.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://edition.cnn.com)
+

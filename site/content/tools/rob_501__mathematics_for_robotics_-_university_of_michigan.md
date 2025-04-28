@@ -1,6 +1,6 @@
 ---
 title: "ROB 501: Mathematics for Robotics - University of Michigan"
 description: "(Youtube)"
-external_url: "https://github.com/michiganrobotics/rob501"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/michiganrobotics/rob501)
+

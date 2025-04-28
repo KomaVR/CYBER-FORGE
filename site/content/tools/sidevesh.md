@@ -1,6 +1,6 @@
 ---
 title: "sidevesh"
 description: ""
-external_url: "https://github.com/sidevesh"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/sidevesh)
+

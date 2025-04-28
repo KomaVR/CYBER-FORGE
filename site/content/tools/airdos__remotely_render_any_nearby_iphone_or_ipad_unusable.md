@@ -1,6 +1,6 @@
 ---
 title: "AirDoS: remotely render any nearby iPhone or iPad unusable"
 description: ""
-external_url: "https://kishanbagaria.com/airdos/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://kishanbagaria.com/airdos/)
+

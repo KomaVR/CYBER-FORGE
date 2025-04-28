@@ -1,6 +1,6 @@
 ---
 title: "Marc Poulhiès"
 description: ""
-external_url: "https://github.com/dkm"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/dkm)
+

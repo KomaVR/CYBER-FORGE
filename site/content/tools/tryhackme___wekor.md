@@ -3,6 +3,6 @@ title: "TryHackMe | Wekor"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/wekorra"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/wekorra)
+

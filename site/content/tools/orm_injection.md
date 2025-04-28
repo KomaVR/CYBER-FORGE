@@ -1,6 +1,6 @@
 ---
 title: "ORM Injection"
 description: "Written by Simone Onofri."
-external_url: "https://www.slideshare.net/simone.onofri/orm-injection"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.slideshare.net/simone.onofri/orm-injection)
+

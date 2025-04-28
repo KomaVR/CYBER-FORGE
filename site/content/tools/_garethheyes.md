@@ -1,6 +1,6 @@
 ---
 title: "@garethheyes"
 description: "English web penetrator."
-external_url: "https://twitter.com/garethheyes"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://twitter.com/garethheyes)
+

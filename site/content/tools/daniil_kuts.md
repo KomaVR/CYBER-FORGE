@@ -1,6 +1,6 @@
 ---
 title: "Daniil Kuts"
 description: "ISP RAS"
-external_url: "https://github.com/apach301"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/apach301)
+

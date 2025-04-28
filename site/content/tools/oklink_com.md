@@ -1,6 +1,6 @@
 ---
 title: "oklink.com"
 description: ""
-external_url: "https://www.oklink.com/en"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.oklink.com/en)
+

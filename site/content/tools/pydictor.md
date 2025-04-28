@@ -1,6 +1,6 @@
 ---
 title: "pydictor"
 description: "A powerful and useful hacker dictionary builder for a brute-force attack."
-external_url: "https://github.com/LandGrey/pydictor"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/LandGrey/pydictor)
+

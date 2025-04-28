@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/TideSec/TideFinger_Go"
 description: ""
-external_url: "https://github.com/TideSec/TideFinger_Go"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/TideSec/TideFinger_Go)
+

@@ -1,6 +1,6 @@
 ---
 title: "WerWolvTranslationBot"
 description: ""
-external_url: "https://github.com/WerWolvTranslationBot"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/WerWolvTranslationBot)
+

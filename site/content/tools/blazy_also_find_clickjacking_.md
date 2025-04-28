@@ -1,6 +1,6 @@
 ---
 title: "Blazy(Also Find ClickJacking)"
 description: ""
-external_url: "https://github.com/UltimateHackers/Blazy"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/UltimateHackers/Blazy)
+

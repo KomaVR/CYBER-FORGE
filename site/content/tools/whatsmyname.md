@@ -1,6 +1,6 @@
 ---
 title: "Whatsmyname"
 description: ""
-external_url: "https://www.whatsmyname.app/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.whatsmyname.app/)
+

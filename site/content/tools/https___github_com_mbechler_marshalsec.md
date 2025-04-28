@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/mbechler/marshalsec"
 description: ""
-external_url: "https://github.com/mbechler/marshalsec"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mbechler/marshalsec)
+

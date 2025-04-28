@@ -3,6 +3,6 @@ title: "TryHackMe | Why Subscribe"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/yara"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/yara)
+

@@ -1,6 +1,6 @@
 ---
 title: "DEFCON Car Hacking Village"
 description: "Car Hacking exercises from DEFCON 24."
-external_url: "http://www.carhackingvillage.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.carhackingvillage.com/)
+

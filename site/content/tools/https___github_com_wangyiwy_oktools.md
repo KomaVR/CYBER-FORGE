@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/wangyiwy/oktools"
 description: ""
-external_url: "https://github.com/wangyiwy/oktools"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/wangyiwy/oktools)
+

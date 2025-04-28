@@ -1,6 +1,6 @@
 ---
 title: "Hackavision"
 description: ""
-external_url: "http://www.hackavision.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.hackavision.com/)
+

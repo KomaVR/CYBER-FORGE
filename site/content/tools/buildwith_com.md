@@ -1,6 +1,6 @@
 ---
 title: "buildwith.com"
 description: "BuildWith. Online database of web technologies used on website"
-external_url: "http://builtwith.com"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://builtwith.com)
+

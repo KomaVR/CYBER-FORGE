@@ -1,6 +1,6 @@
 ---
 title: "https://virus.exchange/"
 description: "Virus Exchange:"
-external_url: "https://virus.exchange/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://virus.exchange/)
+

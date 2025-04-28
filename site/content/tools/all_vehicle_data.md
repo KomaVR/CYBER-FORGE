@@ -1,6 +1,6 @@
 ---
 title: "All Vehicle Data"
 description: ""
-external_url: "http://www.allvehicledata.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.allvehicledata.com/)
+

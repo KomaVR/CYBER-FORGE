@@ -1,6 +1,6 @@
 ---
 title: "skyscraper Page"
 description: ""
-external_url: "http://skyscraperpage.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://skyscraperpage.com/)
+

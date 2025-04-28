@@ -1,6 +1,6 @@
 ---
 title: "manuelbua"
 description: ""
-external_url: "https://github.com/manuelbua"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/manuelbua)
+

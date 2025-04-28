@@ -1,6 +1,6 @@
 ---
 title: "Land Viewer"
 description: ""
-external_url: "https://lv.eosda.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://lv.eosda.com/)
+

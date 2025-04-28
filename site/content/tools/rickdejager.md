@@ -2,6 +2,6 @@
 title: "RickdeJager"
 description: "RickdeJager
 Rick de Jager"
-external_url: "https://github.com/RickdeJager"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/RickdeJager)
+

@@ -1,6 +1,6 @@
 ---
 title: "AllsafeCyberSecurity/awesome-ghidra"
 description: ""
-external_url: "https://github.com/AllsafeCyberSecurity/awesome-ghidra"
-category: "Reverse Engineering"
----
+external_category: "Reverse Engineering"
+---[Visit Website](https://github.com/AllsafeCyberSecurity/awesome-ghidra)
+

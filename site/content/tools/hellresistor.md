@@ -1,6 +1,6 @@
 ---
 title: "hellresistor"
 description: ""
-external_url: "https://github.com/hellresistor"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/hellresistor)
+

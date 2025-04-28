@@ -1,6 +1,6 @@
 ---
 title: "eighthave"
 description: ""
-external_url: "https://github.com/eighthave"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/eighthave)
+

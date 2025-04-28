@@ -1,6 +1,6 @@
 ---
 title: "SearchFTPs"
 description: "The most advanced FTP Search Engine service maintained by members"
-external_url: "https://www.searchftps.net/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.searchftps.net/)
+

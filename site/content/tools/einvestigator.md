@@ -1,6 +1,6 @@
 ---
 title: "eInvestigator"
 description: ""
-external_url: "https://www.einvestigator.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.einvestigator.com/)
+

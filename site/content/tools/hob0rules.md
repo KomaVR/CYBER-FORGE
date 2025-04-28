@@ -1,6 +1,6 @@
 ---
 title: "Hob0Rules"
 description: "Password cracking rules for Hashcat based on statistics and industry patterns."
-external_url: "https://github.com/praetorian-inc/Hob0Rules"
-category: "Password Cracking"
----
+external_category: "Password Cracking"
+---[Visit Website](https://github.com/praetorian-inc/Hob0Rules)
+

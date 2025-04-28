@@ -1,6 +1,6 @@
 ---
 title: "jmchia"
 description: ""
-external_url: "https://github.com/jmchia"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jmchia)
+

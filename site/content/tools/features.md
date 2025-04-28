@@ -1,6 +1,6 @@
 ---
 title: "Features"
 description: ""
-external_url: "https://github.com/v-byte-cpu/sx#-features"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/v-byte-cpu/sx#-features)
+

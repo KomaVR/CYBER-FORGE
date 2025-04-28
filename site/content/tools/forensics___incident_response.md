@@ -1,6 +1,6 @@
 ---
 title: "Forensics & Incident Response"
 description: ""
-external_url: "https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/DFIR.md"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/DFIR.md)
+

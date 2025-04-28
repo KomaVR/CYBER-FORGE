@@ -8,6 +8,6 @@ Generate subdomains and wordlists: /domains
 密码猜解: https://www.hacked.com.cn/pass.html
 
 "
-external_url: "https://weakpass.com/generate"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://weakpass.com/generate)
+

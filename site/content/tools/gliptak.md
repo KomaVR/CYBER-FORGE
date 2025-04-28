@@ -1,6 +1,6 @@
 ---
 title: "gliptak"
 description: ""
-external_url: "https://github.com/gliptak"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/gliptak)
+

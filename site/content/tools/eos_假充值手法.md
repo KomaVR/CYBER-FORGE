@@ -1,6 +1,6 @@
 ---
 title: "EOS 假充值手法"
 description: ""
-external_url: "https://mp.weixin.qq.com/s/fKINfZLW65LYaD4qO-21nA"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://mp.weixin.qq.com/s/fKINfZLW65LYaD4qO-21nA)
+

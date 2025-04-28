@@ -1,6 +1,6 @@
 ---
 title: "wikijm"
 description: "wikijm"
-external_url: "https://github.com/wikijm"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/wikijm)
+

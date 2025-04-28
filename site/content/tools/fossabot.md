@@ -2,6 +2,6 @@
 title: "fossabot"
 description: "fossabot
 fossabot"
-external_url: "https://github.com/fossabot"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/fossabot)
+

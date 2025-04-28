@@ -1,6 +1,6 @@
 ---
 title: "TIDoS-Framework"
 description: "A comprehensive web application audit framework to cover up everything from Reconnaissance and OSINT to Vulnerability Analysis by @_tID."
-external_url: "https://github.com/theInfectedDrake/TIDoS-Framework"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://github.com/theInfectedDrake/TIDoS-Framework)
+

@@ -1,6 +1,6 @@
 ---
 title: "boveus"
 description: ""
-external_url: "https://github.com/boveus"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/boveus)
+

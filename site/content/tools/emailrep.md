@@ -1,6 +1,6 @@
 ---
 title: "EmailRep"
 description: ""
-external_url: "https://emailrep.io/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://emailrep.io/)
+

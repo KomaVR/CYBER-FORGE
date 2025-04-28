@@ -1,6 +1,6 @@
 ---
 title: "MFTExtractor"
 description: "MFT-Parser"
-external_url: "https://github.com/aarsakian/MFTExtractor"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/aarsakian/MFTExtractor)
+

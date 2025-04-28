@@ -1,6 +1,6 @@
 ---
 title: "lc"
 description: ""
-external_url: "https://github.com/lc"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/lc)
+

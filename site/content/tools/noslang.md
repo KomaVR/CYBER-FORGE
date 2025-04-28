@@ -1,6 +1,6 @@
 ---
 title: "Noslang"
 description: ""
-external_url: "http://www.noslang.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.noslang.com/)
+

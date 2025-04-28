@@ -3,6 +3,6 @@ title: "TryHackMe | HTTP in detail"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/webfundamentals"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/webfundamentals)
+

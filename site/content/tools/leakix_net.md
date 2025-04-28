@@ -1,6 +1,6 @@
 ---
 title: "leakix.net"
 description: ""
-external_url: "https://leakix.net/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://leakix.net/)
+

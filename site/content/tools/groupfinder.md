@@ -1,6 +1,6 @@
 ---
 title: "Groupfinder"
 description: ""
-external_url: "http://groupfinder.me"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://groupfinder.me)
+

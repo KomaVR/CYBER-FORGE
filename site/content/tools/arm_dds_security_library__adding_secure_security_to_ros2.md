@@ -1,6 +1,6 @@
 ---
 title: "Arm DDS Security library: Adding secure security to ROS2"
 description: ", ROSCon 2018"
-external_url: "https://vimeo.com/292703899"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://vimeo.com/292703899)
+

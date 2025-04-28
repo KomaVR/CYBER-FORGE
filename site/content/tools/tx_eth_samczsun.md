@@ -1,6 +1,6 @@
 ---
 title: "Tx eth samczsun"
 description: ""
-external_url: "https://tx.eth.samczsun.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tx.eth.samczsun.com/)
+

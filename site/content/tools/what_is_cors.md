@@ -1,6 +1,6 @@
 ---
 title: "What is CORS?"
 description: ""
-external_url: "https://developer.mozilla.org/ru/docs/Web/HTTP/CORS"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://developer.mozilla.org/ru/docs/Web/HTTP/CORS)
+

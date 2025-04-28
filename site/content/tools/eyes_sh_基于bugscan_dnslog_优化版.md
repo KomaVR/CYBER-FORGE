@@ -1,6 +1,6 @@
 ---
 title: "eyes.sh：基于bugscan dnslog 优化版"
 description: ""
-external_url: "https://github.com/lijiejie/eyes.sh"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/lijiejie/eyes.sh)
+

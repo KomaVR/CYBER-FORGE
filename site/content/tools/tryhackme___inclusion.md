@@ -3,6 +3,6 @@ title: "TryHackMe | Inclusion"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/inclusion"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/inclusion)
+

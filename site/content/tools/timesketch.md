@@ -1,6 +1,6 @@
 ---
 title: "Timesketch"
 description: "Output to a CSV format compatible to import into :"
-external_url: "https://timesketch.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://timesketch.org/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Nanne Baars @nbaars"
 description: ""
-external_url: "https://www.github.com/nbaars"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.github.com/nbaars)
+

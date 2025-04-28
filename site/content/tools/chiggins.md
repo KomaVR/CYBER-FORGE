@@ -1,6 +1,6 @@
 ---
 title: "Chiggins"
 description: ""
-external_url: "https://github.com/Chiggins"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Chiggins)
+

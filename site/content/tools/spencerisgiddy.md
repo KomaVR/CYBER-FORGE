@@ -1,6 +1,6 @@
 ---
 title: "SpencerIsGiddy"
 description: ""
-external_url: "https://github.com/SpencerIsGiddy"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/SpencerIsGiddy)
+

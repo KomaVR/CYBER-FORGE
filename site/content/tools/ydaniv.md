@@ -1,6 +1,6 @@
 ---
 title: "ydaniv"
 description: ""
-external_url: "https://github.com/ydaniv"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ydaniv)
+

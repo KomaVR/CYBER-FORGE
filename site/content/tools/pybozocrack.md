@@ -1,6 +1,6 @@
 ---
 title: "PyBozoCrack"
 description: "A silly & effective MD5 cracker in Python."
-external_url: "https://github.com/ikkebr/PyBozoCrack"
-category: "Password Cracking"
----
+external_category: "Password Cracking"
+---[Visit Website](https://github.com/ikkebr/PyBozoCrack)
+

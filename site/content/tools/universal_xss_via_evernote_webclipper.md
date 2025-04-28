@@ -1,6 +1,6 @@
 ---
 title: "Universal XSS via Evernote WebClipper"
 description: ""
-external_url: "https://blog.xpnsec.com/evernote-webclipper-uxss/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://blog.xpnsec.com/evernote-webclipper-uxss/)
+

@@ -1,6 +1,6 @@
 ---
 title: "CyLR"
 description: "NTFS forensic image collector"
-external_url: "https://github.com/orlikoski/CyLR"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://github.com/orlikoski/CyLR)
+

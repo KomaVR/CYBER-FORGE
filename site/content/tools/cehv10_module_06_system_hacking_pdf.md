@@ -6,6 +6,6 @@ description: "Documentation Available in Modules CEH v9 and V10 , Download sourc
 CEHv10 Module 17 Hacking Mobile Platforms.pdf
 
 "
-external_url: "https://github.com/khanhnnvn/CEHv10/blob/master/Labs/CEHv10%20Module%2006%20System%20Hacking.pdf"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/khanhnnvn/CEHv10/blob/master/Labs/CEHv10%20Module%2006%20System%20Hacking.pdf)
+

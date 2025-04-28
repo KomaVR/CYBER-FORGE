@@ -1,6 +1,6 @@
 ---
 title: "@Benni0109"
 description: ", @TheLastFrame, @timschneeb - German translation"
-external_url: "https://github.com/Benni0109"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Benni0109)
+

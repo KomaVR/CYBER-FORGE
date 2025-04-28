@@ -1,6 +1,6 @@
 ---
 title: "maxbachmann"
 description: ""
-external_url: "https://github.com/maxbachmann"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/maxbachmann)
+

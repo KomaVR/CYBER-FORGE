@@ -1,6 +1,6 @@
 ---
 title: "Telegroups"
 description: ""
-external_url: "https://telegroups.info/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://telegroups.info/)
+

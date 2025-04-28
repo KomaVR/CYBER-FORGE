@@ -1,6 +1,6 @@
 ---
 title: "yarikoptic"
 description: ""
-external_url: "https://github.com/yarikoptic"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/yarikoptic)
+

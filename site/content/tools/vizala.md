@@ -1,6 +1,6 @@
 ---
 title: "Vizala"
 description: ""
-external_url: "https://vizala.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://vizala.com)
+

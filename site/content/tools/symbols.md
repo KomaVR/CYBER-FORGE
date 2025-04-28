@@ -1,6 +1,6 @@
 ---
 title: "Symbols"
 description: ""
-external_url: "https://github.com/pret/pokered/tree/symbols"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/pret/pokered/tree/symbols)
+

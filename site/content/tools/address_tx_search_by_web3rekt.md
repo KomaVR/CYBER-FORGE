@@ -1,6 +1,6 @@
 ---
 title: "address tx search by web3rekt"
 description: ""
-external_url: "https://www.web3rekt.com/address-tx-search"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://www.web3rekt.com/address-tx-search)
+

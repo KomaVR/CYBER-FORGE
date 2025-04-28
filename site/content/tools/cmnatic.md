@@ -1,6 +1,6 @@
 ---
 title: "CMNatic"
 description: ""
-external_url: "https://github.com/CMNatic"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/CMNatic)
+

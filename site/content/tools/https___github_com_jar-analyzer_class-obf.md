@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/jar-analyzer/class-obf"
 description: ""
-external_url: "https://github.com/jar-analyzer/class-obf"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jar-analyzer/class-obf)
+

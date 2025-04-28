@@ -1,6 +1,6 @@
 ---
 title: "MinU:v2"
 description: ""
-external_url: "https://www.hackingarticles.in/minu-v2-vulnhub-walkthrough/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.hackingarticles.in/minu-v2-vulnhub-walkthrough/)
+

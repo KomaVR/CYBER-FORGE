@@ -1,6 +1,6 @@
 ---
 title: "http://ramtin-amin.fr/#nvmedma"
 description: ""
-external_url: "http://ramtin-amin.fr/#nvmedma"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://ramtin-amin.fr/#nvmedma)
+

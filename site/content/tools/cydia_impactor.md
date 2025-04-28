@@ -1,6 +1,6 @@
 ---
 title: "Cydia Impactor"
 description: ""
-external_url: "http://www.cydiaimpactor.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.cydiaimpactor.com/)
+

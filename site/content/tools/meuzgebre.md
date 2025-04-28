@@ -1,6 +1,6 @@
 ---
 title: "meuzgebre"
 description: ""
-external_url: "https://github.com/meuzgebre"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/meuzgebre)
+

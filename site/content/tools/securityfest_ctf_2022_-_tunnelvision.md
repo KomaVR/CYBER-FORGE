@@ -7,6 +7,6 @@ Cadday: 用 normalized path 來 matching，但送出的卻不是 normalized path
 Example: 
 
 "
-external_url: "https://blog.maple3142.net/2022/06/03/securityfest-ctf-2022-writeups/#tunnelvision"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://blog.maple3142.net/2022/06/03/securityfest-ctf-2022-writeups/#tunnelvision)
+

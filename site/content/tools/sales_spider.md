@@ -1,6 +1,6 @@
 ---
 title: "Sales Spider"
 description: ""
-external_url: "https://www.salespider.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.salespider.com)
+

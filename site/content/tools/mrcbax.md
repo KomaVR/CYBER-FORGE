@@ -1,6 +1,6 @@
 ---
 title: "mrcbax"
 description: ""
-external_url: "https://github.com/mrcbax"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mrcbax)
+

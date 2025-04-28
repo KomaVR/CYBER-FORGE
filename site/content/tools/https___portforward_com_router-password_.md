@@ -1,6 +1,6 @@
 ---
 title: "https://portforward.com/router-password/"
 description: ""
-external_url: "https://portforward.com/router-password/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://portforward.com/router-password/)
+

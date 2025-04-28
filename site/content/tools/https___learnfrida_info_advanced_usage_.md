@@ -1,6 +1,6 @@
 ---
 title: "https://learnfrida.info/advanced_usage/"
 description: ""
-external_url: "https://learnfrida.info/advanced_usage/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://learnfrida.info/advanced_usage/)
+

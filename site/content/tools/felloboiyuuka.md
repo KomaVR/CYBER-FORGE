@@ -2,6 +2,6 @@
 title: "FelloBoiYuuka"
 description: "FelloBoiYuuka
 F𝘌llo"
-external_url: "https://github.com/FelloBoiYuuka"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/FelloBoiYuuka)
+

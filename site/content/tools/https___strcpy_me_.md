@@ -1,6 +1,6 @@
 ---
 title: "https://strcpy.me/"
 description: ""
-external_url: "https://strcpy.me/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://strcpy.me/)
+

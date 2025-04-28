@@ -3,6 +3,6 @@ title: "TryHackMe | EnterPrize"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/enterprize"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/enterprize)
+

@@ -1,6 +1,6 @@
 ---
 title: "GNU PG"
 description: ""
-external_url: "https://www.gnupg.org/download/index.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.gnupg.org/download/index.html)
+

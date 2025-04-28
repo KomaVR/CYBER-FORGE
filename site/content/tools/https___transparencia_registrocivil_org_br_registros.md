@@ -1,6 +1,6 @@
 ---
 title: "https://transparencia.registrocivil.org.br/registros"
 description: ""
-external_url: "https://transparencia.registrocivil.org.br/registros"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://transparencia.registrocivil.org.br/registros)
+

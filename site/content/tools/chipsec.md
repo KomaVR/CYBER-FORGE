@@ -1,6 +1,6 @@
 ---
 title: "CHIPSEC"
 description: "Platform Security Assessment Framework."
-external_url: "https://github.com/chipsec/chipsec"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/chipsec/chipsec)
+

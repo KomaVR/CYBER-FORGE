@@ -1,6 +1,6 @@
 ---
 title: "COM binary format"
 description: "🌎"
-external_url: "https://wiki.osdev.org/COM"
-category: "Reverse Engineering"
----
+external_category: "Reverse Engineering"
+---[Visit Website](https://wiki.osdev.org/COM)
+

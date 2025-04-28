@@ -1,6 +1,6 @@
 ---
 title: "Main Documentation"
 description: ""
-external_url: "https://turbinia.readthedocs.io"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://turbinia.readthedocs.io)
+

@@ -1,6 +1,6 @@
 ---
 title: "Euronews"
 description: ""
-external_url: "http://www.euronews.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.euronews.com)
+

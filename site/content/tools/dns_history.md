@@ -1,6 +1,6 @@
 ---
 title: "DNS History"
 description: ""
-external_url: "https://completedns.com/dns-history/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://completedns.com/dns-history/)
+

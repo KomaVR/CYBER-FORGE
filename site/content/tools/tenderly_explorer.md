@@ -1,6 +1,6 @@
 ---
 title: "Tenderly Explorer"
 description: ""
-external_url: "https://docs.tenderly.co/explorer"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://docs.tenderly.co/explorer)
+

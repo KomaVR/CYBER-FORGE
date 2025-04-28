@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/bluedragonz"
 description: "bluedragonz"
-external_url: "https://github.com/bluedragonz"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/bluedragonz)
+

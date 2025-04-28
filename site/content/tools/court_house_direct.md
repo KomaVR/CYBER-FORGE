@@ -1,6 +1,6 @@
 ---
 title: "Court House Direct"
 description: ""
-external_url: "http://www.courthousedirect.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.courthousedirect.com)
+

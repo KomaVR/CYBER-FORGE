@@ -9,6 +9,6 @@ sudo echo \"deb https://packages.cisofy.com/community/lynis/deb/ stable main\" |
 sudo apt update
 sudo apt install lynis host
 "
-external_url: "https://cisofy.com/lynis/#installation"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://cisofy.com/lynis/#installation)
+

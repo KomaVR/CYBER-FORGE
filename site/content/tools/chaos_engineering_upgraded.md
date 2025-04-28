@@ -1,6 +1,6 @@
 ---
 title: "Chaos Engineering Upgraded"
 description: ""
-external_url: "https://netflixtechblog.com/chaos-engineering-upgraded-878d341f15fa"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://netflixtechblog.com/chaos-engineering-upgraded-878d341f15fa)
+

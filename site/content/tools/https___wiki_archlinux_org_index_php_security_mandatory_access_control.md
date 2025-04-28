@@ -20,6 +20,6 @@ http://www.insanitybit.com/2012/06/01/why-i-like-apparmor-more-than-selinux-5/
 
 
 "
-external_url: "https://wiki.archlinux.org/index.php/security#Mandatory_access_control"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://wiki.archlinux.org/index.php/security#Mandatory_access_control)
+

@@ -1,6 +1,6 @@
 ---
 title: "TheDEFIac"
 description: ""
-external_url: "https://twitter.com/TheDEFIac"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://twitter.com/TheDEFIac)
+

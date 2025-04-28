@@ -1,6 +1,6 @@
 ---
 title: "Factiva"
 description: ""
-external_url: "http://www.dowjones.com/factiva"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.dowjones.com/factiva)
+

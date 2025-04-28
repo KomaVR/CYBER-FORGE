@@ -1,6 +1,6 @@
 ---
 title: "Zoominfo"
 description: ""
-external_url: "http://www.zoominfo.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.zoominfo.com/)
+

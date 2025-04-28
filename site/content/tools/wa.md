@@ -1,6 +1,6 @@
 ---
 title: "WA"
 description: ""
-external_url: "https://www.tenders.wa.gov.au/watenders/index.do"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.tenders.wa.gov.au/watenders/index.do)
+

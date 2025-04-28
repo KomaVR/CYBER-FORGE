@@ -1,6 +1,6 @@
 ---
 title: "YARA"
 description: ""
-external_url: "https://github.com/InQuest/awesome-yara"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://github.com/InQuest/awesome-yara)
+

@@ -1,6 +1,6 @@
 ---
 title: "ipplus360.com"
 description: ""
-external_url: "http://www.ipplus360.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.ipplus360.com/)
+

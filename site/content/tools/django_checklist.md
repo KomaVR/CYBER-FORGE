@@ -3,6 +3,6 @@ title: "Django checklist"
 description: "
 
 "
-external_url: "https://github.com/Az0x7/vulnerability-Checklist/blob/main/Hacking%20Django"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Az0x7/vulnerability-Checklist/blob/main/Hacking%20Django)
+

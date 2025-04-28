@@ -3,6 +3,6 @@ title: "Wazuh Salt"
 description: "
 
 "
-external_url: "https://github.com/wazuh/wazuh-salt"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/wazuh/wazuh-salt)
+

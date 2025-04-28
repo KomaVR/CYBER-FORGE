@@ -1,6 +1,6 @@
 ---
 title: "Remove Background"
 description: ""
-external_url: "https://www.remove.bg/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.remove.bg/)
+

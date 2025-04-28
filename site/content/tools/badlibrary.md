@@ -1,6 +1,6 @@
 ---
 title: "BadLibrary"
 description: "Vulnerable web application for training - Written by @SecureSkyTechnology."
-external_url: "https://github.com/SecureSkyTechnology/BadLibrary"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/SecureSkyTechnology/BadLibrary)
+

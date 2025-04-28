@@ -1,6 +1,6 @@
 ---
 title: "ACP SUMMER SCHOOL 2023 on Machine Learning for Constraint Programming"
 description: ""
-external_url: "https://www.youtube.com/playlist?list=PLcByDTr7vRTYJ2s6DL-3bzjGwtQif33y3"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.youtube.com/playlist?list=PLcByDTr7vRTYJ2s6DL-3bzjGwtQif33y3)
+

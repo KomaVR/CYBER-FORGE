@@ -1,6 +1,6 @@
 ---
 title: "http://www.phpjm.net/"
 description: ""
-external_url: "http://www.phpjm.net/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.phpjm.net/)
+

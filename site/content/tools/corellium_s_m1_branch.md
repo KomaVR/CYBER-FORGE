@@ -1,6 +1,6 @@
 ---
 title: "Corellium's M1 Branch"
 description: ""
-external_url: "https://github.com/corellium/linux-m1"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/corellium/linux-m1)
+

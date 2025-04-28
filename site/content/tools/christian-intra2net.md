@@ -1,6 +1,6 @@
 ---
 title: "christian-intra2net"
 description: ""
-external_url: "https://github.com/christian-intra2net"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/christian-intra2net)
+

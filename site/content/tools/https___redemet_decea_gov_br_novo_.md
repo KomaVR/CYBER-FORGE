@@ -1,6 +1,6 @@
 ---
 title: "https://redemet.decea.gov.br/novo/"
 description: ""
-external_url: "https://redemet.decea.gov.br/novo/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://redemet.decea.gov.br/novo/)
+

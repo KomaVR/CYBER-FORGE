@@ -1,6 +1,6 @@
 ---
 title: "KobeW50"
 description: ""
-external_url: "https://github.com/KobeW50"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/KobeW50)
+

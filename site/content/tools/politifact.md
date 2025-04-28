@@ -1,6 +1,6 @@
 ---
 title: "Politifact"
 description: ""
-external_url: "http://www.politifact.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.politifact.com/)
+

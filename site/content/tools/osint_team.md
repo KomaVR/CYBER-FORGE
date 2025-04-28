@@ -1,6 +1,6 @@
 ---
 title: "OSINT Team"
 description: ""
-external_url: "https://www.osintteam.com/"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://www.osintteam.com/)
+

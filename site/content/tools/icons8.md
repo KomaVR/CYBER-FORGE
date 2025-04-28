@@ -1,6 +1,6 @@
 ---
 title: "Icons8"
 description: "for various icons"
-external_url: "https://icons8.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://icons8.com/)
+

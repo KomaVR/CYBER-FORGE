@@ -1,6 +1,6 @@
 ---
 title: "mxrch/GHunt"
 description: ""
-external_url: "https://github.com/mxrch/GHunt"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mxrch/GHunt)
+

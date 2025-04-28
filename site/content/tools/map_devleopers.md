@@ -1,6 +1,6 @@
 ---
 title: "Map Devleopers"
 description: ""
-external_url: "https://www.mapdevelopers.com/google-map-search.php"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.mapdevelopers.com/google-map-search.php)
+

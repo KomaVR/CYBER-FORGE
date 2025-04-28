@@ -1,6 +1,6 @@
 ---
 title: "Tweriod"
 description: ""
-external_url: "http://www.tweriod.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.tweriod.com/)
+

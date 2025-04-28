@@ -1,6 +1,6 @@
 ---
 title: "personal-security-checklist"
 description: "by @Lissy93"
-external_url: "https://github.com/Lissy93/personal-security-checklist"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Lissy93/personal-security-checklist)
+

@@ -3,6 +3,6 @@ title: "TryHackMe | Hydra"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/hydra"
-category: "Password Cracking"
----
+external_category: "Password Cracking"
+---[Visit Website](https://tryhackme.com/room/hydra)
+

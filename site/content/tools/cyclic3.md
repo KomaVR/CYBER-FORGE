@@ -1,6 +1,6 @@
 ---
 title: "Cyclic3"
 description: ""
-external_url: "https://github.com/Cyclic3"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Cyclic3)
+

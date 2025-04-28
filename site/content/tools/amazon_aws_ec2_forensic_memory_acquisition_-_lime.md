@@ -1,6 +1,6 @@
 ---
 title: "Amazon AWS EC2 Forensic Memory Acquisition - LiME"
 description: ""
-external_url: "https://www.youtube.com/watch?v=3oto8Bl2vaE"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://www.youtube.com/watch?v=3oto8Bl2vaE)
+

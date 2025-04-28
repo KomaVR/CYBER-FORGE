@@ -1,6 +1,6 @@
 ---
 title: "scanpatch"
 description: ""
-external_url: "https://github.com/scanpatch"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/scanpatch)
+

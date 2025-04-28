@@ -1,6 +1,6 @@
 ---
 title: "Damn Vulnerable iOS App (DVIA) v2"
 description: ""
-external_url: "https://github.com/prateek147/DVIA-v2"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/prateek147/DVIA-v2)
+

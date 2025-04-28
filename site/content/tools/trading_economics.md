@@ -1,6 +1,6 @@
 ---
 title: "Trading Economics"
 description: ""
-external_url: "http://www.tradingeconomics.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.tradingeconomics.com)
+

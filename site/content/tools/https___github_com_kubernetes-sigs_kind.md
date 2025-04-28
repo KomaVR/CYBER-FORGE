@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/kubernetes-sigs/kind"
 description: "for local clusters"
-external_url: "https://github.com/kubernetes-sigs/kind"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/kubernetes-sigs/kind)
+

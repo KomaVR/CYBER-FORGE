@@ -3,6 +3,6 @@ title: "TryHackMe | Encryption - Crypto 101"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/encryptioncrypto101"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/encryptioncrypto101)
+

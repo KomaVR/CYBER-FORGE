@@ -1,6 +1,6 @@
 ---
 title: "MapAList"
 description: ""
-external_url: "http://mapalist.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://mapalist.com)
+

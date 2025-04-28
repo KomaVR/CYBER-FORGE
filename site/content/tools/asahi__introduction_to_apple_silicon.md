@@ -6,6 +6,6 @@ description: "Apple CPUs
 dougallj's applecpu
 
 "
-external_url: "https://github.com/AsahiLinux/docs/wiki/Introduction-to-Apple-Silicon"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/AsahiLinux/docs/wiki/Introduction-to-Apple-Silicon)
+

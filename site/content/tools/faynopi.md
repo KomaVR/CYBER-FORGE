@@ -1,6 +1,6 @@
 ---
 title: "faynopi"
 description: ""
-external_url: "https://github.com/faynopi"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/faynopi)
+

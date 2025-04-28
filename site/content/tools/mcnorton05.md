@@ -1,6 +1,6 @@
 ---
 title: "mcnorton05"
 description: ""
-external_url: "https://github.com/mcnorton05"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mcnorton05)
+

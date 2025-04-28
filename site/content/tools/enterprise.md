@@ -1,6 +1,6 @@
 ---
 title: "Enterprise"
 description: "Medium"
-external_url: "https://tryhackme.com/room/enterprise"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/enterprise)
+

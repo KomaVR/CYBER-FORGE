@@ -1,6 +1,6 @@
 ---
 title: "python-ntfs"
 description: "NTFS analysis"
-external_url: "https://github.com/williballenthin/python-ntfs"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/williballenthin/python-ntfs)
+

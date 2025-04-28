@@ -1,6 +1,6 @@
 ---
 title: "OSINT Punk"
 description: ""
-external_url: "https://www.youtube.com/watch?v=xRG-wGsxOBs"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://www.youtube.com/watch?v=xRG-wGsxOBs)
+

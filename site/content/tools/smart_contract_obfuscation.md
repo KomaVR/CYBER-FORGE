@@ -1,6 +1,6 @@
 ---
 title: "Smart Contract Obfuscation"
 description: ""
-external_url: "https://degatchi.com/articles/smart-contract-obfuscation"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://degatchi.com/articles/smart-contract-obfuscation)
+

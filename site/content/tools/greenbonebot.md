@@ -1,6 +1,6 @@
 ---
 title: "greenbonebot"
 description: ""
-external_url: "https://github.com/greenbonebot"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/greenbonebot)
+

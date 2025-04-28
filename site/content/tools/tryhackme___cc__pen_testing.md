@@ -3,6 +3,6 @@ title: "TryHackMe | CC: Pen Testing"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/ccpentesting"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/ccpentesting)
+

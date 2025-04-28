@@ -1,6 +1,6 @@
 ---
 title: "manasghandat"
 description: ""
-external_url: "https://github.com/manasghandat"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/manasghandat)
+

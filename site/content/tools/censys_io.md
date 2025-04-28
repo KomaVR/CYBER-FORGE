@@ -1,6 +1,6 @@
 ---
 title: "Censys.io"
 description: ""
-external_url: "https://search.censys.io/account"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://search.censys.io/account)
+

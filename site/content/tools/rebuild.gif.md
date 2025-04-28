@@ -4,7 +4,6 @@ description: "
 Right-Click on or inside apktool.yml file ➜ APKLab: Rebuild the APK
 
 "
-external_url: "https://github.com/APKLab/APKLab/raw/master/assets/rebuild.gif"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/APKLab/APKLab/raw/master/assets/rebuild.gif)
 

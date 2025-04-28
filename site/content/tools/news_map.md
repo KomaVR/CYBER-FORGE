@@ -1,6 +1,6 @@
 ---
 title: "News Map"
 description: ""
-external_url: "http://newsmap.jp"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://newsmap.jp)
+

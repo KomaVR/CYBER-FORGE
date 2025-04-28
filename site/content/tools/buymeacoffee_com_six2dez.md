@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "http://buymeacoffee.com/six2dez"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://buymeacoffee.com/six2dez)
+

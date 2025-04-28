@@ -1,6 +1,6 @@
 ---
 title: "http://www.banshujiang.cn/"
 description: ""
-external_url: "http://www.banshujiang.cn/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.banshujiang.cn/)
+

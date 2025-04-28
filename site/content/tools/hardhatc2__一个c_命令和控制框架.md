@@ -1,6 +1,6 @@
 ---
 title: "HardHatC2: 一个C#命令和控制框架"
 description: ""
-external_url: "https://github.com/DragoQCC/HardHatC2"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/DragoQCC/HardHatC2)
+

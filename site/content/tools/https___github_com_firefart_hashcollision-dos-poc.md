@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/FireFart/HashCollision-DOS-POC"
 description: "FireFart"
-external_url: "https://github.com/FireFart/HashCollision-DOS-POC"
-category: "Password Cracking"
----
+external_category: "Password Cracking"
+---[Visit Website](https://github.com/FireFart/HashCollision-DOS-POC)
+

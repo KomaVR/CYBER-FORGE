@@ -1,6 +1,6 @@
 ---
 title: "XSS Cheat Sheet - 2018 Edition"
 description: "Written by @brutelogic."
-external_url: "https://leanpub.com/xss"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://leanpub.com/xss)
+

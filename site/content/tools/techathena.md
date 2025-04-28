@@ -1,6 +1,6 @@
 ---
 title: "techathena"
 description: ""
-external_url: "https://github.com/techathena"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/techathena)
+

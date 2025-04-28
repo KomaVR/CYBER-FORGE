@@ -1,6 +1,6 @@
 ---
 title: "devploit"
 description: ""
-external_url: "https://github.com/devploit"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/devploit)
+

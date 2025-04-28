@@ -1,6 +1,6 @@
 ---
 title: "doesfollow"
 description: ""
-external_url: "https://doesfollow.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://doesfollow.com/)
+

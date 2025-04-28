@@ -1,6 +1,6 @@
 ---
 title: "Goo (Japan)"
 description: ""
-external_url: "http://www.goo.ne.jp"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.goo.ne.jp)
+

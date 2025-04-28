@@ -1,6 +1,6 @@
 ---
 title: "Windows Privesc resources"
 description: ""
-external_url: "https://www.willchatham.com/security/windows-privilege-escalation-privesc-resources/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.willchatham.com/security/windows-privilege-escalation-privesc-resources/)
+

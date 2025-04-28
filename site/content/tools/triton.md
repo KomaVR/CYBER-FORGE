@@ -1,6 +1,6 @@
 ---
 title: "Triton"
 description: "Dynamic binary analysis library."
-external_url: "https://github.com/jonathansalwan/Triton"
-category: "Reverse Engineering"
----
+external_category: "Reverse Engineering"
+---[Visit Website](https://github.com/jonathansalwan/Triton)
+

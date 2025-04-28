@@ -1,6 +1,6 @@
 ---
 title: "https://dados.sc.gov.br/"
 description: ""
-external_url: "https://dados.sc.gov.br/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://dados.sc.gov.br/)
+

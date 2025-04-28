@@ -1,6 +1,6 @@
 ---
 title: "dep-scan"
 description: ""
-external_url: "https://github.com/AppThreat/dep-scan"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/AppThreat/dep-scan)
+

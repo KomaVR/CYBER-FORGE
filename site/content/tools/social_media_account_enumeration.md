@@ -1,6 +1,6 @@
 ---
 title: "Social media account enumeration"
 description: ""
-external_url: "https://asciinema.org/a/295923"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://asciinema.org/a/295923)
+

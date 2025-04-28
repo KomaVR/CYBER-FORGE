@@ -3,6 +3,6 @@ title: "TryHackMe | KoTH Hackers"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/kothhackers"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/kothhackers)
+

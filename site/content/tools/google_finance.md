@@ -1,6 +1,6 @@
 ---
 title: "Google Finance"
 description: ""
-external_url: "https://www.google.com/finance"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.google.com/finance)
+

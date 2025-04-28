@@ -8,6 +8,6 @@ Windows SDK
 C++ ATL
 
 "
-external_url: "https://visualstudio.microsoft.com/vs/community/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://visualstudio.microsoft.com/vs/community/)
+

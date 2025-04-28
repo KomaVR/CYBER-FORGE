@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/dirkjanm/BloodHound.py"
 description: ""
-external_url: "https://github.com/dirkjanm/BloodHound.py"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/dirkjanm/BloodHound.py)
+

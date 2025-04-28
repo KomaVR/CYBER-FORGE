@@ -3,6 +3,6 @@ title: "Wazuh Ansible"
 description: "
 
 "
-external_url: "https://github.com/wazuh/wazuh-ansible"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/wazuh/wazuh-ansible)
+

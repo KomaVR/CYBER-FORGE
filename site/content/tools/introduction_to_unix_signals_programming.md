@@ -1,6 +1,6 @@
 ---
 title: "Introduction To Unix Signals Programming"
 description: ""
-external_url: "http://titania.ctie.monash.edu.au/signals/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://titania.ctie.monash.edu.au/signals/)
+

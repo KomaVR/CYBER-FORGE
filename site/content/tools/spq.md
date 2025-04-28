@@ -1,6 +1,6 @@
 ---
 title: "spq"
 description: ""
-external_url: "https://github.com/spq"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/spq)
+

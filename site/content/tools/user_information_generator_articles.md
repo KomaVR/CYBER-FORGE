@@ -1,6 +1,6 @@
 ---
 title: "User Information Generator Articles"
 description: ""
-external_url: "https://names.igopaygo.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://names.igopaygo.com/)
+

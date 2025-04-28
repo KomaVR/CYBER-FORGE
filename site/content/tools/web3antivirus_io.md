@@ -1,6 +1,6 @@
 ---
 title: "web3antivirus.io"
 description: ""
-external_url: "https://web3antivirus.io/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://web3antivirus.io/)
+

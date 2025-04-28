@@ -1,6 +1,6 @@
 ---
 title: "Penetration Testing Execution Standard"
 description: ""
-external_url: "http://www.pentest-standard.org/index.php/Main_Page"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.pentest-standard.org/index.php/Main_Page)
+

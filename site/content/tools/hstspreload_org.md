@@ -1,6 +1,6 @@
 ---
 title: "hstspreload.org"
 description: ""
-external_url: "https://hstspreload.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://hstspreload.org)
+

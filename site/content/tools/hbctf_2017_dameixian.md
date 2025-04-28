@@ -1,6 +1,6 @@
 ---
 title: "hbctf_2017_dameixian"
 description: ""
-external_url: "https://github.com/CTFTraining/hbctf_2017_dameixian"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/CTFTraining/hbctf_2017_dameixian)
+

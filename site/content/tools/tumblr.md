@@ -1,6 +1,6 @@
 ---
 title: "Tumblr"
 description: ""
-external_url: "https://www.tumblr.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.tumblr.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Monero: All About the Top Privacy Coin"
 description: ""
-external_url: "https://blog.chainalysis.com/reports/all-about-monero/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://blog.chainalysis.com/reports/all-about-monero/)
+

@@ -1,6 +1,6 @@
 ---
 title: "mrtc0"
 description: ""
-external_url: "https://github.com/mrtc0"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mrtc0)
+

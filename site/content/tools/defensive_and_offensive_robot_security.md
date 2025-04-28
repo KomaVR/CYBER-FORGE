@@ -7,6 +7,6 @@ Black Block Recorder: Immutable Black Box Logging via rosbag2 and DLTs, ROSCon 2
 Lessons learned on real-time and security (slides), ROS 2 Real-Time Workshop, ROSCon 2019
 
 "
-external_url: "https://www.youtube.com/watch?v=aEQgga_MnO8&list=PLf4Fnww4KiFdjCAfs04ynv40xbpqFPibm&index=9"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.youtube.com/watch?v=aEQgga_MnO8&list=PLf4Fnww4KiFdjCAfs04ynv40xbpqFPibm&index=9)
+

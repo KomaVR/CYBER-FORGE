@@ -10,6 +10,6 @@ Firefox
 Mac OS
 X,
 Linux."
-external_url: "http://www.invid-project.eu/invid-releases-fake-video-news-debunker-firefox-provides-code-open-source-mit-licence/)%C2%A0(plugins"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.invid-project.eu/invid-releases-fake-video-news-debunker-firefox-provides-code-open-source-mit-licence/)%C2%A0(plugins)
+

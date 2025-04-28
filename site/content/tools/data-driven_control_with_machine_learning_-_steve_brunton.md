@@ -1,6 +1,6 @@
 ---
 title: "Data-Driven Control with Machine Learning - Steve Brunton"
 description: ""
-external_url: "https://www.youtube.com/playlist?list=PLMrJAkhIeNNQkv98vuPjO2X2qJO_UPeWR"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQkv98vuPjO2X2qJO_UPeWR)
+

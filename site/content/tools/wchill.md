@@ -1,6 +1,6 @@
 ---
 title: "wchill"
 description: ""
-external_url: "https://github.com/wchill"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/wchill)
+

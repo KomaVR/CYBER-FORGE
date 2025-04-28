@@ -1,6 +1,6 @@
 ---
 title: "CYNAR2k"
 description: ""
-external_url: "https://github.com/CYNAR2k"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/CYNAR2k)
+

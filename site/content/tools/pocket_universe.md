@@ -1,6 +1,6 @@
 ---
 title: "Pocket Universe"
 description: ""
-external_url: "https://www.pocketuniverse.app/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.pocketuniverse.app/)
+

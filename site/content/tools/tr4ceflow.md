@@ -1,6 +1,6 @@
 ---
 title: "tr4ceflow"
 description: ""
-external_url: "https://blog.tr4ceflow.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://blog.tr4ceflow.com)
+

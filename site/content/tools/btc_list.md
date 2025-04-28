@@ -1,6 +1,6 @@
 ---
 title: "BTC List"
 description: ""
-external_url: "https://github.com/igorbarinov/awesome-bitcoin"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/igorbarinov/awesome-bitcoin)
+

@@ -1,6 +1,6 @@
 ---
 title: "MiscSecNotes"
 description: "by JnuSimba notes"
-external_url: "https://github.com/JnuSimba/MiscSecNotes"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/JnuSimba/MiscSecNotes)
+

@@ -1,6 +1,6 @@
 ---
 title: "dspruell"
 description: ""
-external_url: "https://github.com/dspruell"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/dspruell)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://pythonarsenal.com/"
 description: "reverse toolkit"
-external_url: "https://pythonarsenal.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://pythonarsenal.com/)
+

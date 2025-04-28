@@ -1,6 +1,6 @@
 ---
 title: "QuillCheck"
 description: ""
-external_url: "https://quillaudits.com/tools/quillcheck/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://quillaudits.com/tools/quillcheck/)
+

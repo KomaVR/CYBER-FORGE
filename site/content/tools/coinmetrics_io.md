@@ -1,6 +1,6 @@
 ---
 title: "coinmetrics.io"
 description: ""
-external_url: "https://coinmetrics.io"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://coinmetrics.io)
+

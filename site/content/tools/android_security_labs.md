@@ -1,6 +1,6 @@
 ---
 title: "Android Security Labs"
 description: ""
-external_url: "https://github.com/SecurityCompass/AndroidLabs"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/SecurityCompass/AndroidLabs)
+

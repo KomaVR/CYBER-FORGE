@@ -6,6 +6,6 @@ View CNC GCode
 
 
 "
-external_url: "https://ncviewer.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://ncviewer.com/)
+

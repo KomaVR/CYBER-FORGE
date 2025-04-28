@@ -9,6 +9,6 @@ If you wish to use another WSGI server (e.g. Gunicorn) or use a reverse proxy (e
 Now the application should be reachable at http://localhost:8080.
 ⚠️ Warning: If you are using Mozilla Firefox to use ThePhish and for some reason an error message appears during the analysis, the solution may be found here.
 "
-external_url: "https://flask-socketio.readthedocs.io/en/latest/deployment.html"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://flask-socketio.readthedocs.io/en/latest/deployment.html)
+

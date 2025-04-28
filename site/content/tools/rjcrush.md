@@ -1,6 +1,6 @@
 ---
 title: "RJCrush"
 description: "EXE and COM files compressor with the ability to compress overlays."
-external_url: "https://www.sac.sk/download/pack/rjc-beta.zip"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.sac.sk/download/pack/rjc-beta.zip)
+

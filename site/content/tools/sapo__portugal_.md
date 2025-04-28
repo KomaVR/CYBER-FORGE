@@ -1,6 +1,6 @@
 ---
 title: "SAPO (Portugal)"
 description: ""
-external_url: "http://www.sapo.pt"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.sapo.pt)
+

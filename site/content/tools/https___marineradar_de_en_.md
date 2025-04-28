@@ -1,6 +1,6 @@
 ---
 title: "https://marineradar.de/en/"
 description: ""
-external_url: "https://marineradar.de/en/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://marineradar.de/en/)
+

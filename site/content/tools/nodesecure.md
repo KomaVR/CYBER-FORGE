@@ -1,6 +1,6 @@
 ---
 title: "NodeSecure"
 description: "An organization of developers building free and open source JavaScript/Node.js security tools."
-external_url: "https://github.com/NodeSecure"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/NodeSecure)
+

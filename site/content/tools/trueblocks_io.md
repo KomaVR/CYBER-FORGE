@@ -1,6 +1,6 @@
 ---
 title: "trueblocks.io"
 description: ""
-external_url: "https://trueblocks.io"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://trueblocks.io)
+

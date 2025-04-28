@@ -1,6 +1,6 @@
 ---
 title: "Youtube GeoFinder"
 description: ""
-external_url: "https://mattw.io/youtube-geofind/location"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://mattw.io/youtube-geofind/location)
+

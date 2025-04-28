@@ -1,6 +1,6 @@
 ---
 title: "Z4nzu"
 description: ""
-external_url: "https://github.com/Z4nzu"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Z4nzu)
+

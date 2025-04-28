@@ -1,6 +1,6 @@
 ---
 title: "Revoke.cash"
 description: ""
-external_url: "https://revoke.cash/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://revoke.cash/)
+

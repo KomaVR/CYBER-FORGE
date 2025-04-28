@@ -1,6 +1,6 @@
 ---
 title: "Million Short"
 description: ""
-external_url: "https://millionshort.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://millionshort.com)
+

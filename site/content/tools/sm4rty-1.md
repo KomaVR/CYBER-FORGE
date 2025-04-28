@@ -1,6 +1,6 @@
 ---
 title: "Sm4rty-1"
 description: ""
-external_url: "https://github.com/Sm4rty-1"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Sm4rty-1)
+

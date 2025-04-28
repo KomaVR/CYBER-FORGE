@@ -1,6 +1,6 @@
 ---
 title: "Code Finder"
 description: "The ultimate search engine for finding GitHub repositories"
-external_url: "https://codefinder.dev/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://codefinder.dev/)
+

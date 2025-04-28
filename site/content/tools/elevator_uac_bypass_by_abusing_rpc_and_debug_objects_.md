@@ -1,6 +1,6 @@
 ---
 title: "Elevator：UAC Bypass by abusing RPC and debug objects."
 description: ""
-external_url: "https://github.com/Kudaes/Elevator"
-category: "Grey Hat Tools"
----
+external_category: "Grey Hat Tools"
+---[Visit Website](https://github.com/Kudaes/Elevator)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://thehackingsage.com/hackdroid/apps/dos"
 description: "DoS :"
-external_url: "https://thehackingsage.com/hackdroid/apps/dos"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://thehackingsage.com/hackdroid/apps/dos)
+

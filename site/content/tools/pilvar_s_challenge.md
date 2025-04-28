@@ -23,6 +23,6 @@ justCTF 2020 - BabyCSP
 
 
 "
-external_url: "https://twitter.com/pilvar222/status/1784618120902005070"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://twitter.com/pilvar222/status/1784618120902005070)
+

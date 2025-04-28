@@ -1,6 +1,6 @@
 ---
 title: "TitanEngine Community Edition"
 description: "Debugger core by"
-external_url: "https://github.com/x64dbg/TitanEngine"
-category: "Reverse Engineering"
----
+external_category: "Reverse Engineering"
+---[Visit Website](https://github.com/x64dbg/TitanEngine)
+

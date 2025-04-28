@@ -3,6 +3,6 @@ title: "TryHackMe | Bounty Hacker"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/cowboyhacker"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/cowboyhacker)
+

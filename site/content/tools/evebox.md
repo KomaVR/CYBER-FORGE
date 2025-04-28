@@ -1,6 +1,6 @@
 ---
 title: "EveBox"
 description: "A web based Suricata \"eve\" event viewer for Elastic Search."
-external_url: "https://github.com/jasonish/evebox"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/jasonish/evebox)
+

@@ -1,6 +1,6 @@
 ---
 title: "AyaseFile"
 description: ""
-external_url: "https://github.com/AyaseFile"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/AyaseFile)
+

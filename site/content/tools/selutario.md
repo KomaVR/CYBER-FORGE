@@ -1,6 +1,6 @@
 ---
 title: "Selutario"
 description: ""
-external_url: "https://github.com/Selutario"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Selutario)
+

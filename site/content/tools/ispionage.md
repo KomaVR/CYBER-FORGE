@@ -1,6 +1,6 @@
 ---
 title: "iSpionage"
 description: ""
-external_url: "https://www.ispionage.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ispionage.com)
+

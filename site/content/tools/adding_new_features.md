@@ -1,6 +1,6 @@
 ---
 title: "adding new features"
 description: "We're constantly !"
-external_url: "https://feedback.projectdiscovery.io/changelog"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://feedback.projectdiscovery.io/changelog)
+

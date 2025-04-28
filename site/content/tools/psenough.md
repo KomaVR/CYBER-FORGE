@@ -2,6 +2,6 @@
 title: "psenough"
 description: "psenough
 Filipe Cruz"
-external_url: "https://github.com/psenough"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/psenough)
+

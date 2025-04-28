@@ -2,6 +2,6 @@
 title: "Adamkadaban"
 description: "Adamkadaban
 Adam Hassan"
-external_url: "https://github.com/Adamkadaban"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Adamkadaban)
+

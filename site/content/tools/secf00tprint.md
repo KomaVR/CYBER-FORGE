@@ -1,6 +1,6 @@
 ---
 title: "secf00tprint"
 description: ""
-external_url: "https://github.com/secf00tprint"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/secf00tprint)
+

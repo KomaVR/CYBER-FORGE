@@ -1,6 +1,6 @@
 ---
 title: "HTools"
 description: "50+ Hacking Tools Collection."
-external_url: "https://github.com/mehedishakeel/HTools"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mehedishakeel/HTools)
+

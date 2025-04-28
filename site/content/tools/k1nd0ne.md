@@ -1,6 +1,6 @@
 ---
 title: "k1nd0ne"
 description: ""
-external_url: "https://github.com/k1nd0ne"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/k1nd0ne)
+

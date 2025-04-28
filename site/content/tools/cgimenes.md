@@ -1,6 +1,6 @@
 ---
 title: "cgimenes"
 description: ""
-external_url: "https://github.com/cgimenes"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/cgimenes)
+

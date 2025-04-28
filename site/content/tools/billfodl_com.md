@@ -1,6 +1,6 @@
 ---
 title: "billfodl.com"
 description: ""
-external_url: "https://billfodl.com/pages/bitbonkers"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://billfodl.com/pages/bitbonkers)
+

@@ -1,6 +1,6 @@
 ---
 title: "GitHub gist"
 description: ""
-external_url: "https://gist.github.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://gist.github.com)
+

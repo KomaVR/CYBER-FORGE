@@ -1,6 +1,6 @@
 ---
 title: "http://www.osvdb.org"
 description: "osvdb.csv -  (end-of-life)"
-external_url: "http://www.osvdb.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.osvdb.org)
+

@@ -1,6 +1,6 @@
 ---
 title: "Bing News"
 description: ""
-external_url: "http://www.bing.com/news"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.bing.com/news)
+

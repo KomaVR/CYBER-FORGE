@@ -1,6 +1,6 @@
 ---
 title: "SSL"
 description: "(enable https for caldera)"
-external_url: "https://github.com/mitre/SSL"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mitre/SSL)
+

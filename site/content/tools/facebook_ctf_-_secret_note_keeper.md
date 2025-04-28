@@ -6,6 +6,6 @@ description: "e.g.
 沒找到 => frame count = 0
 
 "
-external_url: "https://github.com/w181496/CTF/tree/master/fbctf2019/secret_note_keeper"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/w181496/CTF/tree/master/fbctf2019/secret_note_keeper)
+

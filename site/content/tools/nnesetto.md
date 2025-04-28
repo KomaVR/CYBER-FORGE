@@ -1,6 +1,6 @@
 ---
 title: "nnesetto"
 description: ""
-external_url: "https://github.com/nnesetto"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/nnesetto)
+

@@ -6,6 +6,6 @@ IDA插件
 binwalk
 
 "
-external_url: "https://github.com/ReFirmLabs/binwalk"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ReFirmLabs/binwalk)
+

@@ -1,6 +1,6 @@
 ---
 title: "certxlm"
 description: ""
-external_url: "https://github.com/certxlm"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/certxlm)
+

@@ -1,6 +1,6 @@
 ---
 title: "wificafespots.com"
 description: "Free WiFi Cafe Spots"
-external_url: "http://www.wificafespots.com/"
-category: "Wireless Hacking"
----
+external_category: "Wireless Hacking"
+---[Visit Website](http://www.wificafespots.com/)
+

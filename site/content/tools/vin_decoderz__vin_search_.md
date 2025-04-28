@@ -1,6 +1,6 @@
 ---
 title: "Vin decoderz (Vin Search)"
 description: ""
-external_url: "https://www.vindecoderz.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.vindecoderz.com/)
+

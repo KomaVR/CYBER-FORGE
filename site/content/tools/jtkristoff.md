@@ -1,6 +1,6 @@
 ---
 title: "jtkristoff"
 description: ""
-external_url: "https://github.com/jtkristoff"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jtkristoff)
+

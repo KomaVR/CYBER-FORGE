@@ -1,6 +1,6 @@
 ---
 title: "http://www.nirsoft.net/utils/chromepass.html"
 description: "chrome:"
-external_url: "http://www.nirsoft.net/utils/chromepass.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.nirsoft.net/utils/chromepass.html)
+

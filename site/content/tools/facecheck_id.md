@@ -1,6 +1,6 @@
 ---
 title: "FaceCheck.ID"
 description: "Search the internet by face."
-external_url: "https://facecheck.id"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://facecheck.id)
+

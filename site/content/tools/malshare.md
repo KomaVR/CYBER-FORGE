@@ -1,6 +1,6 @@
 ---
 title: "MalShare"
 description: ""
-external_url: "https://www.malshare.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.malshare.com/)
+

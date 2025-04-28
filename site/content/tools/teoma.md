@@ -1,6 +1,6 @@
 ---
 title: "Teoma"
 description: ""
-external_url: "http://www.teoma.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.teoma.com/)
+

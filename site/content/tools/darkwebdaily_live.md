@@ -1,6 +1,6 @@
 ---
 title: "darkwebdaily.live"
 description: "A Smarter Way to Navigate the Darknet"
-external_url: "https://darkwebdaily.live/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://darkwebdaily.live/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Surendrajat"
 description: "for maintaining project while I couldn't"
-external_url: "https://github.com/Surendrajat"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Surendrajat)
+

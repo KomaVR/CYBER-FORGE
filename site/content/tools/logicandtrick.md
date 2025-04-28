@@ -1,6 +1,6 @@
 ---
 title: "LogicAndTrick"
 description: ""
-external_url: "https://github.com/LogicAndTrick"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/LogicAndTrick)
+

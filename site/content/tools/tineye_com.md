@@ -2,6 +2,6 @@
 title: "tineye.com"
 description: "TinEye,
  "
-external_url: "http://www.tineye.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.tineye.com)
+

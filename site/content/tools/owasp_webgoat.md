@@ -1,6 +1,6 @@
 ---
 title: "OWASP WebGoat"
 description: "A deliberately insecure Web Application."
-external_url: "https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
+

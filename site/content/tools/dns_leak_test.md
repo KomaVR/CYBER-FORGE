@@ -1,6 +1,6 @@
 ---
 title: "DNS leak test"
 description: ""
-external_url: "https://dnsleaktest.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://dnsleaktest.com/)
+

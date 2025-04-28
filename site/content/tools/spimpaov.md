@@ -1,6 +1,6 @@
 ---
 title: "spimpaov"
 description: ""
-external_url: "https://github.com/spimpaov"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/spimpaov)
+

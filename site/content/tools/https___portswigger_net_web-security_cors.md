@@ -3,6 +3,6 @@ title: "https://portswigger.net/web-security/cors"
 description: "
 
 "
-external_url: "https://portswigger.net/web-security/cors"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://portswigger.net/web-security/cors)
+

@@ -1,7 +1,6 @@
 ---
 title: "https://academiadeforensedigital.com.br/"
 description: ""
-external_url: "https://academiadeforensedigital.com.br/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://academiadeforensedigital.com.br/)
 

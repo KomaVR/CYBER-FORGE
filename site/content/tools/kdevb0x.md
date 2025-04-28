@@ -1,6 +1,6 @@
 ---
 title: "kdevb0x"
 description: ""
-external_url: "https://github.com/kdevb0x"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/kdevb0x)
+

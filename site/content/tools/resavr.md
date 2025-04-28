@@ -1,6 +1,6 @@
 ---
 title: "Resavr"
 description: ""
-external_url: "https://www.resavr.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.resavr.com)
+

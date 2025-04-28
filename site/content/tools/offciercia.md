@@ -1,6 +1,6 @@
 ---
 title: "OffcierCia"
 description: ""
-external_url: "https://github.com/OffcierCia"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/OffcierCia)
+

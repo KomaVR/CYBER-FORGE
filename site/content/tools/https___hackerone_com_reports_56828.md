@@ -6,6 +6,6 @@ Webhook
 Exmaple: 
 
 "
-external_url: "https://hackerone.com/reports/56828"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://hackerone.com/reports/56828)
+

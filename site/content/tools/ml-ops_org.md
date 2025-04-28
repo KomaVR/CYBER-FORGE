@@ -1,6 +1,6 @@
 ---
 title: "ML-Ops.org"
 description: ""
-external_url: "https://ml-ops.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://ml-ops.org/)
+

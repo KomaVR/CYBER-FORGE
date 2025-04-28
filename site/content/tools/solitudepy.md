@@ -1,6 +1,6 @@
 ---
 title: "SolitudePy"
 description: ""
-external_url: "https://github.com/SolitudePy"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/SolitudePy)
+

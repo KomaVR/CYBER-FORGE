@@ -1,6 +1,6 @@
 ---
 title: "HijackLibs：跟踪公开披露的DLL劫持"
 description: ""
-external_url: "https://github.com/wietze/HijackLibs"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/wietze/HijackLibs)
+

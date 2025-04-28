@@ -1,6 +1,6 @@
 ---
 title: "tghosth"
 description: ""
-external_url: "https://github.com/tghosth"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/tghosth)
+

@@ -1,6 +1,6 @@
 ---
 title: "http://mslc.ctf.su/"
 description: ""
-external_url: "http://mslc.ctf.su/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://mslc.ctf.su/)
+

@@ -9,6 +9,6 @@ Scan for All objc_msgSend XREFs
 Scan for Simple Symbol Wrappers
 
 "
-external_url: "https://github.com/Soulghost/iblessing#scan-for-appinfos"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://github.com/Soulghost/iblessing#scan-for-appinfos)
+

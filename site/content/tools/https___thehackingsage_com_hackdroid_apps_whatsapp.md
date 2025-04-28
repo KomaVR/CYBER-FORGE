@@ -1,6 +1,6 @@
 ---
 title: "https://thehackingsage.com/hackdroid/apps/whatsapp"
 description: "Whatsapp :"
-external_url: "https://thehackingsage.com/hackdroid/apps/whatsapp"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://thehackingsage.com/hackdroid/apps/whatsapp)
+

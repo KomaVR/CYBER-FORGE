@@ -1,6 +1,6 @@
 ---
 title: "Lambda Watchdog"
 description: "Your CVE dashboard for AWS Lambda"
-external_url: "https://lambdawatchdog.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://lambdawatchdog.com/)
+

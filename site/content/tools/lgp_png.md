@@ -9,6 +9,6 @@ cs上线图：
 
 这里启动方式可以为 powershell 或者 exe 程序等。这个出现很早了，也是一种权限维持的方式，不过比较明显，会被严格查杀吧~
 "
-external_url: "https://github.com/chriskaliX/AD-Pentest-Notes/raw/master/imgs/LGP.png"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/chriskaliX/AD-Pentest-Notes/raw/master/imgs/LGP.png)
+

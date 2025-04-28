@@ -1,6 +1,6 @@
 ---
 title: "Ana06"
 description: ""
-external_url: "https://github.com/Ana06"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Ana06)
+

@@ -1,6 +1,6 @@
 ---
 title: "Socketscan"
 description: ""
-external_url: "https://socketscan.io/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://socketscan.io/)
+

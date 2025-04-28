@@ -1,6 +1,6 @@
 ---
 title: "UhOh365"
 description: ""
-external_url: "https://github.com/Raikia/UhOh365"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Raikia/UhOh365)
+

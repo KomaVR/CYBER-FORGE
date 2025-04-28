@@ -1,6 +1,6 @@
 ---
 title: "pratikpc"
 description: ""
-external_url: "https://github.com/pratikpc"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/pratikpc)
+

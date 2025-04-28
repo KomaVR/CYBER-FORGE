@@ -5,6 +5,6 @@ Manjaro / Arch Linux: (thanks )
 yay -S asn-git
 
 "
-external_url: "https://github.com/worty"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/worty)
+

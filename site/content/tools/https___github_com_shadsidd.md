@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/shadsidd"
 description: "shadsidd"
-external_url: "https://github.com/shadsidd"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/shadsidd)
+

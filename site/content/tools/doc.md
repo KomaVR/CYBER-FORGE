@@ -13,6 +13,6 @@ corCTF 2022 - sbxcalc
 
 
 "
-external_url: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy)
+

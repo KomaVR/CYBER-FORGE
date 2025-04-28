@@ -1,6 +1,6 @@
 ---
 title: "Open5GS"
 description: ""
-external_url: "https://github.com/open5gs"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/open5gs)
+

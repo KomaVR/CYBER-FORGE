@@ -1,6 +1,6 @@
 ---
 title: "thewhiteninja"
 description: "thewhiteninja"
-external_url: "https://github.com/thewhiteninja"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/thewhiteninja)
+

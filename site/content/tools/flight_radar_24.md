@@ -1,6 +1,6 @@
 ---
 title: "Flight Radar 24"
 description: ""
-external_url: "http://flightradar24.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://flightradar24.com)
+

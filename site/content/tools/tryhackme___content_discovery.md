@@ -3,6 +3,6 @@ title: "TryHackMe | Content Discovery"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/contentdiscovery"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/contentdiscovery)
+

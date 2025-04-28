@@ -5,6 +5,6 @@ description: "[1193星][15d] [JS]  pull decrypted ipa from jailbreak device
 重复区段: DBI->Frida->工具->新添加的 |
 
 "
-external_url: "https://github.com/alonemonkey/frida-ios-dump"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/alonemonkey/frida-ios-dump)
+

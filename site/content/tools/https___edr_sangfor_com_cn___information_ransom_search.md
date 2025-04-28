@@ -1,6 +1,6 @@
 ---
 title: "https://edr.sangfor.com.cn/#/information/ransom_search"
 description: "深信服:"
-external_url: "https://edr.sangfor.com.cn/#/information/ransom_search"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://edr.sangfor.com.cn/#/information/ransom_search)
+

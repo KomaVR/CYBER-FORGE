@@ -1,6 +1,6 @@
 ---
 title: "AmineDiro"
 description: ""
-external_url: "https://github.com/AmineDiro"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/AmineDiro)
+

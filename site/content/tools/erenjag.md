@@ -1,6 +1,6 @@
 ---
 title: "erenJag"
 description: ""
-external_url: "https://github.com/erenJag"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/erenJag)
+

@@ -6,6 +6,6 @@ description: "Example
 corCTF 2023 - crabspace
 
 "
-external_url: "https://blog.antoniusblock.net/posts/golfjail/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://blog.antoniusblock.net/posts/golfjail/)
+

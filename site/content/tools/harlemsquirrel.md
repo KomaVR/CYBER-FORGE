@@ -1,6 +1,6 @@
 ---
 title: "HarlemSquirrel"
 description: ""
-external_url: "https://github.com/HarlemSquirrel"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/HarlemSquirrel)
+

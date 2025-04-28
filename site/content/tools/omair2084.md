@@ -1,6 +1,6 @@
 ---
 title: "omair2084"
 description: ""
-external_url: "https://github.com/omair2084"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/omair2084)
+

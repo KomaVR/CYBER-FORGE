@@ -1,6 +1,6 @@
 ---
 title: "vdloo"
 description: ""
-external_url: "https://github.com/vdloo"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/vdloo)
+

@@ -1,6 +1,6 @@
 ---
 title: "IPGeoLocation"
 description: "Retrieve IP Geolocation information."
-external_url: "https://github.com/maldevel/IPGeoLocation"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/maldevel/IPGeoLocation)
+

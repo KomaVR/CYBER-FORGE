@@ -1,6 +1,6 @@
 ---
 title: "Bio 84 - Your Genes and Your Health, Stanford University"
 description: ""
-external_url: "https://cmgm.stanford.edu/bio84/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://cmgm.stanford.edu/bio84/)
+

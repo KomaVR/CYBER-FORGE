@@ -1,6 +1,6 @@
 ---
 title: "Geocam.ru"
 description: "Webcams of the world"
-external_url: "https://www.geocam.ru/en/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://www.geocam.ru/en/)
+

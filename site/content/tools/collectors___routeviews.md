@@ -1,6 +1,6 @@
 ---
 title: "Collectors – Routeviews"
 description: ""
-external_url: "http://www.routeviews.org/routeviews/index.php/collectors/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.routeviews.org/routeviews/index.php/collectors/)
+

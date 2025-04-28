@@ -1,6 +1,6 @@
 ---
 title: "sniff"
 description: ""
-external_url: "https://github.com/m4n3dw0lf/pythem/wiki/Commands-Reference#sniff"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/m4n3dw0lf/pythem/wiki/Commands-Reference#sniff)
+

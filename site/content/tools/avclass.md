@@ -1,6 +1,6 @@
 ---
 title: "AVClass"
 description: "Python tools to tag / label malware samples."
-external_url: "https://github.com/malicialab/avclass"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://github.com/malicialab/avclass)
+

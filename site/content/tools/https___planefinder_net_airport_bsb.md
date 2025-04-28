@@ -1,6 +1,6 @@
 ---
 title: "https://planefinder.net/airport/BSB"
 description: ""
-external_url: "https://planefinder.net/airport/BSB"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://planefinder.net/airport/BSB)
+

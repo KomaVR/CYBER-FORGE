@@ -1,6 +1,6 @@
 ---
 title: "HexRaysCodeXplorer"
 description: "Hex-Rays Decompiler plugin for better code navigation"
-external_url: "https://github.com/REhints/HexRaysCodeXplorer"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/REhints/HexRaysCodeXplorer)
+

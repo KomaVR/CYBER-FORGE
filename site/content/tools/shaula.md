@@ -1,6 +1,6 @@
 ---
 title: "shaula"
 description: ""
-external_url: "https://github.com/shaula"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/shaula)
+

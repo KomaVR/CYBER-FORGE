@@ -11,6 +11,6 @@ Supply an IQS token: docker run -it -e IQS_TOKEN=\"xxx\" nitefood/asn [...]
 Supply multiple tokens: docker run -it -e IQS_TOKEN=\"xxx\" -e IPINFO_TOKEN=\"yyy\" -e CLOUDFLARE_TOKEN=\"zzz\" nitefood/asn [...]
 
 "
-external_url: "https://github.com/33Fraise33"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/33Fraise33)
+

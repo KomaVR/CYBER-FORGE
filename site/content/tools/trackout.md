@@ -1,6 +1,6 @@
 ---
 title: "TrackOut"
 description: "Simple Python IP Tracker."
-external_url: "https://github.com/abaykan/TrackOut"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/abaykan/TrackOut)
+

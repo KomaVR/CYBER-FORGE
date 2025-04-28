@@ -1,6 +1,6 @@
 ---
 title: "TgCatalog"
 description: ""
-external_url: "https://tgcatalog.ru/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tgcatalog.ru/)
+

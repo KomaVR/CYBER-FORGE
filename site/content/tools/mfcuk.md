@@ -1,6 +1,6 @@
 ---
 title: "mfcuk"
 description: "MiFare Classic Universal toolKit (MFCUK)."
-external_url: "https://github.com/nfc-tools/mfcuk"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/nfc-tools/mfcuk)
+

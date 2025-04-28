@@ -1,6 +1,6 @@
 ---
 title: "Smash The Stack"
 description: "Wargaming Network"
-external_url: "http://www.smashthestack.org/"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](http://www.smashthestack.org/)
+

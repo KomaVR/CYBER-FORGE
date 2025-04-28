@@ -1,6 +1,6 @@
 ---
 title: "blaCCkHatHacEEkr/OSINT_TIPS"
 description: ""
-external_url: "https://github.com/blaCCkHatHacEEkr/OSINT_TIPS"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://github.com/blaCCkHatHacEEkr/OSINT_TIPS)
+

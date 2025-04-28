@@ -1,6 +1,6 @@
 ---
 title: "https://crimeflare.zidansec.com"
 description: ""
-external_url: "https://crimeflare.zidansec.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://crimeflare.zidansec.com)
+

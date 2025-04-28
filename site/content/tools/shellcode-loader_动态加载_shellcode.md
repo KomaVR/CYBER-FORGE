@@ -1,6 +1,6 @@
 ---
 title: "Shellcode-Loader：动态加载 shellcode"
 description: ""
-external_url: "https://github.com/ReversingID/Shellcode-Loader"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ReversingID/Shellcode-Loader)
+

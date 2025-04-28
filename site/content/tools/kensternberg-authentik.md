@@ -1,6 +1,6 @@
 ---
 title: "kensternberg-authentik"
 description: ""
-external_url: "https://github.com/kensternberg-authentik"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/kensternberg-authentik)
+

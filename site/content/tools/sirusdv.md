@@ -1,6 +1,6 @@
 ---
 title: "sirusdv"
 description: ""
-external_url: "https://github.com/sirusdv"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/sirusdv)
+

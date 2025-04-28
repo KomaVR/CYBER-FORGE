@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/risksense/zerologon"
 description: ""
-external_url: "https://github.com/risksense/zerologon"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/risksense/zerologon)
+

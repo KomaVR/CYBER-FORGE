@@ -1,6 +1,6 @@
 ---
 title: "https://www.ssp.sc.gov.br/dtic/index.php/cameras/cameras-online-florianopolis-trindade"
 description: ""
-external_url: "https://www.ssp.sc.gov.br/dtic/index.php/cameras/cameras-online-florianopolis-trindade"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ssp.sc.gov.br/dtic/index.php/cameras/cameras-online-florianopolis-trindade)
+

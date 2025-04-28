@@ -1,6 +1,6 @@
 ---
 title: "2tokui"
 description: ""
-external_url: "https://github.com/2tokui"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/2tokui)
+

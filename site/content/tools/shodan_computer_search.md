@@ -1,6 +1,6 @@
 ---
 title: "Shodan Computer Search"
 description: ""
-external_url: "http://www.shodanhq.com/"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](http://www.shodanhq.com/)
+

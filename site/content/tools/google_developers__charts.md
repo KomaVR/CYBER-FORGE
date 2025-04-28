@@ -1,6 +1,6 @@
 ---
 title: "Google Developers: Charts"
 description: ""
-external_url: "https://developers.google.com/chart"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://developers.google.com/chart)
+

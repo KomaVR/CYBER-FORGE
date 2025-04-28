@@ -1,6 +1,6 @@
 ---
 title: "Ansearch"
 description: "(AU)"
-external_url: "http://www.ansearch.com.au/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.ansearch.com.au/)
+

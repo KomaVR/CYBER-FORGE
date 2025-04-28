@@ -1,6 +1,6 @@
 ---
 title: "Check That (Vin Search)"
 description: ""
-external_url: "https://www.checkthatvin.com/?action=pcheck"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.checkthatvin.com/?action=pcheck)
+

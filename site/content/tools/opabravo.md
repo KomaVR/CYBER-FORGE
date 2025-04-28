@@ -2,6 +2,6 @@
 title: "opabravo"
 description: "opabravo
 Fate Walker"
-external_url: "https://github.com/opabravo"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/opabravo)
+

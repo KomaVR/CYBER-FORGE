@@ -1,6 +1,6 @@
 ---
 title: "bonedaddy"
 description: ""
-external_url: "https://github.com/bonedaddy"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/bonedaddy)
+

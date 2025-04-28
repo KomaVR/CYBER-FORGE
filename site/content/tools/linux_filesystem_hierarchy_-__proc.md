@@ -1,6 +1,6 @@
 ---
 title: "Linux Filesystem Hierarchy - /proc"
 description: ""
-external_url: "https://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/html/proc.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/html/proc.html)
+

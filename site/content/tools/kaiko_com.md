@@ -1,6 +1,6 @@
 ---
 title: "kaiko.com"
 description: ""
-external_url: "https://www.kaiko.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.kaiko.com)
+

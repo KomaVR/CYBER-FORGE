@@ -1,6 +1,6 @@
 ---
 title: "matiassingers/awesome-readme"
 description: ""
-external_url: "https://github.com/matiassingers/awesome-readme"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/matiassingers/awesome-readme)
+

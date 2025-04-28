@@ -1,6 +1,6 @@
 ---
 title: "optizone"
 description: ""
-external_url: "https://github.com/optizone"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/optizone)
+

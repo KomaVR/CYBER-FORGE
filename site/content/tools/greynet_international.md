@@ -1,6 +1,6 @@
 ---
 title: "GreyNet International"
 description: ""
-external_url: "http://www.greynet.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.greynet.org)
+

@@ -1,6 +1,6 @@
 ---
 title: "Sebsebzen"
 description: ""
-external_url: "https://github.com/Sebsebzen"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Sebsebzen)
+

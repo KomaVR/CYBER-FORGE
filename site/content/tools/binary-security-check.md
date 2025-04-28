@@ -6,6 +6,6 @@ description: "check security of PE
  <bin>.exe
 
 "
-external_url: "https://github.com/koutheir/binary-security-check"
-category: "Reverse Engineering"
----
+external_category: "Reverse Engineering"
+---[Visit Website](https://github.com/koutheir/binary-security-check)
+

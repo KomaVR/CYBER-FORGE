@@ -1,6 +1,6 @@
 ---
 title: "d3vyce"
 description: ""
-external_url: "https://github.com/d3vyce"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/d3vyce)
+

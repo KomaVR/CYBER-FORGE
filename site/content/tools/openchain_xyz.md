@@ -1,6 +1,6 @@
 ---
 title: "openchain.xyz"
 description: ""
-external_url: "https://openchain.xyz/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://openchain.xyz/)
+

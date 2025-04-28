@@ -1,6 +1,6 @@
 ---
 title: "AlleCam"
 description: "Webcam live from Europe and the whole world"
-external_url: "https://www.allecam.com/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://www.allecam.com/)
+

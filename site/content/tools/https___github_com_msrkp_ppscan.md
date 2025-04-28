@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/msrkp/PPScan"
 description: ""
-external_url: "https://github.com/msrkp/PPScan"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/msrkp/PPScan)
+

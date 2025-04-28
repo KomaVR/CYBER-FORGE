@@ -1,6 +1,6 @@
 ---
 title: "web3rekt.com"
 description: ""
-external_url: "https://www.web3rekt.com/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://www.web3rekt.com/)
+

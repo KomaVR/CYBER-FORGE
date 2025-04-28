@@ -1,6 +1,6 @@
 ---
 title: "pingmeonsaturday"
 description: ""
-external_url: "https://github.com/pingmeonsaturday"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/pingmeonsaturday)
+

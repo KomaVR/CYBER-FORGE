@@ -1,6 +1,6 @@
 ---
 title: "Devil Killer"
 description: ""
-external_url: "https://www.youtube.com/channel/UCwfYw-C2xqemqrXq0IKF_Mg"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://www.youtube.com/channel/UCwfYw-C2xqemqrXq0IKF_Mg)
+

@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://opencollective.com/keeweb"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://opencollective.com/keeweb)
+

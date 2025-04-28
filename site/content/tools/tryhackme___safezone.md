@@ -3,6 +3,6 @@ title: "TryHackMe | SafeZone"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/safezone"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/safezone)
+

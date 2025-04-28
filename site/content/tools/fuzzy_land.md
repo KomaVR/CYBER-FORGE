@@ -1,6 +1,6 @@
 ---
 title: "fuzzy.land"
 description: "Website by an Austrian group. Lots of challenges taken from CTFs they participated in."
-external_url: "https://fuzzy.land/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://fuzzy.land/)
+

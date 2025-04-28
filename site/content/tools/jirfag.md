@@ -1,6 +1,6 @@
 ---
 title: "jirfag"
 description: ""
-external_url: "https://github.com/jirfag"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jirfag)
+

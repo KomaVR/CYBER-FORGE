@@ -1,6 +1,6 @@
 ---
 title: "Routersploit"
 description: "Automated penetration testing software for router."
-external_url: "https://github.com/reverse-shell/routersploit"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/reverse-shell/routersploit)
+

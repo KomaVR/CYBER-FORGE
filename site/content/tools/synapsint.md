@@ -1,6 +1,6 @@
 ---
 title: "SynapsInt"
 description: "The unified OSINT research tool"
-external_url: "https://synapsint.com/"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://synapsint.com/)
+

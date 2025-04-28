@@ -1,6 +1,6 @@
 ---
 title: "StackExchange"
 description: ""
-external_url: "http://stackexchange.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://stackexchange.com)
+

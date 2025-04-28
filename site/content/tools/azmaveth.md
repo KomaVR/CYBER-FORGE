@@ -1,6 +1,6 @@
 ---
 title: "azmaveth"
 description: ""
-external_url: "https://github.com/azmaveth"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/azmaveth)
+

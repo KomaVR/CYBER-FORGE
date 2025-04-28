@@ -1,6 +1,6 @@
 ---
 title: "SurfCanyon"
 description: ""
-external_url: "http://www.surfcanyon.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.surfcanyon.com/)
+

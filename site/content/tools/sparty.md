@@ -1,6 +1,6 @@
 ---
 title: "Sparty"
 description: "MS Sharepoint and Frontpage Auditing Tool."
-external_url: "https://github.com/0xdevalias/sparty"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/0xdevalias/sparty)
+

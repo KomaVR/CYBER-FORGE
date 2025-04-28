@@ -5,6 +5,6 @@ description: "[382星][26d] [C++]  将反汇编以Protocol Buffer的形式导出
 重复区段: 其他->BinNavi->工具 |
 
 "
-external_url: "https://github.com/google/binexport"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/google/binexport)
+

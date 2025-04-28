@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/bats3c/ADCSPwn"
 description: "ADCSPwn:"
-external_url: "https://github.com/bats3c/ADCSPwn"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/bats3c/ADCSPwn)
+

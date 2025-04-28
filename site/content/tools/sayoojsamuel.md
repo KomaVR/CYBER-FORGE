@@ -2,6 +2,6 @@
 title: "sayoojsamuel"
 description: "sayoojsamuel
 Sayooj Samuel"
-external_url: "https://github.com/sayoojsamuel"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/sayoojsamuel)
+

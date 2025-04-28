@@ -1,6 +1,6 @@
 ---
 title: "beerisgood"
 description: ""
-external_url: "https://github.com/beerisgood"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/beerisgood)
+

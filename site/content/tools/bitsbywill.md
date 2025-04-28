@@ -1,6 +1,6 @@
 ---
 title: "BitsByWill"
 description: ""
-external_url: "https://github.com/BitsByWill"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/BitsByWill)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://www.scotthyoung.com/blog/"
 description: ""
-external_url: "https://www.scotthyoung.com/blog/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.scotthyoung.com/blog/)
+

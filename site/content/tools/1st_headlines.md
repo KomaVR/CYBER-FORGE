@@ -1,6 +1,6 @@
 ---
 title: "1st Headlines"
 description: ""
-external_url: "http://www.1stheadlines.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.1stheadlines.com)
+

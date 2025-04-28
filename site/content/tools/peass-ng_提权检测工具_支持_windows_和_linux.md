@@ -1,6 +1,6 @@
 ---
 title: "PEASS-ng：提权检测工具，支持 Windows 和 Linux"
 description: ""
-external_url: "https://github.com/carlospolop/PEASS-ng"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/carlospolop/PEASS-ng)
+

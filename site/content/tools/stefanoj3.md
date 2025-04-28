@@ -1,6 +1,6 @@
 ---
 title: "stefanoj3"
 description: ""
-external_url: "https://github.com/stefanoj3"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/stefanoj3)
+

@@ -1,6 +1,6 @@
 ---
 title: "Xnumon"
 description: "Monitor macOS for malicious activity."
-external_url: "https://github.com/droe/xnumon"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/droe/xnumon)
+

@@ -1,6 +1,6 @@
 ---
 title: "Sentiment140"
 description: ""
-external_url: "http://www.twittersentiment.appspot.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.twittersentiment.appspot.com)
+

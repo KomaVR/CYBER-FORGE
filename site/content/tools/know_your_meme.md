@@ -1,6 +1,6 @@
 ---
 title: "Know Your Meme"
 description: ""
-external_url: "https://knowyourmeme.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://knowyourmeme.com)
+

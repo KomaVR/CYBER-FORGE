@@ -1,6 +1,6 @@
 ---
 title: "Spotlight"
 description: "(RU)"
-external_url: "http://spotlight.svezet.ru/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://spotlight.svezet.ru/)
+

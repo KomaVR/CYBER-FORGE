@@ -1,6 +1,6 @@
 ---
 title: "dnides"
 description: ""
-external_url: "https://github.com/dnides"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/dnides)
+

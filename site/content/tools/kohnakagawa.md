@@ -1,6 +1,6 @@
 ---
 title: "kohnakagawa"
 description: ""
-external_url: "https://github.com/kohnakagawa"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/kohnakagawa)
+

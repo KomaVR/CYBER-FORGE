@@ -1,6 +1,6 @@
 ---
 title: "Incident Postmortem Template"
 description: ""
-external_url: "https://www.atlassian.com/incident-management/postmortem/templates"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.atlassian.com/incident-management/postmortem/templates)
+

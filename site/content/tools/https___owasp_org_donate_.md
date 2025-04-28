@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://owasp.org/donate/?reponame=www-project-amass&title=OWASP+Amass"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://owasp.org/donate/?reponame=www-project-amass&title=OWASP+Amass)
+

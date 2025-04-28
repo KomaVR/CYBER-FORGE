@@ -1,6 +1,6 @@
 ---
 title: "Awesome Self-Hosted"
 description: ""
-external_url: "https://github.com/awesome-selfhosted/awesome-selfhosted"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/awesome-selfhosted/awesome-selfhosted)
+

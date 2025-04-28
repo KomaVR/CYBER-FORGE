@@ -1,6 +1,6 @@
 ---
 title: "http://websecuritytool.codeplex.com"
 description: "Watcher passive web scanner"
-external_url: "http://websecuritytool.codeplex.com"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](http://websecuritytool.codeplex.com)
+

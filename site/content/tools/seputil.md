@@ -5,6 +5,6 @@ description: "
 mwpcheung/AppleSEPFirmware
 
 "
-external_url: "https://www.theiphonewiki.com/wiki/Seputil"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.theiphonewiki.com/wiki/Seputil)
+

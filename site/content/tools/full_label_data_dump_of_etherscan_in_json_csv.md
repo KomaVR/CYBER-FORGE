@@ -1,6 +1,6 @@
 ---
 title: "Full label data dump of etherscan in JSON/CSV"
 description: ""
-external_url: "https://github.com/brianleect/etherscan-labels"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/brianleect/etherscan-labels)
+

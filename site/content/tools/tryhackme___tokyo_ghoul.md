@@ -3,6 +3,6 @@ title: "TryHackMe | Tokyo Ghoul"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/tokyoghoul666"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/tokyoghoul666)
+

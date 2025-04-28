@@ -1,6 +1,6 @@
 ---
 title: "albertomn86"
 description: ""
-external_url: "https://github.com/albertomn86"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/albertomn86)
+

@@ -1,6 +1,6 @@
 ---
 title: "Blockchain analysis techniques"
 description: ""
-external_url: "https://cambridge-intelligence.com/blockchain-analysis-tool-techniques"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://cambridge-intelligence.com/blockchain-analysis-tool-techniques)
+

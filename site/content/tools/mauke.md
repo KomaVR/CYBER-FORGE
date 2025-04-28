@@ -1,6 +1,6 @@
 ---
 title: "mauke"
 description: "mauke"
-external_url: "https://github.com/mauke"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mauke)
+

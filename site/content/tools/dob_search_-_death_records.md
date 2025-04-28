@@ -1,6 +1,6 @@
 ---
 title: "DOB Search - Death records"
 description: ""
-external_url: "http://www.dobsearch.com/death-records/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.dobsearch.com/death-records/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Chain Radar"
 description: ""
-external_url: "https://chainradar.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://chainradar.com)
+

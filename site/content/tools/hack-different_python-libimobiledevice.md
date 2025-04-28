@@ -1,6 +1,6 @@
 ---
 title: "hack-different/python-libimobiledevice"
 description: ""
-external_url: "https://github.com/hack-different/python-libimobiledevice"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/hack-different/python-libimobiledevice)
+

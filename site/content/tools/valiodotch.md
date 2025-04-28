@@ -2,6 +2,6 @@
 title: "valioDOTch"
 description: "valioDOTch
 Pat Mächler"
-external_url: "https://github.com/valioDOTch"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/valioDOTch)
+

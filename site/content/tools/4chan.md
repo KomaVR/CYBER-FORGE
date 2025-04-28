@@ -1,6 +1,6 @@
 ---
 title: "4chan"
 description: ""
-external_url: "http://www.4chan.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.4chan.org/)
+

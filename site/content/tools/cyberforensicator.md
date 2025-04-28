@@ -1,6 +1,6 @@
 ---
 title: "Cyberforensicator"
 description: ""
-external_url: "https://cyberforensicator.com/"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://cyberforensicator.com/)
+

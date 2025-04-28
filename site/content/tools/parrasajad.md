@@ -1,6 +1,6 @@
 ---
 title: "parrasajad"
 description: ""
-external_url: "https://github.com/parrasajad"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/parrasajad)
+

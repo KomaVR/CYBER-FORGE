@@ -1,6 +1,6 @@
 ---
 title: "Mxtoolbox"
 description: ": Bulk Domain/IP lookup tool"
-external_url: "https://mxtoolbox.com/BulkLookup.aspx"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://mxtoolbox.com/BulkLookup.aspx)
+

@@ -1,6 +1,6 @@
 ---
 title: "@vanhauser-thc"
 description: "for contributing ideas of additional models and providers to support via his fork"
-external_url: "https://github.com/vanhauser-thc"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/vanhauser-thc)
+

@@ -1,6 +1,6 @@
 ---
 title: "Disconnect"
 description: ""
-external_url: "https://disconnect.me"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://disconnect.me)
+

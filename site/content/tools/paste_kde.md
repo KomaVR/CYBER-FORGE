@@ -1,6 +1,6 @@
 ---
 title: "paste.kde"
 description: ""
-external_url: "https://Paste.kde.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://Paste.kde.org)
+

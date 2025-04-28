@@ -1,6 +1,6 @@
 ---
 title: "amlbot.com"
 description: ""
-external_url: "https://amlbot.com/?ref=officercia"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://amlbot.com/?ref=officercia)
+

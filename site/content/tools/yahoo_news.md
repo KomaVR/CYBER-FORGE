@@ -1,6 +1,6 @@
 ---
 title: "Yahoo News"
 description: ""
-external_url: "http://news.yahoo.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://news.yahoo.com)
+

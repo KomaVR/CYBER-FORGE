@@ -1,6 +1,6 @@
 ---
 title: "wfuzz-web应用fuzz工具kali自带工具之一"
 description: ""
-external_url: "https://github.com/xmendez/wfuzz"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/xmendez/wfuzz)
+

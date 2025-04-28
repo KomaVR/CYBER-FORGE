@@ -3,6 +3,6 @@ title: "http://cmd5.com"
 description: "
 
 "
-external_url: "http://cmd5.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://cmd5.com)
+

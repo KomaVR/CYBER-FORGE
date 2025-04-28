@@ -3,6 +3,6 @@ title: "TryHackMe | REmux The Tmux"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/tmuxremux"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/tmuxremux)
+

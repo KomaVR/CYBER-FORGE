@@ -1,6 +1,6 @@
 ---
 title: "simeonovski"
 description: ""
-external_url: "https://github.com/simeonovski"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/simeonovski)
+

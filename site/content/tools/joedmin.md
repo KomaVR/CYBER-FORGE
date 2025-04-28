@@ -1,6 +1,6 @@
 ---
 title: "Joedmin"
 description: ""
-external_url: "https://github.com/Joedmin"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Joedmin)
+

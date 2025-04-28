@@ -1,6 +1,6 @@
 ---
 title: "Art Loss (Stolen Art)"
 description: ""
-external_url: "http://www.artloss.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.artloss.com)
+

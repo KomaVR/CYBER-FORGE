@@ -1,6 +1,6 @@
 ---
 title: "d4mk0"
 description: ""
-external_url: "https://github.com/d4mk0"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/d4mk0)
+

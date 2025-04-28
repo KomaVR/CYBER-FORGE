@@ -1,6 +1,6 @@
 ---
 title: "shipcod3"
 description: ""
-external_url: "https://github.com/shipcod3"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/shipcod3)
+

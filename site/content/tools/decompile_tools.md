@@ -1,6 +1,6 @@
 ---
 title: "decompile.tools"
 description: ""
-external_url: "https://decompile.tools"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://decompile.tools)
+

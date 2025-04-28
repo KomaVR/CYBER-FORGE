@@ -1,6 +1,6 @@
 ---
 title: "httpfinger：Http指纹管理工具"
 description: ""
-external_url: "https://github.com/lcvvvv/httpfinger"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/lcvvvv/httpfinger)
+

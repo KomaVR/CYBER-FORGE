@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/lextoumbourou/goodhosts"
 description: ""
-external_url: "https://github.com/lextoumbourou/goodhosts"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/lextoumbourou/goodhosts)
+

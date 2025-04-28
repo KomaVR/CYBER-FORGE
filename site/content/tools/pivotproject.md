@@ -1,6 +1,6 @@
 ---
 title: "PivotProject"
 description: ""
-external_url: "https://pivotproject.org/challenges/digital-forensics-challenge"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://pivotproject.org/challenges/digital-forensics-challenge)
+

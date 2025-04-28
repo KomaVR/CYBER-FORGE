@@ -1,6 +1,6 @@
 ---
 title: "justdeleteme"
 description: ""
-external_url: "http://justdelete.me"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://justdelete.me)
+

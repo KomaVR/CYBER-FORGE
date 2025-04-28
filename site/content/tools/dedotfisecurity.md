@@ -1,6 +1,6 @@
 ---
 title: "Dedotfisecurity"
 description: ""
-external_url: "https://twitter.com/dedotfisecurity"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://twitter.com/dedotfisecurity)
+

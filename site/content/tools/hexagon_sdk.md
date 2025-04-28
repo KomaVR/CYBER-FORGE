@@ -10,6 +10,6 @@ IDA Hexagon
 idp_heaxagon
 
 "
-external_url: "https://developer.qualcomm.com/software/hexagon-dsp-sdk"
-category: "Reverse Engineering"
----
+external_category: "Reverse Engineering"
+---[Visit Website](https://developer.qualcomm.com/software/hexagon-dsp-sdk)
+

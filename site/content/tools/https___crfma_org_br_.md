@@ -1,6 +1,6 @@
 ---
 title: "https://crfma.org.br/"
 description: "CRFMA"
-external_url: "https://crfma.org.br/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://crfma.org.br/)
+

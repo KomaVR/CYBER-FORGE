@@ -1,6 +1,6 @@
 ---
 title: "MyGeoPosition.com"
 description: ""
-external_url: "http://mygeoposition.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://mygeoposition.com/)
+

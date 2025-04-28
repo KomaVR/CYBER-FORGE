@@ -1,6 +1,6 @@
 ---
 title: "LTRACK: Stealthy Tracking of Mobile Phones in LTE"
 description: ""
-external_url: "https://www.usenix.org/system/files/sec22summer_kotuliak.pdf"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.usenix.org/system/files/sec22summer_kotuliak.pdf)
+

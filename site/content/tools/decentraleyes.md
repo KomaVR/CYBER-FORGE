@@ -13,6 +13,6 @@ NoScript
 uBlock Origin
 
 "
-external_url: "https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
+

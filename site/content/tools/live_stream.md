@@ -1,6 +1,6 @@
 ---
 title: "Live Stream"
 description: ""
-external_url: "https://livestream.com/watch"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://livestream.com/watch)
+

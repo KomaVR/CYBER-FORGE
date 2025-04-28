@@ -1,6 +1,6 @@
 ---
 title: "Subdomain Enumeration Tool Face-off - 2023 Edition"
 description: ""
-external_url: "https://blog.blacklanternsecurity.com/p/subdomain-enumeration-tool-face-off-4e5"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://blog.blacklanternsecurity.com/p/subdomain-enumeration-tool-face-off-4e5)
+

@@ -1,6 +1,6 @@
 ---
 title: "GustavoLCR"
 description: ""
-external_url: "https://github.com/GustavoLCR"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/GustavoLCR)
+

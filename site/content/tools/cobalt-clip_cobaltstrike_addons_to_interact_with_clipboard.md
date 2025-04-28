@@ -1,6 +1,6 @@
 ---
 title: "Cobalt-Clip：Cobaltstrike addons to interact with clipboard"
 description: ""
-external_url: "https://github.com/DallasFR/Cobalt-Clip"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://github.com/DallasFR/Cobalt-Clip)
+

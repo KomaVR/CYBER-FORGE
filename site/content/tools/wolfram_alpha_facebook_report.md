@@ -1,6 +1,6 @@
 ---
 title: "Wolfram Alpha Facebook Report"
 description: ""
-external_url: "http://www.wolframalpha.com/input/?i=facebook+report"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.wolframalpha.com/input/?i=facebook+report)
+

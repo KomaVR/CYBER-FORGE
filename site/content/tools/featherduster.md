@@ -1,6 +1,6 @@
 ---
 title: "FeatherDuster"
 description: "An automated, modular cryptanalysis tool."
-external_url: "https://github.com/nccgroup/featherduster"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/nccgroup/featherduster)
+

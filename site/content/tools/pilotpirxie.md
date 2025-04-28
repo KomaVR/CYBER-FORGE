@@ -1,6 +1,6 @@
 ---
 title: "pilotpirxie"
 description: ""
-external_url: "https://github.com/pilotpirxie"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/pilotpirxie)
+

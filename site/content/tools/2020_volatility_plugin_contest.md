@@ -1,6 +1,6 @@
 ---
 title: "2020 Volatility Plugin Contest"
 description: ""
-external_url: "https://volatility-labs.blogspot.com/2020/11/the-2020-volatility-plugin-contest-results.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://volatility-labs.blogspot.com/2020/11/the-2020-volatility-plugin-contest-results.html)
+

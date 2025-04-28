@@ -1,6 +1,6 @@
 ---
 title: "PRET"
 description: "Printer Exploitation Toolkit. The tool that made dumpster diving obsolete."
-external_url: "https://github.com/RUB-NDS/PRET"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://github.com/RUB-NDS/PRET)
+

@@ -1,6 +1,6 @@
 ---
 title: "http://www.arachni-scanner.com/"
 description: "Web Application Security Scanner Framework"
-external_url: "http://www.arachni-scanner.com/"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](http://www.arachni-scanner.com/)
+

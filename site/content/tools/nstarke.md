@@ -2,6 +2,6 @@
 title: "nstarke"
 description: "nstarke
 Nicholas Starke"
-external_url: "https://github.com/nstarke"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/nstarke)
+

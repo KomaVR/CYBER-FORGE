@@ -6,6 +6,6 @@ description: "USB-C Power Delivery - Vendor Defined Messages
 rickmark/macvdmtool
 
 "
-external_url: "https://blog.t8012.dev/ace-part-1/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://blog.t8012.dev/ace-part-1/)
+

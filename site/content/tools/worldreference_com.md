@@ -1,6 +1,6 @@
 ---
 title: "WorldReference.com"
 description: ""
-external_url: "http://www.wordreference.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.wordreference.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "jpyamamoto"
 description: ""
-external_url: "https://github.com/jpyamamoto"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jpyamamoto)
+

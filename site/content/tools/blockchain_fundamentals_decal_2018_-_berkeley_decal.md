@@ -1,6 +1,6 @@
 ---
 title: "Blockchain Fundamentals Decal 2018 - Berkeley DeCal"
 description: ""
-external_url: "https://www.youtube.com/playlist?list=PLSONl1AVlZNU0QTGpbgEQXKHcmgYz-ddT"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.youtube.com/playlist?list=PLSONl1AVlZNU0QTGpbgEQXKHcmgYz-ddT)
+

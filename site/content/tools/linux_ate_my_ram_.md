@@ -1,6 +1,6 @@
 ---
 title: "Linux ate my ram!"
 description: ""
-external_url: "https://www.linuxatemyram.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.linuxatemyram.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://webas.sefaz.pi.gov.br/caginweb/"
 description: "Inadimplentes"
-external_url: "https://webas.sefaz.pi.gov.br/caginweb/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://webas.sefaz.pi.gov.br/caginweb/)
+

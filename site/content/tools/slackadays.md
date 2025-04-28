@@ -1,6 +1,6 @@
 ---
 title: "Slackadays"
 description: ""
-external_url: "https://github.com/Slackadays"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Slackadays)
+

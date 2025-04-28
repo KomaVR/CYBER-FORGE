@@ -1,6 +1,6 @@
 ---
 title: "https://sistemas.anatel.gov.br/stel/Consultas/RecuperacaoFrequencias/tela.asp?SISQSmodulo=9896"
 description: ""
-external_url: "https://sistemas.anatel.gov.br/stel/Consultas/RecuperacaoFrequencias/tela.asp?SISQSmodulo=9896"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://sistemas.anatel.gov.br/stel/Consultas/RecuperacaoFrequencias/tela.asp?SISQSmodulo=9896)
+

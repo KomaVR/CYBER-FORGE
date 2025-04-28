@@ -1,6 +1,6 @@
 ---
 title: "musl-gcc"
 description: ""
-external_url: "https://www.musl-libc.org/how.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.musl-libc.org/how.html)
+

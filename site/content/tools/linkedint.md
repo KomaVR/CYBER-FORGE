@@ -1,6 +1,6 @@
 ---
 title: "LinkedInt"
 description: ": A LinkedIn scraper for reconnaissance"
-external_url: "https://github.com/mdsecactivebreach/LinkedInt"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://github.com/mdsecactivebreach/LinkedInt)
+

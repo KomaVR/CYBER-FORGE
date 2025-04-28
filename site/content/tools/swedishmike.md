@@ -1,6 +1,6 @@
 ---
 title: "swedishmike"
 description: ""
-external_url: "https://github.com/swedishmike"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/swedishmike)
+

@@ -1,6 +1,6 @@
 ---
 title: "OKCupid"
 description: ""
-external_url: "https://www.okcupid.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.okcupid.com/)
+

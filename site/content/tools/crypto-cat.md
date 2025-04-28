@@ -2,6 +2,6 @@
 title: "Crypto-Cat"
 description: "Crypto-Cat
 CryptoCat"
-external_url: "https://github.com/Crypto-Cat"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Crypto-Cat)
+

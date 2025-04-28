@@ -1,6 +1,6 @@
 ---
 title: "https://who.is/"
 description: ""
-external_url: "https://who.is/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://who.is/)
+

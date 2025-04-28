@@ -1,6 +1,6 @@
 ---
 title: "TCIPUTILS.com Email Test"
 description: ""
-external_url: "http://www.tcpiputils.com/email-test"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.tcpiputils.com/email-test)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://brasil.io/datasets/"
 description: ""
-external_url: "https://brasil.io/datasets/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://brasil.io/datasets/)
+

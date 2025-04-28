@@ -3,6 +3,6 @@ title: "TryHackMe | Walking An Application"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/walkinganapplication"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/walkinganapplication)
+

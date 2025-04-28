@@ -1,6 +1,6 @@
 ---
 title: "colindomoney"
 description: ""
-external_url: "https://github.com/colindomoney"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/colindomoney)
+

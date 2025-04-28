@@ -1,6 +1,6 @@
 ---
 title: "Maven"
 description: ""
-external_url: "http://www.maven.co"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.maven.co)
+

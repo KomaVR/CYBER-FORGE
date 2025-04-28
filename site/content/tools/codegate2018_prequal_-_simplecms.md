@@ -10,6 +10,6 @@ select table_name from mysql.innodb_table_stats where database_name=資料庫名
 Example: 
 
 "
-external_url: "https://github.com/w181496/CTF/tree/master/codegate2018-prequal/simpleCMS"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/w181496/CTF/tree/master/codegate2018-prequal/simpleCMS)
+

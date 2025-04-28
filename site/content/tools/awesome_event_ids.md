@@ -1,6 +1,6 @@
 ---
 title: "Awesome Event IDs"
 description: "Collection of Event ID resources useful for Digital Forensics and Incident Response"
-external_url: "https://github.com/stuhli/awesome-event-ids"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://github.com/stuhli/awesome-event-ids)
+

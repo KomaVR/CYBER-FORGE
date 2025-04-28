@@ -1,6 +1,6 @@
 ---
 title: "Web-Security-Note"
 description: ""
-external_url: "https://github.com/Smi1eSEC/Web-Security-Note"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/Smi1eSEC/Web-Security-Note)
+

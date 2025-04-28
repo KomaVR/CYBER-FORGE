@@ -3,6 +3,6 @@ title: "TryHackMe | For Business Reasons"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/forbusinessreasons"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/forbusinessreasons)
+

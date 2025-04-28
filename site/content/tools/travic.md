@@ -1,6 +1,6 @@
 ---
 title: "Travic"
 description: ""
-external_url: "https://tracker.geops.ch"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tracker.geops.ch)
+

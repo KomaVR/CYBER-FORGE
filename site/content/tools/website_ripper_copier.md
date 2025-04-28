@@ -1,6 +1,6 @@
 ---
 title: "Website Ripper Copier"
 description: ""
-external_url: "http://www.tensons.com/products/websiterippercopier"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://www.tensons.com/products/websiterippercopier)
+

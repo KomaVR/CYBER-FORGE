@@ -1,6 +1,6 @@
 ---
 title: "nicdoye"
 description: ""
-external_url: "https://github.com/nicdoye"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/nicdoye)
+

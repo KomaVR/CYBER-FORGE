@@ -1,6 +1,6 @@
 ---
 title: "ctftool"
 description: "Interactive CTF Exploration Tool by @taviso."
-external_url: "https://github.com/taviso/ctftool"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/taviso/ctftool)
+

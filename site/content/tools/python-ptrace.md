@@ -1,6 +1,6 @@
 ---
 title: "Python-ptrace"
 description: "Python binding of ptrace library."
-external_url: "https://github.com/haypo/python-ptrace"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/haypo/python-ptrace)
+

@@ -1,6 +1,6 @@
 ---
 title: "fwkz"
 description: ""
-external_url: "https://github.com/fwkz"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/fwkz)
+

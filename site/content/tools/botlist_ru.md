@@ -1,6 +1,6 @@
 ---
 title: "BotLIST.ru"
 description: ""
-external_url: "https://botlist.ru/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://botlist.ru/)
+

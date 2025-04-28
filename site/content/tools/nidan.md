@@ -1,6 +1,6 @@
 ---
 title: "Nidan"
 description: "An active network monitor tool."
-external_url: "https://github.com/michelep/Nidan"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://github.com/michelep/Nidan)
+

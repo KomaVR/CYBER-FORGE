@@ -3,6 +3,6 @@ title: "Unmasking the Social Engineer: The Human Element of Security - Christoph
 description: "
 
 "
-external_url: "https://www.amazon.com/Unmasking-Social-Engineer-Element-Security/dp/1118608577"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.amazon.com/Unmasking-Social-Engineer-Element-Security/dp/1118608577)
+

@@ -1,6 +1,6 @@
 ---
 title: "practicalswift"
 description: ""
-external_url: "https://github.com/practicalswift"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/practicalswift)
+

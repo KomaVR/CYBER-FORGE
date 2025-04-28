@@ -10,6 +10,6 @@ Cryptocurrency Engineering and Design - Spring 2018 - MIT
 Blockchain - Foundations and Use Cases
 
 "
-external_url: "https://youtu.be/gyMwXuJrbJQ"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://youtu.be/gyMwXuJrbJQ)
+

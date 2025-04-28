@@ -1,6 +1,6 @@
 ---
 title: "soxoj"
 description: ""
-external_url: "https://github.com/soxoj"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/soxoj)
+

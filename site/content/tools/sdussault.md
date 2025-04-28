@@ -1,6 +1,6 @@
 ---
 title: "Sdussault"
 description: ""
-external_url: "https://github.com/Sdussault"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Sdussault)
+

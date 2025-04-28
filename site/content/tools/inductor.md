@@ -1,6 +1,6 @@
 ---
 title: "inductor"
 description: ""
-external_url: "https://github.com/inductor"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/inductor)
+

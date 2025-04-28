@@ -3,6 +3,6 @@ title: "https://gravitational.com/blog/ssh-handshake-explained/"
 description: "
 
 "
-external_url: "https://gravitational.com/blog/ssh-handshake-explained/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://gravitational.com/blog/ssh-handshake-explained/)
+

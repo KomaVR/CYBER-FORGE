@@ -2,6 +2,6 @@
 title: "tarunkant"
 description: "tarunkant
 Tarunkant Gupta"
-external_url: "https://github.com/tarunkant"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/tarunkant)
+

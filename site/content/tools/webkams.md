@@ -1,6 +1,6 @@
 ---
 title: "WebKams"
 description: "Live Web Cameras Everywhere"
-external_url: "https://www.webkams.com/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://www.webkams.com/)
+

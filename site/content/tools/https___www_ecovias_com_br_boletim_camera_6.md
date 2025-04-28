@@ -5,6 +5,6 @@ description: "TRECHO SERRA IMIGRANTES
 
 
 "
-external_url: "https://www.ecovias.com.br/boletim/camera/6"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ecovias.com.br/boletim/camera/6)
+

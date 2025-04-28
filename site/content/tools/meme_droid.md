@@ -1,6 +1,6 @@
 ---
 title: "Meme Droid"
 description: ""
-external_url: "https://www.memedroid.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.memedroid.com)
+

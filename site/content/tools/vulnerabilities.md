@@ -1,6 +1,6 @@
 ---
 title: "Vulnerabilities"
 description: ""
-external_url: "https://pwndoc.github.io/pwndoc/#/vulnerabilities"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://pwndoc.github.io/pwndoc/#/vulnerabilities)
+

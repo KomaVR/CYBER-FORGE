@@ -1,6 +1,6 @@
 ---
 title: "Lexicool Translation"
 description: ""
-external_url: "http://www.lexicool.com/translate.asp"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.lexicool.com/translate.asp)
+

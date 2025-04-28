@@ -1,6 +1,6 @@
 ---
 title: "Checksec.rs"
 description: "Fast multi-platform (ELF/PE/MachO) binary checksec written in Rust."
-external_url: "https://github.com/etke/checksec.rs"
-category: "Reverse Engineering"
----
+external_category: "Reverse Engineering"
+---[Visit Website](https://github.com/etke/checksec.rs)
+

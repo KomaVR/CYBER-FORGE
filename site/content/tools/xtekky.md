@@ -1,6 +1,6 @@
 ---
 title: "xtekky"
 description: ""
-external_url: "https://github.com/xtekky"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/xtekky)
+

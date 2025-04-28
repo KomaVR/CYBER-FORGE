@@ -1,6 +1,6 @@
 ---
 title: "hectorm"
 description: ""
-external_url: "https://github.com/hectorm"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/hectorm)
+

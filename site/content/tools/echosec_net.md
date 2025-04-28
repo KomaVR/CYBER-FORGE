@@ -2,6 +2,6 @@
 title: "echosec.net"
 description: "($) Echosec,  (Instagram,
 Twitter, VK, Foursquare)"
-external_url: "http://www.echosec.net"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.echosec.net)
+

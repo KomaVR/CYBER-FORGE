@@ -1,6 +1,6 @@
 ---
 title: "REDARCS"
 description: "Reddit archives 2005-2023."
-external_url: "https://the-eye.eu/redarcs/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://the-eye.eu/redarcs/)
+

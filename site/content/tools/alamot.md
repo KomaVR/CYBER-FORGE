@@ -1,6 +1,6 @@
 ---
 title: "Alamot"
 description: "for his original code."
-external_url: "https://github.com/Alamot"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Alamot)
+

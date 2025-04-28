@@ -1,6 +1,6 @@
 ---
 title: "https://www.keplaca.com"
 description: ""
-external_url: "https://www.keplaca.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.keplaca.com)
+

@@ -1,6 +1,6 @@
 ---
 title: "Scribd"
 description: ""
-external_url: "http://www.scribd.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.scribd.com)
+

@@ -1,6 +1,6 @@
 ---
 title: "rugscreen"
 description: ""
-external_url: "http://rugscreen.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://rugscreen.com/)
+

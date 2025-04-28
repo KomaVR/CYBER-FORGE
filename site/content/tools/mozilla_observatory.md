@@ -1,6 +1,6 @@
 ---
 title: "Mozilla Observatory"
 description: ""
-external_url: "https://observatory.mozilla.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://observatory.mozilla.org/)
+

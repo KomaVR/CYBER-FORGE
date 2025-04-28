@@ -1,6 +1,6 @@
 ---
 title: "Blogs Directory - Blogs-Collection.com"
 description: ""
-external_url: "https://www.blogs-collection.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.blogs-collection.com/)
+

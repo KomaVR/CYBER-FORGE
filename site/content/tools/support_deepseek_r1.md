@@ -1,6 +1,6 @@
 ---
 title: "Support DeepSeek R1"
 description: ""
-external_url: "https://github.com/deepseek-ai/DeepSeek-R1"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/deepseek-ai/DeepSeek-R1)
+

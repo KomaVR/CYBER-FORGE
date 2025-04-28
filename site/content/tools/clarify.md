@@ -1,6 +1,6 @@
 ---
 title: "Clarify"
 description: ""
-external_url: "http://clarify.io"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://clarify.io)
+

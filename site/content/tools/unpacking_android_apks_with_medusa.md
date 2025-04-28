@@ -1,6 +1,6 @@
 ---
 title: "Unpacking Android APKs with Medusa"
 description: "(credits @LaurieWired)"
-external_url: "https://www.youtube.com/watch?v=ffM5R2Wfl0A"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.youtube.com/watch?v=ffM5R2Wfl0A)
+

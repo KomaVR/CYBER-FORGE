@@ -14,6 +14,6 @@ Brave 的 Jonathan Sampson 在 Twitter 上发表了一系列帖子,他在 Window
 
 
 "
-external_url: "https://www.solidot.org/story?sid=61874"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.solidot.org/story?sid=61874)
+

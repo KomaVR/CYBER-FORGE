@@ -1,6 +1,6 @@
 ---
 title: "Monero Wallet Hunter"
 description: ""
-external_url: "https://www.xmrhunter.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.xmrhunter.com/)
+

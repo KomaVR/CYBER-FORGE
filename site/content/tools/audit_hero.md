@@ -1,6 +1,6 @@
 ---
 title: "Audit Hero"
 description: ""
-external_url: "https://audit-hero.com/search-findings"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://audit-hero.com/search-findings)
+

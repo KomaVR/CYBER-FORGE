@@ -1,6 +1,6 @@
 ---
 title: "javuto"
 description: ""
-external_url: "https://github.com/javuto"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/javuto)
+

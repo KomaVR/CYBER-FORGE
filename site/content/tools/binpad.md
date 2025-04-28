@@ -1,6 +1,6 @@
 ---
 title: "Binpad"
 description: ""
-external_url: "http://www.binpad.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.binpad.com/)
+

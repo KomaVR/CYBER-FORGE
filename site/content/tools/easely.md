@@ -1,6 +1,6 @@
 ---
 title: "easely"
 description: ""
-external_url: "http://www.easel.ly"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.easel.ly)
+

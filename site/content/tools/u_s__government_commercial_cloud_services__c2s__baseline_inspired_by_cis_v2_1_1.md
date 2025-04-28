@@ -6,6 +6,6 @@ description: "
 C2S for Red Hat Enterprise Linux 7 v0.1.43.
 
 "
-external_url: "https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-C2S.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-C2S.html)
+

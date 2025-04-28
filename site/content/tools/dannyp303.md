@@ -1,6 +1,6 @@
 ---
 title: "dannyp303"
 description: ""
-external_url: "https://github.com/dannyp303"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/dannyp303)
+

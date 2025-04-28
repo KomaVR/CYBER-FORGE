@@ -85,6 +85,6 @@ https://www.ecovias.com.br/boletim/camera/10
 
 
 "
-external_url: "https://www.ecovias.com.br/condicoes-da-via#condition-camera"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ecovias.com.br/condicoes-da-via#condition-camera)
+

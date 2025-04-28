@@ -3,6 +3,6 @@ title: "TryHackMe | OWASP Mutillidae II"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/owaspmutillidae"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/owaspmutillidae)
+

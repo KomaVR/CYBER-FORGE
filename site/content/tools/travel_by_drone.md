@@ -1,6 +1,6 @@
 ---
 title: "Travel By Drone"
 description: ""
-external_url: "http://travelbydrone.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://travelbydrone.com/)
+

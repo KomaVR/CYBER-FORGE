@@ -1,6 +1,6 @@
 ---
 title: "Vis.js"
 description: ""
-external_url: "http://visjs.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://visjs.org)
+

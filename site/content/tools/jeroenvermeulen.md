@@ -1,6 +1,6 @@
 ---
 title: "jeroenvermeulen"
 description: ""
-external_url: "https://github.com/jeroenvermeulen"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jeroenvermeulen)
+

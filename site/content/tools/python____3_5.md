@@ -1,6 +1,6 @@
 ---
 title: "Python >= 3.5"
 description: "or PyPy3"
-external_url: "https://www.python.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.python.org)
+

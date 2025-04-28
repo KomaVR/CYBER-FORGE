@@ -1,6 +1,6 @@
 ---
 title: "spoofcheck"
 description: "Spoofable domains ()"
-external_url: "https://github.com/MattKeeley/Spoofy"
-category: "Social Engineering"
----
+external_category: "Social Engineering"
+---[Visit Website](https://github.com/MattKeeley/Spoofy)
+

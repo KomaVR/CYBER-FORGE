@@ -1,6 +1,6 @@
 ---
 title: "set"
 description: ""
-external_url: "https://github.com/m4n3dw0lf/pythem/wiki/Commands-Reference#set-1"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/m4n3dw0lf/pythem/wiki/Commands-Reference#set-1)
+

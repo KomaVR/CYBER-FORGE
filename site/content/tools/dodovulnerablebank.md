@@ -1,6 +1,6 @@
 ---
 title: "DodoVulnerableBank"
 description: ""
-external_url: "https://github.com/CSPF-Founder/DodoVulnerableBank"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/CSPF-Founder/DodoVulnerableBank)
+

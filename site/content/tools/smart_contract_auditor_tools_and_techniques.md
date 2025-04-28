@@ -1,6 +1,6 @@
 ---
 title: "Smart Contract Auditor Tools and Techniques"
 description: ""
-external_url: "https://github.com/shanzson/Smart-Contract-Auditor-Tools-and-Techniques"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/shanzson/Smart-Contract-Auditor-Tools-and-Techniques)
+

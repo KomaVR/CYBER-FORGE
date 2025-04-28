@@ -1,6 +1,6 @@
 ---
 title: "BlueStacks"
 description: "Made mostly for gamers but runs other apps as well."
-external_url: "https://www.bluestacks.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.bluestacks.com/)
+

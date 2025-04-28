@@ -3,6 +3,6 @@ title: "TryHackMe | NerdHerd"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/nerdherd"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/nerdherd)
+

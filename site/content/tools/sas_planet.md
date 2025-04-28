@@ -1,6 +1,6 @@
 ---
 title: "SAS Planet"
 description: "Software used to view, download and stitch satellite images."
-external_url: "http://www.sasgis.org/sasplaneta/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.sasgis.org/sasplaneta/)
+

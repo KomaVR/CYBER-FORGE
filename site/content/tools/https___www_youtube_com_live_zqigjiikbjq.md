@@ -3,6 +3,6 @@ title: "https://www.youtube.com/live/zQigjIIkBjQ?si=uanfwVUt33IqlWXt"
 description: "
 Android Forensics with Avilla Forensics - March 15th. 2022 - AFD ()
 "
-external_url: "https://www.youtube.com/live/zQigjIIkBjQ?si=uanfwVUt33IqlWXt"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://www.youtube.com/live/zQigjIIkBjQ?si=uanfwVUt33IqlWXt)
+

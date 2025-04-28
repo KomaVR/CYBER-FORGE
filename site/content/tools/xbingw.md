@@ -1,6 +1,6 @@
 ---
 title: "xbingW"
 description: ""
-external_url: "https://github.com/xbingW"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/xbingW)
+

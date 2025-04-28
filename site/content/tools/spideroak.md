@@ -1,6 +1,6 @@
 ---
 title: "Spideroak"
 description: ""
-external_url: "https://spideroak.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://spideroak.com)
+

@@ -1,6 +1,6 @@
 ---
 title: "MapBox"
 description: ""
-external_url: "https://www.mapbox.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.mapbox.com)
+

@@ -1,6 +1,6 @@
 ---
 title: "aristorechina"
 description: ""
-external_url: "https://github.com/aristorechina"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/aristorechina)
+

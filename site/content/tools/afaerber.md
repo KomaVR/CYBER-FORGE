@@ -1,6 +1,6 @@
 ---
 title: "afaerber"
 description: ""
-external_url: "https://github.com/afaerber"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/afaerber)
+

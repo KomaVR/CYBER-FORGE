@@ -1,6 +1,6 @@
 ---
 title: "NRC Research Press"
 description: ""
-external_url: "http://www.nrcresearchpress.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.nrcresearchpress.com)
+

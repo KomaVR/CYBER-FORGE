@@ -1,6 +1,6 @@
 ---
 title: "visually"
 description: ""
-external_url: "http://create.visual.ly"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://create.visual.ly)
+

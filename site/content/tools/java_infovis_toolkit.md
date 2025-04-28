@@ -1,6 +1,6 @@
 ---
 title: "Java Infovis Toolkit"
 description: ""
-external_url: "http://philogb.github.io/jit"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://philogb.github.io/jit)
+

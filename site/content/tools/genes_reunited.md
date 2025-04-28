@@ -1,6 +1,6 @@
 ---
 title: "Genes Reunited"
 description: ""
-external_url: "https://www.genesreunited.co.uk/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.genesreunited.co.uk/)
+

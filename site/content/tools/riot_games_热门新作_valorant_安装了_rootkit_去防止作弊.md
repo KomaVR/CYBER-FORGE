@@ -10,6 +10,6 @@ Riot Games
 
 
 "
-external_url: "https://www.solidot.org/story?sid=64139"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://www.solidot.org/story?sid=64139)
+

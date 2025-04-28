@@ -1,6 +1,6 @@
 ---
 title: "binarymist"
 description: ""
-external_url: "https://github.com/binarymist"
-category: "Reverse Engineering"
----
+external_category: "Reverse Engineering"
+---[Visit Website](https://github.com/binarymist)
+

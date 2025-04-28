@@ -1,6 +1,6 @@
 ---
 title: "0xflotus"
 description: ""
-external_url: "https://github.com/0xflotus"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/0xflotus)
+

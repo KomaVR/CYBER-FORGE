@@ -1,6 +1,6 @@
 ---
 title: "GraphViz Interactive Preview"
 description: ""
-external_url: "https://marketplace.visualstudio.com/items?itemName=tintinweb.graphviz-interactive-preview"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://marketplace.visualstudio.com/items?itemName=tintinweb.graphviz-interactive-preview)
+

@@ -1,6 +1,6 @@
 ---
 title: "ShawnDEvans"
 description: "smbmap"
-external_url: "https://github.com/ShawnDEvans"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ShawnDEvans)
+

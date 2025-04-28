@@ -1,6 +1,6 @@
 ---
 title: "@_abhiramkumar"
 description: "Twitter:"
-external_url: "https://www.twitter.com/_abhiramkumar"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.twitter.com/_abhiramkumar)
+

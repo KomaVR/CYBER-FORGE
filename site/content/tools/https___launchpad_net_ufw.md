@@ -1,6 +1,6 @@
 ---
 title: "https://launchpad.net/ufw"
 description: ""
-external_url: "https://launchpad.net/ufw"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://launchpad.net/ufw)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://araf.org.br/anatel-links-rapidos"
 description: ""
-external_url: "https://araf.org.br/anatel-links-rapidos"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://araf.org.br/anatel-links-rapidos)
+

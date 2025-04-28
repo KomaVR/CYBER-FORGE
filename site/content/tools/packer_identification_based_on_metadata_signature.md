@@ -1,6 +1,6 @@
 ---
 title: "Packer identification based on metadata signature"
 description: "📓  (December 2017)"
-external_url: "https://dl.acm.org/doi/10.1145/3151137.3160687"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://dl.acm.org/doi/10.1145/3151137.3160687)
+

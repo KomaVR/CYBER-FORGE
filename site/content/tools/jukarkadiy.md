@@ -1,6 +1,6 @@
 ---
 title: "JukArkadiy"
 description: ""
-external_url: "https://github.com/JukArkadiy"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/JukArkadiy)
+

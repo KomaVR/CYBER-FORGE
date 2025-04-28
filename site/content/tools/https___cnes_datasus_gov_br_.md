@@ -1,6 +1,6 @@
 ---
 title: "https://cnes.datasus.gov.br/"
 description: ""
-external_url: "https://cnes.datasus.gov.br/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://cnes.datasus.gov.br/)
+

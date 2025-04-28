@@ -1,6 +1,6 @@
 ---
 title: "StolenCameraFinder"
 description: ""
-external_url: "http://www.stolencamerafinder.co.uk/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.stolencamerafinder.co.uk/)
+

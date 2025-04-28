@@ -23,6 +23,6 @@ Bypassing GitHub's OAuth flow
 
 
 "
-external_url: "https://werkzeug.palletsprojects.com/en/2.0.x/routing/#werkzeug.routing.Rule"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://werkzeug.palletsprojects.com/en/2.0.x/routing/#werkzeug.routing.Rule)
+

@@ -1,6 +1,6 @@
 ---
 title: "Greatest125"
 description: ""
-external_url: "https://github.com/Greatest125"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Greatest125)
+

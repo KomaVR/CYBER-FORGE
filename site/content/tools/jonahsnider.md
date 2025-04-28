@@ -1,6 +1,6 @@
 ---
 title: "jonahsnider"
 description: ""
-external_url: "https://github.com/jonahsnider"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jonahsnider)
+

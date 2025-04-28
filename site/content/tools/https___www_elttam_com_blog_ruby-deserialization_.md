@@ -5,6 +5,6 @@ description: "Universal gadget for ruby 2.x by elttam (2018)
 
 
 "
-external_url: "https://www.elttam.com/blog/ruby-deserialization/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.elttam.com/blog/ruby-deserialization/)
+

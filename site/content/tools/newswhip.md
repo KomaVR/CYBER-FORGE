@@ -1,6 +1,6 @@
 ---
 title: "NewsWhip"
 description: ""
-external_url: "http://www.newswhip.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.newswhip.com)
+

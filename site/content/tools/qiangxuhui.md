@@ -1,6 +1,6 @@
 ---
 title: "qiangxuhui"
 description: ""
-external_url: "https://github.com/qiangxuhui"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/qiangxuhui)
+

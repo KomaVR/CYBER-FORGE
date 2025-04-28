@@ -1,6 +1,6 @@
 ---
 title: "Neural networks class - Université de Sherbrooke"
 description: "(YouTube)"
-external_url: "http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
+

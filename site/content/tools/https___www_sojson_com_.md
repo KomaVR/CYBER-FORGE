@@ -1,6 +1,6 @@
 ---
 title: "https://www.sojson.com/"
 description: ""
-external_url: "https://www.sojson.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.sojson.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "EfiGuard"
 description: "Disable PatchGuard and DSE at boot time."
-external_url: "https://github.com/Mattiwatti/EfiGuard"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Mattiwatti/EfiGuard)
+

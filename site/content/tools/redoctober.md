@@ -1,6 +1,6 @@
 ---
 title: "redoctober"
 description: "Server for two-man rule style file encryption and decryption."
-external_url: "https://github.com/cloudflare/redoctober"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/cloudflare/redoctober)
+

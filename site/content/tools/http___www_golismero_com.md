@@ -1,6 +1,6 @@
 ---
 title: "http://www.golismero.com"
 description: "Golismero"
-external_url: "http://www.golismero.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.golismero.com)
+

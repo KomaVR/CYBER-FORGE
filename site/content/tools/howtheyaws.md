@@ -1,6 +1,6 @@
 ---
 title: "Howtheyaws"
 description: ""
-external_url: "https://github.com/upgundecha/howtheyaws"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/upgundecha/howtheyaws)
+

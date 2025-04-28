@@ -1,6 +1,6 @@
 ---
 title: "ZishanAdThandar"
 description: ""
-external_url: "https://github.com/ZishanAdThandar"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ZishanAdThandar)
+

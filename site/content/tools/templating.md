@@ -1,6 +1,6 @@
 ---
 title: "Templating"
 description: ""
-external_url: "https://pwndoc.github.io/pwndoc/#/docxtemplate"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://pwndoc.github.io/pwndoc/#/docxtemplate)
+

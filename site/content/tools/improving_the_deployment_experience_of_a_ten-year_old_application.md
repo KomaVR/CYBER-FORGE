@@ -1,6 +1,6 @@
 ---
 title: "Improving the Deployment Experience of a Ten-Year Old Application"
 description: ""
-external_url: "https://codeascraft.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://codeascraft.com/)
+

@@ -4,6 +4,6 @@ description: "
 Maltego tool,
 
 "
-external_url: "https://www.paterva.com/web7/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://www.paterva.com/web7/)
+

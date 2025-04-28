@@ -1,6 +1,6 @@
 ---
 title: "cfi-gb"
 description: ""
-external_url: "https://github.com/cfi-gb"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/cfi-gb)
+

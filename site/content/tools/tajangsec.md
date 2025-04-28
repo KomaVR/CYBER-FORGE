@@ -2,6 +2,6 @@
 title: "TajangSec"
 description: "TajangSec
 Tajang"
-external_url: "https://github.com/TajangSec"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/TajangSec)
+

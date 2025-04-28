@@ -1,6 +1,6 @@
 ---
 title: "YexuanXiao"
 description: ""
-external_url: "https://github.com/YexuanXiao"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/YexuanXiao)
+

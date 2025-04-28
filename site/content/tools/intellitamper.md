@@ -1,6 +1,6 @@
 ---
 title: "IntelliTamper"
 description: ""
-external_url: "http://www.softpedia.com/get/Internet/Other-Internet-Related/IntelliTamper.shtml"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.softpedia.com/get/Internet/Other-Internet-Related/IntelliTamper.shtml)
+

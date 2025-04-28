@@ -1,6 +1,6 @@
 ---
 title: "Selora"
 description: ""
-external_url: "https://github.com/Selora"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Selora)
+

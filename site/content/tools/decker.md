@@ -3,6 +3,6 @@ title: "Decker"
 description: "
  - Steven Aldinger
 "
-external_url: "https://github.com/stevenaldinger/decker"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/stevenaldinger/decker)
+

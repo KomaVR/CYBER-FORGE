@@ -1,6 +1,6 @@
 ---
 title: "borismol"
 description: ""
-external_url: "https://github.com/borismol"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/borismol)
+

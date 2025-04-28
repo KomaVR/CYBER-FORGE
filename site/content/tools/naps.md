@@ -1,6 +1,6 @@
 ---
 title: "Naps"
 description: ""
-external_url: "http://naps.com.ua"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://naps.com.ua)
+

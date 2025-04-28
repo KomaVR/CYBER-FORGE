@@ -1,6 +1,6 @@
 ---
 title: "http://www.matrix67.com/blog/"
 description: ""
-external_url: "http://www.matrix67.com/blog/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.matrix67.com/blog/)
+

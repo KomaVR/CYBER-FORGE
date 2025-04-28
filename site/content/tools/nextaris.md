@@ -1,6 +1,6 @@
 ---
 title: "Nextaris"
 description: ""
-external_url: "http://www.nextaris.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.nextaris.com/)
+

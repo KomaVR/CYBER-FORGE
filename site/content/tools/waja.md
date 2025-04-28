@@ -1,6 +1,6 @@
 ---
 title: "waja"
 description: ""
-external_url: "https://github.com/waja"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/waja)
+

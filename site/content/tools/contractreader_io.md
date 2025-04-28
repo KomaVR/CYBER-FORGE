@@ -1,6 +1,6 @@
 ---
 title: "contractreader.io"
 description: ""
-external_url: "https://www.contractreader.io"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.contractreader.io)
+

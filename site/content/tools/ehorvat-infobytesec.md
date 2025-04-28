@@ -1,6 +1,6 @@
 ---
 title: "ehorvat-infobytesec"
 description: ""
-external_url: "https://github.com/ehorvat-infobytesec"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ehorvat-infobytesec)
+

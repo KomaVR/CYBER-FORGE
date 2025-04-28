@@ -1,6 +1,6 @@
 ---
 title: "https://sistemas.anac.gov.br/consultadelicencas/"
 description: ""
-external_url: "https://sistemas.anac.gov.br/consultadelicencas/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://sistemas.anac.gov.br/consultadelicencas/)
+

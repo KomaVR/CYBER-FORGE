@@ -1,6 +1,6 @@
 ---
 title: "Maltego Transforms List"
 description: ""
-external_url: "https://github.com/cipher387/maltego-transforms-list"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://github.com/cipher387/maltego-transforms-list)
+

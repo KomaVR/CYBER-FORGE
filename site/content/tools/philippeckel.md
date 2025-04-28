@@ -1,6 +1,6 @@
 ---
 title: "philippeckel"
 description: ""
-external_url: "https://github.com/philippeckel"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/philippeckel)
+

@@ -1,6 +1,6 @@
 ---
 title: "Ebay Australia"
 description: ""
-external_url: "https://www.ebay.com.au/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ebay.com.au/)
+

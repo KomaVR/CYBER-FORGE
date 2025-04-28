@@ -3,6 +3,6 @@ title: "https://www.domainiq.com/reverse_whois"
 description: "
 
 "
-external_url: "https://www.domainiq.com/reverse_whois"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.domainiq.com/reverse_whois)
+

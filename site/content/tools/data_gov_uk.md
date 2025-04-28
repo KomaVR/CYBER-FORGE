@@ -1,6 +1,6 @@
 ---
 title: "Data.gov.uk"
 description: ""
-external_url: "https://data.gov.uk"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://data.gov.uk)
+

@@ -1,6 +1,6 @@
 ---
 title: "Observability Engineering"
 description: "📔"
-external_url: "https://amzn.to/4hSrVNP"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://amzn.to/4hSrVNP)
+

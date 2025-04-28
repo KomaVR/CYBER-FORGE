@@ -1,6 +1,6 @@
 ---
 title: "https://magi.com/"
 description: ""
-external_url: "https://magi.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://magi.com/)
+

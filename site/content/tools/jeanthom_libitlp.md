@@ -7,6 +7,6 @@ josephw/titl
 https://metacpan.org/pod/Mac::iTunes::Library::Parse
 
 "
-external_url: "https://github.com/jeanthom/libitlp"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jeanthom/libitlp)
+

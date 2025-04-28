@@ -1,6 +1,6 @@
 ---
 title: "masterugwee"
 description: ""
-external_url: "https://github.com/masterugwee"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/masterugwee)
+

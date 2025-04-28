@@ -1,6 +1,6 @@
 ---
 title: "Marshal"
 description: "(marshal)"
-external_url: "http://www.arachni-scanner.com/reports/report.marshal"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.arachni-scanner.com/reports/report.marshal)
+

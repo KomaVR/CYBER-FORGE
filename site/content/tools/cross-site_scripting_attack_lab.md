@@ -4,6 +4,6 @@ description: "
 
 Launching the cross-site scripting attack on a vulnerable web application. Conducting experiments with several countermeasures.
 "
-external_url: "http://www.cis.syr.edu/~wedu/seed/Labs/Attacks_XSS"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://www.cis.syr.edu/~wedu/seed/Labs/Attacks_XSS)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://www.thehacker.recipes/"
 description: ""
-external_url: "https://www.thehacker.recipes/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.thehacker.recipes/)
+

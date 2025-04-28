@@ -1,6 +1,6 @@
 ---
 title: "HowSociable"
 description: ""
-external_url: "http://www.howsociable.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.howsociable.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://www.hcourt.gov.au/registry/court-lists"
 description: ""
-external_url: "https://www.hcourt.gov.au/registry/court-lists"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.hcourt.gov.au/registry/court-lists)
+

@@ -1,6 +1,6 @@
 ---
 title: "NoScript"
 description: ""
-external_url: "https://noscript.net"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://noscript.net)
+

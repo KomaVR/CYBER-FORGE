@@ -1,6 +1,6 @@
 ---
 title: "Avscript"
 description: "Avast JavaScript Interactive Shell."
-external_url: "https://github.com/taviso/avscript"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/taviso/avscript)
+

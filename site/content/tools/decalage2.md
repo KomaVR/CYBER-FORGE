@@ -1,6 +1,6 @@
 ---
 title: "decalage2"
 description: ""
-external_url: "https://github.com/decalage2"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/decalage2)
+

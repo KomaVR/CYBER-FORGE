@@ -7,6 +7,6 @@ https://github.com/RowTeam/SharpDecryptPwd decrypt locally
 https://github.com/JDArmy/SharpXDecrypt
 
 "
-external_url: "https://github.com/HyperSine/how-does-Xmanager-encrypt-password"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/HyperSine/how-does-Xmanager-encrypt-password)
+

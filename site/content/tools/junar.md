@@ -1,6 +1,6 @@
 ---
 title: "Junar"
 description: ""
-external_url: "http://junar.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://junar.com)
+

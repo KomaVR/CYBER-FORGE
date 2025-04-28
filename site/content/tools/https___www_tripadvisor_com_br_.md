@@ -1,6 +1,6 @@
 ---
 title: "https://www.tripadvisor.com.br/"
 description: ""
-external_url: "https://www.tripadvisor.com.br/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.tripadvisor.com.br/)
+

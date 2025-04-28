@@ -1,6 +1,6 @@
 ---
 title: "CSEP 548 - Computer Architecture Autumn 2012 - University of Washington"
 description: ""
-external_url: "https://courses.cs.washington.edu/courses/csep548/12au/video/index.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://courses.cs.washington.edu/courses/csep548/12au/video/index.html)
+

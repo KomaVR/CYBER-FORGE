@@ -1,6 +1,6 @@
 ---
 title: "Webcams Travel"
 description: ""
-external_url: "https://www.webcams.travel/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://www.webcams.travel/)
+

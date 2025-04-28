@@ -1,6 +1,6 @@
 ---
 title: "Locate Family"
 description: ""
-external_url: "http://www.locatefamily.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.locatefamily.com)
+

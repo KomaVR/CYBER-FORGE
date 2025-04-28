@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/PlexPt/awesome-chatgpt-prompts-zh"
 description: ""
-external_url: "https://github.com/PlexPt/awesome-chatgpt-prompts-zh"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+

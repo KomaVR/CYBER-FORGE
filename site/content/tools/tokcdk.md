@@ -1,6 +1,6 @@
 ---
 title: "TokcDK"
 description: ""
-external_url: "https://github.com/TokcDK"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/TokcDK)
+

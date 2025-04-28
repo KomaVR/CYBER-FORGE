@@ -13,6 +13,6 @@ alert.bind()(document.domain);
 
 
 "
-external_url: "https://gist.github.com/tomnomnom/14a918f707ef0685fdebd90545580309"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://gist.github.com/tomnomnom/14a918f707ef0685fdebd90545580309)
+

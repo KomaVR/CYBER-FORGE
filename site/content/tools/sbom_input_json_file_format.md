@@ -27,6 +27,6 @@ Multiple Queries (bulk/sbom)
 (FREEMIUM)  - puncia sbom <json-file> <output-directory>
 
 "
-external_url: "https://github.com/CycloneDX/bom-examples/blob/master/SBOM/protonmail-webclient-v4-0912dff/bom.json"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://github.com/CycloneDX/bom-examples/blob/master/SBOM/protonmail-webclient-v4-0912dff/bom.json)
+

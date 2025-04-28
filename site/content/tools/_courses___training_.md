@@ -1,6 +1,6 @@
 ---
 title: "⭐Courses & Training⭐"
 description: ""
-external_url: "https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Courses_Training.md"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Courses_Training.md)
+

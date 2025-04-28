@@ -1,6 +1,6 @@
 ---
 title: "OzBargin"
 description: ""
-external_url: "https://www.ozbargain.com.au/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ozbargain.com.au/)
+

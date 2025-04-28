@@ -1,6 +1,6 @@
 ---
 title: "Crimol"
 description: ""
-external_url: "https://www.crimol.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.crimol.com)
+

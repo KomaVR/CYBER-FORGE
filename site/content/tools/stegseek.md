@@ -7,6 +7,6 @@ Extracts embedded files using a wordlist
 super super quick
 
 "
-external_url: "https://github.com/RickdeJager/stegseek"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/RickdeJager/stegseek)
+

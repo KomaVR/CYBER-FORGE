@@ -1,6 +1,6 @@
 ---
 title: "Elsevier"
 description: ""
-external_url: "https://www.elsevier.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.elsevier.com)
+

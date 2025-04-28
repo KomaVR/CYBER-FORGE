@@ -1,6 +1,6 @@
 ---
 title: "Telega.io"
 description: ""
-external_url: "https://telega.io/catalog"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://telega.io/catalog)
+

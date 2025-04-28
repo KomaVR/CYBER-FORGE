@@ -1,6 +1,6 @@
 ---
 title: "magicansk"
 description: ""
-external_url: "https://github.com/magicansk"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/magicansk)
+

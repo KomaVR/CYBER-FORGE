@@ -1,6 +1,6 @@
 ---
 title: "tellor.io"
 description: ""
-external_url: "https://tellor.io/data-feed"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tellor.io/data-feed)
+

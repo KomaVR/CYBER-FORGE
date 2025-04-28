@@ -3,6 +3,6 @@ title: "EdgeSecurityTeam"
 description: "
 
 "
-external_url: "https://github.com/EdgeSecurityTeam"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/EdgeSecurityTeam)
+

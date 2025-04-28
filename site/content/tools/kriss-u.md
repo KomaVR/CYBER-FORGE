@@ -1,6 +1,6 @@
 ---
 title: "kriss-u"
 description: ""
-external_url: "https://github.com/kriss-u"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/kriss-u)
+

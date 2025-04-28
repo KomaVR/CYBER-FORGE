@@ -1,6 +1,6 @@
 ---
 title: "checkra1n 1337"
 description: ""
-external_url: "https://checkra.in/1337"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://checkra.in/1337)
+

@@ -1,6 +1,6 @@
 ---
 title: "vortexau"
 description: ""
-external_url: "https://github.com/vortexau"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/vortexau)
+

@@ -1,6 +1,6 @@
 ---
 title: "Sentio"
 description: ""
-external_url: "https://chromewebstore.google.com/detail/sentio/kkdofmcnddcnldoingfpiojnnkdcbhnf"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://chromewebstore.google.com/detail/sentio/kkdofmcnddcnldoingfpiojnnkdcbhnf)
+

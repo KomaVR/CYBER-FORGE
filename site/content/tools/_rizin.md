@@ -6,6 +6,6 @@ Community -
 Developers - dev
 
 "
-external_url: "https://web.libera.chat/#rizin"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://web.libera.chat/#rizin)
+

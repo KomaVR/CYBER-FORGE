@@ -1,6 +1,6 @@
 ---
 title: "WordPress InfiniteWP - Client Authentication Bypass (Metasploit)"
 description: ""
-external_url: "https://www.exploit-db.com/exploits/48047"
-category: "Grey Hat Tools"
----
+external_category: "Grey Hat Tools"
+---[Visit Website](https://www.exploit-db.com/exploits/48047)
+

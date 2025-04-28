@@ -1,6 +1,6 @@
 ---
 title: "Debrief"
 description: "(operations insights)"
-external_url: "https://github.com/mitre/debrief"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mitre/debrief)
+

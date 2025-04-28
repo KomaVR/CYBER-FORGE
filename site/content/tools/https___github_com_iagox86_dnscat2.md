@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/iagox86/dnscat2"
 description: "dnscat2:"
-external_url: "https://github.com/iagox86/dnscat2"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/iagox86/dnscat2)
+

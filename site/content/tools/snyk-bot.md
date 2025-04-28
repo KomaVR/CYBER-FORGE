@@ -2,6 +2,6 @@
 title: "snyk-bot"
 description: "snyk-bot
 Snyk bot"
-external_url: "https://github.com/snyk-bot"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/snyk-bot)
+

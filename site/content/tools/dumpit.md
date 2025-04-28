@@ -1,6 +1,6 @@
 ---
 title: "DumpIt"
 description: ""
-external_url: "https://www.comae.com/dumpit/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.comae.com/dumpit/)
+

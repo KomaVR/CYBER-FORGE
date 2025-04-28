@@ -1,6 +1,6 @@
 ---
 title: "💎 Download release"
 description: ""
-external_url: "https://github.com/horsicq/DIE-engine/releases"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/horsicq/DIE-engine/releases)
+

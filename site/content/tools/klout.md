@@ -1,6 +1,6 @@
 ---
 title: "Klout"
 description: ""
-external_url: "http://klout.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://klout.com/)
+

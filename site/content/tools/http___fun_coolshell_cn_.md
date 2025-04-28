@@ -1,6 +1,6 @@
 ---
 title: "http://fun.coolshell.cn/"
 description: ""
-external_url: "http://fun.coolshell.cn/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://fun.coolshell.cn/)
+

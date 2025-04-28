@@ -1,6 +1,6 @@
 ---
 title: "Family Search"
 description: ""
-external_url: "https://familysearch.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://familysearch.org/)
+

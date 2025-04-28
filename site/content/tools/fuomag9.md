@@ -1,6 +1,6 @@
 ---
 title: "fuomag9"
 description: ""
-external_url: "https://github.com/fuomag9"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/fuomag9)
+

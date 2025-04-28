@@ -1,6 +1,6 @@
 ---
 title: "Reddit Metrics"
 description: ""
-external_url: "http://redditmetrics.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://redditmetrics.com/)
+

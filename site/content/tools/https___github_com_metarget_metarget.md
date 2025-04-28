@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/Metarget/metarget"
 description: "Metarget:"
-external_url: "https://github.com/Metarget/metarget"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Metarget/metarget)
+

@@ -1,6 +1,6 @@
 ---
 title: "http://requestbin.net/dns"
 description: ""
-external_url: "http://requestbin.net/dns"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://requestbin.net/dns)
+

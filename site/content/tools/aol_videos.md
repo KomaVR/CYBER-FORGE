@@ -1,6 +1,6 @@
 ---
 title: "Aol Videos"
 description: ""
-external_url: "http://on.aol.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://on.aol.com/)
+

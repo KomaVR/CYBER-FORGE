@@ -1,6 +1,6 @@
 ---
 title: "clausing"
 description: ""
-external_url: "https://github.com/clausing"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/clausing)
+

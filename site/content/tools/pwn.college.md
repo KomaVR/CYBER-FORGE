@@ -7,7 +7,6 @@ Guided course material: https:///
 Tons of practice problems: https://dojo./
 
 "
-external_url: "https://www.youtube.com/channel/UCkRe0pvrQvhkhFSciV0l2MQ"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.youtube.com/channel/UCkRe0pvrQvhkhFSciV0l2MQ)
 

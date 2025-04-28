@@ -1,6 +1,6 @@
 ---
 title: "https://wiki.archlinux.org/index.php/Rng-tools"
 description: ""
-external_url: "https://wiki.archlinux.org/index.php/Rng-tools"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://wiki.archlinux.org/index.php/Rng-tools)
+

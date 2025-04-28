@@ -1,6 +1,6 @@
 ---
 title: "pxbn"
 description: ""
-external_url: "https://github.com/pxbn"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/pxbn)
+

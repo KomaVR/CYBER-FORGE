@@ -1,6 +1,6 @@
 ---
 title: "tele.me"
 description: ""
-external_url: "https://tele.me/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tele.me/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Aetherinox"
 description: ""
-external_url: "https://github.com/Aetherinox"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Aetherinox)
+

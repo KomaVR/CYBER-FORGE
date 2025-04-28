@@ -8,6 +8,6 @@ Querying events
 Visualization
 
 "
-external_url: "https://sn0int.readthedocs.io/en/latest/activity.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://sn0int.readthedocs.io/en/latest/activity.html)
+

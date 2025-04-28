@@ -1,6 +1,6 @@
 ---
 title: "Social Bearing"
 description: ""
-external_url: "http://www.socialbearing.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.socialbearing.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Modest Maps"
 description: ""
-external_url: "http://modestmaps.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://modestmaps.com)
+

@@ -1,6 +1,6 @@
 ---
 title: "Recpe riScope"
 description: ""
-external_url: "http://www.recperiscope.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.recperiscope.com/)
+

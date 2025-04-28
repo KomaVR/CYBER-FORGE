@@ -6,6 +6,6 @@ description: "usbmuxd - USB transport for iDevices
 t8012/demuxusb
 
 "
-external_url: "https://github.com/libimobiledevice/usbmuxd"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/libimobiledevice/usbmuxd)
+

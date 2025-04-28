@@ -1,6 +1,6 @@
 ---
 title: "AnthonyDevlop"
 description: ""
-external_url: "https://github.com/AnthonyDevlop"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/AnthonyDevlop)
+

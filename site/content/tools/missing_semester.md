@@ -1,6 +1,6 @@
 ---
 title: "Missing Semester"
 description: ""
-external_url: "https://missing.csail.mit.edu/2020/course-shell/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://missing.csail.mit.edu/2020/course-shell/)
+

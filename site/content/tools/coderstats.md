@@ -14,6 +14,6 @@ Gitstar Ranking - Top GitHub users and repositories
 
 
 "
-external_url: "https://coderstats.net/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://coderstats.net/)
+

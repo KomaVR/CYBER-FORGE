@@ -3,6 +3,6 @@ title: "TryHackMe | Carnage"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/c2carnage"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/c2carnage)
+

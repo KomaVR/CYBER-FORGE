@@ -1,6 +1,6 @@
 ---
 title: "shadabansari"
 description: ""
-external_url: "https://github.com/shadabansari"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/shadabansari)
+

@@ -1,6 +1,6 @@
 ---
 title: "novitae"
 description: ""
-external_url: "https://github.com/novitae"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/novitae)
+

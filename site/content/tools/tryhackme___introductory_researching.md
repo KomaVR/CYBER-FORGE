@@ -3,6 +3,6 @@ title: "TryHackMe | Introductory Researching"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/introtoresearch"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/introtoresearch)
+

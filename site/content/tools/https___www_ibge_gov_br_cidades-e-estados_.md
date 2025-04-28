@@ -1,6 +1,6 @@
 ---
 title: "https://www.ibge.gov.br/cidades-e-estados/"
 description: ""
-external_url: "https://www.ibge.gov.br/cidades-e-estados/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ibge.gov.br/cidades-e-estados/)
+

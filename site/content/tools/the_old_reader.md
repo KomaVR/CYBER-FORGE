@@ -1,6 +1,6 @@
 ---
 title: "The Old Reader"
 description: ""
-external_url: "http://theoldreader.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://theoldreader.com)
+

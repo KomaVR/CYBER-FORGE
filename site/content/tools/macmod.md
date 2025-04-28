@@ -1,6 +1,6 @@
 ---
 title: "Macmod"
 description: "godap"
-external_url: "https://github.com/Macmod"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Macmod)
+

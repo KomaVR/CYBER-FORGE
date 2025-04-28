@@ -1,6 +1,6 @@
 ---
 title: "Forcing a targeted LTE Cellphone Into an Eavesdropping Network"
 description: ""
-external_url: "https://youtu.be/hNDChDM1hEE"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://youtu.be/hNDChDM1hEE)
+

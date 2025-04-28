@@ -1,6 +1,6 @@
 ---
 title: "wbowling"
 description: ""
-external_url: "https://github.com/wbowling"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/wbowling)
+

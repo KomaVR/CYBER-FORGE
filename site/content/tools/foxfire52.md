@@ -1,6 +1,6 @@
 ---
 title: "foxfire52"
 description: ""
-external_url: "https://github.com/foxfire52"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/foxfire52)
+

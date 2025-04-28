@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://hector.molinero.dev/donate"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://hector.molinero.dev/donate)
+

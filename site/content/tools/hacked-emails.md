@@ -1,6 +1,6 @@
 ---
 title: "hacked-emails"
 description: ""
-external_url: "https://hacked-emails.com/check_email"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://hacked-emails.com/check_email)
+

@@ -1,6 +1,6 @@
 ---
 title: "VINCheck® | National Insurance Crime Bureau"
 description: ""
-external_url: "https://www.nicb.org/vincheck"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.nicb.org/vincheck)
+

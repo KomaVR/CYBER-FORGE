@@ -8,6 +8,6 @@ Binja插件 用于反汇编二进制文件并生成控制流程图
 mcsema
 
 "
-external_url: "https://github.com/lifting-bits/mcsema"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/lifting-bits/mcsema)
+

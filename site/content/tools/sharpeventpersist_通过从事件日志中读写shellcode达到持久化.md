@@ -1,6 +1,6 @@
 ---
 title: "SharpEventPersist：通过从事件日志中读写shellcode达到持久化"
 description: ""
-external_url: "https://github.com/improsec/SharpEventPersist"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/improsec/SharpEventPersist)
+

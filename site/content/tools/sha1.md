@@ -1,6 +1,6 @@
 ---
 title: "sha1"
 description: ""
-external_url: "https://sn0int.readthedocs.io/en/latest/reference.html#sha1"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://sn0int.readthedocs.io/en/latest/reference.html#sha1)
+

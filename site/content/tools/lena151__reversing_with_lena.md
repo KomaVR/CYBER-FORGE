@@ -1,6 +1,6 @@
 ---
 title: "Lena151: Reversing With Lena"
 description: ""
-external_url: "https://archive.org/details/lena151"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://archive.org/details/lena151)
+

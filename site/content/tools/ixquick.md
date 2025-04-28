@@ -1,6 +1,6 @@
 ---
 title: "ixquick"
 description: ""
-external_url: "https://www.ixquick.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ixquick.com/)
+

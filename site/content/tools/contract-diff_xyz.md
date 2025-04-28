@@ -1,6 +1,6 @@
 ---
 title: "contract-diff.xyz"
 description: ""
-external_url: "https://www.contract-diff.xyz/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.contract-diff.xyz/)
+

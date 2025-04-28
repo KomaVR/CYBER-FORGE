@@ -1,6 +1,6 @@
 ---
 title: "Phalcon New Link"
 description: ""
-external_url: "https://phalcon.xyz/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://phalcon.xyz/)
+

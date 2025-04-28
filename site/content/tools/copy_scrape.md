@@ -1,6 +1,6 @@
 ---
 title: "Copy Scrape"
 description: ""
-external_url: "http://www.copyscape.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.copyscape.com/)
+

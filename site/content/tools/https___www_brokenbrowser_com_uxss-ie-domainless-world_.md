@@ -1,6 +1,6 @@
 ---
 title: "https://www.brokenbrowser.com/uxss-ie-domainless-world/"
 description: ""
-external_url: "https://www.brokenbrowser.com/uxss-ie-domainless-world/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://www.brokenbrowser.com/uxss-ie-domainless-world/)
+

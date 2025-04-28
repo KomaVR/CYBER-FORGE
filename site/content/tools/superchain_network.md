@@ -1,6 +1,6 @@
 ---
 title: "superchain.network"
 description: ""
-external_url: "https://superchain.network"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://superchain.network)
+

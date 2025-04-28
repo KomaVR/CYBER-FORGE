@@ -1,6 +1,6 @@
 ---
 title: "pwntester"
 description: ""
-external_url: "https://github.com/pwntester"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/pwntester)
+

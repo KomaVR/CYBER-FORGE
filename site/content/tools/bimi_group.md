@@ -1,6 +1,6 @@
 ---
 title: "BIMI Group"
 description: ""
-external_url: "https://bimigroup.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://bimigroup.org/)
+

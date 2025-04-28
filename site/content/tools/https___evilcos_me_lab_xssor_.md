@@ -1,6 +1,6 @@
 ---
 title: "https://evilcos.me/lab/xssor/"
 description: "XSS/CSRF:"
-external_url: "https://evilcos.me/lab/xssor/"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://evilcos.me/lab/xssor/)
+

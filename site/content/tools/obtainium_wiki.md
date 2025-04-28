@@ -1,6 +1,6 @@
 ---
 title: "Obtainium Wiki"
 description: "(repository)"
-external_url: "https://wiki.obtainium.imranr.dev/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://wiki.obtainium.imranr.dev/)
+

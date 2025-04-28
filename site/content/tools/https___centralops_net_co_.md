@@ -1,6 +1,6 @@
 ---
 title: "https://centralops.net/co/"
 description: ""
-external_url: "https://centralops.net/co/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://centralops.net/co/)
+

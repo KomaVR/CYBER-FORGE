@@ -1,6 +1,6 @@
 ---
 title: "Cookieless cookies"
 description: ""
-external_url: "http://lucb1e.com/rp/cookielesscookies/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://lucb1e.com/rp/cookielesscookies/)
+

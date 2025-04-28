@@ -1,6 +1,6 @@
 ---
 title: "PMD – An extensible multilanguage static code analyzer"
 description: ""
-external_url: "https://github.com/pmd/pmd"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/pmd/pmd)
+

@@ -1,6 +1,6 @@
 ---
 title: "The toolbox of open source scanners"
 description: ""
-external_url: "https://github.com/We5ter/Scanners-Box"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://github.com/We5ter/Scanners-Box)
+

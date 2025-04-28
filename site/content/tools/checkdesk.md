@@ -1,6 +1,6 @@
 ---
 title: "Checkdesk"
 description: ""
-external_url: "https://meedan.com/en/checkdesk"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://meedan.com/en/checkdesk)
+

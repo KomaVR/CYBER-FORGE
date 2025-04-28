@@ -1,6 +1,6 @@
 ---
 title: "sokaRepo"
 description: ""
-external_url: "https://github.com/sokaRepo"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/sokaRepo)
+

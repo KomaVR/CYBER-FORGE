@@ -1,6 +1,6 @@
 ---
 title: "spekulatius"
 description: ""
-external_url: "https://github.com/spekulatius"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/spekulatius)
+

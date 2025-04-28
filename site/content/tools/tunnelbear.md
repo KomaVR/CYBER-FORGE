@@ -1,6 +1,6 @@
 ---
 title: "TunnelBear"
 description: ""
-external_url: "https://www.tunnelbear.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.tunnelbear.com/)
+

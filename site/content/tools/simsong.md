@@ -1,6 +1,6 @@
 ---
 title: "simsong"
 description: ""
-external_url: "https://github.com/simsong"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/simsong)
+

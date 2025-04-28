@@ -1,6 +1,6 @@
 ---
 title: "DBPedia"
 description: ""
-external_url: "http://wiki.dbpedia.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://wiki.dbpedia.org)
+

@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Translator"
 description: ""
-external_url: "http://www.microsoft.com/en-us/translator"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.microsoft.com/en-us/translator)
+

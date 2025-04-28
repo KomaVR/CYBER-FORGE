@@ -1,6 +1,6 @@
 ---
 title: "jasondavies"
 description: ""
-external_url: "https://github.com/jasondavies"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jasondavies)
+

@@ -1,6 +1,6 @@
 ---
 title: "www.chainabuse.com"
 description: ""
-external_url: "https://www.chainabuse.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.chainabuse.com)
+

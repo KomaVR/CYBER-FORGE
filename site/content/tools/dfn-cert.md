@@ -1,6 +1,6 @@
 ---
 title: "DFN-CERT"
 description: ""
-external_url: "https://www.dfn-cert.de/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.dfn-cert.de/)
+

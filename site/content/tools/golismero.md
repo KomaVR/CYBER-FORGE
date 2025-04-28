@@ -1,6 +1,6 @@
 ---
 title: "golismero"
 description: "GoLismero - The Web Knife."
-external_url: "https://github.com/golismero/golismero"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/golismero/golismero)
+

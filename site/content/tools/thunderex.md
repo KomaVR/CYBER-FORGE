@@ -1,6 +1,6 @@
 ---
 title: "ThunderEX"
 description: ""
-external_url: "https://github.com/ThunderEX"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ThunderEX)
+

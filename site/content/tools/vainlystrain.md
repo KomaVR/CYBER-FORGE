@@ -1,6 +1,6 @@
 ---
 title: "VainlyStrain"
 description: ""
-external_url: "https://github.com/VainlyStrain"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/VainlyStrain)
+

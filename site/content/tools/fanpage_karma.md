@@ -1,6 +1,6 @@
 ---
 title: "Fanpage Karma"
 description: ""
-external_url: "http://www.fanpagekarma.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.fanpagekarma.com)
+

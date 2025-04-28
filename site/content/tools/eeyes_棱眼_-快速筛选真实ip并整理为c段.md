@@ -1,6 +1,6 @@
 ---
 title: "Eeyes(棱眼)-快速筛选真实IP并整理为C段"
 description: ""
-external_url: "https://github.com/EdgeSecurityTeam/Eeyes"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/EdgeSecurityTeam/Eeyes)
+

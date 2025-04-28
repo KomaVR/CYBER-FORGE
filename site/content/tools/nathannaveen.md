@@ -1,6 +1,6 @@
 ---
 title: "nathannaveen"
 description: ""
-external_url: "https://github.com/nathannaveen"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/nathannaveen)
+

@@ -8,6 +8,6 @@ emaint sync -r monero
 echo '*/*::monero ~amd64' >> /etc/portage/package.accept_keywords
 emerge net-p2p/monero
 "
-external_url: "https://github.com/gentoo-monero/gentoo-monero"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/gentoo-monero/gentoo-monero)
+

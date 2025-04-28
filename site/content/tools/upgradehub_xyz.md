@@ -1,6 +1,6 @@
 ---
 title: "upgradehub.xyz"
 description: ""
-external_url: "https://upgradehub.xyz/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://upgradehub.xyz/)
+

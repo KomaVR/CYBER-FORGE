@@ -1,6 +1,6 @@
 ---
 title: "Couchbase"
 description: "Database:"
-external_url: "https://www.couchbase.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.couchbase.com/)
+

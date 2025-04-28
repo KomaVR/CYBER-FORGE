@@ -6,6 +6,6 @@ Server Side Request Forgery (SSRF)
 
 
 "
-external_url: "https://github.com/Voorivex/pentest-guide/tree/master/Server-Side-Request-Forgery"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Voorivex/pentest-guide/tree/master/Server-Side-Request-Forgery)
+

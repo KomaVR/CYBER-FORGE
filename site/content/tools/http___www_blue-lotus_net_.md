@@ -1,6 +1,6 @@
 ---
 title: "http://www.blue-lotus.net/"
 description: ""
-external_url: "http://www.blue-lotus.net/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.blue-lotus.net/)
+

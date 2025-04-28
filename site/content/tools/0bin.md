@@ -1,6 +1,6 @@
 ---
 title: "0bin"
 description: ""
-external_url: "https://0bin.net"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://0bin.net)
+

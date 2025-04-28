@@ -1,6 +1,6 @@
 ---
 title: "Guardian Project"
 description: ""
-external_url: "https://guardianproject.info"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://guardianproject.info)
+

@@ -3,6 +3,6 @@ title: "TryHackMe | Linux PrivEsc"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/linuxprivesc"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/linuxprivesc)
+

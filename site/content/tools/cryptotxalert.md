@@ -1,6 +1,6 @@
 ---
 title: "cryptotxalert"
 description: ""
-external_url: "https://www.cryptotxalert.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.cryptotxalert.com)
+

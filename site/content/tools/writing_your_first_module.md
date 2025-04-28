@@ -8,6 +8,6 @@ Publish your repo
 Reading data from stdin
 
 "
-external_url: "https://sn0int.readthedocs.io/en/latest/scripting.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://sn0int.readthedocs.io/en/latest/scripting.html)
+

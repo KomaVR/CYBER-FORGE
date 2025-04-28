@@ -1,6 +1,6 @@
 ---
 title: "mactime2"
 description: ""
-external_url: "https://github.com/dfir-dd/dfir-toolkit/blob/main/doc/mactime2.md"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/dfir-dd/dfir-toolkit/blob/main/doc/mactime2.md)
+

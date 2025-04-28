@@ -1,6 +1,6 @@
 ---
 title: "Kazgangap"
 description: ""
-external_url: "https://github.com/Kazgangap"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Kazgangap)
+

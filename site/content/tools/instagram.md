@@ -1,6 +1,6 @@
 ---
 title: "Instagram"
 description: "sam.sesh"
-external_url: "https://www.instagram.com/samses"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.instagram.com/samses)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://rules.emergingthreats.net/blockrules/compromised-ips.txt"
 description: ""
-external_url: "https://rules.emergingthreats.net/blockrules/compromised-ips.txt"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://rules.emergingthreats.net/blockrules/compromised-ips.txt)
+

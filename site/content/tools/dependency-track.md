@@ -1,6 +1,6 @@
 ---
 title: "Dependency-Track"
 description: ""
-external_url: "https://github.com/DependencyTrack/dependency-track"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/DependencyTrack/dependency-track)
+

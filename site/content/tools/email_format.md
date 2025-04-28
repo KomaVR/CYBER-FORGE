@@ -1,6 +1,6 @@
 ---
 title: "Email Format"
 description: ""
-external_url: "https://github.com/stuxnet999/MemLabs#email-format"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/stuxnet999/MemLabs#email-format)
+

@@ -1,6 +1,6 @@
 ---
 title: "GlassDoor Australia"
 description: "You can find a wide variety of roles."
-external_url: "https://www.glassdoor.com.au/index.htm"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.glassdoor.com.au/index.htm)
+

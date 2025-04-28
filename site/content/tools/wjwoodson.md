@@ -1,6 +1,6 @@
 ---
 title: "wjwoodson"
 description: ""
-external_url: "https://github.com/wjwoodson"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/wjwoodson)
+

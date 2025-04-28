@@ -1,6 +1,6 @@
 ---
 title: "shellnoob"
 description: "A shellcode writing toolkit."
-external_url: "https://github.com/reyammer/shellnoob"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/reyammer/shellnoob)
+

@@ -1,6 +1,6 @@
 ---
 title: "FlightAware"
 description: ""
-external_url: "https://zh.flightaware.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://zh.flightaware.com/)
+

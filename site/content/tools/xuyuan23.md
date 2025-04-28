@@ -1,6 +1,6 @@
 ---
 title: "xuyuan23"
 description: ""
-external_url: "https://github.com/xuyuan23"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/xuyuan23)
+

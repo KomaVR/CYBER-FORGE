@@ -3,6 +3,6 @@ title: "TryHackMe | Ice"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/ice"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/ice)
+

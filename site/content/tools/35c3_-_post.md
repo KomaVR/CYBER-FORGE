@@ -12,6 +12,6 @@ N1CTF 2021 - Funny_web
 Tool: https://github.com/hack2fun/gopher_attack_mssql
 
 "
-external_url: "https://ctftime.org/writeup/12808"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://ctftime.org/writeup/12808)
+

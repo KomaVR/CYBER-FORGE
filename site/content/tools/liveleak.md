@@ -1,6 +1,6 @@
 ---
 title: "LiveLeak"
 description: ""
-external_url: "http://www.liveleak.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.liveleak.com/)
+

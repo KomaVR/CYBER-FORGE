@@ -1,6 +1,6 @@
 ---
 title: "https://dados.mj.gov.br/dataset"
 description: ""
-external_url: "https://dados.mj.gov.br/dataset"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://dados.mj.gov.br/dataset)
+

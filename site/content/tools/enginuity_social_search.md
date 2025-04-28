@@ -1,6 +1,6 @@
 ---
 title: "Enginuity Social Search"
 description: ""
-external_url: "https://www.theenginuity.com/search/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.theenginuity.com/search/)
+

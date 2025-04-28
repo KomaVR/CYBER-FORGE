@@ -1,6 +1,6 @@
 ---
 title: "Simplify"
 description: "Generic Android Deobfuscator."
-external_url: "https://github.com/CalebFenton/simplify"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/CalebFenton/simplify)
+

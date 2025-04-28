@@ -1,6 +1,6 @@
 ---
 title: "Inmate Search"
 description: ""
-external_url: "https://www.bop.gov/inmateloc/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.bop.gov/inmateloc/)
+

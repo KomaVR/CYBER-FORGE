@@ -2,6 +2,6 @@
 title: "maps.google.com"
 description: "Google Maps,
  "
-external_url: "http://maps.google.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://maps.google.com)
+

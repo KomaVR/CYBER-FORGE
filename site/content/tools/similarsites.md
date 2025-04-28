@@ -1,6 +1,6 @@
 ---
 title: "SimilarSites"
 description: "Discover websites that are similar to each other"
-external_url: "http://www.similarsites.com"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://www.similarsites.com)
+

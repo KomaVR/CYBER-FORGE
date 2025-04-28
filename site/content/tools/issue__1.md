@@ -87,6 +87,6 @@ port that sshd should listen on
 
 Check man sshd_config for more details what these settings mean.
 "
-external_url: "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server/issues/1"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server/issues/1)
+

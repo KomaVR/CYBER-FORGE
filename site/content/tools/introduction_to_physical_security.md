@@ -1,6 +1,6 @@
 ---
 title: "Introduction to physical security"
 description: ""
-external_url: "https://www.cdse.edu/documents/student-guides/PY011-guide.pdf"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.cdse.edu/documents/student-guides/PY011-guide.pdf)
+

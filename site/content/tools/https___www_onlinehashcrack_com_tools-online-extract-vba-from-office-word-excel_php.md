@@ -6,6 +6,6 @@ Extract MS Macros:
 
 
 "
-external_url: "https://www.onlinehashcrack.com/tools-online-extract-vba-from-office-word-excel.php"
-category: "Password Cracking"
----
+external_category: "Password Cracking"
+---[Visit Website](https://www.onlinehashcrack.com/tools-online-extract-vba-from-office-word-excel.php)
+

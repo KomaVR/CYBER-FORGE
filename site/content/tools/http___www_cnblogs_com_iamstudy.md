@@ -1,6 +1,6 @@
 ---
 title: "http://www.cnblogs.com/iamstudy"
 description: ""
-external_url: "http://www.cnblogs.com/iamstudy"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.cnblogs.com/iamstudy)
+

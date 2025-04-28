@@ -7,6 +7,6 @@ Olympic CTF 2014 - CURLing
 PBCTF 2023 - Makima
 
 "
-external_url: "https://balsn.tw/ctf_writeup/20190406-midnightsunctf/#bigspin"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://balsn.tw/ctf_writeup/20190406-midnightsunctf/#bigspin)
+

@@ -3,6 +3,6 @@ title: "https://github.com/xer0days/BugBounty"
 description: "
 
 "
-external_url: "https://github.com/xer0days/BugBounty"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/xer0days/BugBounty)
+

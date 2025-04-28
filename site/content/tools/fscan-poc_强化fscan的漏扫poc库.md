@@ -1,6 +1,6 @@
 ---
 title: "fscan-POC：强化fscan的漏扫POC库"
 description: ""
-external_url: "https://github.com/chaosec2021/fscan-POC"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/chaosec2021/fscan-POC)
+

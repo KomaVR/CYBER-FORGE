@@ -1,6 +1,6 @@
 ---
 title: "ArchiMoebius"
 description: ""
-external_url: "https://github.com/ArchiMoebius"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ArchiMoebius)
+

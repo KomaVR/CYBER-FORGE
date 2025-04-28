@@ -1,6 +1,6 @@
 ---
 title: "spiffcs"
 description: ""
-external_url: "https://github.com/spiffcs"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/spiffcs)
+

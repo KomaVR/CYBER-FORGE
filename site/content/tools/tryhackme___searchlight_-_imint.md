@@ -3,6 +3,6 @@ title: "TryHackMe | Searchlight - IMINT"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/searchlightosint"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/searchlightosint)
+

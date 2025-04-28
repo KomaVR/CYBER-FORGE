@@ -1,6 +1,6 @@
 ---
 title: "jsoncrack.com"
 description: ""
-external_url: "https://jsoncrack.com"
-category: "Password Cracking"
----
+external_category: "Password Cracking"
+---[Visit Website](https://jsoncrack.com)
+

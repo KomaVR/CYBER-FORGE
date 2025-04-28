@@ -1,6 +1,6 @@
 ---
 title: "Learning SQL"
 description: ""
-external_url: "https://www.youtube.com/watch?v=h0nxCDiD-zg"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://www.youtube.com/watch?v=h0nxCDiD-zg)
+

@@ -1,6 +1,6 @@
 ---
 title: "Android App Reverse Engineering 101"
 description: ""
-external_url: "https://maddiestone.github.io/AndroidAppRE/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://maddiestone.github.io/AndroidAppRE/)
+

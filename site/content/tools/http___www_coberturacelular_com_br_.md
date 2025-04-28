@@ -1,6 +1,6 @@
 ---
 title: "http://www.coberturacelular.com.br/"
 description: ""
-external_url: "http://www.coberturacelular.com.br/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.coberturacelular.com.br/)
+

@@ -5,6 +5,6 @@ description: "
 GitHub Hosted Samples
 
 "
-external_url: "https://inquest.net/blog/shortcut-to-malice-url-files/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://inquest.net/blog/shortcut-to-malice-url-files/)
+

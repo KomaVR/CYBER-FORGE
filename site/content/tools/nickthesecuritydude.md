@@ -1,6 +1,6 @@
 ---
 title: "NickTheSecurityDude"
 description: ""
-external_url: "https://github.com/NickTheSecurityDude"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/NickTheSecurityDude)
+

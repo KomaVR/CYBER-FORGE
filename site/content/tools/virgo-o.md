@@ -1,6 +1,6 @@
 ---
 title: "virgo-o"
 description: ""
-external_url: "https://github.com/virgo-o"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/virgo-o)
+

@@ -1,6 +1,6 @@
 ---
 title: "ETH Toolbox"
 description: ""
-external_url: "https://eth-toolbox.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://eth-toolbox.com/)
+

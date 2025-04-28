@@ -1,6 +1,6 @@
 ---
 title: "maxxk"
 description: ""
-external_url: "https://github.com/maxxk"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/maxxk)
+

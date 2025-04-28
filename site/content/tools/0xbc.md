@@ -1,6 +1,6 @@
 ---
 title: "0xbc"
 description: ""
-external_url: "https://github.com/0xbc"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/0xbc)
+

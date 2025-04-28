@@ -1,6 +1,6 @@
 ---
 title: "Swiss Cows"
 description: ""
-external_url: "https://swisscows.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://swisscows.com/)
+

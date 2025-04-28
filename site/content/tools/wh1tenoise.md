@@ -1,6 +1,6 @@
 ---
 title: "wh1tenoise"
 description: ""
-external_url: "https://github.com/wh1tenoise"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/wh1tenoise)
+

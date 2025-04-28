@@ -1,6 +1,6 @@
 ---
 title: "bethlogic"
 description: ""
-external_url: "https://github.com/bethlogic"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/bethlogic)
+

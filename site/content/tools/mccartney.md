@@ -1,6 +1,6 @@
 ---
 title: "mccartney"
 description: ""
-external_url: "https://github.com/mccartney"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mccartney)
+

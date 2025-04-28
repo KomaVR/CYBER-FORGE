@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/0140454/hackbar"
 description: "Hack Bar:"
-external_url: "https://github.com/0140454/hackbar"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/0140454/hackbar)
+

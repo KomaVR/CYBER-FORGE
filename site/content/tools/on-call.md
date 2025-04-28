@@ -1,6 +1,6 @@
 ---
 title: "On-Call"
 description: ""
-external_url: "https://github.com/linkedin/oncall"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/linkedin/oncall)
+

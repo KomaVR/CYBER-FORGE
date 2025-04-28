@@ -1,6 +1,6 @@
 ---
 title: "@dialluvioso_"
 description: "Manuel Blanco Parajón ()"
-external_url: "https://twitter.com/dialluvioso_"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://twitter.com/dialluvioso_)
+

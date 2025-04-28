@@ -2,6 +2,6 @@
 title: "lilhoser"
 description: "lilhoser
 Aaron LeMasters"
-external_url: "https://github.com/lilhoser"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/lilhoser)
+

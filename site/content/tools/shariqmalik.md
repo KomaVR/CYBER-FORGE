@@ -1,6 +1,6 @@
 ---
 title: "shariqmalik"
 description: ""
-external_url: "https://github.com/shariqmalik"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/shariqmalik)
+

@@ -1,6 +1,6 @@
 ---
 title: "Perfare"
 description: ""
-external_url: "https://github.com/Perfare"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Perfare)
+

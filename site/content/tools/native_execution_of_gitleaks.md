@@ -10,6 +10,6 @@ repos:
 
 for a  or use the gitleaks-docker pre-commit ID for executing GitLeaks using the official Docker images
 "
-external_url: "https://github.com/gitleaks/gitleaks/releases"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/gitleaks/gitleaks/releases)
+

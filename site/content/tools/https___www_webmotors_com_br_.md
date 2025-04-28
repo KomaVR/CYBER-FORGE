@@ -1,6 +1,6 @@
 ---
 title: "https://www.webmotors.com.br/"
 description: ""
-external_url: "https://www.webmotors.com.br/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://www.webmotors.com.br/)
+

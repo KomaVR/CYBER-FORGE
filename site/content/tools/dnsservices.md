@@ -1,6 +1,6 @@
 ---
 title: "DNSservices"
 description: "Discover embedded services in a domain's DNS records within seconds"
-external_url: "https://github.com/0x4f53/dnsservices"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/0x4f53/dnsservices)
+

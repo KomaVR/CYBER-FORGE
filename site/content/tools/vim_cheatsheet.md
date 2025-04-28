@@ -1,6 +1,6 @@
 ---
 title: "VIM Cheatsheet"
 description: ""
-external_url: "https://i.imgur.com/YLInLlY.png"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://i.imgur.com/YLInLlY.png)
+

@@ -1,6 +1,6 @@
 ---
 title: "Quantcast"
 description: ""
-external_url: "https://www.quantcast.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.quantcast.com)
+

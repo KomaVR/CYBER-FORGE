@@ -1,6 +1,6 @@
 ---
 title: "AnyWho"
 description: "Finding People, Places, and Businesses"
-external_url: "https://www.anywho.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.anywho.com/)
+

@@ -3,6 +3,6 @@ title: "TryHackMe | Bypass Disable Functions"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/bypassdisablefunctions"
-category: "Grey Hat Tools"
----
+external_category: "Grey Hat Tools"
+---[Visit Website](https://tryhackme.com/room/bypassdisablefunctions)
+

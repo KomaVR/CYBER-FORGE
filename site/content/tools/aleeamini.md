@@ -1,6 +1,6 @@
 ---
 title: "aleeamini"
 description: ""
-external_url: "https://github.com/aleeamini"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/aleeamini)
+

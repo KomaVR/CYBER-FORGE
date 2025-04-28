@@ -1,6 +1,6 @@
 ---
 title: "https://adsecurity.org/"
 description: ""
-external_url: "https://adsecurity.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://adsecurity.org/)
+

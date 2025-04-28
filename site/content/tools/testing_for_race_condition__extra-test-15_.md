@@ -6,6 +6,6 @@ Race Condition
 
 
 "
-external_url: "https://github.com/Voorivex/pentest-guide/tree/master/Race-Condition"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Voorivex/pentest-guide/tree/master/Race-Condition)
+

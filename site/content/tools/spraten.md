@@ -1,6 +1,6 @@
 ---
 title: "Spraten"
 description: ""
-external_url: "https://github.com/Spraten"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Spraten)
+

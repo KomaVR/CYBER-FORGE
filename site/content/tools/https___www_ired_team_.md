@@ -1,6 +1,6 @@
 ---
 title: "https://www.ired.team/"
 description: ""
-external_url: "https://www.ired.team/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ired.team/)
+

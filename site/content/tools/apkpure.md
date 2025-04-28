@@ -13,6 +13,6 @@ Jenkins Jobs
 APKMirror (Track-Only)
 
 "
-external_url: "https://apkpure.net/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://apkpure.net/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Trendsmap"
 description: ""
-external_url: "https://www.trendsmap.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.trendsmap.com/)
+

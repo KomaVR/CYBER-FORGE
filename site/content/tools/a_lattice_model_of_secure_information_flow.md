@@ -1,6 +1,6 @@
 ---
 title: "A lattice model of secure information flow"
 description: ""
-external_url: "http://faculty.nps.edu/dedennin/publications/lattice76.pdf"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://faculty.nps.edu/dedennin/publications/lattice76.pdf)
+

@@ -1,6 +1,6 @@
 ---
 title: "RSSOwl"
 description: ""
-external_url: "http://www.rssowl.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.rssowl.org)
+

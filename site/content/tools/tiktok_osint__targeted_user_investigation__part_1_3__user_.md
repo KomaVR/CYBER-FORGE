@@ -17,6 +17,6 @@ sc1341/TikTok-OSINT
 
 
 "
-external_url: "https://medium.com/@BTF117/tiktok-osint-targeted-user-investigation-9e206f8bb794"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://medium.com/@BTF117/tiktok-osint-targeted-user-investigation-9e206f8bb794)
+

@@ -1,6 +1,6 @@
 ---
 title: "NewsLookup"
 description: ""
-external_url: "http://www.newslookup.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.newslookup.com)
+

@@ -3,6 +3,6 @@ title: "TryHackMe | Blog"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/blog"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/blog)
+

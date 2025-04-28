@@ -1,6 +1,6 @@
 ---
 title: "SIEM integration"
 description: ""
-external_url: "https://github.com/evilsocket/opensnitch/wiki/SIEM-integration"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/evilsocket/opensnitch/wiki/SIEM-integration)
+

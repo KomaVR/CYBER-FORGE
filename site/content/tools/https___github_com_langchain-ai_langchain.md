@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/langchain-ai/langchain"
 description: ""
-external_url: "https://github.com/langchain-ai/langchain"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/langchain-ai/langchain)
+

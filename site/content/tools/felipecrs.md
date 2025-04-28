@@ -1,6 +1,6 @@
 ---
 title: "felipecrs"
 description: ""
-external_url: "https://github.com/felipecrs"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/felipecrs)
+

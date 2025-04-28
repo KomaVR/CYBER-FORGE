@@ -3,6 +3,6 @@ title: "TryHackMe | JVM Reverse Engineering"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/jvmreverseengineering"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/jvmreverseengineering)
+

@@ -1,6 +1,6 @@
 ---
 title: "philss"
 description: ""
-external_url: "https://github.com/philss"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/philss)
+

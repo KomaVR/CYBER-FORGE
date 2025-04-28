@@ -1,6 +1,6 @@
 ---
 title: "SearXNG"
 description: ""
-external_url: "https://searx.be/?q="
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://searx.be/?q=)
+

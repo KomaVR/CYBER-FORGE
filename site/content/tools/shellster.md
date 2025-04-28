@@ -1,6 +1,6 @@
 ---
 title: "shellster"
 description: "LDAPPER"
-external_url: "https://github.com/shellster"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/shellster)
+

@@ -2,6 +2,6 @@
 title: "ekristen"
 description: "ekristen
 Erik Kristensen"
-external_url: "https://github.com/ekristen"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ekristen)
+

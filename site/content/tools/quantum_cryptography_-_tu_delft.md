@@ -1,6 +1,6 @@
 ---
 title: "Quantum Cryptography - TU Delft"
 description: ""
-external_url: "https://ocw.tudelft.nl/courses/quantum-cryptography/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://ocw.tudelft.nl/courses/quantum-cryptography/)
+

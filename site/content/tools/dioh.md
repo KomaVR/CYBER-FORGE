@@ -1,6 +1,6 @@
 ---
 title: "dioh"
 description: ""
-external_url: "https://github.com/dioh"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/dioh)
+

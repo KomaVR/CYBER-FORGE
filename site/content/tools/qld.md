@@ -1,6 +1,6 @@
 ---
 title: "QLD"
 description: ""
-external_url: "https://qtenders.epw.qld.gov.au/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://qtenders.epw.qld.gov.au/)
+

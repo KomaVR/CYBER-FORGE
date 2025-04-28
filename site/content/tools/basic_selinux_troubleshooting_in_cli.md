@@ -1,6 +1,6 @@
 ---
 title: "Basic SELinux Troubleshooting in CLI"
 description: ""
-external_url: "https://access.redhat.com/articles/2191331"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://access.redhat.com/articles/2191331)
+

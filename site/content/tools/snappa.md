@@ -1,6 +1,6 @@
 ---
 title: "Snappa"
 description: ""
-external_url: "https://snappa.io"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://snappa.io)
+

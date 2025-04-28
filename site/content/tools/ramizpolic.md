@@ -1,6 +1,6 @@
 ---
 title: "ramizpolic"
 description: ""
-external_url: "https://github.com/ramizpolic"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ramizpolic)
+

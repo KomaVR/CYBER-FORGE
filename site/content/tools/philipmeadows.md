@@ -1,6 +1,6 @@
 ---
 title: "philipmeadows"
 description: ""
-external_url: "https://github.com/philipmeadows"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/philipmeadows)
+

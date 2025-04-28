@@ -1,6 +1,6 @@
 ---
 title: "OdysseyTranslator"
 description: ""
-external_url: "http://odysseytranslator.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://odysseytranslator.com/)
+

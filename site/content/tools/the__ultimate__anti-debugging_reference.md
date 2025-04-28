@@ -1,6 +1,6 @@
 ---
 title: "The "Ultimate" anti-debugging reference"
 description: "📗"
-external_url: "https://pferrie.epizy.com/papers/antidebug.pdf"
-category: "Reverse Engineering"
----
+external_category: "Reverse Engineering"
+---[Visit Website](https://pferrie.epizy.com/papers/antidebug.pdf)
+

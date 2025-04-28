@@ -1,6 +1,6 @@
 ---
 title: "rugpulldetector"
 description: ""
-external_url: "http://rugpulldetector.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://rugpulldetector.com/)
+

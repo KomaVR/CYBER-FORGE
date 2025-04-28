@@ -1,6 +1,6 @@
 ---
 title: "SLSA"
 description: ""
-external_url: "https://github.com/slsa-framework/slsa"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/slsa-framework/slsa)
+

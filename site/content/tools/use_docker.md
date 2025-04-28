@@ -1,6 +1,6 @@
 ---
 title: "Use Docker"
 description: ""
-external_url: "https://docs.opencti.io/latest/deployment/installation/#using-docker"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://docs.opencti.io/latest/deployment/installation/#using-docker)
+

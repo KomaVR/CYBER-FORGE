@@ -1,6 +1,6 @@
 ---
 title: "ValdikSS"
 description: ""
-external_url: "https://github.com/ValdikSS"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ValdikSS)
+

@@ -1,6 +1,6 @@
 ---
 title: "Legacy"
 description: ""
-external_url: "http://www.legacy.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.legacy.com/)
+

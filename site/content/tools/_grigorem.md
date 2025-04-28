@@ -1,6 +1,6 @@
 ---
 title: "@grigorem"
 description: "Romanian translation"
-external_url: "https://github.com/grigorem"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/grigorem)
+

@@ -1,6 +1,6 @@
 ---
 title: "rdxbubble"
 description: ""
-external_url: "https://github.com/rdxbubble"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/rdxbubble)
+

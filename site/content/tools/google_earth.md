@@ -1,6 +1,6 @@
 ---
 title: "Google Earth"
 description: ""
-external_url: "http://www.google.com/earth"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.google.com/earth)
+

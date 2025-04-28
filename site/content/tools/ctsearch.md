@@ -1,6 +1,6 @@
 ---
 title: "CTSearch"
 description: ""
-external_url: "https://ui.ctsearch.entrust.com/ui/ctsearchui"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://ui.ctsearch.entrust.com/ui/ctsearchui)
+

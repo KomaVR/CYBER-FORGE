@@ -1,6 +1,6 @@
 ---
 title: "ForensicsFocus"
 description: ""
-external_url: "https://www.forensicfocus.com/"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://www.forensicfocus.com/)
+

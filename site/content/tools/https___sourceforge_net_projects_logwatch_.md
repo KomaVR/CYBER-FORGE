@@ -1,6 +1,6 @@
 ---
 title: "https://sourceforge.net/projects/logwatch/"
 description: ""
-external_url: "https://sourceforge.net/projects/logwatch/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://sourceforge.net/projects/logwatch/)
+

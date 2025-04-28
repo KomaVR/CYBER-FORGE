@@ -13,6 +13,6 @@ Istio
 Beta support for installing via Helm using our Charts.
 
 "
-external_url: "https://www.authelia.com/integration/kubernetes/nginx-ingress/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.authelia.com/integration/kubernetes/nginx-ingress/)
+

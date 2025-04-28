@@ -1,6 +1,6 @@
 ---
 title: "malta-js-obfuscator"
 description: "Malta:"
-external_url: "https://github.com/fedeghe/malta-js-obfuscator"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/fedeghe/malta-js-obfuscator)
+

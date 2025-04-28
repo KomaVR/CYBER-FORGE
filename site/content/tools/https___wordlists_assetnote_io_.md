@@ -3,6 +3,6 @@ title: "https://wordlists.assetnote.io/"
 description: "
 
 "
-external_url: "https://wordlists.assetnote.io/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://wordlists.assetnote.io/)
+

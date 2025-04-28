@@ -1,6 +1,6 @@
 ---
 title: "LiPolymer"
 description: "LiPolymer"
-external_url: "https://github.com/LiPolymer"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/LiPolymer)
+

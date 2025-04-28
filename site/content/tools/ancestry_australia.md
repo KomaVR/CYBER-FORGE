@@ -1,6 +1,6 @@
 ---
 title: "Ancestry Australia"
 description: ""
-external_url: "https://www.ancestry.com.au/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ancestry.com.au/)
+

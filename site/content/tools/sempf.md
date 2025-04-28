@@ -1,6 +1,6 @@
 ---
 title: "sempf"
 description: ""
-external_url: "https://github.com/sempf"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/sempf)
+

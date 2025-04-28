@@ -1,6 +1,6 @@
 ---
 title: "jrajahalme"
 description: ""
-external_url: "https://github.com/jrajahalme"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jrajahalme)
+

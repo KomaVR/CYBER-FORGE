@@ -110,6 +110,6 @@ By industry
  
 
 "
-external_url: "https://github.com/enterprise"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/enterprise)
+

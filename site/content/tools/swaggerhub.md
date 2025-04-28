@@ -1,6 +1,6 @@
 ---
 title: "SwaggerHub"
 description: "Search public APIs and Domains in"
-external_url: "https://app.swaggerhub.com/search"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://app.swaggerhub.com/search)
+

@@ -1,6 +1,6 @@
 ---
 title: "PROMT-Online"
 description: ""
-external_url: "http://translation2.paralink.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://translation2.paralink.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Privilege escalation: Windows"
 description: ""
-external_url: "https://vulp3cula.gitbook.io/hackers-grimoire/post-exploitation/privesc-windows"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://vulp3cula.gitbook.io/hackers-grimoire/post-exploitation/privesc-windows)
+

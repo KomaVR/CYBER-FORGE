@@ -1,6 +1,6 @@
 ---
 title: "Find Stolen Art"
 description: ""
-external_url: "http://www.findstolenart.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.findstolenart.com)
+

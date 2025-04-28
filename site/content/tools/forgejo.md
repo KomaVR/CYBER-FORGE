@@ -1,6 +1,6 @@
 ---
 title: "Forgejo"
 description: "(Codeberg)"
-external_url: "https://forgejo.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://forgejo.org/)
+

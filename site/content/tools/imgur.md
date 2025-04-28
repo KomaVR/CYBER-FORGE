@@ -1,6 +1,6 @@
 ---
 title: "Imgur"
 description: "The most popular image hosting website used by redditors."
-external_url: "http://imgur.com/search?q="
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://imgur.com/search?q=)
+

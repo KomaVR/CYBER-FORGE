@@ -1,6 +1,6 @@
 ---
 title: "Which Face is Real?"
 description: ""
-external_url: "http://www.whichfaceisreal.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.whichfaceisreal.com/)
+

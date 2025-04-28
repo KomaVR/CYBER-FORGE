@@ -1,6 +1,6 @@
 ---
 title: "sayboras"
 description: ""
-external_url: "https://github.com/sayboras"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/sayboras)
+

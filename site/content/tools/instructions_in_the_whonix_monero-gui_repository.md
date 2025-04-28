@@ -4,6 +4,6 @@ description: "
 Debian Buster
 See the 
 "
-external_url: "https://gitlab.com/whonix/monero-gui#how-to-install-monero-using-apt-get"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://gitlab.com/whonix/monero-gui#how-to-install-monero-using-apt-get)
+

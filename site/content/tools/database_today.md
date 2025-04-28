@@ -1,6 +1,6 @@
 ---
 title: "Database Today"
 description: ""
-external_url: "https://www.databases.today"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.databases.today)
+

@@ -1,6 +1,6 @@
 ---
 title: "sebinbash"
 description: ""
-external_url: "https://github.com/sebinbash"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/sebinbash)
+

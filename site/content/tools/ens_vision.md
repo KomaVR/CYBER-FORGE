@@ -1,6 +1,6 @@
 ---
 title: "ens.vision"
 description: ""
-external_url: "https://ens.vision"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://ens.vision)
+

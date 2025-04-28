@@ -1,6 +1,6 @@
 ---
 title: "DethCode"
 description: ""
-external_url: "https://github.com/dethcrypto/dethcode"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/dethcrypto/dethcode)
+

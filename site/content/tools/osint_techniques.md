@@ -1,6 +1,6 @@
 ---
 title: "OSINT Techniques"
 description: ""
-external_url: "https://www.osinttechniques.com/blog"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://www.osinttechniques.com/blog)
+

@@ -1,6 +1,6 @@
 ---
 title: "Katbin"
 description: ""
-external_url: "https://katb.in"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://katb.in)
+

@@ -1,6 +1,6 @@
 ---
 title: "randomaccess3"
 description: ""
-external_url: "https://github.com/randomaccess3"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/randomaccess3)
+

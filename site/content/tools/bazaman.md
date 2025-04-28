@@ -1,6 +1,6 @@
 ---
 title: "Bazaman"
 description: "(RU)"
-external_url: "https://bazaman.ru/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://bazaman.ru/)
+

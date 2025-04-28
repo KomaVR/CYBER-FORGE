@@ -1,6 +1,6 @@
 ---
 title: "Tutorial miasm"
 description: "(French video)"
-external_url: "https://www.sstic.org/2014/presentation/Tutorial_miasm/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.sstic.org/2014/presentation/Tutorial_miasm/)
+

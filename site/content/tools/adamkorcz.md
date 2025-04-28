@@ -1,6 +1,6 @@
 ---
 title: "AdamKorcz"
 description: ""
-external_url: "https://github.com/AdamKorcz"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/AdamKorcz)
+

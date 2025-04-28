@@ -1,6 +1,6 @@
 ---
 title: "stablecoins.wtf"
 description: ""
-external_url: "https://stablecoins.wtf"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://stablecoins.wtf)
+

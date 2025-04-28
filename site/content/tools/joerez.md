@@ -1,6 +1,6 @@
 ---
 title: "joerez"
 description: ""
-external_url: "https://github.com/joerez"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/joerez)
+

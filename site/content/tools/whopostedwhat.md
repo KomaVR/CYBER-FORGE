@@ -1,6 +1,6 @@
 ---
 title: "whopostedwhat"
 description: ""
-external_url: "https://whopostedwhat.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://whopostedwhat.com/)
+

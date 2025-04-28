@@ -48,6 +48,6 @@ The URLs at which TheHive, Cortex and MISP instances are reachable should also b
     <li class=\"nav-item\"><a class=\"nav-link\" href=\"https://misp\" style=\"max-width: 114px;\" target=\"_blank\" rel=\"noopener noreferrer\"><img class=\"img-fluid\" data-bss-hover-animate=\"bounce\" src=\"../static/assets/img/misp.png\" style=\"transform: translate(0px);\"></a></li>
 </ul>
 "
-external_url: "https://github.com/emalderson/ThePhish/tree/master/docker#configure-the-thehive-container"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/emalderson/ThePhish/tree/master/docker#configure-the-thehive-container)
+

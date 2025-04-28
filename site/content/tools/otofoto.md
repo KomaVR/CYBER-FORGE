@@ -1,6 +1,6 @@
 ---
 title: "otofoto"
 description: ""
-external_url: "https://github.com/otofoto"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/otofoto)
+

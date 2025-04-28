@@ -1,6 +1,6 @@
 ---
 title: "Blockchain OSINT In-Depth"
 description: ""
-external_url: "https://www.forensicxs.com/blockchain-osint-decentraland/"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://www.forensicxs.com/blockchain-osint-decentraland/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Biznar"
 description: ""
-external_url: "http://biznar.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://biznar.com)
+

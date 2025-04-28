@@ -1,6 +1,6 @@
 ---
 title: "Epagneul"
 description: "Graph visualization for Windows event logs."
-external_url: "https://github.com/jurelou/epagneul"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jurelou/epagneul)
+

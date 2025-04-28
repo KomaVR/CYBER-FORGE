@@ -1,6 +1,6 @@
 ---
 title: "ip代理工具shadowProxy-代理池"
 description: ""
-external_url: "https://mp.weixin.qq.com/s/ENjRuI5FZArtzV5H4LbJng"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://mp.weixin.qq.com/s/ENjRuI5FZArtzV5H4LbJng)
+

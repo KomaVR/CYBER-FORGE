@@ -3,6 +3,6 @@ title: "Artful Persuasion – How to command attention, Change minds and influen
 description: "
 
 "
-external_url: "https://www.amazon.com/Artful-Persuasion-Command-Attention-Influence/dp/0814470637"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.amazon.com/Artful-Persuasion-Command-Attention-Influence/dp/0814470637)
+

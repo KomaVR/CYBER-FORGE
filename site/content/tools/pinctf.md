@@ -1,6 +1,6 @@
 ---
 title: "PinCTF"
 description: "A tool which uses intel pin for Side Channel Analysis."
-external_url: "https://github.com/ChrisTheCoolHut/PinCTF"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ChrisTheCoolHut/PinCTF)
+

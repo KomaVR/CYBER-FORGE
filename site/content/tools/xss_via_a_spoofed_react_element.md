@@ -1,6 +1,6 @@
 ---
 title: "XSS via a spoofed React element"
 description: "Written by Daniel LeCheminant."
-external_url: "http://danlec.com/blog/xss-via-a-spoofed-react-element"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://danlec.com/blog/xss-via-a-spoofed-react-element)
+

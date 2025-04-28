@@ -1,6 +1,6 @@
 ---
 title: "Kubernetes operator"
 description: ""
-external_url: "https://github.com/aquasecurity/trivy-operator"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/aquasecurity/trivy-operator)
+

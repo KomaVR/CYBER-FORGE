@@ -1,6 +1,6 @@
 ---
 title: "PythonCoderAS"
 description: ""
-external_url: "https://github.com/PythonCoderAS"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/PythonCoderAS)
+

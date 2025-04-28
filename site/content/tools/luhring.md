@@ -1,6 +1,6 @@
 ---
 title: "luhring"
 description: ""
-external_url: "https://github.com/luhring"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/luhring)
+

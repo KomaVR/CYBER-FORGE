@@ -1,6 +1,6 @@
 ---
 title: "shamay-dev"
 description: "shamay-dev"
-external_url: "https://github.com/shamay-dev"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/shamay-dev)
+

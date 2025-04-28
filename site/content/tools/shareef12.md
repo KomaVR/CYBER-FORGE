@@ -1,6 +1,6 @@
 ---
 title: "shareef12"
 description: ""
-external_url: "https://github.com/shareef12"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/shareef12)
+

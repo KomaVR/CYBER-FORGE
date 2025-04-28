@@ -1,6 +1,6 @@
 ---
 title: "Renovate"
 description: ""
-external_url: "https://github.com/renovatebot/renovate"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/renovatebot/renovate)
+

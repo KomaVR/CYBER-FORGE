@@ -1,6 +1,6 @@
 ---
 title: "关于JSON CSRF的一些思考"
 description: ""
-external_url: "https://mp.weixin.qq.com/s/kLRxHfzikhmV7NjpRJH6SA"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://mp.weixin.qq.com/s/kLRxHfzikhmV7NjpRJH6SA)
+

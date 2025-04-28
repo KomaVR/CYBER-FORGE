@@ -1,6 +1,6 @@
 ---
 title: "Palined"
 description: ""
-external_url: "http://www.palined.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.palined.com/)
+

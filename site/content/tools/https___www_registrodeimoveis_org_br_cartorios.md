@@ -1,6 +1,6 @@
 ---
 title: "https://www.registrodeimoveis.org.br/cartorios"
 description: ""
-external_url: "https://www.registrodeimoveis.org.br/cartorios"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.registrodeimoveis.org.br/cartorios)
+

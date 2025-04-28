@@ -1,6 +1,6 @@
 ---
 title: "grzetzp"
 description: ""
-external_url: "https://github.com/grzetzp"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/grzetzp)
+

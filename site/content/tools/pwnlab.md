@@ -1,6 +1,6 @@
 ---
 title: "PwnLab"
 description: ""
-external_url: "https://www.hackingarticles.in/penetration-testing-pwnlab-ctf-challenge/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.hackingarticles.in/penetration-testing-pwnlab-ctf-challenge/)
+

@@ -3,6 +3,6 @@ title: "TryHackMe | Squid Game"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/squidgameroom"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/squidgameroom)
+

@@ -1,6 +1,6 @@
 ---
 title: "Björn Kimminich @bkimminich"
 description: ""
-external_url: "https://www.github.com/bkimminich"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.github.com/bkimminich)
+

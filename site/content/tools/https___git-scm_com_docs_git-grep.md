@@ -3,6 +3,6 @@ title: "https://git-scm.com/docs/git-grep"
 description: "
 Grep: . (UNDEFINED).
 "
-external_url: "https://git-scm.com/docs/git-grep"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://git-scm.com/docs/git-grep)
+

@@ -1,6 +1,6 @@
 ---
 title: "Gabreeles"
 description: ""
-external_url: "https://github.com/Gabreeles"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Gabreeles)
+

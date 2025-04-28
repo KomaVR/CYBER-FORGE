@@ -1,6 +1,6 @@
 ---
 title: "OnlineNewspapers"
 description: ""
-external_url: "http://www.onlinenewspapers.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.onlinenewspapers.com)
+

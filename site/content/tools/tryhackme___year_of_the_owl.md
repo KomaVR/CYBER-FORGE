@@ -3,6 +3,6 @@ title: "TryHackMe | Year of the Owl"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/yearoftheowl"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/yearoftheowl)
+

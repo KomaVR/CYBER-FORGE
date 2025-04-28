@@ -1,6 +1,6 @@
 ---
 title: "Cobalt Strike Spear Phish"
 description: ""
-external_url: "https://evi1cg.me/archives/spear_phish.html"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://evi1cg.me/archives/spear_phish.html)
+

@@ -1,6 +1,6 @@
 ---
 title: "wsltools-web扫描辅助python库"
 description: ""
-external_url: "https://github.com/Symbo1/wsltools"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/Symbo1/wsltools)
+

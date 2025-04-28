@@ -1,6 +1,6 @@
 ---
 title: "Intro to fault trees"
 description: ""
-external_url: "https://www.weibull.com/basics/fault-tree/index.htm"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.weibull.com/basics/fault-tree/index.htm)
+

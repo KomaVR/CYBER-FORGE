@@ -1,6 +1,6 @@
 ---
 title: "GriffinRichards"
 description: ""
-external_url: "https://github.com/GriffinRichards"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/GriffinRichards)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://www.owasp.org/index.php/DirBuster"
 description: "dirbuster"
-external_url: "https://www.owasp.org/index.php/DirBuster"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.owasp.org/index.php/DirBuster)
+

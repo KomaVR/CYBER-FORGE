@@ -1,6 +1,6 @@
 ---
 title: "USGS Earth Explorer"
 description: ""
-external_url: "https://earthexplorer.usgs.gov/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://earthexplorer.usgs.gov/)
+

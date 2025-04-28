@@ -1,6 +1,6 @@
 ---
 title: "hardwaterhacker"
 description: ""
-external_url: "https://github.com/hardwaterhacker"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/hardwaterhacker)
+

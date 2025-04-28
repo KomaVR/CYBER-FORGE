@@ -26,6 +26,6 @@ File -> Script File -> Main.py(设置断点) -> IDA调试器执行
 
 
 "
-external_url: "https://github.com/0xgalz/virtuailor"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/0xgalz/virtuailor)
+

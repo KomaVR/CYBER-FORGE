@@ -1,6 +1,6 @@
 ---
 title: "GramPages"
 description: ""
-external_url: "https://grampages.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://grampages.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://www.secgeek.net/solutions-for-xss-waf-challenge/"
 description: "xss/secgeek.txt"
-external_url: "https://www.secgeek.net/solutions-for-xss-waf-challenge/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://www.secgeek.net/solutions-for-xss-waf-challenge/)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://www2.dataprev.gov.br/sabiweb/relatorio/imprimirCRER.view?acao=imprimir_CRER"
 description: ""
-external_url: "https://www2.dataprev.gov.br/sabiweb/relatorio/imprimirCRER.view?acao=imprimir_CRER"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://www2.dataprev.gov.br/sabiweb/relatorio/imprimirCRER.view?acao=imprimir_CRER)
+

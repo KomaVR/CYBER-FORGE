@@ -1,6 +1,6 @@
 ---
 title: "floatas"
 description: ""
-external_url: "https://github.com/floatas"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/floatas)
+

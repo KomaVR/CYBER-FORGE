@@ -4,6 +4,6 @@ description: "
 Check out our  and BSidesLV presentation at State of DNS Rebinding: Attack & Prevention Techniques and
 the Singularity of Origin.
 "
-external_url: "https://youtu.be/y9-0lICNjOQ"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://youtu.be/y9-0lICNjOQ)
+

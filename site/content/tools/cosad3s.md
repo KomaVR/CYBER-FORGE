@@ -1,6 +1,6 @@
 ---
 title: "cosad3s"
 description: ""
-external_url: "https://github.com/cosad3s"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/cosad3s)
+

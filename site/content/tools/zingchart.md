@@ -1,6 +1,6 @@
 ---
 title: "ZingChart"
 description: ""
-external_url: "http://www.zingchart.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.zingchart.com)
+

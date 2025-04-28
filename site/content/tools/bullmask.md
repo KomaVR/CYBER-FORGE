@@ -1,6 +1,6 @@
 ---
 title: "Bullmask"
 description: ""
-external_url: "https://www.bullmask.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.bullmask.com/)
+

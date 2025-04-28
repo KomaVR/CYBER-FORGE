@@ -1,6 +1,6 @@
 ---
 title: "http://overthewire.org"
 description: ""
-external_url: "http://overthewire.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://overthewire.org)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/espreto/wpsploit"
 description: "WPSploit, Exploiting Wordpress With Metasploit"
-external_url: "https://github.com/espreto/wpsploit"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://github.com/espreto/wpsploit)
+

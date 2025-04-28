@@ -1,6 +1,6 @@
 ---
 title: "unleashnfts.com"
 description: ""
-external_url: "https://unleashnfts.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://unleashnfts.com/)
+

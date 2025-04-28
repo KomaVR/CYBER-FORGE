@@ -1,6 +1,6 @@
 ---
 title: "SharpBypassUAC"
 description: ""
-external_url: "https://github.com/FatRodzianko/SharpBypassUAC"
-category: "Grey Hat Tools"
----
+external_category: "Grey Hat Tools"
+---[Visit Website](https://github.com/FatRodzianko/SharpBypassUAC)
+

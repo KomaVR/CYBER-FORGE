@@ -1,6 +1,6 @@
 ---
 title: "Catfish"
 description: ""
-external_url: "https://socialcatfish.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://socialcatfish.com)
+

@@ -10,6 +10,6 @@ MAT123 Introduction to Calculus (Fall 2015) - Stony Brook
 Vector Calculus for Engineers - HKUST
 
 "
-external_url: "https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
+

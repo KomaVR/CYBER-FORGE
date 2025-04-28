@@ -1,6 +1,6 @@
 ---
 title: "Sleuth For The Truth"
 description: ""
-external_url: "http://sleuthforthetruth.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://sleuthforthetruth.com/)
+

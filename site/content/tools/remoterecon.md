@@ -1,6 +1,6 @@
 ---
 title: "RemoteRecon"
 description: "Remote Recon and Collection."
-external_url: "https://github.com/xorrior/RemoteRecon"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://github.com/xorrior/RemoteRecon)
+

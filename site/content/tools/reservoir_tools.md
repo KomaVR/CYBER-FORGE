@@ -1,6 +1,6 @@
 ---
 title: "reservoir.tools"
 description: ""
-external_url: "https://reservoir.tools/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://reservoir.tools/)
+

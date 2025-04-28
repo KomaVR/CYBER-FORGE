@@ -8,6 +8,6 @@ swift_demangler 自动demangle Swift函数名
 golang_renamer 恢复stripped Go二进制文件的函数名
 
 "
-external_url: "https://github.com/ghidraninja/ghidra_scripts"
-category: "Reverse Engineering"
----
+external_category: "Reverse Engineering"
+---[Visit Website](https://github.com/ghidraninja/ghidra_scripts)
+

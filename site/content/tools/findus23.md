@@ -1,6 +1,6 @@
 ---
 title: "Findus23"
 description: ""
-external_url: "https://github.com/Findus23"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Findus23)
+

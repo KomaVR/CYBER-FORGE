@@ -1,6 +1,6 @@
 ---
 title: "Certik Alert"
 description: ""
-external_url: "https://twitter.com/certikalert"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://twitter.com/certikalert)
+

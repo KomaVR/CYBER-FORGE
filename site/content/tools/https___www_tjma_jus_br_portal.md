@@ -1,6 +1,6 @@
 ---
 title: "https://www.tjma.jus.br/portal"
 description: "Serviços disponíveis TJ| Maranhão"
-external_url: "https://www.tjma.jus.br/portal"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.tjma.jus.br/portal)
+

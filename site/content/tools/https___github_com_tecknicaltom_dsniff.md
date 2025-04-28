@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/tecknicaltom/dsniff"
 description: "dsniff is a collection of tools for network auditing and penetration testing."
-external_url: "https://github.com/tecknicaltom/dsniff"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://github.com/tecknicaltom/dsniff)
+

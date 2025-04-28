@@ -1,6 +1,6 @@
 ---
 title: "Ezgif"
 description: ""
-external_url: "https://ezgif.com/reverse"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://ezgif.com/reverse)
+

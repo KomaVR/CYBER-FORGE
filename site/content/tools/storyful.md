@@ -1,6 +1,6 @@
 ---
 title: "Storyful"
 description: ""
-external_url: "http://storyful.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://storyful.com)
+

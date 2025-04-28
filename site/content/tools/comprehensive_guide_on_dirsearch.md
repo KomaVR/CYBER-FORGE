@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Guide on Dirsearch"
 description: "by Shubham Sharma"
-external_url: "https://www.hackingarticles.in/comprehensive-guide-on-dirsearch/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.hackingarticles.in/comprehensive-guide-on-dirsearch/)
+

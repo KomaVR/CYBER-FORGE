@@ -1,6 +1,6 @@
 ---
 title: "aiohttp"
 description: "异步http客户端/服务器框架"
-external_url: "https://github.com/aio-libs/aiohttp"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/aio-libs/aiohttp)
+

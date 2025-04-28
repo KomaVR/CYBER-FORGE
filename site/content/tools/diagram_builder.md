@@ -1,6 +1,6 @@
 ---
 title: "Diagram Builder"
 description: ""
-external_url: "https://www.yworks.com/yed-live/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.yworks.com/yed-live/)
+

@@ -7,6 +7,6 @@ CERT
 JPCERT
 
 "
-external_url: "https://www.us-cert.gov/ncas/alerts"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.us-cert.gov/ncas/alerts)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/fry/d3"
 description: "fry"
-external_url: "https://github.com/fry/d3"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/fry/d3)
+

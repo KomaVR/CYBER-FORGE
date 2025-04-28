@@ -1,6 +1,6 @@
 ---
 title: "Latest docs"
 description: ""
-external_url: "https://drakvuf-sandbox.readthedocs.io/en/latest/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://drakvuf-sandbox.readthedocs.io/en/latest/)
+

@@ -1,6 +1,6 @@
 ---
 title: "oremj"
 description: ""
-external_url: "https://github.com/oremj"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/oremj)
+

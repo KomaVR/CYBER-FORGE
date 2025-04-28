@@ -1,6 +1,6 @@
 ---
 title: "mzpqnxow"
 description: ""
-external_url: "https://github.com/mzpqnxow"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mzpqnxow)
+

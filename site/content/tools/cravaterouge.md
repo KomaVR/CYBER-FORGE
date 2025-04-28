@@ -1,6 +1,6 @@
 ---
 title: "CravateRouge"
 description: "bloodyAD"
-external_url: "https://github.com/CravateRouge"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/CravateRouge)
+

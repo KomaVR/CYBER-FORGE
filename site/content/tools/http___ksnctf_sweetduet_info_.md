@@ -1,6 +1,6 @@
 ---
 title: "http://ksnctf.sweetduet.info/"
 description: ""
-external_url: "http://ksnctf.sweetduet.info/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://ksnctf.sweetduet.info/)
+

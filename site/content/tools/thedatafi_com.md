@@ -1,6 +1,6 @@
 ---
 title: "thedatafi.com"
 description: ""
-external_url: "https://thedatafi.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://thedatafi.com)
+

@@ -1,6 +1,6 @@
 ---
 title: "hastebin"
 description: ""
-external_url: "https://www.toptal.com/developers/hastebin/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.toptal.com/developers/hastebin/)
+

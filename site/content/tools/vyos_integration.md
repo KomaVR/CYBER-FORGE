@@ -3,6 +3,6 @@ title: "VyOS Integration"
 description: "
 
 "
-external_url: "https://github.com/kylechase/vyos-netmaker"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/kylechase/vyos-netmaker)
+

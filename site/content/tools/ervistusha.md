@@ -1,6 +1,6 @@
 ---
 title: "ErvisTusha"
 description: ""
-external_url: "https://github.com/ErvisTusha"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ErvisTusha)
+

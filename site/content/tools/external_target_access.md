@@ -8,6 +8,6 @@ Reverse proxy capabilities through SSH and KCP tunneling
  for endpoints unreachable by direct connection
 
 "
-external_url: "https://github.com/jm33-m0/emp3r0r/wiki/Getting-started#bring-agents-to-c2"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://github.com/jm33-m0/emp3r0r/wiki/Getting-started#bring-agents-to-c2)
+

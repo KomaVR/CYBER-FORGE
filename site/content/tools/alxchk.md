@@ -1,6 +1,6 @@
 ---
 title: "alxchk"
 description: ""
-external_url: "https://github.com/alxchk"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/alxchk)
+

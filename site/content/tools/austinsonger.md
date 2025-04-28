@@ -1,6 +1,6 @@
 ---
 title: "austinsonger"
 description: ""
-external_url: "https://github.com/austinsonger"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/austinsonger)
+

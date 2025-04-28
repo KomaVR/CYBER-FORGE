@@ -1,6 +1,6 @@
 ---
 title: "Holo"
 description: "Hard"
-external_url: "https://tryhackme.com/room/hololive"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/hololive)
+

@@ -1,6 +1,6 @@
 ---
 title: "Miscellaneous"
 description: ""
-external_url: "https://www.blacklanternsecurity.com/bbot/Stable/dev/helpers/misc"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.blacklanternsecurity.com/bbot/Stable/dev/helpers/misc)
+

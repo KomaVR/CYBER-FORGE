@@ -3,6 +3,6 @@ title: "TryHackMe | The Cod Caper"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/thecodcaper"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/thecodcaper)
+

@@ -1,6 +1,6 @@
 ---
 title: "Powermad"
 description: ""
-external_url: "https://github.com/Kevin-Robertson/Powermad"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Kevin-Robertson/Powermad)
+

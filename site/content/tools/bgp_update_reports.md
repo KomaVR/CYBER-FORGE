@@ -1,6 +1,6 @@
 ---
 title: "BGP Update Reports"
 description: ""
-external_url: "http://bgp.potaroo.net/index-upd.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://bgp.potaroo.net/index-upd.html)
+

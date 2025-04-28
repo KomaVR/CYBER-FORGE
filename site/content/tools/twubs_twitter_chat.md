@@ -1,6 +1,6 @@
 ---
 title: "TWUBS Twitter Chat"
 description: ""
-external_url: "http://twubs.com/twitter-chats"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://twubs.com/twitter-chats)
+

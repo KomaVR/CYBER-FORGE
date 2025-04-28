@@ -1,6 +1,6 @@
 ---
 title: "Open Site Explorer"
 description: ""
-external_url: "https://moz.com/researchtools/ose"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://moz.com/researchtools/ose)
+

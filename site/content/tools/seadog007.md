@@ -1,6 +1,6 @@
 ---
 title: "seadog007"
 description: ""
-external_url: "https://github.com/seadog007"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/seadog007)
+

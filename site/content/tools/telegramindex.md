@@ -1,6 +1,6 @@
 ---
 title: "TelegramIndex"
 description: ""
-external_url: "https://telegramindex.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://telegramindex.com/)
+

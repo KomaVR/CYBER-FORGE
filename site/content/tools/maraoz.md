@@ -1,6 +1,6 @@
 ---
 title: "maraoz"
 description: ""
-external_url: "https://github.com/maraoz"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/maraoz)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/assetnote/wordlists"
 description: ""
-external_url: "https://github.com/assetnote/wordlists"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/assetnote/wordlists)
+

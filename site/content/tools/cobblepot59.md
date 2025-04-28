@@ -1,6 +1,6 @@
 ---
 title: "CobblePot59"
 description: "ADcheck"
-external_url: "https://github.com/CobblePot59"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/CobblePot59)
+

@@ -1,6 +1,6 @@
 ---
 title: "tgstat"
 description: ""
-external_url: "https://tgstat.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tgstat.com/)
+

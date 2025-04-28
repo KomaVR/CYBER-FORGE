@@ -1,6 +1,6 @@
 ---
 title: "iYouPort OSINT专栏"
 description: ""
-external_url: "https://www.iyouport.org/category/osint/"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://www.iyouport.org/category/osint/)
+

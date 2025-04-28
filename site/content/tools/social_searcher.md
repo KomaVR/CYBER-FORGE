@@ -1,6 +1,6 @@
 ---
 title: "Social Searcher"
 description: ""
-external_url: "http://www.social-searcher.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.social-searcher.com)
+

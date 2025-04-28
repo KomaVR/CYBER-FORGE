@@ -1,6 +1,6 @@
 ---
 title: "Zulu"
 description: "A fuzzer designed for rapid prototyping that normally happens on a client engagement where something needs to be fuzzed within tight timescales."
-external_url: "https://github.com/nccgroup/Zulu.git"
-category: "Grey Hat Tools"
----
+external_category: "Grey Hat Tools"
+---[Visit Website](https://github.com/nccgroup/Zulu.git)
+

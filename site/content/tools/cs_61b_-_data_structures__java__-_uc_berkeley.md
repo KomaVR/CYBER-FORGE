@@ -1,6 +1,6 @@
 ---
 title: "CS 61B - Data Structures (Java) - UC Berkeley"
 description: "(Youtube)"
-external_url: "https://inst.eecs.berkeley.edu/~cs61b/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://inst.eecs.berkeley.edu/~cs61b/)
+

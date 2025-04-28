@@ -1,6 +1,6 @@
 ---
 title: "Document Cloud"
 description: ""
-external_url: "https://www.documentcloud.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.documentcloud.org)
+

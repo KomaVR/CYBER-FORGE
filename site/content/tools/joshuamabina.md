@@ -1,6 +1,6 @@
 ---
 title: "joshuamabina"
 description: ""
-external_url: "https://github.com/joshuamabina"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/joshuamabina)
+

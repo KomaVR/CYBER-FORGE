@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/Whoopsunix/nacosScan"
 description: "nacosScan:"
-external_url: "https://github.com/Whoopsunix/nacosScan"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Whoopsunix/nacosScan)
+

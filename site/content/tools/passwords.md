@@ -1,6 +1,6 @@
 ---
 title: "Passwords"
 description: ""
-external_url: "https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Passwords.md"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Passwords.md)
+

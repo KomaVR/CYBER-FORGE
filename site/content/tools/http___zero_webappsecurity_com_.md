@@ -1,6 +1,6 @@
 ---
 title: "http://zero.webappsecurity.com/"
 description: "Zero Bank"
-external_url: "http://zero.webappsecurity.com/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://zero.webappsecurity.com/)
+

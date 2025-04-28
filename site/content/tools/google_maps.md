@@ -1,6 +1,6 @@
 ---
 title: "Google Maps"
 description: ""
-external_url: "https://www.google.cn/maps/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.google.cn/maps/)
+

@@ -9,6 +9,6 @@ https://www.toolmao.com/baiduapp/routerpwd/
 https://datarecovery.com/rd/default-passwords/
 
 "
-external_url: "https://www.routerpasswords.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.routerpasswords.com/)
+

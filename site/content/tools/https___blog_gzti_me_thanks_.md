@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://blog.gzti.me/thanks/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://blog.gzti.me/thanks/)
+

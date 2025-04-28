@@ -1,6 +1,6 @@
 ---
 title: "HardwareAllTheThings"
 description: "Hardware/IOT Pentesting Wiki"
-external_url: "https://swisskyrepo.github.io/HardwareAllTheThings/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://swisskyrepo.github.io/HardwareAllTheThings/)
+

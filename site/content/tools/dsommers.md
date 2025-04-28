@@ -1,6 +1,6 @@
 ---
 title: "dsommers"
 description: ""
-external_url: "https://github.com/dsommers"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/dsommers)
+

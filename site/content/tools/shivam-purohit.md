@@ -1,6 +1,6 @@
 ---
 title: "shivam-Purohit"
 description: ""
-external_url: "https://github.com/shivam-Purohit"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/shivam-Purohit)
+

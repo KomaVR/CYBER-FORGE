@@ -1,6 +1,6 @@
 ---
 title: "Subreddits"
 description: "Discover new subreddits."
-external_url: "http://subreddits.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://subreddits.org)
+

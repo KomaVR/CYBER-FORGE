@@ -1,6 +1,6 @@
 ---
 title: "ws_send_binary"
 description: ""
-external_url: "https://sn0int.readthedocs.io/en/latest/reference.html#ws-send-binary"
-category: "Reverse Engineering"
----
+external_category: "Reverse Engineering"
+---[Visit Website](https://sn0int.readthedocs.io/en/latest/reference.html#ws-send-binary)
+

@@ -2,6 +2,6 @@
 title: "djnnvx"
 description: "djnnvx
 djnn"
-external_url: "https://github.com/djnnvx"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/djnnvx)
+

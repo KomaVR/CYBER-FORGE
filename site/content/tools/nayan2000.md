@@ -1,6 +1,6 @@
 ---
 title: "nayan2000"
 description: ""
-external_url: "https://github.com/nayan2000"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/nayan2000)
+

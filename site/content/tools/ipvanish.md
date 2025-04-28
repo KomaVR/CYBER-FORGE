@@ -1,6 +1,6 @@
 ---
 title: "IPVanish"
 description: ""
-external_url: "https://www.ipvanish.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ipvanish.com/)
+

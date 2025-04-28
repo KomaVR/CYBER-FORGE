@@ -1,6 +1,6 @@
 ---
 title: "Impede Detection Platform"
 description: ""
-external_url: "https://impede.ai/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://impede.ai/)
+

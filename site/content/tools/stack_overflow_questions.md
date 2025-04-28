@@ -1,6 +1,6 @@
 ---
 title: "Stack Overflow questions"
 description: "Stack Overflow:"
-external_url: "https://stackoverflow.com/questions/tagged/osquery"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://stackoverflow.com/questions/tagged/osquery)
+

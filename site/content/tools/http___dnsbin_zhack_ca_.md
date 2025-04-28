@@ -1,6 +1,6 @@
 ---
 title: "http://dnsbin.zhack.ca/"
 description: ""
-external_url: "http://dnsbin.zhack.ca/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://dnsbin.zhack.ca/)
+

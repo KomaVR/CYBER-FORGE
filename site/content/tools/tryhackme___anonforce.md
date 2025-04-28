@@ -3,6 +3,6 @@ title: "TryHackMe | Anonforce"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/bsidesgtanonforce"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/bsidesgtanonforce)
+

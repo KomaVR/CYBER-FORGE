@@ -1,6 +1,6 @@
 ---
 title: "ZhymabekRoman"
 description: ""
-external_url: "https://github.com/ZhymabekRoman"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ZhymabekRoman)
+

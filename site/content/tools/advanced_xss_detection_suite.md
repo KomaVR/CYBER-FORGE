@@ -1,6 +1,6 @@
 ---
 title: "Advanced XSS Detection Suite"
 description: ""
-external_url: "https://github.com/UltimateHackers/XSStrike"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/UltimateHackers/XSStrike)
+

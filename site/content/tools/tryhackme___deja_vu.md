@@ -3,6 +3,6 @@ title: "TryHackMe | Deja Vu"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/dejavu"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/dejavu)
+

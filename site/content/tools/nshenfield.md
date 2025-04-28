@@ -1,6 +1,6 @@
 ---
 title: "nshenfield"
 description: ""
-external_url: "https://github.com/nshenfield"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/nshenfield)
+

@@ -1,6 +1,6 @@
 ---
 title: "Tginfo"
 description: ""
-external_url: "https://tginfo.ru/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tginfo.ru/)
+

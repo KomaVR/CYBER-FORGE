@@ -6,6 +6,6 @@ description: "TLS/SSL Certificat :
 https://crt.sh
 
 "
-external_url: "https://censys.io"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://censys.io)
+

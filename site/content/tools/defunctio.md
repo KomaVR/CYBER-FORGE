@@ -1,6 +1,6 @@
 ---
 title: "defunctio"
 description: ""
-external_url: "https://github.com/defunctio"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/defunctio)
+

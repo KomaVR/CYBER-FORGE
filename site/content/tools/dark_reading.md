@@ -1,6 +1,6 @@
 ---
 title: "Dark Reading"
 description: "Connecting The Information Security Community."
-external_url: "https://www.darkreading.com/Default.asp"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.darkreading.com/Default.asp)
+

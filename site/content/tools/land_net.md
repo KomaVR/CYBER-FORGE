@@ -1,6 +1,6 @@
 ---
 title: "Land Net"
 description: ""
-external_url: "http://www.land.net/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.land.net/)
+

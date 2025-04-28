@@ -1,6 +1,6 @@
 ---
 title: "https://regex101.com/"
 description: ""
-external_url: "https://regex101.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://regex101.com/)
+

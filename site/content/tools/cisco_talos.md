@@ -1,6 +1,6 @@
 ---
 title: "Cisco Talos"
 description: "The threat intelligence organization at the center of the Cisco Security portfolio"
-external_url: "https://talosintelligence.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://talosintelligence.com/)
+

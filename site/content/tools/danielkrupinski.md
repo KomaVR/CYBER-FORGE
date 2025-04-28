@@ -1,6 +1,6 @@
 ---
 title: "danielkrupinski"
 description: ""
-external_url: "https://github.com/danielkrupinski"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/danielkrupinski)
+

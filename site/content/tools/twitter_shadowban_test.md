@@ -1,6 +1,6 @@
 ---
 title: "Twitter Shadowban Test"
 description: ""
-external_url: "https://shadowban.eu/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://shadowban.eu/)
+

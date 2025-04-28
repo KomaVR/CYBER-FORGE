@@ -1,6 +1,6 @@
 ---
 title: "DiggReader"
 description: ""
-external_url: "http://digg.com/login?next=%2Freader"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://digg.com/login?next=%2Freader)
+

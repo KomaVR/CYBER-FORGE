@@ -1,6 +1,6 @@
 ---
 title: "The Secret Life Of JPEGs – NixIntel"
 description: ""
-external_url: "https://nixintel.info/osint/the-secret-life-of-jpegs/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://nixintel.info/osint/the-secret-life-of-jpegs/)
+

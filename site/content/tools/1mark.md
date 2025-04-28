@@ -1,6 +1,6 @@
 ---
 title: "1Mark"
 description: ""
-external_url: "https://github.com/1Mark"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/1Mark)
+

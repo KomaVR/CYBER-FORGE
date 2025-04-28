@@ -1,6 +1,6 @@
 ---
 title: "tradingstrategy.ai"
 description: ""
-external_url: "https://tradingstrategy.ai"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tradingstrategy.ai)
+

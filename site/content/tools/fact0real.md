@@ -2,6 +2,6 @@
 title: "fact0real"
 description: "fact0real
 factoreal"
-external_url: "https://github.com/fact0real"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/fact0real)
+

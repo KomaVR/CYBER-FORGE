@@ -1,6 +1,6 @@
 ---
 title: "https://www.jiumodiary.com/"
 description: ""
-external_url: "https://www.jiumodiary.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.jiumodiary.com/)
+

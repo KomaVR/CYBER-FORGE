@@ -1,6 +1,6 @@
 ---
 title: "Timeline"
 description: ""
-external_url: "http://www.simile-widgets.org/timeline"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.simile-widgets.org/timeline)
+

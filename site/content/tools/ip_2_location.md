@@ -1,6 +1,6 @@
 ---
 title: "IP 2 Location"
 description: ""
-external_url: "http://www.ip2location.com/demo.aspx"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.ip2location.com/demo.aspx)
+

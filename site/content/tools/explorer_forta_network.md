@@ -1,6 +1,6 @@
 ---
 title: "explorer.forta.network"
 description: ""
-external_url: "https://explorer.forta.network"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://explorer.forta.network)
+

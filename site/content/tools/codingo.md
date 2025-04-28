@@ -1,6 +1,6 @@
 ---
 title: "codingo"
 description: ""
-external_url: "https://github.com/codingo"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/codingo)
+

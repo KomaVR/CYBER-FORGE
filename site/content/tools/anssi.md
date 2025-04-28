@@ -3,6 +3,6 @@ title: "ANSSI"
 description: "
 
 "
-external_url: "https://www.ssi.gouv.fr/en/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ssi.gouv.fr/en/)
+

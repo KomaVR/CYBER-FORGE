@@ -1,6 +1,6 @@
 ---
 title: "roDigitalForensics"
 description: ""
-external_url: "https://prodigital4n6.com/blog/"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://prodigital4n6.com/blog/)
+

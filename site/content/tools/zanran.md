@@ -1,6 +1,6 @@
 ---
 title: "Zanran"
 description: ""
-external_url: "http://zanran.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://zanran.com)
+

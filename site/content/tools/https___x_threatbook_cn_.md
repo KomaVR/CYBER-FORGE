@@ -1,6 +1,6 @@
 ---
 title: "https://x.threatbook.cn/"
 description: ""
-external_url: "https://x.threatbook.cn/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://x.threatbook.cn/)
+

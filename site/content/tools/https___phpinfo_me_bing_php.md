@@ -3,6 +3,6 @@ title: "https://phpinfo.me/bing.php"
 description: "
 
 "
-external_url: "https://phpinfo.me/bing.php"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://phpinfo.me/bing.php)
+

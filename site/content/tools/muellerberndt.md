@@ -1,6 +1,6 @@
 ---
 title: "muellerberndt"
 description: ""
-external_url: "https://github.com/muellerberndt"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/muellerberndt)
+

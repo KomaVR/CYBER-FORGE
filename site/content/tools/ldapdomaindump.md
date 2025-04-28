@@ -1,6 +1,6 @@
 ---
 title: "ldapdomaindump"
 description: "Information dumper via LDAP"
-external_url: "https://github.com/dirkjanm/ldapdomaindump"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/dirkjanm/ldapdomaindump)
+

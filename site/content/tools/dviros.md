@@ -1,6 +1,6 @@
 ---
 title: "Dviros"
 description: ""
-external_url: "https://github.com/Dviros"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Dviros)
+

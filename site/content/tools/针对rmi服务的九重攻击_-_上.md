@@ -1,6 +1,6 @@
 ---
 title: "针对RMI服务的九重攻击 - 上"
 description: ""
-external_url: "https://xz.aliyun.com/t/7930"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://xz.aliyun.com/t/7930)
+

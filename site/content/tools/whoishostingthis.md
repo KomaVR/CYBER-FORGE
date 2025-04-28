@@ -1,6 +1,6 @@
 ---
 title: "WhoIsHostingThis"
 description: ""
-external_url: "http://www.whoishostingthis.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.whoishostingthis.com)
+

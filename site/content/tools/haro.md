@@ -1,6 +1,6 @@
 ---
 title: "HARO"
 description: ""
-external_url: "http://www.helpareporter.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.helpareporter.com)
+

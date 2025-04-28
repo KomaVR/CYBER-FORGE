@@ -1,6 +1,6 @@
 ---
 title: "Cortex XSOAR"
 description: ""
-external_url: "https://github.com/demisto/content"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/demisto/content)
+

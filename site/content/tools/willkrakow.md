@@ -1,6 +1,6 @@
 ---
 title: "willkrakow"
 description: ""
-external_url: "https://github.com/willkrakow"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/willkrakow)
+

@@ -1,6 +1,6 @@
 ---
 title: "Fsck.ext4"
 description: "Used to fix corrupt filesystems."
-external_url: "http://linux.die.net/man/8/fsck.ext3"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://linux.die.net/man/8/fsck.ext3)
+

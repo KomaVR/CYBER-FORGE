@@ -8,6 +8,6 @@ Data Protection Impact Assessment (DPIA).
 Records of Processing Activities (RoPA) input for GDPR compliance reporting.
 
 "
-external_url: "https://docs.bearer.com/explanations/discovery-and-classification/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://docs.bearer.com/explanations/discovery-and-classification/)
+

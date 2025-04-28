@@ -1,6 +1,6 @@
 ---
 title: "waiwai24"
 description: ""
-external_url: "https://github.com/waiwai24"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/waiwai24)
+

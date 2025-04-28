@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://mozillazg.com/wechat_donate.jpeg"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://mozillazg.com/wechat_donate.jpeg)
+

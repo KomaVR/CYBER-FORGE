@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://www.paypal.com/paypalme/six2dez"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.paypal.com/paypalme/six2dez)
+

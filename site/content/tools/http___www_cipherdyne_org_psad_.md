@@ -1,6 +1,6 @@
 ---
 title: "http://www.cipherdyne.org/psad/"
 description: ""
-external_url: "http://www.cipherdyne.org/psad/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.cipherdyne.org/psad/)
+

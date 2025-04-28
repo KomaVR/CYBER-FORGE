@@ -1,6 +1,6 @@
 ---
 title: "http://your-vps-ip:3003"
 description: "wooyun："
-external_url: "http://your-vps-ip:3003"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://your-vps-ip:3003)
+

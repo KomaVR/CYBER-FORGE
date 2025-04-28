@@ -1,6 +1,6 @@
 ---
 title: "http://www.ruanyifeng.com/home.html"
 description: ""
-external_url: "http://www.ruanyifeng.com/home.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.ruanyifeng.com/home.html)
+

@@ -1,6 +1,6 @@
 ---
 title: "List of Newspapers.com"
 description: ""
-external_url: "http://www.listofnewspapers.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.listofnewspapers.com)
+

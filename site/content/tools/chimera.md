@@ -1,6 +1,6 @@
 ---
 title: "Chimera"
 description: ""
-external_url: "https://chimera.coolstar.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://chimera.coolstar.org/)
+

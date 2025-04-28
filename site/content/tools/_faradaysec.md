@@ -1,6 +1,6 @@
 ---
 title: "@faradaysec"
 description: "Twitter:"
-external_url: "https://twitter.com/faradaysec"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://twitter.com/faradaysec)
+

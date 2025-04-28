@@ -7,6 +7,6 @@ Data collection: The workflow fetches data from two important sources:
 Chaos Public Bug Bounty Programs: It provides additional valuable bug bounty program data.
 
 "
-external_url: "https://github.com/arkadiyt/bounty-targets-data"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/arkadiyt/bounty-targets-data)
+

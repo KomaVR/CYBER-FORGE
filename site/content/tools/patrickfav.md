@@ -1,6 +1,6 @@
 ---
 title: "patrickfav"
 description: "for uber-apk-signer"
-external_url: "https://github.com/patrickfav"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/patrickfav)
+

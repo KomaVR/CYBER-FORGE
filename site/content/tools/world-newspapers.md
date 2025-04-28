@@ -1,6 +1,6 @@
 ---
 title: "World-Newspapers"
 description: ""
-external_url: "http://www.world-newspapers.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.world-newspapers.com)
+

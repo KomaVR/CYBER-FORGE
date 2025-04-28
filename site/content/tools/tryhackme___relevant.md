@@ -3,6 +3,6 @@ title: "TryHackMe | Relevant"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/relevant"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/relevant)
+

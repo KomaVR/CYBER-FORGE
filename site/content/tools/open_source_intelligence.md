@@ -1,6 +1,6 @@
 ---
 title: "Open Source Intelligence"
 description: ""
-external_url: "https://asm.arpsyndicate.io/intelligence.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://asm.arpsyndicate.io/intelligence.html)
+

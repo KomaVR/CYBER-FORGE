@@ -1,6 +1,6 @@
 ---
 title: "Answers.com"
 description: ""
-external_url: "http://www.answers.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.answers.com)
+

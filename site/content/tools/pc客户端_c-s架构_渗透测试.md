@@ -1,6 +1,6 @@
 ---
 title: "PC客户端（C-S架构）渗透测试"
 description: ""
-external_url: "https://github.com/theLSA/CS-checklist"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/theLSA/CS-checklist)
+

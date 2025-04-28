@@ -1,6 +1,6 @@
 ---
 title: "trickest-workflows"
 description: ""
-external_url: "https://github.com/trickest-workflows"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/trickest-workflows)
+

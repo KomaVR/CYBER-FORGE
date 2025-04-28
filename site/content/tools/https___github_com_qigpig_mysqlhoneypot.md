@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/qigpig/MysqlHoneypot"
 description: "MysqlHoneypot:  via MySQL honeypot to get wechat ID"
-external_url: "https://github.com/qigpig/MysqlHoneypot"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/qigpig/MysqlHoneypot)
+

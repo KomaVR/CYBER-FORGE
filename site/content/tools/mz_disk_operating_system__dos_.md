@@ -1,6 +1,6 @@
 ---
 title: "MZ disk operating system (DOS)"
 description: "🌎"
-external_url: "https://wiki.osdev.org/MZ"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://wiki.osdev.org/MZ)
+

@@ -1,6 +1,6 @@
 ---
 title: "Miasm on GitHub"
 description: "Clone the repository:"
-external_url: "https://github.com/cea-sec/miasm/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/cea-sec/miasm/)
+

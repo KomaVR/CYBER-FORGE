@@ -1,6 +1,6 @@
 ---
 title: "Telethon (For Creating Custom Tools)"
 description: ""
-external_url: "https://github.com/LonamiWebs/Telethon"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/LonamiWebs/Telethon)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://www.aware-online.com/osint-tools/"
 description: ""
-external_url: "https://www.aware-online.com/osint-tools/"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://www.aware-online.com/osint-tools/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Dapp.tools"
 description: ""
-external_url: "http://dapp.tools"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://dapp.tools)
+

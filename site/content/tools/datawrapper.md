@@ -1,6 +1,6 @@
 ---
 title: "Datawrapper"
 description: ""
-external_url: "https://datawrapper.de"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://datawrapper.de)
+

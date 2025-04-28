@@ -1,6 +1,6 @@
 ---
 title: "Demostration Video"
 description: ""
-external_url: "http://www.youtube.com/watch?v=Yfy6w8qXcQs"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.youtube.com/watch?v=Yfy6w8qXcQs)
+

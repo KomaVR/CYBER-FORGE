@@ -11,6 +11,6 @@ IMAP/SMTP Injection (OTG-INPVAL-011)
 Testing for Server Side Template Injection (EXTRA-TEST-013)
 
 "
-external_url: "https://github.com/Voorivex/pentest-guide/tree/master/Command-Injection"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Voorivex/pentest-guide/tree/master/Command-Injection)
+

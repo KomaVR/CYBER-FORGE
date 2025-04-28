@@ -1,6 +1,6 @@
 ---
 title: "http://hackinglab.cn/"
 description: ""
-external_url: "http://hackinglab.cn/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://hackinglab.cn/)
+

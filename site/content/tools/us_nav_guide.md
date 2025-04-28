@@ -1,6 +1,6 @@
 ---
 title: "US Nav Guide"
 description: ""
-external_url: "http://www.usnaviguide.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.usnaviguide.com)
+

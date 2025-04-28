@@ -6,6 +6,6 @@ description: "Subdomain:
 https://github.com/knownsec/ksubdomain
 
 "
-external_url: "https://github.com/projectdiscovery/subfinder"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/projectdiscovery/subfinder)
+

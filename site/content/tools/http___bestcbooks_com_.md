@@ -1,6 +1,6 @@
 ---
 title: "http://bestcbooks.com/"
 description: ""
-external_url: "http://bestcbooks.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://bestcbooks.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "John Currier"
 description: ""
-external_url: "http://schemaspy.sourceforge.net/"
-category: "Password Cracking"
----
+external_category: "Password Cracking"
+---[Visit Website](http://schemaspy.sourceforge.net/)
+

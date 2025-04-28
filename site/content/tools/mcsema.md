@@ -1,6 +1,6 @@
 ---
 title: "mcsema"
 description: ""
-external_url: "https://github.com/lifting-bits/mcsema/tree/master/mcsema"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/lifting-bits/mcsema/tree/master/mcsema)
+

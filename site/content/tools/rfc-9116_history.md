@@ -1,6 +1,6 @@
 ---
 title: "RFC-9116 History"
 description: ""
-external_url: "https://datatracker.ietf.org/doc/rfc9116/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://datatracker.ietf.org/doc/rfc9116/)
+

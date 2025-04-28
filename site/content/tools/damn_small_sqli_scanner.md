@@ -1,6 +1,6 @@
 ---
 title: "Damn Small SQLi Scanner"
 description: ""
-external_url: "https://github.com/stamparm/DSSS"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://github.com/stamparm/DSSS)
+

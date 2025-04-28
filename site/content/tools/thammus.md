@@ -1,6 +1,6 @@
 ---
 title: "Thammus"
 description: ""
-external_url: "https://github.com/Thammus"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Thammus)
+

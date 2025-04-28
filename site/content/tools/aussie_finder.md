@@ -1,6 +1,6 @@
 ---
 title: "Aussie Finder"
 description: "(AU)"
-external_url: "http://aussiefinder.com.au"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://aussiefinder.com.au)
+

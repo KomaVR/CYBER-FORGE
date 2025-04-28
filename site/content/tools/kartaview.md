@@ -1,6 +1,6 @@
 ---
 title: "KartaView"
 description: ""
-external_url: "https://kartaview.org/map/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://kartaview.org/map/)
+

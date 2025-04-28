@@ -16,6 +16,6 @@ TrendMicro CTF 2019 Qual - Forensics 300
 TrendMicro CTF 2019 Final - RMIart
 
 "
-external_url: "https://gist.github.com/CykuTW/4c0d105df24acf2218e0aedb67661da9"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://gist.github.com/CykuTW/4c0d105df24acf2218e0aedb67661da9)
+

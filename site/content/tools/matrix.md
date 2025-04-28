@@ -1,6 +1,6 @@
 ---
 title: "Matrix"
 description: ": #radare:matrix.org"
-external_url: "https://matrix.to/#/#radare:matrix.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://matrix.to/#/#radare:matrix.org)
+

@@ -1,6 +1,6 @@
 ---
 title: "【内网代理】proxy.php-单文件版的php代理"
 description: ""
-external_url: "https://github.com/mcnemesis/proxy.php"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mcnemesis/proxy.php)
+

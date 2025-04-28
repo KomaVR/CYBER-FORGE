@@ -1,6 +1,6 @@
 ---
 title: "lorescan.com"
 description: ""
-external_url: "https://www.lorescan.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.lorescan.com)
+

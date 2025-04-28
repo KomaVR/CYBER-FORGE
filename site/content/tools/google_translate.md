@@ -1,6 +1,6 @@
 ---
 title: "Google Translate"
 description: ""
-external_url: "https://translate.google.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://translate.google.com/)
+

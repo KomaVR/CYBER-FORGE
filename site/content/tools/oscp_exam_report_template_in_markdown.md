@@ -1,6 +1,6 @@
 ---
 title: "OSCP Exam Report Template in Markdown"
 description: ""
-external_url: "https://github.com/noraj/OSCP-Exam-Report-Template-Markdown"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)
+

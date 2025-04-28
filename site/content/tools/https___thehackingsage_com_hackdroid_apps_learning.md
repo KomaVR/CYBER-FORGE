@@ -1,6 +1,6 @@
 ---
 title: "https://thehackingsage.com/hackdroid/apps/learning"
 description: "Learning :"
-external_url: "https://thehackingsage.com/hackdroid/apps/learning"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://thehackingsage.com/hackdroid/apps/learning)
+

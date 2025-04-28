@@ -1,6 +1,6 @@
 ---
 title: "BASE (Bielefeld Academic Search Engine): Basic Search"
 description: ""
-external_url: "https://www.base-search.net/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.base-search.net/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Common object file format (COFF)"
 description: "🌎"
-external_url: "https://wiki.osdev.org/COFF"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://wiki.osdev.org/COFF)
+

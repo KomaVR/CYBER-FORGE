@@ -1,6 +1,6 @@
 ---
 title: "The Daily Swig - Web security digest"
 description: "Written by PortSwigger."
-external_url: "https://portswigger.net/daily-swig"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://portswigger.net/daily-swig)
+

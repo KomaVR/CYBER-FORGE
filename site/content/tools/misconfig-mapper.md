@@ -1,6 +1,6 @@
 ---
 title: "misconfig-mapper"
 description: "3rd parties misconfigurations()"
-external_url: "https://github.com/intigriti/misconfig-mapper"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/intigriti/misconfig-mapper)
+

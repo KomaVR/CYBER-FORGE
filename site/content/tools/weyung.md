@@ -1,6 +1,6 @@
 ---
 title: "weyung"
 description: ""
-external_url: "https://github.com/weyung"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/weyung)
+

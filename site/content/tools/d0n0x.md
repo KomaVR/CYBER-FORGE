@@ -1,6 +1,6 @@
 ---
 title: "d0n0x"
 description: ""
-external_url: "https://github.com/d0n0x"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/d0n0x)
+

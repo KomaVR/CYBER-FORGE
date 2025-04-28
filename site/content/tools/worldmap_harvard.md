@@ -1,6 +1,6 @@
 ---
 title: "WorldMap Harvard"
 description: ""
-external_url: "http://worldmap.harvard.edu"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://worldmap.harvard.edu)
+

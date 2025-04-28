@@ -1,6 +1,6 @@
 ---
 title: "https://quipqiup.com/"
 description: ""
-external_url: "https://quipqiup.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://quipqiup.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Entropy5"
 description: ""
-external_url: "https://github.com/Entropy5"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Entropy5)
+

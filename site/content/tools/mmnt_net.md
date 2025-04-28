@@ -1,6 +1,6 @@
 ---
 title: "mmnt.net"
 description: ""
-external_url: "http://www.mmnt.net/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.mmnt.net/)
+

@@ -1,6 +1,6 @@
 ---
 title: "cryptoblacklist.io"
 description: ""
-external_url: "https://cryptoblacklist.io/en/bitcoin-blacklist"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://cryptoblacklist.io/en/bitcoin-blacklist)
+

@@ -1,6 +1,6 @@
 ---
 title: "naugtur"
 description: ""
-external_url: "https://github.com/naugtur"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/naugtur)
+

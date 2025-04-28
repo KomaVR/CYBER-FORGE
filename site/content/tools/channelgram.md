@@ -1,6 +1,6 @@
 ---
 title: "ChannelGram"
 description: ""
-external_url: "https://channelgram.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://channelgram.com/)
+

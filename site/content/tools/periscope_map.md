@@ -1,6 +1,6 @@
 ---
 title: "Periscope Map"
 description: ""
-external_url: "http://www.periscopemap.live/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.periscopemap.live/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Solana Security"
 description: ""
-external_url: "https://github.com/0xsanny/solsec"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/0xsanny/solsec)
+

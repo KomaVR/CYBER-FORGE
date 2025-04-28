@@ -1,6 +1,6 @@
 ---
 title: "https://www.pm.ce.gov.br/desaparecidos/"
 description: ""
-external_url: "https://www.pm.ce.gov.br/desaparecidos/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.pm.ce.gov.br/desaparecidos/)
+

@@ -1,6 +1,6 @@
 ---
 title: "alessandrogario"
 description: ""
-external_url: "https://github.com/alessandrogario"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/alessandrogario)
+

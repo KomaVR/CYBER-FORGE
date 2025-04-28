@@ -1,6 +1,6 @@
 ---
 title: "SQLNinja"
 description: "SQL Server injection & takeover tool."
-external_url: "http://sqlninja.sourceforge.net/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://sqlninja.sourceforge.net/)
+

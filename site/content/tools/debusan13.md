@@ -1,6 +1,6 @@
 ---
 title: "Debusan13"
 description: ""
-external_url: "https://github.com/Debusan13"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Debusan13)
+

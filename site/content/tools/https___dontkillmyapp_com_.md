@@ -1,6 +1,6 @@
 ---
 title: "https://dontkillmyapp.com/"
 description: ""
-external_url: "https://dontkillmyapp.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://dontkillmyapp.com/)
+

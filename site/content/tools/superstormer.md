@@ -2,6 +2,6 @@
 title: "SuperStormer"
 description: "SuperStormer
 Larry Xue"
-external_url: "https://github.com/SuperStormer"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/SuperStormer)
+

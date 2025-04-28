@@ -1,6 +1,6 @@
 ---
 title: "jaxparrow07"
 description: ""
-external_url: "https://github.com/jaxparrow07"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jaxparrow07)
+

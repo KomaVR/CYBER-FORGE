@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/knownsec/Kunyu"
 description: "Kunyu:"
-external_url: "https://github.com/knownsec/Kunyu"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/knownsec/Kunyu)
+

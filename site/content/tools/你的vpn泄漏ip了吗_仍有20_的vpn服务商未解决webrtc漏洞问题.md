@@ -6,6 +6,6 @@ webRTC
 
 
 "
-external_url: "https://www.freebuf.com/articles/web/166754.html"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://www.freebuf.com/articles/web/166754.html)
+

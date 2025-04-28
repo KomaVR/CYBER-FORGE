@@ -1,6 +1,6 @@
 ---
 title: "ipify"
 description: ""
-external_url: "https://www.ipify.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ipify.org/)
+

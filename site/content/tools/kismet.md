@@ -1,6 +1,6 @@
 ---
 title: "Kismet"
 description: "Wireless network detector, sniffer, and IDS."
-external_url: "https://kismetwireless.net/"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://kismetwireless.net/)
+

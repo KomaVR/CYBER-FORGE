@@ -1,6 +1,6 @@
 ---
 title: "SamyGhannad"
 description: ""
-external_url: "https://github.com/SamyGhannad"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/SamyGhannad)
+

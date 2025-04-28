@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://www.getmonero.org/get-started/contributing/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.getmonero.org/get-started/contributing/)
+

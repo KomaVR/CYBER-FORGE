@@ -9,6 +9,6 @@ Multi-tasking capabilities through tmux integration
 Secure operator-server architecture using WireGuard and mTLS
 
 "
-external_url: "https://github.com/reeflective/console"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/reeflective/console)
+

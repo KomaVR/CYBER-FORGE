@@ -1,6 +1,6 @@
 ---
 title: "Fake Spot"
 description: ""
-external_url: "https://www.fakespot.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.fakespot.com/)
+

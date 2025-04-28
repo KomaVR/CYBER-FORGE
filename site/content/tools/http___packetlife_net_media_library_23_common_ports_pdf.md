@@ -6,6 +6,6 @@ description: "
 
 
 "
-external_url: "http://packetlife.net/media/library/23/common_ports.pdf"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://packetlife.net/media/library/23/common_ports.pdf)
+

@@ -1,6 +1,6 @@
 ---
 title: "DarkBTCGraph"
 description: ""
-external_url: "https://github.com/netoeuler/darkbitcoingraph"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/netoeuler/darkbitcoingraph)
+

@@ -1,6 +1,6 @@
 ---
 title: "Security Weekly"
 description: "The security podcast network."
-external_url: "https://securityweekly.com/"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://securityweekly.com/)
+

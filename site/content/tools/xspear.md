@@ -1,6 +1,6 @@
 ---
 title: "XSpear"
 description: ""
-external_url: "https://github.com/hahwul/XSpear"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/hahwul/XSpear)
+

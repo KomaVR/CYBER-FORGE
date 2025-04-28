@@ -1,6 +1,6 @@
 ---
 title: "photopea"
 description: "also works very well"
-external_url: "https://www.photopea.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.photopea.com/)
+

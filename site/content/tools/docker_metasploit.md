@@ -1,6 +1,6 @@
 ---
 title: "Docker Metasploit"
 description: "docker pull phocean/msf"
-external_url: "https://hub.docker.com/r/phocean/msf/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://hub.docker.com/r/phocean/msf/)
+

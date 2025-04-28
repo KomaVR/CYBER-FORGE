@@ -1,6 +1,6 @@
 ---
 title: "Telegram Web"
 description: ""
-external_url: "https://web.telegram.org/k/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://web.telegram.org/k/)
+

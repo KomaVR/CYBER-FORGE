@@ -1,6 +1,6 @@
 ---
 title: "https://have-ibeenpwned.com/"
 description: ""
-external_url: "https://have-ibeenpwned.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://have-ibeenpwned.com/)
+

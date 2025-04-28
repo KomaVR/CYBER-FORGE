@@ -1,6 +1,6 @@
 ---
 title: "CCleaner"
 description: ""
-external_url: "https://www.piriform.com/ccleaner"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.piriform.com/ccleaner)
+

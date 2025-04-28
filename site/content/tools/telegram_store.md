@@ -1,6 +1,6 @@
 ---
 title: "Telegram Store"
 description: ""
-external_url: "https://telegram-store.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://telegram-store.com/)
+

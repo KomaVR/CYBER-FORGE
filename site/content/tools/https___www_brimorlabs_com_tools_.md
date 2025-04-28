@@ -1,6 +1,6 @@
 ---
 title: "https://www.brimorlabs.com/tools/"
 description: ""
-external_url: "https://www.brimorlabs.com/tools/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.brimorlabs.com/tools/)
+

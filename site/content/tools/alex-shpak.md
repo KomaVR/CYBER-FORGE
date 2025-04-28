@@ -1,6 +1,6 @@
 ---
 title: "alex-shpak"
 description: ""
-external_url: "https://github.com/alex-shpak"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/alex-shpak)
+

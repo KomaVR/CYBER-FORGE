@@ -1,6 +1,6 @@
 ---
 title: "DNSStuff"
 description: ""
-external_url: "http://www.dnsstuff.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.dnsstuff.com)
+

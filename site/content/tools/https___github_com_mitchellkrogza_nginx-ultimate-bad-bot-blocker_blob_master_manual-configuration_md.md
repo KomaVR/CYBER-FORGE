@@ -3,6 +3,6 @@ title: "https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/blob/ma
 description: "
 For manual installation instructions please see - Please see: 
 "
-external_url: "https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/blob/master/MANUAL-CONFIGURATION.md"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/blob/master/MANUAL-CONFIGURATION.md)
+

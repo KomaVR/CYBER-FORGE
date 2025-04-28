@@ -1,6 +1,6 @@
 ---
 title: "Zetoc"
 description: ""
-external_url: "http://zetoc.jisc.ac.uk"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://zetoc.jisc.ac.uk)
+

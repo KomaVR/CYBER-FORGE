@@ -1,6 +1,6 @@
 ---
 title: "sourcify.com"
 description: ""
-external_url: "https://www.sourcify.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.sourcify.com)
+

@@ -3,6 +3,6 @@ title: "https://brutelogic.com.br/blog/dom-based-xss-the-3-sinks/"
 description: "
 
 "
-external_url: "https://brutelogic.com.br/blog/dom-based-xss-the-3-sinks/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://brutelogic.com.br/blog/dom-based-xss-the-3-sinks/)
+

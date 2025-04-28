@@ -1,6 +1,6 @@
 ---
 title: "How does strace connect to an already running process? (original)"
 description: ""
-external_url: "https://stackoverflow.com/questions/7482076/how-does-strace-connect-to-an-already-running-process"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://stackoverflow.com/questions/7482076/how-does-strace-connect-to-an-already-running-process)
+

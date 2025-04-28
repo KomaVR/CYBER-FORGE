@@ -1,6 +1,6 @@
 ---
 title: "GDATTACKER-RESEARCHER"
 description: ""
-external_url: "https://github.com/GDATTACKER-RESEARCHER"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/GDATTACKER-RESEARCHER)
+

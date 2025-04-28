@@ -1,6 +1,6 @@
 ---
 title: "Magma"
 description: "(VueJS UI for Caldera v5)"
-external_url: "https://github.com/mitre/magma"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mitre/magma)
+

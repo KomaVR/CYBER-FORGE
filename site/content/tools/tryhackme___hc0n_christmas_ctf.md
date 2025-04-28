@@ -3,6 +3,6 @@ title: "TryHackMe | hc0n Christmas CTF"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/hc0nchristmasctf"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/hc0nchristmasctf)
+

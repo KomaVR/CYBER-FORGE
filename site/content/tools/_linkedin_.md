@@ -1,6 +1,6 @@
 ---
 title: "(LinkedIn)"
 description: "Andre Tenreiro"
-external_url: "https://www.linkedin.com/in/andretenreiro/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.linkedin.com/in/andretenreiro/)
+

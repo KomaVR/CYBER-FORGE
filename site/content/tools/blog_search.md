@@ -1,6 +1,6 @@
 ---
 title: "Blog Search"
 description: ""
-external_url: "https://createandgo.com/blog-search/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://createandgo.com/blog-search/)
+

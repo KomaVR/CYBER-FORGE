@@ -1,6 +1,6 @@
 ---
 title: "FridaLoader - Android"
 description: ""
-external_url: "https://github.com/dineshshetty/FridaLoader"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/dineshshetty/FridaLoader)
+

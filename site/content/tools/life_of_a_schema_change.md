@@ -7,6 +7,6 @@ Interactive code walkthrough
 SQL Review
 
 "
-external_url: "https://sourcegraph.com/github.com/bytebase/bytebase/-/blob/docs/design/life-of-a-schema-change.snb.md"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://sourcegraph.com/github.com/bytebase/bytebase/-/blob/docs/design/life-of-a-schema-change.snb.md)
+

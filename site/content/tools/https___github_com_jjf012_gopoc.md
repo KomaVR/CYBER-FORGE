@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/jjf012/gopoc"
 description: ""
-external_url: "https://github.com/jjf012/gopoc"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jjf012/gopoc)
+

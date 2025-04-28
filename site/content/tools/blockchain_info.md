@@ -1,6 +1,6 @@
 ---
 title: "Blockchain Info"
 description: ""
-external_url: "https://blockchain.info"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://blockchain.info)
+

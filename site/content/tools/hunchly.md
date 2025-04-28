@@ -1,6 +1,6 @@
 ---
 title: "Hunchly"
 description: "is a web capture tool designed specifically for online investigations."
-external_url: "https://www.hunch.ly/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://www.hunch.ly/)
+

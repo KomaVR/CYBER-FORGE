@@ -3,6 +3,6 @@ title: "TryHackMe | Debug"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/debug"
-category: "Reverse Engineering"
----
+external_category: "Reverse Engineering"
+---[Visit Website](https://tryhackme.com/room/debug)
+

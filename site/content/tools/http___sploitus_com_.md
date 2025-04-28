@@ -1,6 +1,6 @@
 ---
 title: "http://sploitus.com/"
 description: ""
-external_url: "http://sploitus.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://sploitus.com/)
+

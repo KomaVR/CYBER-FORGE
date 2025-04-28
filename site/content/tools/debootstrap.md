@@ -12,6 +12,6 @@ the Debian release version to base everything on
 
 
 "
-external_url: "https://wiki.debian.org/Debootstrap"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://wiki.debian.org/Debootstrap)
+

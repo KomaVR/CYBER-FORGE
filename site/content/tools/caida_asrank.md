@@ -1,6 +1,6 @@
 ---
 title: "CAIDA ASRank"
 description: ""
-external_url: "https://asrank.caida.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://asrank.caida.org/)
+

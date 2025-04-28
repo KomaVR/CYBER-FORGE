@@ -6,6 +6,6 @@ description: "NVMe / NAND / PCIe
 http://ramtin-amin.fr/#nvmedma
 
 "
-external_url: "http://ramtin-amin.fr/#nvmepcie"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://ramtin-amin.fr/#nvmepcie)
+

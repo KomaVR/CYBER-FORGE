@@ -1,6 +1,6 @@
 ---
 title: "Leaflet"
 description: ""
-external_url: "http://leafletjs.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://leafletjs.com)
+

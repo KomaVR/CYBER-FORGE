@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/a1phaboy/nacosleak"
 description: "nacosleak:"
-external_url: "https://github.com/a1phaboy/nacosleak"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/a1phaboy/nacosleak)
+

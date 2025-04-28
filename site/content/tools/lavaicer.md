@@ -2,6 +2,6 @@
 title: "lavaicer"
 description: "lavaicer
 lavaicer"
-external_url: "https://github.com/lavaicer"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/lavaicer)
+

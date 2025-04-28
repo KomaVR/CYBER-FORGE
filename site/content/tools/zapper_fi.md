@@ -1,6 +1,6 @@
 ---
 title: "zapper.fi"
 description: ""
-external_url: "https://zapper.fi"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://zapper.fi)
+

@@ -1,6 +1,6 @@
 ---
 title: "whatismyipaddress.com"
 description: ""
-external_url: "https://whatismyipaddress.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://whatismyipaddress.com/)
+

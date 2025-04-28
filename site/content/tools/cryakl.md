@@ -2,6 +2,6 @@
 title: "Cryakl"
 description: "Cryakl
 Cryakl"
-external_url: "https://github.com/Cryakl"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Cryakl)
+

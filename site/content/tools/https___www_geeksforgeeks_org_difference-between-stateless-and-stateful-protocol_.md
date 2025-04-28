@@ -3,6 +3,6 @@ title: "https://www.geeksforgeeks.org/difference-between-stateless-and-stateful-
 description: "
 
 "
-external_url: "https://www.geeksforgeeks.org/difference-between-stateless-and-stateful-protocol/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.geeksforgeeks.org/difference-between-stateless-and-stateful-protocol/)
+

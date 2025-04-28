@@ -1,6 +1,6 @@
 ---
 title: "WorldLingo"
 description: ""
-external_url: "http://www.worldlingo.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.worldlingo.com/)
+

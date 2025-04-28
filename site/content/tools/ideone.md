@@ -1,6 +1,6 @@
 ---
 title: "ideone"
 description: ""
-external_url: "https://Ideone.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://Ideone.com)
+

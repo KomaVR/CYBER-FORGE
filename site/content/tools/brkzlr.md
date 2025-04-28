@@ -1,6 +1,6 @@
 ---
 title: "brkzlr"
 description: ""
-external_url: "https://github.com/brkzlr"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/brkzlr)
+

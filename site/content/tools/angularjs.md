@@ -1,6 +1,6 @@
 ---
 title: "AngularJS"
 description: ""
-external_url: "https://angularjs.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://angularjs.org/)
+

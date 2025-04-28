@@ -1,6 +1,6 @@
 ---
 title: "ValekoZ"
 description: ""
-external_url: "https://github.com/ValekoZ"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ValekoZ)
+

@@ -1,6 +1,6 @@
 ---
 title: "rpmalloc"
 description: "Uses  as global memory allocator"
-external_url: "https://github.com/mjansson/rpmalloc"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mjansson/rpmalloc)
+

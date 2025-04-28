@@ -1,6 +1,6 @@
 ---
 title: "iBotPeaches"
 description: ", brutall and JesusFreke for Apktool & Smali"
-external_url: "https://github.com/iBotPeaches"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/iBotPeaches)
+

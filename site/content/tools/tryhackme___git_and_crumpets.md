@@ -3,6 +3,6 @@ title: "TryHackMe | Git and Crumpets"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/gitandcrumpets"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/gitandcrumpets)
+

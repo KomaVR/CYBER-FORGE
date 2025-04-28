@@ -1,6 +1,6 @@
 ---
 title: "comma"
 description: ": the company behind opendbc"
-external_url: "https://github.com/commaai"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/commaai)
+

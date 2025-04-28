@@ -1,6 +1,6 @@
 ---
 title: "#23 Case insensitive CLI"
 description: ""
-external_url: "https://github.com/WangYihang/Platypus/issues/23"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/WangYihang/Platypus/issues/23)
+

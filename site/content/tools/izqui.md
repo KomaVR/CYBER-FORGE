@@ -1,6 +1,6 @@
 ---
 title: "izqui"
 description: ""
-external_url: "https://github.com/izqui"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/izqui)
+

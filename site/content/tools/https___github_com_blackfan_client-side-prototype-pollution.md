@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/BlackFan/client-side-prototype-pollution"
 description: ""
-external_url: "https://github.com/BlackFan/client-side-prototype-pollution"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/BlackFan/client-side-prototype-pollution)
+

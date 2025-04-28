@@ -1,6 +1,6 @@
 ---
 title: "hypn0chka"
 description: ""
-external_url: "https://github.com/hypn0chka"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/hypn0chka)
+

@@ -1,6 +1,6 @@
 ---
 title: "awesome-lockpicking"
 description: "by @fabacab"
-external_url: "https://github.com/fabacab/awesome-lockpicking"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/fabacab/awesome-lockpicking)
+

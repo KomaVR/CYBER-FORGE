@@ -1,6 +1,6 @@
 ---
 title: "Spokeo"
 description: "People search. Limited free info, premium data upsell."
-external_url: "http://www.spokeo.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.spokeo.com)
+

@@ -1,6 +1,6 @@
 ---
 title: "Sleeping Time"
 description: ""
-external_url: "http://sleepingtime.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://sleepingtime.org/)
+

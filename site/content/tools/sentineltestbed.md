@@ -1,6 +1,6 @@
 ---
 title: "SentinelTestbed"
 description: "Vulnerable web site. Used to test sentinel features."
-external_url: "https://github.com/dobin/SentinelTestbed"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/dobin/SentinelTestbed)
+

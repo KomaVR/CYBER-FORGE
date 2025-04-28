@@ -1,6 +1,6 @@
 ---
 title: "Tiki-toki"
 description: ""
-external_url: "http://www.tiki-toki.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.tiki-toki.com)
+

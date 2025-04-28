@@ -1,6 +1,6 @@
 ---
 title: "LinuxMirrors：GNU/Linux 一键更换国内软件源"
 description: ""
-external_url: "https://github.com/SuperManito/LinuxMirrors"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/SuperManito/LinuxMirrors)
+

@@ -1,6 +1,6 @@
 ---
 title: "GitLive"
 description: ""
-external_url: "https://www.gitlive.net/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.gitlive.net/)
+

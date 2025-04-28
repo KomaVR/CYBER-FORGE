@@ -1,6 +1,6 @@
 ---
 title: "Linux load average - the definitive summary"
 description: ""
-external_url: "http://blog.angulosolido.pt/2015/04/linux-load-average-definitive-summary.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://blog.angulosolido.pt/2015/04/linux-load-average-definitive-summary.html)
+

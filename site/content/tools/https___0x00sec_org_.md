@@ -1,6 +1,6 @@
 ---
 title: "https://0x00sec.org/"
 description: ""
-external_url: "https://0x00sec.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://0x00sec.org/)
+

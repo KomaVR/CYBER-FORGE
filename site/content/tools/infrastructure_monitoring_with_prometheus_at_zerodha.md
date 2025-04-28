@@ -1,6 +1,6 @@
 ---
 title: "Infrastructure monitoring with Prometheus at Zerodha"
 description: ""
-external_url: "https://zerodha.tech/blog/infra-monitoring-at-zerodha/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://zerodha.tech/blog/infra-monitoring-at-zerodha/)
+

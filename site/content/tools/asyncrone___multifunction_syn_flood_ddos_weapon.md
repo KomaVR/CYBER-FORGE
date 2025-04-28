@@ -1,6 +1,6 @@
 ---
 title: "Asyncrone | Multifunction SYN Flood DDoS Weapon"
 description: ""
-external_url: "https://github.com/fatihsnsy/aSYNcrone"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/fatihsnsy/aSYNcrone)
+

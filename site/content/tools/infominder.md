@@ -1,6 +1,6 @@
 ---
 title: "InfoMinder"
 description: ""
-external_url: "http://www.infominder.com/webminder"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.infominder.com/webminder)
+

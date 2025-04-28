@@ -1,6 +1,6 @@
 ---
 title: "MostInterestingBotInTheWorld"
 description: ""
-external_url: "https://github.com/MostInterestingBotInTheWorld"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/MostInterestingBotInTheWorld)
+

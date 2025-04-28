@@ -1,6 +1,6 @@
 ---
 title: "StoryMaps"
 description: ""
-external_url: "http://storymaps.arcgis.com/en"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://storymaps.arcgis.com/en)
+

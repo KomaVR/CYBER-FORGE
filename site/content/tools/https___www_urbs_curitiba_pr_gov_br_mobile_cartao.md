@@ -6,6 +6,6 @@ Extrato do cartão transporte Avulso
 
 
 "
-external_url: "https://www.urbs.curitiba.pr.gov.br/mobile/cartao"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.urbs.curitiba.pr.gov.br/mobile/cartao)
+

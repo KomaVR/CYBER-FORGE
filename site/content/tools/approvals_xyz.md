@@ -1,6 +1,6 @@
 ---
 title: "approvals.xyz"
 description: ""
-external_url: "https://approvals.xyz"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://approvals.xyz)
+

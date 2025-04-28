@@ -1,6 +1,6 @@
 ---
 title: "Cyfe"
 description: ""
-external_url: "http://www.cyfe.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.cyfe.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Ghost in the Shellcode"
 description: ""
-external_url: "http://ghostintheshellcode.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://ghostintheshellcode.com/)
+

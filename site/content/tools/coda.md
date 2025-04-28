@@ -1,6 +1,6 @@
 ---
 title: "Coda"
 description: "Coredump analyzer."
-external_url: "https://github.com/npamnani/coda"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/npamnani/coda)
+

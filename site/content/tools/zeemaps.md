@@ -1,6 +1,6 @@
 ---
 title: "ZeeMaps"
 description: ""
-external_url: "https://www.zeemaps.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.zeemaps.com)
+

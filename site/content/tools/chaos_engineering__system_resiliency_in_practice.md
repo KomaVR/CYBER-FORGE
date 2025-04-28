@@ -1,6 +1,6 @@
 ---
 title: "Chaos Engineering: System Resiliency in Practice"
 description: "📔"
-external_url: "https://amzn.to/40OSVa8"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://amzn.to/40OSVa8)
+

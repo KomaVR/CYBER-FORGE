@@ -1,6 +1,6 @@
 ---
 title: "https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/BurpSuite%20IPs.txt"
 description: ""
-external_url: "https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/BurpSuite%20IPs.txt"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/BurpSuite%20IPs.txt)
+

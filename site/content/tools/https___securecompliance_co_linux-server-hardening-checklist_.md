@@ -1,6 +1,6 @@
 ---
 title: "https://securecompliance.co/linux-server-hardening-checklist/"
 description: ""
-external_url: "https://securecompliance.co/linux-server-hardening-checklist/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://securecompliance.co/linux-server-hardening-checklist/)
+

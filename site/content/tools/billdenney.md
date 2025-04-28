@@ -1,6 +1,6 @@
 ---
 title: "billdenney"
 description: ""
-external_url: "https://github.com/billdenney"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/billdenney)
+

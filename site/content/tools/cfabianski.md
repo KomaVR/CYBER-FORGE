@@ -1,6 +1,6 @@
 ---
 title: "cfabianski"
 description: ""
-external_url: "https://github.com/cfabianski"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/cfabianski)
+

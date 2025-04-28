@@ -3,6 +3,6 @@ title: "TryHackMe | TShark"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/tshark"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/tshark)
+

@@ -1,6 +1,6 @@
 ---
 title: "FiringRange"
 description: ""
-external_url: "https://public-firing-range.appspot.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://public-firing-range.appspot.com/)
+

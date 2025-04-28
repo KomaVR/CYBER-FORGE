@@ -1,6 +1,6 @@
 ---
 title: "loc.alize"
 description: ""
-external_url: "https://loc.alize.us"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://loc.alize.us)
+

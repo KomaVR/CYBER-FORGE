@@ -1,6 +1,6 @@
 ---
 title: "t8012/smcutil"
 description: "Create SMC binaries from update payloads"
-external_url: "https://github.com/t8012/smcutil"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://github.com/t8012/smcutil)
+

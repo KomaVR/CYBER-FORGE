@@ -1,6 +1,6 @@
 ---
 title: "OSCP Goldmine"
 description: ""
-external_url: "http://0xc0ffee.io/blog/OSCP-Goldmine"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://0xc0ffee.io/blog/OSCP-Goldmine)
+

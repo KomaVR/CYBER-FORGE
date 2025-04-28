@@ -1,6 +1,6 @@
 ---
 title: "BurgerZ"
 description: ""
-external_url: "https://github.com/BurgerZ"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/BurgerZ)
+

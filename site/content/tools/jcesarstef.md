@@ -1,6 +1,6 @@
 ---
 title: "jcesarstef"
 description: ""
-external_url: "https://github.com/jcesarstef"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jcesarstef)
+

@@ -1,6 +1,6 @@
 ---
 title: "shrisukhani"
 description: ""
-external_url: "https://github.com/shrisukhani"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/shrisukhani)
+

@@ -3,6 +3,6 @@ title: "https://crackstation.net/crackstation-wordlist-password-cracking-diction
 description: "
 
 "
-external_url: "https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm"
-category: "Password Cracking"
----
+external_category: "Password Cracking"
+---[Visit Website](https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm)
+

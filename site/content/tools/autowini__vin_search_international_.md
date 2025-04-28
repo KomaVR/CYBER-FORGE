@@ -1,6 +1,6 @@
 ---
 title: "Autowini (Vin Search International)"
 description: ""
-external_url: "http://www.autowini.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.autowini.com)
+

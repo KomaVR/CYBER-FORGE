@@ -1,6 +1,6 @@
 ---
 title: "sicp.ueba.su"
 description: ""
-external_url: "https://sicp.ueba.su"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://sicp.ueba.su)
+

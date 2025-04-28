@@ -1,6 +1,6 @@
 ---
 title: "QGIS"
 description: ""
-external_url: "http://qgis.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://qgis.org)
+

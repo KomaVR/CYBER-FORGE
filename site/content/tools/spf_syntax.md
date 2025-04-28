@@ -1,6 +1,6 @@
 ---
 title: "SPF Syntax"
 description: ""
-external_url: "https://www.spf-record.com/syntax"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.spf-record.com/syntax)
+

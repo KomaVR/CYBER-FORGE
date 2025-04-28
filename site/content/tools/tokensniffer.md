@@ -1,6 +1,6 @@
 ---
 title: "tokensniffer"
 description: ""
-external_url: "https://tokensniffer.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tokensniffer.com/)
+

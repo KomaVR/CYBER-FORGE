@@ -1,6 +1,6 @@
 ---
 title: "Yahoo Image Search"
 description: ""
-external_url: "https://images.search.yahoo.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://images.search.yahoo.com)
+

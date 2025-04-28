@@ -1,6 +1,6 @@
 ---
 title: "eliyastein"
 description: ""
-external_url: "https://github.com/eliyastein"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/eliyastein)
+

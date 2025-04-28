@@ -1,6 +1,6 @@
 ---
 title: "MSF-Pg"
 description: "No description provided"
-external_url: "https://github.com/haxzsadik/MSF-Pg"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/haxzsadik/MSF-Pg)
+

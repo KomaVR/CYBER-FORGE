@@ -1,6 +1,6 @@
 ---
 title: "christianboyle"
 description: ""
-external_url: "https://github.com/christianboyle"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/christianboyle)
+

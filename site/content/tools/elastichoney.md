@@ -1,6 +1,6 @@
 ---
 title: "Elastichoney"
 description: "A Simple Elasticsearch Honeypot."
-external_url: "https://github.com/jordan-wright/elastichoney"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jordan-wright/elastichoney)
+

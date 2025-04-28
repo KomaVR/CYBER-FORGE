@@ -1,6 +1,6 @@
 ---
 title: "Web User Interface"
 description: "."
-external_url: "https://github.com/Arachni/arachni-ui-web"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/Arachni/arachni-ui-web)
+

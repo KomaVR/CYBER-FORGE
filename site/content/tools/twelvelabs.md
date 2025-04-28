@@ -1,6 +1,6 @@
 ---
 title: "twelvelabs"
 description: ""
-external_url: "https://github.com/twelvelabs"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/twelvelabs)
+

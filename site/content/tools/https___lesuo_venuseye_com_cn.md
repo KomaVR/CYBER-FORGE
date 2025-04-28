@@ -1,6 +1,6 @@
 ---
 title: "https://lesuo.venuseye.com.cn"
 description: "启明星辰:"
-external_url: "https://lesuo.venuseye.com.cn"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://lesuo.venuseye.com.cn)
+

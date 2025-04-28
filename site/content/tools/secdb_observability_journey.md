@@ -1,6 +1,6 @@
 ---
 title: "SecDb Observability Journey"
 description: ""
-external_url: "https://developer.gs.com/blog/posts/secdb-observability-journey"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://developer.gs.com/blog/posts/secdb-observability-journey)
+

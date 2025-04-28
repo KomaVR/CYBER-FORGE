@@ -1,6 +1,6 @@
 ---
 title: "Master Password"
 description: ""
-external_url: "http://masterpasswordapp.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://masterpasswordapp.com)
+

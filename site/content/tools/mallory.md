@@ -1,6 +1,6 @@
 ---
 title: "Mallory"
 description: "HTTP/HTTPS proxy over SSH."
-external_url: "https://github.com/justmao945/mallory"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/justmao945/mallory)
+

@@ -1,6 +1,6 @@
 ---
 title: "Lijantropique"
 description: ""
-external_url: "https://github.com/Lijantropique"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Lijantropique)
+

@@ -1,6 +1,6 @@
 ---
 title: "Licenseplates"
 description: ""
-external_url: "http://www.worldlicenseplates.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.worldlicenseplates.com/)
+

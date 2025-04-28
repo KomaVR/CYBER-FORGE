@@ -1,6 +1,6 @@
 ---
 title: "minimax.finance"
 description: ""
-external_url: "https://www.minimax.finance/portfolio"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.minimax.finance/portfolio)
+

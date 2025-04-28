@@ -1,6 +1,6 @@
 ---
 title: "pwd query"
 description: ""
-external_url: "https://pwdquery.xyz/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://pwdquery.xyz/)
+

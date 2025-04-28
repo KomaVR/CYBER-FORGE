@@ -1,6 +1,6 @@
 ---
 title: "Deadpool2000"
 description: ""
-external_url: "https://github.com/Deadpool2000"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Deadpool2000)
+

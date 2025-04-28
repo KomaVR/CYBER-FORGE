@@ -1,6 +1,6 @@
 ---
 title: "DeadLion"
 description: ""
-external_url: "https://github.com/DeadLion"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/DeadLion)
+

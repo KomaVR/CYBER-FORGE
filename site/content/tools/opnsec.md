@@ -1,6 +1,6 @@
 ---
 title: "OpnSec"
 description: "Open Mind Security!"
-external_url: "https://opnsec.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://opnsec.com/)
+

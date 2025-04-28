@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/cloudreve/Cloudreve"
 description: "cloudreve:  self-hosted file management system with muilt-cloud support"
-external_url: "https://github.com/cloudreve/Cloudreve"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/cloudreve/Cloudreve)
+

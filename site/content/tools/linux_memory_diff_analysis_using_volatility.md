@@ -1,6 +1,6 @@
 ---
 title: "Linux Memory Diff Analysis using Volatility"
 description: "2016.07 [cysinfo]"
-external_url: "https://cysinfo.com/linux-memory-diff-analysis-using-volatility-2/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://cysinfo.com/linux-memory-diff-analysis-using-volatility-2/)
+

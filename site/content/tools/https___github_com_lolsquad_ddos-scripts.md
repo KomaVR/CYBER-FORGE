@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/LOLSquad/DDoS-Scripts"
 description: ""
-external_url: "https://github.com/LOLSquad/DDoS-Scripts"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/LOLSquad/DDoS-Scripts)
+

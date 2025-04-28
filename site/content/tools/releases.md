@@ -1,6 +1,6 @@
 ---
 title: "Releases"
 description: "Download the precompiled jar package from ."
-external_url: "https://github.com/whwlsfb/BurpCrypto/releases"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/whwlsfb/BurpCrypto/releases)
+

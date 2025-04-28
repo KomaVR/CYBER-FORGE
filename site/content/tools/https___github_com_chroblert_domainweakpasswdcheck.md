@@ -3,6 +3,6 @@ title: "https://github.com/chroblert/domainWeakPasswdCheck"
 description: "
 
 "
-external_url: "https://github.com/chroblert/domainWeakPasswdCheck/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/chroblert/domainWeakPasswdCheck/)
+

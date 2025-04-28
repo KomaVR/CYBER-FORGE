@@ -3,6 +3,6 @@ title: "TryHackMe | USTOUN"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/ustoun"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/ustoun)
+

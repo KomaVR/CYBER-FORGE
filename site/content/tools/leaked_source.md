@@ -1,6 +1,6 @@
 ---
 title: "Leaked Source"
 description: ""
-external_url: "https://leakedsource.ru"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://leakedsource.ru)
+

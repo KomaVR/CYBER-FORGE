@@ -1,6 +1,6 @@
 ---
 title: "validcube"
 description: ""
-external_url: "https://github.com/validcube"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/validcube)
+

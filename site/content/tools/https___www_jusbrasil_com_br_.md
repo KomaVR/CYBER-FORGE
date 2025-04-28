@@ -1,6 +1,6 @@
 ---
 title: "https://www.jusbrasil.com.br/"
 description: ""
-external_url: "https://www.jusbrasil.com.br/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.jusbrasil.com.br/)
+

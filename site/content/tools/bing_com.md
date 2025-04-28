@@ -1,6 +1,6 @@
 ---
 title: "bing.com"
 description: "Go to"
-external_url: "https://bing.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://bing.com)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/qwqdanchun/Pillager/"
 description: "Pillager:"
-external_url: "https://github.com/qwqdanchun/Pillager/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/qwqdanchun/Pillager/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Open Graph Protocol"
 description: ""
-external_url: "https://ogp.me/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://ogp.me/)
+

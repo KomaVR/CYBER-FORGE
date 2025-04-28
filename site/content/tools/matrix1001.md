@@ -1,6 +1,6 @@
 ---
 title: "matrix1001"
 description: ""
-external_url: "https://github.com/matrix1001"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/matrix1001)
+

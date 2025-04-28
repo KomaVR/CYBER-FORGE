@@ -1,6 +1,6 @@
 ---
 title: "Harsha-Ambati"
 description: ""
-external_url: "https://github.com/Harsha-Ambati"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Harsha-Ambati)
+

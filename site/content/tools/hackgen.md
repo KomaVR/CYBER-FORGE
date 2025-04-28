@@ -1,6 +1,6 @@
 ---
 title: "HackGen"
 description: "Install the  fonts and use  Console NF."
-external_url: "https://github.com/yuru7/HackGen/releases"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/yuru7/HackGen/releases)
+

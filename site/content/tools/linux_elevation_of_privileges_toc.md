@@ -1,6 +1,6 @@
 ---
 title: "Linux elevation of privileges ToC"
 description: ""
-external_url: "https://guif.re/linuxeop"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://guif.re/linuxeop)
+

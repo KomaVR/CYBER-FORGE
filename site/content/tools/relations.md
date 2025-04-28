@@ -7,6 +7,6 @@ network_device
 breach_email
 
 "
-external_url: "https://sn0int.readthedocs.io/en/latest/structs.html#relations"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://sn0int.readthedocs.io/en/latest/structs.html#relations)
+

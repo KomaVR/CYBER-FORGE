@@ -1,6 +1,6 @@
 ---
 title: "Inkscape"
 description: ""
-external_url: "https://inkscape.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://inkscape.org)
+

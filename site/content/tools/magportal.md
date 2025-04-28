@@ -1,6 +1,6 @@
 ---
 title: "MagPortal"
 description: ""
-external_url: "http://www.magportal.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.magportal.com)
+

@@ -1,6 +1,6 @@
 ---
 title: "Broadcastify"
 description: ""
-external_url: "http://www.broadcastify.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.broadcastify.com/)
+

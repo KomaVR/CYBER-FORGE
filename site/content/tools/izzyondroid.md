@@ -1,6 +1,6 @@
 ---
 title: "IzzyOnDroid"
 description: ""
-external_url: "https://android.izzysoft.de/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://android.izzysoft.de/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Reuters"
 description: ""
-external_url: "http://www.reuters.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.reuters.com)
+

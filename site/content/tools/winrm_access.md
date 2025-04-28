@@ -1,6 +1,6 @@
 ---
 title: "WinRM access"
 description: "Requires ."
-external_url: "https://github.com/TonyPhipps/Powershell/blob/master/Enable-WinRM.ps1"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/TonyPhipps/Powershell/blob/master/Enable-WinRM.ps1)
+

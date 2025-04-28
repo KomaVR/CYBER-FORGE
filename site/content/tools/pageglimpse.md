@@ -1,6 +1,6 @@
 ---
 title: "PageGlimpse"
 description: ""
-external_url: "http://www.pageglimpse.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.pageglimpse.com)
+

@@ -1,6 +1,6 @@
 ---
 title: "TBG 5"
 description: ""
-external_url: "http://www.tbg5-finance.org/?ibancheck.shtml"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.tbg5-finance.org/?ibancheck.shtml)
+

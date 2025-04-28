@@ -1,6 +1,6 @@
 ---
 title: "Flipboard"
 description: ""
-external_url: "http://flipboard.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://flipboard.com)
+

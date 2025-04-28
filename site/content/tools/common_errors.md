@@ -1,6 +1,6 @@
 ---
 title: "common errors"
 description: ": troubleshooting guide."
-external_url: "https://kubehound.io/user-guide/troubleshooting/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://kubehound.io/user-guide/troubleshooting/)
+

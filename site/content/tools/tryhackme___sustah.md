@@ -3,6 +3,6 @@ title: "TryHackMe | Sustah"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/sustah"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/sustah)
+

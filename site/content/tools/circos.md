@@ -1,6 +1,6 @@
 ---
 title: "Circos"
 description: ""
-external_url: "http://circos.ca"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://circos.ca)
+

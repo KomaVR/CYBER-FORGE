@@ -3,6 +3,6 @@ title: "TryHackMe | JPGChat"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/jpgchat"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/jpgchat)
+

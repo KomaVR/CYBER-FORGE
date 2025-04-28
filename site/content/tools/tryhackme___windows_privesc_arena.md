@@ -3,6 +3,6 @@ title: "TryHackMe | Windows PrivEsc Arena"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/windowsprivescarena"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/windowsprivescarena)
+

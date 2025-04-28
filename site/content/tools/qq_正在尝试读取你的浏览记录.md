@@ -21,6 +21,6 @@ QQ
 
 
 "
-external_url: "https://www.v2ex.com/t/745030"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.v2ex.com/t/745030)
+

@@ -1,6 +1,6 @@
 ---
 title: "ShellCodeFramework-【免杀框架】"
 description: ""
-external_url: "https://github.com/mai1zhi2/ShellCodeFramework"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mai1zhi2/ShellCodeFramework)
+

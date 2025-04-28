@@ -1,6 +1,6 @@
 ---
 title: "RustyBlue"
 description: "Rust port of DeepBlueCLI."
-external_url: "https://github.com/Yamato-Security/RustyBlue"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Yamato-Security/RustyBlue)
+

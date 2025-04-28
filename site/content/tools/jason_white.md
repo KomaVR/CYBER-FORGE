@@ -1,6 +1,6 @@
 ---
 title: "Jason White"
 description: ""
-external_url: "https://github.com/misfir3"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/misfir3)
+

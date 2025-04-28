@@ -12,6 +12,6 @@ buuctf_2018_online_tool
 fbctf_2019_products_manager
 
 "
-external_url: "https://github.com/glzjin"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/glzjin)
+

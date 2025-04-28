@@ -1,6 +1,6 @@
 ---
 title: "Security Tube"
 description: ""
-external_url: "http://www.securitytube.net/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.securitytube.net/)
+

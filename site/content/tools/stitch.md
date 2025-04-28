@@ -1,6 +1,6 @@
 ---
 title: "Stitch"
 description: ""
-external_url: "https://github.com/nathanlopez/Stitch"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/nathanlopez/Stitch)
+

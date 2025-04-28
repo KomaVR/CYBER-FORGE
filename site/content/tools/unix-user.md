@@ -1,6 +1,6 @@
 ---
 title: "Unix-User"
 description: ""
-external_url: "https://github.com/Unix-User"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Unix-User)
+

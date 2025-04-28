@@ -3,6 +3,6 @@ title: "https://somd5.com/"
 description: "
 
 "
-external_url: "https://somd5.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://somd5.com/)
+

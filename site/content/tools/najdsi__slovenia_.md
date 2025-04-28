@@ -1,6 +1,6 @@
 ---
 title: "Najdsi (Slovenia)"
 description: ""
-external_url: "http://www.najdi.si"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.najdi.si)
+

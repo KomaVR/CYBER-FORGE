@@ -1,6 +1,6 @@
 ---
 title: "Stockpile"
 description: "(technique and profile storehouse)"
-external_url: "https://github.com/mitre/stockpile"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mitre/stockpile)
+

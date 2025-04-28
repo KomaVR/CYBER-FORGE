@@ -1,6 +1,6 @@
 ---
 title: "https://nocdn.threat-list.com/0/domains.txt"
 description: ""
-external_url: "https://nocdn.threat-list.com/0/domains.txt"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://nocdn.threat-list.com/0/domains.txt)
+

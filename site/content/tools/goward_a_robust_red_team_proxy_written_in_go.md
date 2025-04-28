@@ -1,6 +1,6 @@
 ---
 title: "GoWard：A robust Red Team proxy written in Go"
 description: ""
-external_url: "https://github.com/chdav/GoWard"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/chdav/GoWard)
+

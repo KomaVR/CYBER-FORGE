@@ -3,6 +3,6 @@ title: "AEM misconfiguration"
 description: "
 
 "
-external_url: "https://github.com/Az0x7/vulnerability-Checklist/blob/main/Aem%20misconfiguration/aem.md"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Az0x7/vulnerability-Checklist/blob/main/Aem%20misconfiguration/aem.md)
+

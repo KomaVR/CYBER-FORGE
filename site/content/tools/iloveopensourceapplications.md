@@ -1,6 +1,6 @@
 ---
 title: "ILoveOpenSourceApplications"
 description: ""
-external_url: "https://github.com/ILoveOpenSourceApplications"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ILoveOpenSourceApplications)
+

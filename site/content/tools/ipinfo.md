@@ -1,6 +1,6 @@
 ---
 title: "ipinfo"
 description: "IP info ()"
-external_url: "https://www.ipinfo.io/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ipinfo.io/)
+

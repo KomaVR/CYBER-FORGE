@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/mattermost/mattermost"
 description: "mattermost:"
-external_url: "https://github.com/mattermost/mattermost"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mattermost/mattermost)
+

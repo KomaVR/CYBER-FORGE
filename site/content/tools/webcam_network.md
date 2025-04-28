@@ -1,6 +1,6 @@
 ---
 title: "Webcam Network"
 description: ""
-external_url: "http://www.the-webcam-network.com/"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](http://www.the-webcam-network.com/)
+

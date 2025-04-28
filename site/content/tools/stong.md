@@ -2,6 +2,6 @@
 title: "stong"
 description: "stong
 cts"
-external_url: "https://github.com/stong"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/stong)
+

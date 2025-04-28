@@ -1,6 +1,6 @@
 ---
 title: "SciresM"
 description: "/ Atmosphere"
-external_url: "https://github.com/SciresM"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/SciresM)
+

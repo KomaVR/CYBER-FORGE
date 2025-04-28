@@ -1,6 +1,6 @@
 ---
 title: "StefanScherer"
 description: ""
-external_url: "https://github.com/StefanScherer"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/StefanScherer)
+

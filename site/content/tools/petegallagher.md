@@ -1,6 +1,6 @@
 ---
 title: "petegallagher"
 description: ""
-external_url: "https://github.com/petegallagher"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/petegallagher)
+

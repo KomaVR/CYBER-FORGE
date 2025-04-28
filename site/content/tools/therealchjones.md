@@ -1,6 +1,6 @@
 ---
 title: "therealchjones"
 description: ""
-external_url: "https://github.com/therealchjones"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/therealchjones)
+

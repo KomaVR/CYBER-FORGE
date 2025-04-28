@@ -1,6 +1,6 @@
 ---
 title: "Toolsley"
 description: ""
-external_url: "https://www.toolsley.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.toolsley.com/)
+

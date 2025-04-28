@@ -1,6 +1,6 @@
 ---
 title: "SparkFun CAN-BUS Shield"
 description: ""
-external_url: "https://www.sparkfun.com/products/13262"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.sparkfun.com/products/13262)
+

@@ -1,6 +1,6 @@
 ---
 title: "TheShiftedBit"
 description: ""
-external_url: "https://github.com/TheShiftedBit"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/TheShiftedBit)
+

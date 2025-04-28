@@ -4,6 +4,6 @@ Investigations"
 description: "
 
 "
-external_url: "https://firstdraftnews.com/how-to-get-started-in-online-investigations-with-open-source-intelligence-osint/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://firstdraftnews.com/how-to-get-started-in-online-investigations-with-open-source-intelligence-osint/)
+

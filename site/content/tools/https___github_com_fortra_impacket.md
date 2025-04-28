@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/fortra/impacket"
 description: "👍"
-external_url: "https://github.com/fortra/impacket"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/fortra/impacket)
+

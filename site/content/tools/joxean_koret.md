@@ -8,6 +8,6 @@ Better help menu
 WIKI pages in the ODAT repository
 
 "
-external_url: "http://seclists.org/fulldisclosure/2012/Apr/204"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](http://seclists.org/fulldisclosure/2012/Apr/204)
+

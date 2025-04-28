@@ -1,6 +1,6 @@
 ---
 title: "sophron"
 description: ""
-external_url: "https://github.com/sophron"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/sophron)
+

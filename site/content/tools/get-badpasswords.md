@@ -1,6 +1,6 @@
 ---
 title: "Get-bADpasswords"
 description: "Get insights into the actual strength and quality of passwords in Active Directory."
-external_url: "https://github.com/improsec/Get-bADpasswords"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/improsec/Get-bADpasswords)
+

@@ -1,6 +1,6 @@
 ---
 title: "soorajsomans"
 description: ""
-external_url: "https://github.com/soorajsomans"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/soorajsomans)
+

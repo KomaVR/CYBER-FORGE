@@ -1,6 +1,6 @@
 ---
 title: "Img Flip"
 description: ""
-external_url: "https://imgflip.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://imgflip.com/)
+

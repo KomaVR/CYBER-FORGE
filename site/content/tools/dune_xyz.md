@@ -1,6 +1,6 @@
 ---
 title: "dune.xyz"
 description: ""
-external_url: "https://dune.xyz"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://dune.xyz)
+

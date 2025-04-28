@@ -1,6 +1,6 @@
 ---
 title: "IPList"
 description: ""
-external_url: "https://iplist.cc/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://iplist.cc/)
+

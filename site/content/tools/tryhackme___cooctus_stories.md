@@ -3,6 +3,6 @@ title: "TryHackMe | Cooctus Stories"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/cooctusadventures"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/cooctusadventures)
+

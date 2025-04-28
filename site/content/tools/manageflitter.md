@@ -1,6 +1,6 @@
 ---
 title: "ManageFlitter"
 description: ""
-external_url: "http://manageflitter.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://manageflitter.com/)
+

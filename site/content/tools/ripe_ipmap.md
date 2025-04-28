@@ -1,6 +1,6 @@
 ---
 title: "RIPE IPmap"
 description: ""
-external_url: "https://ipmap.ripe.net/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://ipmap.ripe.net/)
+

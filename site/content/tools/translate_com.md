@@ -1,6 +1,6 @@
 ---
 title: "Translate.com"
 description: ""
-external_url: "https://www.translate.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.translate.com/)
+

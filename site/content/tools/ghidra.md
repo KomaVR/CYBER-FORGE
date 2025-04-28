@@ -1,6 +1,6 @@
 ---
 title: "Ghidra"
 description: "A software reverse engineering (SRE) framework."
-external_url: "https://github.com/NationalSecurityAgency/ghidra"
-category: "Reverse Engineering"
----
+external_category: "Reverse Engineering"
+---[Visit Website](https://github.com/NationalSecurityAgency/ghidra)
+

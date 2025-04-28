@@ -1,6 +1,6 @@
 ---
 title: "naacbin"
 description: ""
-external_url: "https://github.com/naacbin"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/naacbin)
+

@@ -5,6 +5,6 @@ description: "
 A - global - whitelisting tool (not limited to our infrastructure).
 
 "
-external_url: "https://pypi.org/project/ultimate-hosts-blacklist-whitelist/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://pypi.org/project/ultimate-hosts-blacklist-whitelist/)
+

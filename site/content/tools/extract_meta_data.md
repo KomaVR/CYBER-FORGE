@@ -1,6 +1,6 @@
 ---
 title: "Extract Meta Data"
 description: ""
-external_url: "https://citizenevidence.amnestyusa.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://citizenevidence.amnestyusa.org/)
+

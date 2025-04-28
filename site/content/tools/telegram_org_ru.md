@@ -1,6 +1,6 @@
 ---
 title: "Telegram.org.ru"
 description: ""
-external_url: "https://telegram.org.ru/channels/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://telegram.org.ru/channels/)
+

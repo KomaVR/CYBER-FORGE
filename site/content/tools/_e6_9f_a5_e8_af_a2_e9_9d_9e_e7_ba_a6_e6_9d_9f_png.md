@@ -6,6 +6,6 @@ description: "
 
 主机查询（就不重复贴图了）：Get-NetComputer Unconstrained -Domain xxcom.local
 "
-external_url: "https://github.com/chriskaliX/AD-Pentest-Notes/raw/master/imgs/%E6%9F%A5%E8%AF%A2%E9%9D%9E%E7%BA%A6%E6%9D%9F.png"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/chriskaliX/AD-Pentest-Notes/raw/master/imgs/%E6%9F%A5%E8%AF%A2%E9%9D%9E%E7%BA%A6%E6%9D%9F.png)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://www.ma.gov.br/contatos"
 description: "Contatos do GOV| Maranhão"
-external_url: "https://www.ma.gov.br/contatos"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ma.gov.br/contatos)
+

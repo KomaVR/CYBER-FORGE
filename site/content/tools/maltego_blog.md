@@ -1,6 +1,6 @@
 ---
 title: "Maltego Blog"
 description: ""
-external_url: "https://www.maltego.com/blog"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://www.maltego.com/blog)
+

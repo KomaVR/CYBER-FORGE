@@ -1,6 +1,6 @@
 ---
 title: "OSINT Dojo"
 description: ""
-external_url: "https://www.osintdojo.com/resources/"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://www.osintdojo.com/resources/)
+

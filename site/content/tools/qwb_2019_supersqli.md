@@ -1,6 +1,6 @@
 ---
 title: "qwb_2019_supersqli"
 description: ""
-external_url: "https://github.com/glzjin/qwb_2019_supersqli"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/glzjin/qwb_2019_supersqli)
+

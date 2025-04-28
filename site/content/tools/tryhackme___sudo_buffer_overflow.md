@@ -3,6 +3,6 @@ title: "TryHackMe | Sudo Buffer Overflow"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/sudovulnsbof"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/sudovulnsbof)
+

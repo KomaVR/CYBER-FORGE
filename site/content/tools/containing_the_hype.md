@@ -1,6 +1,6 @@
 ---
 title: "Containing the Hype"
 description: ""
-external_url: "https://www.cs.unc.edu/~porter/pubs/APSys-CameraReady-v2.pdf"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.cs.unc.edu/~porter/pubs/APSys-CameraReady-v2.pdf)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt"
 description: ""
-external_url: "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt)
+

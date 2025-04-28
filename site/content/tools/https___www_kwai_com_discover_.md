@@ -1,6 +1,6 @@
 ---
 title: "https://www.kwai.com/discover/"
 description: ""
-external_url: "https://www.kwai.com/discover/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.kwai.com/discover/)
+

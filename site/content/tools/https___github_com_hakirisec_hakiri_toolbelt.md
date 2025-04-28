@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/hakirisec/hakiri_toolbelt"
 description: "Hakiri Toolbelt is a command line interface for the Hakiri platform."
-external_url: "https://github.com/hakirisec/hakiri_toolbelt"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/hakirisec/hakiri_toolbelt)
+

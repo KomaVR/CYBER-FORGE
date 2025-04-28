@@ -4,6 +4,6 @@ description: "
  Automated Juicy Potato
 ⚠️ Works only until Windows Server 2016 and Windows 10 until patch 1803
 "
-external_url: "https://github.com/TsukiCTF/Lovely-Potato"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/TsukiCTF/Lovely-Potato)
+

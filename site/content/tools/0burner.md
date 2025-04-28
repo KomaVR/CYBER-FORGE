@@ -1,6 +1,6 @@
 ---
 title: "0BuRner"
 description: ""
-external_url: "https://github.com/0BuRner"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/0BuRner)
+

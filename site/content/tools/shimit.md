@@ -1,6 +1,6 @@
 ---
 title: "shimit"
 description: "A tool that implements the Golden SAML attack."
-external_url: "https://github.com/cyberark/shimit"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/cyberark/shimit)
+

@@ -1,6 +1,6 @@
 ---
 title: "sygthred"
 description: ""
-external_url: "https://github.com/sygthred"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/sygthred)
+

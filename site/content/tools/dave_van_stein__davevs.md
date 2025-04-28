@@ -1,6 +1,6 @@
 ---
 title: "Dave van Stein @davevs"
 description: ""
-external_url: "https://www.github.com/davevs"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.github.com/davevs)
+

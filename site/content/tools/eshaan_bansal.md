@@ -1,6 +1,6 @@
 ---
 title: "Eshaan Bansal"
 description: ": Key Contributor"
-external_url: "https://twitter.com/eshaan7_"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://twitter.com/eshaan7_)
+

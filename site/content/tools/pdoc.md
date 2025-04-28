@@ -1,6 +1,6 @@
 ---
 title: "pdoc"
 description: ""
-external_url: "http://miasm.re/miasm_pdoc"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://miasm.re/miasm_pdoc)
+

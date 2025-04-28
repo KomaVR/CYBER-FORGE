@@ -1,6 +1,6 @@
 ---
 title: "GoLand"
 description: ""
-external_url: "http://www.jetbrains.com/go/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.jetbrains.com/go/)
+

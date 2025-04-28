@@ -1,6 +1,6 @@
 ---
 title: "PDF Search Engine, free search, PDF download"
 description: ""
-external_url: "https://printfu.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://printfu.org/)
+

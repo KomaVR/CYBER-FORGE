@@ -6,6 +6,6 @@ description: "UI abstraction:
 Web User Interface.
 
 "
-external_url: "https://github.com/Arachni/arachni/wiki/Executables"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/Arachni/arachni/wiki/Executables)
+

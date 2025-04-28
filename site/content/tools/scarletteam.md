@@ -1,6 +1,6 @@
 ---
 title: "ScarletTeam"
 description: ""
-external_url: "https://github.com/ScarletTeam"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ScarletTeam)
+

@@ -1,6 +1,6 @@
 ---
 title: "hapi.one"
 description: ""
-external_url: "https://hapi.one/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://hapi.one/)
+

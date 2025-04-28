@@ -1,6 +1,6 @@
 ---
 title: "Offensive Network Security"
 description: ""
-external_url: "http://www.cs.fsu.edu/~lawrence/OffNetSec/"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](http://www.cs.fsu.edu/~lawrence/OffNetSec/)
+

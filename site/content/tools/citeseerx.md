@@ -1,6 +1,6 @@
 ---
 title: "CiteSeerX"
 description: ""
-external_url: "http://citeseer.ist.psu.edu"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://citeseer.ist.psu.edu)
+

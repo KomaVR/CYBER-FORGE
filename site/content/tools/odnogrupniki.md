@@ -1,6 +1,6 @@
 ---
 title: "Odnogrupniki"
 description: ""
-external_url: "https://odnogrupniki.com.ua"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://odnogrupniki.com.ua)
+

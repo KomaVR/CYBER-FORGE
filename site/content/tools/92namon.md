@@ -1,6 +1,6 @@
 ---
 title: "92naMoN"
 description: ""
-external_url: "https://github.com/92naMoN"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/92naMoN)
+

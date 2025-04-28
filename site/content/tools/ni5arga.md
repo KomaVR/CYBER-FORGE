@@ -1,6 +1,6 @@
 ---
 title: "ni5arga"
 description: ""
-external_url: "https://github.com/ni5arga"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ni5arga)
+

@@ -1,6 +1,6 @@
 ---
 title: "walletexplorer"
 description: ""
-external_url: "https://www.walletexplorer.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.walletexplorer.com)
+

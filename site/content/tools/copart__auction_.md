@@ -1,6 +1,6 @@
 ---
 title: "copart (auction)"
 description: ""
-external_url: "https://www.copart.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.copart.com)
+

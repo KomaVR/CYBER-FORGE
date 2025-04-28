@@ -1,6 +1,6 @@
 ---
 title: "otkd"
 description: ""
-external_url: "https://github.com/otkd"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/otkd)
+

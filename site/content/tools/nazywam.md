@@ -1,6 +1,6 @@
 ---
 title: "nazywam"
 description: ""
-external_url: "https://github.com/nazywam"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/nazywam)
+

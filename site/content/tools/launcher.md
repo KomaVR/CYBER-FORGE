@@ -5,6 +5,6 @@ description: "
 Usage & instructions found on the launcher repo
 
 "
-external_url: "https://github.com/Col-E/Recaf-Launcher"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Col-E/Recaf-Launcher)
+

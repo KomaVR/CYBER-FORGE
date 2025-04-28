@@ -1,6 +1,6 @@
 ---
 title: "Vulmon"
 description: "Vulnerability and exploit search engine"
-external_url: "https://vulmon.com/"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://vulmon.com/)
+

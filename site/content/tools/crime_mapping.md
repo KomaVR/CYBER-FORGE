@@ -1,6 +1,6 @@
 ---
 title: "Crime Mapping"
 description: ""
-external_url: "https://www.crimemapping.com/home"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.crimemapping.com/home)
+

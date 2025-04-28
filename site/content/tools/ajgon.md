@@ -1,6 +1,6 @@
 ---
 title: "ajgon"
 description: ""
-external_url: "https://github.com/ajgon"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ajgon)
+

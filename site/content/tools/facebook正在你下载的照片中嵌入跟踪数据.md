@@ -33,6 +33,6 @@ Humanitarian Data Exchange
 
 
 "
-external_url: "https://twitter.com/oasace/status/1149181539000864769"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://twitter.com/oasace/status/1149181539000864769)
+

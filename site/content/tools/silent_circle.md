@@ -1,6 +1,6 @@
 ---
 title: "Silent circle"
 description: ""
-external_url: "https://www.silentcircle.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.silentcircle.com)
+

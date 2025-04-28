@@ -1,6 +1,6 @@
 ---
 title: "https://www.marinetraffic.com/en/ais/home/centerx:-40.1/centery:-3.4/zoom:7"
 description: ""
-external_url: "https://www.marinetraffic.com/en/ais/home/centerx:-40.1/centery:-3.4/zoom:7"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.marinetraffic.com/en/ais/home/centerx:-40.1/centery:-3.4/zoom:7)
+

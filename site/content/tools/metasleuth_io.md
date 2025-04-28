@@ -1,6 +1,6 @@
 ---
 title: "metasleuth.io"
 description: ""
-external_url: "https://metasleuth.io"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://metasleuth.io)
+

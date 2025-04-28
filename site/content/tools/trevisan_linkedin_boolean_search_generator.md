@@ -1,6 +1,6 @@
 ---
 title: "Trevisan LinkedIn Boolean Search Generator"
 description: ""
-external_url: "http://trevisansocial.com/linkedtool/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://trevisansocial.com/linkedtool/)
+

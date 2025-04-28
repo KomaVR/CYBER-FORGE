@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Complex Networks - RIT"
 description: ""
-external_url: "https://www.youtube.com/playlist?list=PLE9AAD550EA21F3DC"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://www.youtube.com/playlist?list=PLE9AAD550EA21F3DC)
+

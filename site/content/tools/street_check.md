@@ -1,6 +1,6 @@
 ---
 title: "Street Check"
 description: "(UK)"
-external_url: "https://www.streetcheck.co.uk"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.streetcheck.co.uk)
+

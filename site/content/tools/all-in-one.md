@@ -1,6 +1,6 @@
 ---
 title: "All-in-One"
 description: ""
-external_url: "http://all-io.net/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://all-io.net/)
+

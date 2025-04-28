@@ -1,6 +1,6 @@
 ---
 title: "LuitelSamikshya"
 description: ""
-external_url: "https://github.com/LuitelSamikshya"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/LuitelSamikshya)
+

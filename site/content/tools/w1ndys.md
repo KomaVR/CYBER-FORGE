@@ -1,6 +1,6 @@
 ---
 title: "W1ndys"
 description: ""
-external_url: "https://github.com/W1ndys"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/W1ndys)
+

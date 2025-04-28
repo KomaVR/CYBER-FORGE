@@ -1,6 +1,6 @@
 ---
 title: "https://queimadas.dgi.inpe.br/queimadas/bdqueimadas"
 description: ""
-external_url: "https://queimadas.dgi.inpe.br/queimadas/bdqueimadas"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://queimadas.dgi.inpe.br/queimadas/bdqueimadas)
+

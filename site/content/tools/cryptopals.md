@@ -5,6 +5,6 @@ description: "
 The OG crypto challenge site.
 
 "
-external_url: "https://cryptopals.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://cryptopals.com/)
+

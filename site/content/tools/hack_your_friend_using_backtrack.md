@@ -5,6 +5,6 @@ description: "Backtrack
 
 
 "
-external_url: "http://hackerspace.cs.rutgers.edu/library/bt5tutorials/HackYourFriend.pdf"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://hackerspace.cs.rutgers.edu/library/bt5tutorials/HackYourFriend.pdf)
+

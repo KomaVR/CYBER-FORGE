@@ -1,6 +1,6 @@
 ---
 title: "Xshell"
 description: "~ Shell Finder By Ⓜ Ⓐ Ⓝ Ⓘ Ⓢ Ⓢ Ⓞ  ☪ ~."
-external_url: "https://github.com/Manisso/Xshell"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Manisso/Xshell)
+

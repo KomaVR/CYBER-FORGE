@@ -1,6 +1,6 @@
 ---
 title: "Grey Literature Strategies"
 description: ""
-external_url: "http://greylitstrategies.info"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://greylitstrategies.info)
+

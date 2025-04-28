@@ -1,6 +1,6 @@
 ---
 title: "messari"
 description: ""
-external_url: "https://messari.io"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://messari.io)
+

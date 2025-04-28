@@ -1,6 +1,6 @@
 ---
 title: "Bablic"
 description: ""
-external_url: "https://www.bablic.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.bablic.com/)
+

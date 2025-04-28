@@ -1,6 +1,6 @@
 ---
 title: "ajread4"
 description: ""
-external_url: "https://github.com/ajread4"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ajread4)
+

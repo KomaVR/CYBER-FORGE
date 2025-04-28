@@ -1,6 +1,6 @@
 ---
 title: "nsadeveloper789"
 description: ""
-external_url: "https://github.com/nsadeveloper789"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/nsadeveloper789)
+

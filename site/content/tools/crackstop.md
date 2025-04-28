@@ -1,6 +1,6 @@
 ---
 title: "CrackStop"
 description: "Tool that creates a security  envelope around a DOS EXE file to protect it against crackers."
-external_url: "https://defacto2.net/f/a520164?packer=crackstop"
-category: "Password Cracking"
----
+external_category: "Password Cracking"
+---[Visit Website](https://defacto2.net/f/a520164?packer=crackstop)
+

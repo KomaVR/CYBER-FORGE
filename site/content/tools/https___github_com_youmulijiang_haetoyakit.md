@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/youmulijiang/HaeToYakit"
 description: "HaeToYakit:"
-external_url: "https://github.com/youmulijiang/HaeToYakit"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/youmulijiang/HaeToYakit)
+

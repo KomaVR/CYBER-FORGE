@@ -1,6 +1,6 @@
 ---
 title: "Tresorit"
 description: ""
-external_url: "https://www.tresorit.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.tresorit.com)
+

@@ -3,6 +3,6 @@ title: "TryHackMe | Sakura Room"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/sakura"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/sakura)
+

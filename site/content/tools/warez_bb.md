@@ -1,6 +1,6 @@
 ---
 title: "Warez BB"
 description: ""
-external_url: "https://www.warez-bb.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.warez-bb.org)
+

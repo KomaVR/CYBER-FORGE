@@ -2,6 +2,6 @@
 title: "iiNT3LiiG3NCii"
 description: "iiNT3LiiG3NCii
 ][NT3L][G3NC]["
-external_url: "https://github.com/iiNT3LiiG3NCii"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/iiNT3LiiG3NCii)
+

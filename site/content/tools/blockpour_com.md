@@ -1,6 +1,6 @@
 ---
 title: "blockpour.com"
 description: ""
-external_url: "https://www.blockpour.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.blockpour.com/)
+

@@ -2,6 +2,6 @@
 title: "swagkarna"
 description: "swagkarna
 swagkarna"
-external_url: "https://github.com/swagkarna"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/swagkarna)
+

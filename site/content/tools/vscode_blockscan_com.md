@@ -1,6 +1,6 @@
 ---
 title: "vscode.blockscan.com"
 description: ""
-external_url: "https://vscode.blockscan.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://vscode.blockscan.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "@erenbektas"
 description: "and @Eta06  - Turkish translation"
-external_url: "https://github.com/erenbektas"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/erenbektas)
+

@@ -1,6 +1,6 @@
 ---
 title: "dougallj's applecpu"
 description: ""
-external_url: "https://dougallj.github.io/applecpu/firestorm.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://dougallj.github.io/applecpu/firestorm.html)
+

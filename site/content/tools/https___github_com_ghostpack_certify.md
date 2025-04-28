@@ -9,6 +9,6 @@ PKINITtools: https://github.com/dirkjanm/PKINITtools
 ADCSPwn: https://github.com/bats3c/ADCSPwn
 
 "
-external_url: "https://github.com/GhostPack/Certify"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/GhostPack/Certify)
+

@@ -1,6 +1,6 @@
 ---
 title: "earni.fi"
 description: ""
-external_url: "https://earni.fi/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://earni.fi/)
+

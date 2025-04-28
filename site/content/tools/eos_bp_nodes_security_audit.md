@@ -1,6 +1,6 @@
 ---
 title: "EOS BP nodes security audit"
 description: ""
-external_url: "https://github.com/slowmist/eos-bp-nodes-security-checklist/blob/master/audit.md"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/slowmist/eos-bp-nodes-security-checklist/blob/master/audit.md)
+

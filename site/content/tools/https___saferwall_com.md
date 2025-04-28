@@ -3,6 +3,6 @@ title: "https://saferwall.com"
 description: "
 \"I want to try it first\" : Use the cloud instance in .
 "
-external_url: "https://saferwall.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://saferwall.com)
+

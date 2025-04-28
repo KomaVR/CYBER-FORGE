@@ -1,6 +1,6 @@
 ---
 title: "Seek (Australia)"
 description: ""
-external_url: "http://www.seek.com.au"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.seek.com.au)
+

@@ -1,6 +1,6 @@
 ---
 title: "ScareCrow：一款为bypass EDR的框架"
 description: ""
-external_url: "https://github.com/optiv/ScareCrow"
-category: "Grey Hat Tools"
----
+external_category: "Grey Hat Tools"
+---[Visit Website](https://github.com/optiv/ScareCrow)
+

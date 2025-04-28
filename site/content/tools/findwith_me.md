@@ -1,6 +1,6 @@
 ---
 title: "Findwith.me"
 description: ""
-external_url: "http://www.findwith.me/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.findwith.me/)
+

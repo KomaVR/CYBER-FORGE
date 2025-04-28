@@ -1,6 +1,6 @@
 ---
 title: "erigoneth Node"
 description: ""
-external_url: "https://twitter.com/erigoneth"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://twitter.com/erigoneth)
+

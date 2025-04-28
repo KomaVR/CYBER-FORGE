@@ -1,6 +1,6 @@
 ---
 title: "Company Research Resources by Country Comparably"
 description: ""
-external_url: "https://www.comparably.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.comparably.com)
+

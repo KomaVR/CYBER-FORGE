@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/NH-RED-TEAM/RustHound"
 description: ""
-external_url: "https://github.com/NH-RED-TEAM/RustHound"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/NH-RED-TEAM/RustHound)
+

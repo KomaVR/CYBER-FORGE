@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://patreon.com/j3ssie"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://patreon.com/j3ssie)
+

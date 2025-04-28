@@ -1,6 +1,6 @@
 ---
 title: "https://computingforgeeks.com/how-to-protect-grub-with-password-on-debian-ubuntu-and-kali-linux/"
 description: ""
-external_url: "https://computingforgeeks.com/how-to-protect-grub-with-password-on-debian-ubuntu-and-kali-linux/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://computingforgeeks.com/how-to-protect-grub-with-password-on-debian-ubuntu-and-kali-linux/)
+

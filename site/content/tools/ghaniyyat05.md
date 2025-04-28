@@ -1,6 +1,6 @@
 ---
 title: "Ghaniyyat05"
 description: ""
-external_url: "https://github.com/Ghaniyyat05"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Ghaniyyat05)
+

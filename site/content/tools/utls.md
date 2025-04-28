@@ -10,6 +10,6 @@ Support for external proxying such as TOR and CDNs
 Operators connect to C2 using WireGuard and mTLS
 
 "
-external_url: "https://github.com/refraction-networking/utls"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/refraction-networking/utls)
+

@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://werwolv.net/donate"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://werwolv.net/donate)
+

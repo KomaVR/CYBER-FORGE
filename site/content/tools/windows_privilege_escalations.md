@@ -1,6 +1,6 @@
 ---
 title: "Windows Privilege Escalations"
 description: ""
-external_url: "https://www.exploit-db.com/docs/46131"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.exploit-db.com/docs/46131)
+

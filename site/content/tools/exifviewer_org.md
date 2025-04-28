@@ -1,6 +1,6 @@
 ---
 title: "EXIFviewer.org"
 description: ""
-external_url: "http://www.exifviewer.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.exifviewer.org/)
+

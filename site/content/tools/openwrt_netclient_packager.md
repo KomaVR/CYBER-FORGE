@@ -3,6 +3,6 @@ title: "OpenWRT Netclient Packager"
 description: "
 
 "
-external_url: "https://github.com/sbilly/netmaker-openwrt"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/sbilly/netmaker-openwrt)
+

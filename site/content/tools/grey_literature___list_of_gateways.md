@@ -1,6 +1,6 @@
 ---
 title: "Grey Literature – List of Gateways"
 description: ""
-external_url: "http://csulb.libguides.com/graylit"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://csulb.libguides.com/graylit)
+

@@ -1,6 +1,6 @@
 ---
 title: "chartblocks"
 description: ""
-external_url: "http://www.chartblocks.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.chartblocks.com)
+

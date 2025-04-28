@@ -1,6 +1,6 @@
 ---
 title: "twbirthday"
 description: ""
-external_url: "http://twbirthday.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://twbirthday.com/)
+

@@ -3,6 +3,6 @@ title: "hackertarget"
 description: "
 
 "
-external_url: "https://hackertarget.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://hackertarget.com/)
+

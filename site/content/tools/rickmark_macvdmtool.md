@@ -1,6 +1,6 @@
 ---
 title: "rickmark/macvdmtool"
 description: ""
-external_url: "https://github.com/rickmark/macvdmtool"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/rickmark/macvdmtool)
+

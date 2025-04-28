@@ -6,6 +6,6 @@ Writeup
 Video
 
 "
-external_url: "https://github.com/LamonatoAndrea"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/LamonatoAndrea)
+

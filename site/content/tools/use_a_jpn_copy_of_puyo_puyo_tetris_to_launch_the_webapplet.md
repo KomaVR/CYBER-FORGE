@@ -5,6 +5,6 @@ description: "Run a connection test to trigger the Captive Portal. (Likewise, go
 If on 1.0.0,  instead.
 
 "
-external_url: "http://switchbrew.org/index.php?title=Internet_Browser#WebApplet_launch_with_Tetris"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://switchbrew.org/index.php?title=Internet_Browser#WebApplet_launch_with_Tetris)
+

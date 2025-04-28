@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/fnmsd/MySQL_Fake_Server"
 description: ""
-external_url: "https://github.com/fnmsd/MySQL_Fake_Server"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/fnmsd/MySQL_Fake_Server)
+

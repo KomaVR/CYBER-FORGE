@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/mariusv"
 description: "Marius Voila"
-external_url: "https://github.com/mariusv"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mariusv)
+

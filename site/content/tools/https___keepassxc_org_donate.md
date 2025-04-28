@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://keepassxc.org/donate"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://keepassxc.org/donate)
+

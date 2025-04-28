@@ -1,6 +1,6 @@
 ---
 title: "Jeffrey Friedl's Image Metadata Viewer"
 description: ""
-external_url: "http://exif.regex.info/exif.cgi"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://exif.regex.info/exif.cgi)
+

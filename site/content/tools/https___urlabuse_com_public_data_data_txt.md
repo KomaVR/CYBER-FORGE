@@ -1,6 +1,6 @@
 ---
 title: "https://urlabuse.com/public/data/data.txt"
 description: ""
-external_url: "https://urlabuse.com/public/data/data.txt"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://urlabuse.com/public/data/data.txt)
+

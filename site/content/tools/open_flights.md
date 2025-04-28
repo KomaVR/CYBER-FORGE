@@ -1,6 +1,6 @@
 ---
 title: "Open Flights"
 description: ""
-external_url: "https://openflights.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://openflights.org/)
+

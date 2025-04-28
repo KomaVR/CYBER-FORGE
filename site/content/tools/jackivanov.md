@@ -1,6 +1,6 @@
 ---
 title: "jackivanov"
 description: ""
-external_url: "https://github.com/jackivanov"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jackivanov)
+

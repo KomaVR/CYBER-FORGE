@@ -1,6 +1,6 @@
 ---
 title: "fangyinc"
 description: ""
-external_url: "https://github.com/fangyinc"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/fangyinc)
+

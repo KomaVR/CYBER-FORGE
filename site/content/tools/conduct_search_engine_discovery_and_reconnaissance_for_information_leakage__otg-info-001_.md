@@ -11,6 +11,6 @@ Analysis of Stack Traces (OTG-ERR-002)
 Conduct a Fuzzing for Hidden and Sensitive Files or Directories (EXTRA-TEST-014)
 
 "
-external_url: "https://github.com/Voorivex/pentest-guide/tree/master/Information-Leakage"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/Voorivex/pentest-guide/tree/master/Information-Leakage)
+

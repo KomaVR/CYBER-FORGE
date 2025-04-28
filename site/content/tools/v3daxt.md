@@ -1,6 +1,6 @@
 ---
 title: "v3daxt"
 description: ""
-external_url: "https://github.com/v3daxt"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/v3daxt)
+

@@ -1,6 +1,6 @@
 ---
 title: "openchain.xyz EVM Trace"
 description: ""
-external_url: "https://openchain.xyz/trace"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://openchain.xyz/trace)
+

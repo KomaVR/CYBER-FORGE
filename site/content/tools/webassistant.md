@@ -1,6 +1,6 @@
 ---
 title: "WebAssistant"
 description: ""
-external_url: "http://www.proxy-offline-browser.com/download.html"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://www.proxy-offline-browser.com/download.html)
+

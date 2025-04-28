@@ -1,6 +1,6 @@
 ---
 title: "PeopleSearch.net"
 description: ""
-external_url: "http://www.peoplesearch.net/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.peoplesearch.net/)
+

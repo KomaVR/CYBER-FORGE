@@ -1,6 +1,6 @@
 ---
 title: "Programming and Data structures (PDS) - IIT Madras"
 description: ""
-external_url: "https://nptel.ac.in/courses/106106130/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://nptel.ac.in/courses/106106130/)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://dados.mogidascruzes.sp.gov.br/dataset/"
 description: ""
-external_url: "https://dados.mogidascruzes.sp.gov.br/dataset/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://dados.mogidascruzes.sp.gov.br/dataset/)
+

@@ -1,6 +1,6 @@
 ---
 title: "HackQuest"
 description: "Anonymous Webhosting, Virtual Servers, Secure Email"
-external_url: "http://www.hackquest.com/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://www.hackquest.com/)
+

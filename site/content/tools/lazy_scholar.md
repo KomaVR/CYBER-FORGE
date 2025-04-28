@@ -1,6 +1,6 @@
 ---
 title: "Lazy Scholar"
 description: ""
-external_url: "http://www.lazyscholar.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.lazyscholar.org)
+

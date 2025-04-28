@@ -1,6 +1,6 @@
 ---
 title: "cryptofees.info"
 description: ""
-external_url: "https://cryptofees.info"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://cryptofees.info)
+

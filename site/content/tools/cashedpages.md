@@ -1,6 +1,6 @@
 ---
 title: "CashedPages"
 description: ""
-external_url: "http://www.cachedpages.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.cachedpages.com)
+

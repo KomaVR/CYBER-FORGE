@@ -1,6 +1,6 @@
 ---
 title: "tlsx"
 description: ""
-external_url: "https://github.com/projectdiscovery/tlsx"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/projectdiscovery/tlsx)
+

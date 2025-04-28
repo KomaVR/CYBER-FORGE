@@ -1,6 +1,6 @@
 ---
 title: "napz99"
 description: ""
-external_url: "https://github.com/napz99"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/napz99)
+

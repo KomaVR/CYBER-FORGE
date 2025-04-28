@@ -1,6 +1,6 @@
 ---
 title: "daedalus"
 description: ""
-external_url: "https://github.com/daedalus"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/daedalus)
+

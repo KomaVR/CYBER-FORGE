@@ -1,6 +1,6 @@
 ---
 title: "deadjakk"
 description: ""
-external_url: "https://github.com/deadjakk"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/deadjakk)
+

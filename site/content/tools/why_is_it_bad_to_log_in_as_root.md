@@ -1,6 +1,6 @@
 ---
 title: "Why is it bad to log in as root? (original)"
 description: ""
-external_url: "https://askubuntu.com/questions/16178/why-is-it-bad-to-log-in-as-root"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://askubuntu.com/questions/16178/why-is-it-bad-to-log-in-as-root)
+

@@ -1,6 +1,6 @@
 ---
 title: "Cyclonedx-gomod"
 description: ""
-external_url: "https://github.com/CycloneDX/cyclonedx-gomod"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/CycloneDX/cyclonedx-gomod)
+

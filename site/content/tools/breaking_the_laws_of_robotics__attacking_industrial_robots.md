@@ -1,6 +1,6 @@
 ---
 title: "Breaking the Laws of Robotics: Attacking Industrial Robots"
 description: ", Black Hat USA 2017"
-external_url: "https://www.youtube.com/watch?v=RKLUWnzIaP4"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.youtube.com/watch?v=RKLUWnzIaP4)
+

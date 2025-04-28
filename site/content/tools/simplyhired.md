@@ -1,6 +1,6 @@
 ---
 title: "SimplyHired"
 description: ""
-external_url: "http://www.simplyhired.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.simplyhired.com)
+

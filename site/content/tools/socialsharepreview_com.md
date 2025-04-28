@@ -1,6 +1,6 @@
 ---
 title: "SocialSharePreview.com"
 description: ""
-external_url: "https://socialsharepreview.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://socialsharepreview.com/)
+

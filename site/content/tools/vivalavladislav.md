@@ -1,6 +1,6 @@
 ---
 title: "vivalavladislav"
 description: ""
-external_url: "https://github.com/vivalavladislav"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/vivalavladislav)
+

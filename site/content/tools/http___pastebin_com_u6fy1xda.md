@@ -1,6 +1,6 @@
 ---
 title: "http://pastebin.com/u6FY1xDA"
 description: "xss/soaj1664ashar.txt"
-external_url: "http://pastebin.com/u6FY1xDA"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://pastebin.com/u6FY1xDA)
+

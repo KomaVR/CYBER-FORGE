@@ -3,6 +3,6 @@ title: "Sploit.io"
 description: "
 
 "
-external_url: "https://sploit.io/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://sploit.io/)
+

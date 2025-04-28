@@ -6,6 +6,6 @@ description: "First Release Info:
 https://cfp.recon.cx/reconmtl2019/talk/MRJ3CN/
 
 "
-external_url: "https://recon.cx/2019/montreal/"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://recon.cx/2019/montreal/)
+

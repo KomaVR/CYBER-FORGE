@@ -1,6 +1,6 @@
 ---
 title: "catmandx"
 description: ""
-external_url: "https://github.com/catmandx"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/catmandx)
+

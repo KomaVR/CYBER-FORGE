@@ -1,6 +1,6 @@
 ---
 title: "CS基础"
 description: ""
-external_url: "https://github.com/selfboot/CS_Offer/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/selfboot/CS_Offer/)
+

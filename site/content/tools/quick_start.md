@@ -1,6 +1,6 @@
 ---
 title: "Quick Start"
 description: ""
-external_url: "https://github.com/v-byte-cpu/sx#-quick-start"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/v-byte-cpu/sx#-quick-start)
+

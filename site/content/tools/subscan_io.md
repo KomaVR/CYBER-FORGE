@@ -1,6 +1,6 @@
 ---
 title: "subscan.io"
 description: ""
-external_url: "https://www.subscan.io"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.subscan.io)
+

@@ -1,6 +1,6 @@
 ---
 title: "Myallsearch"
 description: ""
-external_url: "http://www.myallsearch.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.myallsearch.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Moodle"
 description: ""
-external_url: "https://github.com/daffainfo/AllAboutBugBounty/blob/master/Technologies/Moodle.md"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Technologies/Moodle.md)
+

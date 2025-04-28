@@ -1,6 +1,6 @@
 ---
 title: "OscarAkaElvis"
 description: ", Twitter (X): @"
-external_url: "https://github.com/OscarAkaElvis"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/OscarAkaElvis)
+

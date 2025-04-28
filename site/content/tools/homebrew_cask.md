@@ -4,6 +4,6 @@ description: "
 macOS: Download the .dmg file or use :
 brew install --cask cutter
 "
-external_url: "https://github.com/Homebrew/homebrew-cask"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Homebrew/homebrew-cask)
+

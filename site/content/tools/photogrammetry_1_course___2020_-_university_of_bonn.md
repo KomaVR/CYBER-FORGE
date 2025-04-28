@@ -1,6 +1,6 @@
 ---
 title: "Photogrammetry 1 Course – 2020 - University of Bonn"
 description: ""
-external_url: "https://www.ipb.uni-bonn.de/photo1-2020/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ipb.uni-bonn.de/photo1-2020/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Arronax"
 description: ""
-external_url: "https://github.com/Cryptonomic/Arronax"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Cryptonomic/Arronax)
+

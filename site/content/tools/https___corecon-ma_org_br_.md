@@ -1,6 +1,6 @@
 ---
 title: "https://corecon-ma.org.br/"
 description: "CORECON"
-external_url: "https://corecon-ma.org.br/"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://corecon-ma.org.br/)
+

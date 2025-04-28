@@ -1,6 +1,6 @@
 ---
 title: "http://www.portswigger.net/burp/intruder.html"
 description: "Burp Intruder is a tool for automating customized attacks against web apps."
-external_url: "http://www.portswigger.net/burp/intruder.html"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://www.portswigger.net/burp/intruder.html)
+

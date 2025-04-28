@@ -1,6 +1,6 @@
 ---
 title: "Google Alert"
 description: "Create s."
-external_url: "https://www.google.com.au/alerts"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.google.com.au/alerts)
+

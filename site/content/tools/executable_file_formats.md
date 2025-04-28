@@ -1,6 +1,6 @@
 ---
 title: "Executable file formats"
 description: "🌎"
-external_url: "https://docs.fileformat.com/executable"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://docs.fileformat.com/executable)
+

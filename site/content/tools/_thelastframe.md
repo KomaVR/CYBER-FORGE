@@ -1,6 +1,6 @@
 ---
 title: "@TheLastFrame"
 description: "Buds Pro icons"
-external_url: "https://github.com/TheLastFrame"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/TheLastFrame)
+

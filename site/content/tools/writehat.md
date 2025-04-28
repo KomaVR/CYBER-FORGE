@@ -1,6 +1,6 @@
 ---
 title: "Writehat"
 description: ""
-external_url: "https://github.com/blacklanternsecurity/writehat"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/blacklanternsecurity/writehat)
+

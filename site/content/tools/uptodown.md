@@ -1,6 +1,6 @@
 ---
 title: "Uptodown"
 description: ""
-external_url: "https://uptodown.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://uptodown.com/)
+

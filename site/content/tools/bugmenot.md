@@ -1,6 +1,6 @@
 ---
 title: "BugMeNot"
 description: "Find and share logins"
-external_url: "https://bugmenot.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://bugmenot.com/)
+

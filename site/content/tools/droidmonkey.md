@@ -1,6 +1,6 @@
 ---
 title: "droidmonkey"
 description: ""
-external_url: "https://github.com/droidmonkey"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/droidmonkey)
+

@@ -1,6 +1,6 @@
 ---
 title: "sir"
 description: "Skype Ip Resolver."
-external_url: "https://github.com/AeonDave/sir"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/AeonDave/sir)
+

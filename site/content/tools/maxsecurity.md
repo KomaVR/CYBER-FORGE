@@ -1,6 +1,6 @@
 ---
 title: "MaxSecurity"
 description: ""
-external_url: "https://github.com/MaxSecurity"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/MaxSecurity)
+

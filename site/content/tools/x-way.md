@@ -1,6 +1,6 @@
 ---
 title: "x-way"
 description: ""
-external_url: "https://github.com/x-way"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/x-way)
+

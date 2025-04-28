@@ -1,6 +1,6 @@
 ---
 title: "Bytebase vs Jira"
 description: ""
-external_url: "https://www.bytebase.com/blog/use-jira-for-database-change/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.bytebase.com/blog/use-jira-for-database-change/)
+

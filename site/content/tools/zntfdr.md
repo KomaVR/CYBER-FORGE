@@ -1,6 +1,6 @@
 ---
 title: "zntfdr"
 description: ""
-external_url: "https://github.com/zntfdr"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/zntfdr)
+

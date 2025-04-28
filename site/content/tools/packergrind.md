@@ -1,6 +1,6 @@
 ---
 title: "PackerGrind"
 description: "Adaptive unpacking tool for tracking packing bahaviors and unpacking Android packed apps."
-external_url: "https://github.com/rewhy/adaptiveunpacker"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/rewhy/adaptiveunpacker)
+

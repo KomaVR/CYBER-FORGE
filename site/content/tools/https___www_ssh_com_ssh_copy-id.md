@@ -1,6 +1,6 @@
 ---
 title: "https://www.ssh.com/ssh/copy-id"
 description: ""
-external_url: "https://www.ssh.com/ssh/copy-id"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ssh.com/ssh/copy-id)
+

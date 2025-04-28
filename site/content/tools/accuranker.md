@@ -1,6 +1,6 @@
 ---
 title: "Accuranker"
 description: ""
-external_url: "https://www.accuranker.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.accuranker.com)
+

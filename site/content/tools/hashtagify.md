@@ -1,6 +1,6 @@
 ---
 title: "Hashtagify"
 description: ""
-external_url: "http://hashtagify.me/"
-category: "Password Cracking"
----
+external_category: "Password Cracking"
+---[Visit Website](http://hashtagify.me/)
+

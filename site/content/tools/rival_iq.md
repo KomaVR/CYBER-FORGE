@@ -1,6 +1,6 @@
 ---
 title: "Rival IQ"
 description: ""
-external_url: "https://www.rivaliq.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.rivaliq.com)
+

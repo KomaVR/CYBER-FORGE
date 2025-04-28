@@ -1,6 +1,6 @@
 ---
 title: "torghost"
 description: "Tor anonimizer."
-external_url: "https://github.com/SusmithKrishnan/torghost"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/SusmithKrishnan/torghost)
+

@@ -1,6 +1,6 @@
 ---
 title: "Cycript"
 description: ""
-external_url: "https://cydia.saurik.com/api/latest/3"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://cydia.saurik.com/api/latest/3)
+

@@ -1,6 +1,6 @@
 ---
 title: "igor-suhorukov"
 description: ""
-external_url: "https://github.com/igor-suhorukov"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/igor-suhorukov)
+

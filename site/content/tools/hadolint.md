@@ -1,6 +1,6 @@
 ---
 title: "hadolint"
 description: "linter for the Dockerfiles"
-external_url: "https://github.com/hadolint/hadolint"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/hadolint/hadolint)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/dotboris/vuejs-serverside-template-xss"
 description: ""
-external_url: "https://github.com/dotboris/vuejs-serverside-template-xss"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/dotboris/vuejs-serverside-template-xss)
+

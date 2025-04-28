@@ -1,6 +1,6 @@
 ---
 title: "dincaus"
 description: ""
-external_url: "https://github.com/dincaus"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/dincaus)
+

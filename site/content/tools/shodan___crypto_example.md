@@ -1,6 +1,6 @@
 ---
 title: "Shodan + Crypto example"
 description: ""
-external_url: "https://twitter.com/shodanhq/status/1358859656207216647"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://twitter.com/shodanhq/status/1358859656207216647)
+

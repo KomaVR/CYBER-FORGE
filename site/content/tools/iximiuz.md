@@ -1,6 +1,6 @@
 ---
 title: "iximiuz"
 description: ""
-external_url: "https://github.com/iximiuz"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/iximiuz)
+

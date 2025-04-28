@@ -1,6 +1,6 @@
 ---
 title: "atomiku"
 description: ""
-external_url: "http://atomiku.com/online-php-code-obfuscator/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://atomiku.com/online-php-code-obfuscator/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Search FCC ID Database"
 description: ""
-external_url: "https://fccid.io/search.php"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://fccid.io/search.php)
+

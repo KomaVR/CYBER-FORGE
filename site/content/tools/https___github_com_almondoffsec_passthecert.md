@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/AlmondOffSec/PassTheCert"
 description: "PassTheCert:"
-external_url: "https://github.com/AlmondOffSec/PassTheCert"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/AlmondOffSec/PassTheCert)
+

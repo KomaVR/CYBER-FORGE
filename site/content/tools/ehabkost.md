@@ -1,6 +1,6 @@
 ---
 title: "ehabkost"
 description: ""
-external_url: "https://github.com/ehabkost"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ehabkost)
+

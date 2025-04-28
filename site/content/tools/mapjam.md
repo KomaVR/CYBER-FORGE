@@ -1,6 +1,6 @@
 ---
 title: "MapJam"
 description: ""
-external_url: "http://mapjam.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://mapjam.com)
+

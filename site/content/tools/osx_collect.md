@@ -1,6 +1,6 @@
 ---
 title: "OSX Collect"
 description: ""
-external_url: "https://github.com/Yelp/osxcollector"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Yelp/osxcollector)
+

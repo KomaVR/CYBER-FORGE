@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/matricali"
 description: "Jorge Matricali (  )"
-external_url: "https://github.com/matricali"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/matricali)
+

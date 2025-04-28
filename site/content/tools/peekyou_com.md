@@ -2,6 +2,6 @@
 title: "peekyou.com"
 description: "Peekyou,
  "
-external_url: "http://peekyou.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://peekyou.com)
+

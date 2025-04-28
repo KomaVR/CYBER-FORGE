@@ -1,6 +1,6 @@
 ---
 title: "Disk Clone and ISO Image Acquire"
 description: ""
-external_url: "https://guymager.sourceforge.io/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://guymager.sourceforge.io/)
+

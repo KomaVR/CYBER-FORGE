@@ -1,6 +1,6 @@
 ---
 title: "Subdomains"
 description: ""
-external_url: "https://sn0int.readthedocs.io/en/latest/structs.html#subdomains"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://sn0int.readthedocs.io/en/latest/structs.html#subdomains)
+

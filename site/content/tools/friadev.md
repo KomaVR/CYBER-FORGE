@@ -1,6 +1,6 @@
 ---
 title: "friadev"
 description: ""
-external_url: "https://github.com/friadev"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/friadev)
+

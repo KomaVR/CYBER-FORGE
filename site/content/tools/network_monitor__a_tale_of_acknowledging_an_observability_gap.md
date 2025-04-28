@@ -1,6 +1,6 @@
 ---
 title: "Network Monitor: A Tale of ACKnowledging an Observability Gap"
 description: ""
-external_url: "https://www.usenix.org/conference/srecon19emea/presentation/gedge"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://www.usenix.org/conference/srecon19emea/presentation/gedge)
+

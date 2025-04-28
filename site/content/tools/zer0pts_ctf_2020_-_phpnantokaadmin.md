@@ -16,6 +16,6 @@ CREATE TABLE 後面也能接 SELECT condition
 
 
 "
-external_url: "https://github.com/w181496/CTF/tree/master/zer0pts2020/phpNantokaAdmin"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/w181496/CTF/tree/master/zer0pts2020/phpNantokaAdmin)
+

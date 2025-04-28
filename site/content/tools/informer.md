@@ -1,6 +1,6 @@
 ---
 title: "Informer"
 description: ""
-external_url: "https://github.com/paulpierre/informer"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/paulpierre/informer)
+

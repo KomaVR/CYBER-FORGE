@@ -1,6 +1,6 @@
 ---
 title: "uscada"
 description: ""
-external_url: "https://github.com/uscada"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/uscada)
+

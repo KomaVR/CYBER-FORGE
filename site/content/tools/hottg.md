@@ -1,6 +1,6 @@
 ---
 title: "HotTg"
 description: "Tg-Me"
-external_url: "https://www.hottg.com/telegram-group/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.hottg.com/telegram-group/)
+

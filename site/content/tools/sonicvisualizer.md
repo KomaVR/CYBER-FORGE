@@ -1,6 +1,6 @@
 ---
 title: "Sonicvisualizer"
 description: ""
-external_url: "https://www.sonicvisualiser.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.sonicvisualiser.org)
+

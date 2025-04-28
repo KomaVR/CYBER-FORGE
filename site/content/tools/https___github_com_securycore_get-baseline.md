@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/securycore/Get-Baseline"
 description: ""
-external_url: "https://github.com/securycore/Get-Baseline"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/securycore/Get-Baseline)
+

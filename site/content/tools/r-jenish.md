@@ -1,6 +1,6 @@
 ---
 title: "r-jenish"
 description: ""
-external_url: "https://github.com/r-jenish"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/r-jenish)
+

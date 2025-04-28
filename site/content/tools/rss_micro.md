@@ -1,6 +1,6 @@
 ---
 title: "RSS Micro"
 description: ""
-external_url: "http://www.rssmicro.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.rssmicro.com)
+

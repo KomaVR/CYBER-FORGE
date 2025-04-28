@@ -1,6 +1,6 @@
 ---
 title: "Morningstar Research"
 description: ""
-external_url: "http://library.morningstar.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://library.morningstar.com/)
+

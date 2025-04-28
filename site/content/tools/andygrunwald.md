@@ -1,6 +1,6 @@
 ---
 title: "andygrunwald"
 description: ""
-external_url: "https://github.com/andygrunwald"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/andygrunwald)
+

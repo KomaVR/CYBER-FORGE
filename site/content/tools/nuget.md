@@ -1,6 +1,6 @@
 ---
 title: "NuGet"
 description: "📦 : dotnet add package YoutubeExplode"
-external_url: "https://nuget.org/packages/YoutubeExplode"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://nuget.org/packages/YoutubeExplode)
+

@@ -3,6 +3,6 @@ title: "TryHackMe | Nmap Live Host Discovery"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/nmap01"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://tryhackme.com/room/nmap01)
+

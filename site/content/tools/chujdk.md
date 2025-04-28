@@ -1,6 +1,6 @@
 ---
 title: "chujDK"
 description: ""
-external_url: "https://github.com/chujDK"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/chujDK)
+

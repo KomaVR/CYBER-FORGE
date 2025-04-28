@@ -1,6 +1,6 @@
 ---
 title: "OverTheWire - Krypton"
 description: ""
-external_url: "http://overthewire.org/wargames/krypton/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://overthewire.org/wargames/krypton/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Tips and Tricks"
 description: ""
-external_url: "https://www.blacklanternsecurity.com/bbot/Stable/scanning/tips_and_tricks"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.blacklanternsecurity.com/bbot/Stable/scanning/tips_and_tricks)
+

@@ -1,6 +1,6 @@
 ---
 title: "usamavarikkottil"
 description: ""
-external_url: "https://github.com/usamavarikkottil"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/usamavarikkottil)
+

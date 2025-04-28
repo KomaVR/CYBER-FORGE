@@ -1,6 +1,6 @@
 ---
 title: "Plot IP"
 description: "IP Addresses"
-external_url: "http://plotip.com/ip"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://plotip.com/ip)
+

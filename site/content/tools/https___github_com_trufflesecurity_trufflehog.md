@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/trufflesecurity/trufflehog"
 description: "trufflehog:  find, verify, and analyze leaked credentials"
-external_url: "https://github.com/trufflesecurity/trufflehog"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/trufflesecurity/trufflehog)
+

@@ -26,6 +26,6 @@ https://github.com/sw33tLie/sns
 
 
 "
-external_url: "https://github.com/irsdl/IIS-ShortName-Scanner"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://github.com/irsdl/IIS-ShortName-Scanner)
+

@@ -3,6 +3,6 @@ title: "TryHackMe | Burp Suite: The Basics"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/burpsuitebasics"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://tryhackme.com/room/burpsuitebasics)
+

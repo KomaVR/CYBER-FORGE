@@ -7,6 +7,6 @@ Step-by-step challenges
 Now has \"learning paths\" to guide you through topics
 
 "
-external_url: "https://tryhackme.com/hacktivities"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/hacktivities)
+

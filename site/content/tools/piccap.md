@@ -11,6 +11,6 @@ interesting features like customization of system UI, remote adjustment of
 certain TV configuration options, and others.
 
 "
-external_url: "https://github.com/TBSniller/piccap"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/TBSniller/piccap)
+

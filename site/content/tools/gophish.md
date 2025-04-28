@@ -1,6 +1,6 @@
 ---
 title: "Gophish"
 description: "Open-Source Phishing Framework"
-external_url: "https://getgophish.com/"
-category: "Social Engineering"
----
+external_category: "Social Engineering"
+---[Visit Website](https://getgophish.com/)
+

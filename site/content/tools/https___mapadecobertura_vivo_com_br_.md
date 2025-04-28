@@ -1,6 +1,6 @@
 ---
 title: "https://mapadecobertura.vivo.com.br/"
 description: ""
-external_url: "https://mapadecobertura.vivo.com.br/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://mapadecobertura.vivo.com.br/)
+

@@ -1,6 +1,6 @@
 ---
 title: "NixIntel"
 description: ""
-external_url: "https://nixintel.info/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://nixintel.info/)
+

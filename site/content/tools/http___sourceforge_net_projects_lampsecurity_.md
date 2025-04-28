@@ -1,6 +1,6 @@
 ---
 title: "http://sourceforge.net/projects/lampsecurity/"
 description: "LAMPSecurity Training"
-external_url: "http://sourceforge.net/projects/lampsecurity/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://sourceforge.net/projects/lampsecurity/)
+

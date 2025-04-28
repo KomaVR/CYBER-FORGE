@@ -1,6 +1,6 @@
 ---
 title: "HackThis"
 description: "Defend the Web is an Interactive Cyber Security Platform"
-external_url: "http://www.hackthis.co.uk/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://www.hackthis.co.uk/)
+

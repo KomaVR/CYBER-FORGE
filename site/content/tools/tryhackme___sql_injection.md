@@ -3,6 +3,6 @@ title: "TryHackMe | SQL Injection"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/sqlinjectionlm"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://tryhackme.com/room/sqlinjectionlm)
+

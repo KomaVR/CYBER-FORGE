@@ -1,6 +1,6 @@
 ---
 title: "UVA DEEP LEARNING COURSE"
 description: ""
-external_url: "http://uvadlc.github.io/#lecture"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://uvadlc.github.io/#lecture)
+

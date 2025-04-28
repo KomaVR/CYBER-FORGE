@@ -1,6 +1,6 @@
 ---
 title: "TechSupportJosh"
 description: ""
-external_url: "https://github.com/TechSupportJosh"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/TechSupportJosh)
+

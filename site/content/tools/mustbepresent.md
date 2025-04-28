@@ -1,6 +1,6 @@
 ---
 title: "MustBePresent"
 description: ""
-external_url: "http://mustbepresent.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://mustbepresent.com)
+

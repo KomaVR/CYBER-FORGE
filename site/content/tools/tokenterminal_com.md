@@ -1,6 +1,6 @@
 ---
 title: "tokenterminal.com"
 description: ""
-external_url: "https://tokenterminal.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tokenterminal.com)
+

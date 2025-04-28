@@ -1,6 +1,6 @@
 ---
 title: "Tranco List"
 description: ""
-external_url: "https://tranco-list.eu/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tranco-list.eu/)
+

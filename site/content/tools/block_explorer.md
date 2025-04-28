@@ -1,6 +1,6 @@
 ---
 title: "Block Explorer"
 description: ""
-external_url: "https://blockexplorer.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://blockexplorer.com)
+

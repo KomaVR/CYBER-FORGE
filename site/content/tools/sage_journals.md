@@ -1,6 +1,6 @@
 ---
 title: "SAGE Journals"
 description: ""
-external_url: "http://online.sagepub.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://online.sagepub.com)
+

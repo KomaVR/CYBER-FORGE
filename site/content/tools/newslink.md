@@ -1,6 +1,6 @@
 ---
 title: "Newslink"
 description: ""
-external_url: "http://www.newslink.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.newslink.org)
+

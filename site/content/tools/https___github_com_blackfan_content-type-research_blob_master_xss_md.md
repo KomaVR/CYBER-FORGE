@@ -18,6 +18,6 @@ text/vtt
 text/cache-manifest
 
 "
-external_url: "https://github.com/BlackFan/content-type-research/blob/master/XSS.md"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/BlackFan/content-type-research/blob/master/XSS.md)
+

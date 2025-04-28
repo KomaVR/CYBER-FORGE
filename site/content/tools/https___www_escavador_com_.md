@@ -1,6 +1,6 @@
 ---
 title: "https://www.escavador.com/"
 description: ""
-external_url: "https://www.escavador.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.escavador.com/)
+

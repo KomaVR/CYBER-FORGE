@@ -1,6 +1,6 @@
 ---
 title: "fantesykikachu"
 description: "Spider/crawler automation (by )"
-external_url: "https://github.com/fantesykikachu"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/fantesykikachu)
+

@@ -1,6 +1,6 @@
 ---
 title: "CTLRQ Address Lookup"
 description: ""
-external_url: "https://ctrlq.org/maps/address"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://ctrlq.org/maps/address)
+

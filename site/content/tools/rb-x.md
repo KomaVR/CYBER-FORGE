@@ -1,6 +1,6 @@
 ---
 title: "rb-x"
 description: ""
-external_url: "https://github.com/rb-x"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/rb-x)
+

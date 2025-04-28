@@ -1,6 +1,6 @@
 ---
 title: "Telegram Channels Exchange"
 description: ""
-external_url: "https://smmacc.ru/shop/telegram.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://smmacc.ru/shop/telegram.html)
+

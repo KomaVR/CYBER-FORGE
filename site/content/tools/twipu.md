@@ -1,6 +1,6 @@
 ---
 title: "Twipu"
 description: ""
-external_url: "http://www.twipu.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.twipu.com/)
+

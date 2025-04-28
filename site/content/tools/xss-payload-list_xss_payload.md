@@ -1,6 +1,6 @@
 ---
 title: "xss-payload-list：XSS payload"
 description: ""
-external_url: "https://github.com/payloadbox/xss-payload-list"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://github.com/payloadbox/xss-payload-list)
+

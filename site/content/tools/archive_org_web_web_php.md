@@ -4,6 +4,6 @@ description: "
 Wayback Machine, which archives websites
  
 "
-external_url: "http://archive.org/web/web.php"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://archive.org/web/web.php)
+

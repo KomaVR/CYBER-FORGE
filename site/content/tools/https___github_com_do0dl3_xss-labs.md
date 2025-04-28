@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/do0dl3/xss-labs"
 description: "Xss-labs:"
-external_url: "https://github.com/do0dl3/xss-labs"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/do0dl3/xss-labs)
+

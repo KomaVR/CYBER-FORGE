@@ -1,6 +1,6 @@
 ---
 title: "CanLaw"
 description: ""
-external_url: "http://www.canlaw.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.canlaw.com)
+

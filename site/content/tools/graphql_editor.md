@@ -1,6 +1,6 @@
 ---
 title: "GraphQL Editor"
 description: ""
-external_url: "https://blog.graphqleditor.com/dvga"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://blog.graphqleditor.com/dvga)
+

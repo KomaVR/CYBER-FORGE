@@ -5,6 +5,6 @@ description: "
 Intercepts web requests and allows you to modify them
 
 "
-external_url: "https://portswigger.net/burp"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://portswigger.net/burp)
+

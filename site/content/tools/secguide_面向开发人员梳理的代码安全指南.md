@@ -1,6 +1,6 @@
 ---
 title: "secguide：面向开发人员梳理的代码安全指南"
 description: ""
-external_url: "https://github.com/Tencent/secguide"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Tencent/secguide)
+

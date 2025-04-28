@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/minimaxir/big-list-of-naughty-strings"
 description: "minimaxir"
-external_url: "https://github.com/minimaxir/big-list-of-naughty-strings"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/minimaxir/big-list-of-naughty-strings)
+

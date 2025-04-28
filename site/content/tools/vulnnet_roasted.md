@@ -1,6 +1,6 @@
 ---
 title: "Vulnnet Roasted"
 description: "Easy"
-external_url: "https://tryhackme.com/room/vulnnetroasted"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/vulnnetroasted)
+

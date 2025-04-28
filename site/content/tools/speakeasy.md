@@ -1,6 +1,6 @@
 ---
 title: "speakeasy"
 description: ": Windows sandbox on top of unicorn."
-external_url: "https://github.com/mandiant/speakeasy"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://github.com/mandiant/speakeasy)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/joesecurity/pafishmacro"
 description: "PafishMacro by JoeSecurity:"
-external_url: "https://github.com/joesecurity/pafishmacro"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/joesecurity/pafishmacro)
+

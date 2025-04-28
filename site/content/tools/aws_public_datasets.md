@@ -1,6 +1,6 @@
 ---
 title: "AWS Public Datasets"
 description: ""
-external_url: "http://aws.amazon.com/datasets"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://aws.amazon.com/datasets)
+

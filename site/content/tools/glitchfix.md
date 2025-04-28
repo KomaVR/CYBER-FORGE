@@ -1,6 +1,6 @@
 ---
 title: "Glitchfix"
 description: ""
-external_url: "https://github.com/Glitchfix"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Glitchfix)
+

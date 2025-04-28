@@ -1,6 +1,6 @@
 ---
 title: "Janmm14"
 description: ""
-external_url: "https://github.com/Janmm14"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Janmm14)
+

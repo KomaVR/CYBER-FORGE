@@ -1,6 +1,6 @@
 ---
 title: "prabod"
 description: ""
-external_url: "https://github.com/prabod"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/prabod)
+

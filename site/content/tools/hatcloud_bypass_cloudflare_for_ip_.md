@@ -1,6 +1,6 @@
 ---
 title: "HatCloud(Bypass CloudFlare for IP)"
 description: ""
-external_url: "https://github.com/HatBashBR/HatCloud"
-category: "Grey Hat Tools"
----
+external_category: "Grey Hat Tools"
+---[Visit Website](https://github.com/HatBashBR/HatCloud)
+

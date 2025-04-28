@@ -1,6 +1,6 @@
 ---
 title: "Pernat1y"
 description: "Pernat1y"
-external_url: "https://github.com/Pernat1y"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Pernat1y)
+

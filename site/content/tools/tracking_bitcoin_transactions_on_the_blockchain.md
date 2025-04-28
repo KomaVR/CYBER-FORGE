@@ -1,6 +1,6 @@
 ---
 title: "Tracking Bitcoin Transactions on the Blockchain"
 description: ""
-external_url: "https://youtu.be/1iwsouV8ouQ"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://youtu.be/1iwsouV8ouQ)
+

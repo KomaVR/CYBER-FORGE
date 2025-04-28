@@ -1,6 +1,6 @@
 ---
 title: "SpringWebflux-MemShell：SpringWebflux通用内存马"
 description: ""
-external_url: "https://github.com/mieeA/SpringWebflux-MemShell"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/mieeA/SpringWebflux-MemShell)
+

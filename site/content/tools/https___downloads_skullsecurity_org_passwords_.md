@@ -1,6 +1,6 @@
 ---
 title: "https://downloads.skullsecurity.org/passwords/"
 description: ""
-external_url: "https://downloads.skullsecurity.org/passwords/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://downloads.skullsecurity.org/passwords/)
+

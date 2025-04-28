@@ -1,6 +1,6 @@
 ---
 title: "AlexNDRmac"
 description: ""
-external_url: "https://github.com/AlexNDRmac"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/AlexNDRmac)
+

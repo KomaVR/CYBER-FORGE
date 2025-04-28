@@ -1,6 +1,6 @@
 ---
 title: "https://cloudflare.com/ips/"
 description: ""
-external_url: "https://cloudflare.com/ips/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://cloudflare.com/ips/)
+

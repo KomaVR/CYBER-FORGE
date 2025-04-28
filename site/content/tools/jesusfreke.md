@@ -1,6 +1,6 @@
 ---
 title: "JesusFreke"
 description: ""
-external_url: "https://github.com/JesusFreke"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/JesusFreke)
+

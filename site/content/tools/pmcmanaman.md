@@ -1,6 +1,6 @@
 ---
 title: "pmcmanaman"
 description: ""
-external_url: "https://github.com/pmcmanaman"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/pmcmanaman)
+

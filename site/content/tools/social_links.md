@@ -1,6 +1,6 @@
 ---
 title: "Social Links"
 description: ""
-external_url: "https://blog.sociallinks.io/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://blog.sociallinks.io/)
+

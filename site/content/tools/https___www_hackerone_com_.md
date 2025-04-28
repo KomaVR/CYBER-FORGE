@@ -1,6 +1,6 @@
 ---
 title: "https://www.hackerone.com/"
 description: "Hackerone:"
-external_url: "https://www.hackerone.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.hackerone.com/)
+

@@ -11,6 +11,6 @@ Web
 Word Cloud
 
 "
-external_url: "https://www.blacklanternsecurity.com/bbot/Stable/dev/helpers/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://www.blacklanternsecurity.com/bbot/Stable/dev/helpers/)
+

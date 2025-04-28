@@ -1,6 +1,6 @@
 ---
 title: "http://web.onlinectf.com/cutezombie/web-app/"
 description: ""
-external_url: "http://web.onlinectf.com/cutezombie/web-app/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://web.onlinectf.com/cutezombie/web-app/)
+

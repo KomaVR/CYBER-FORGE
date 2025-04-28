@@ -1,6 +1,6 @@
 ---
 title: "Mic92"
 description: ""
-external_url: "https://github.com/Mic92"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Mic92)
+

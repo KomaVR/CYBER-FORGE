@@ -1,6 +1,6 @@
 ---
 title: "https://sensepost.com/blog/2017/macro-less-code-exec-in-msword/"
 description: "(About Dynamic Data Exchange attacks)"
-external_url: "https://sensepost.com/blog/2017/macro-less-code-exec-in-msword/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://sensepost.com/blog/2017/macro-less-code-exec-in-msword/)
+

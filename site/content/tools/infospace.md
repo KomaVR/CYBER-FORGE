@@ -1,6 +1,6 @@
 ---
 title: "Infospace"
 description: ""
-external_url: "http://www.infospace.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.infospace.com/)
+

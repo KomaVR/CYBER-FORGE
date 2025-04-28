@@ -1,6 +1,6 @@
 ---
 title: "SpinObf"
 description: ""
-external_url: "http://mohssen.org/SpinObf.php"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://mohssen.org/SpinObf.php)
+

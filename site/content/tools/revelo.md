@@ -1,6 +1,6 @@
 ---
 title: "Revelo"
 description: "Analyze obfuscated Javascript code."
-external_url: "http://www.kahusecurity.com/posts/revelo_javascript_deobfuscator.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.kahusecurity.com/posts/revelo_javascript_deobfuscator.html)
+

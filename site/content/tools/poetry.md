@@ -1,6 +1,6 @@
 ---
 title: "poetry"
 description: "for dependency management"
-external_url: "https://python-poetry.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://python-poetry.org/)
+

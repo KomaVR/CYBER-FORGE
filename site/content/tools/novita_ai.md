@@ -9,6 +9,6 @@ meta-llama/llama-3.1-70b-instruct
 meta-llama/llama-3.1-405b-instruct
 
 "
-external_url: "https://novita.ai/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://novita.ai/)
+

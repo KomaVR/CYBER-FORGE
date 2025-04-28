@@ -1,6 +1,6 @@
 ---
 title: "Safari"
 description: ""
-external_url: "http://www.apple.com/safari"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.apple.com/safari)
+

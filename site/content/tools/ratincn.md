@@ -1,6 +1,6 @@
 ---
 title: "RatinCN"
 description: ""
-external_url: "https://github.com/RatinCN"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/RatinCN)
+

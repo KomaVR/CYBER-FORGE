@@ -1,6 +1,6 @@
 ---
 title: "screetsec"
 description: ""
-external_url: "https://github.com/screetsec"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/screetsec)
+

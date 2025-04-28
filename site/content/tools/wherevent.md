@@ -1,6 +1,6 @@
 ---
 title: "Wherevent"
 description: ""
-external_url: "http://www.wherevent.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.wherevent.com/)
+

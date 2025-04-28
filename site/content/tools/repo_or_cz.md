@@ -1,6 +1,6 @@
 ---
 title: "repo.or.cz"
 description: "Public Git hosting site"
-external_url: "https://repo.or.cz/?a=project_list"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://repo.or.cz/?a=project_list)
+

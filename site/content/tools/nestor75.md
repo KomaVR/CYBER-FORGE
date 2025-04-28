@@ -1,6 +1,6 @@
 ---
 title: "Nestor75"
 description: ""
-external_url: "https://github.com/Nestor75"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Nestor75)
+

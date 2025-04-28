@@ -1,6 +1,6 @@
 ---
 title: "Twicsy"
 description: ""
-external_url: "http://twicsy.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://twicsy.com/)
+

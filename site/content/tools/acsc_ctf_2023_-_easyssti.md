@@ -11,6 +11,6 @@ description: "Example:
 
 
 "
-external_url: "https://blog.hamayanhamayan.com/entry/2023/02/26/124239#web-easySSTI"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://blog.hamayanhamayan.com/entry/2023/02/26/124239#web-easySSTI)
+

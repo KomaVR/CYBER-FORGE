@@ -1,6 +1,6 @@
 ---
 title: "blocknative.com"
 description: ""
-external_url: "https://www.blocknative.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.blocknative.com)
+

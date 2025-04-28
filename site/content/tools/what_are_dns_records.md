@@ -1,6 +1,6 @@
 ---
 title: "What are DNS records? (via Cloudflare learning)"
 description: ""
-external_url: "https://www.cloudflare.com/learning/dns/dns-records/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.cloudflare.com/learning/dns/dns-records/)
+

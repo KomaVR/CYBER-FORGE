@@ -1,6 +1,6 @@
 ---
 title: "santosomar"
 description: ""
-external_url: "https://github.com/santosomar"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/santosomar)
+

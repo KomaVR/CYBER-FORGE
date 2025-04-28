@@ -1,6 +1,6 @@
 ---
 title: "Science Publications"
 description: ""
-external_url: "http://www.thescipub.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.thescipub.com)
+

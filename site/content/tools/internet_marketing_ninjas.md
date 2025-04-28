@@ -1,6 +1,6 @@
 ---
 title: "Internet Marketing Ninjas"
 description: ""
-external_url: "https://www.internetmarketingninjas.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.internetmarketingninjas.com)
+

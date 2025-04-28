@@ -1,6 +1,6 @@
 ---
 title: "Dispatch"
 description: ""
-external_url: "https://github.com/Netflix/dispatch"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Netflix/dispatch)
+

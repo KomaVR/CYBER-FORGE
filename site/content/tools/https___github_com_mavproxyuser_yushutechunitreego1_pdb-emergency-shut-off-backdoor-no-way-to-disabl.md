@@ -3,6 +3,6 @@ title: "https://github.com/MAVProxyUser/YushuTechUnitreeGo1#pdb-emergency-shut-o
 description: "
 HangZhou Yushu Technology (Unitree) go1 development notes  ↩
 "
-external_url: "https://github.com/MAVProxyUser/YushuTechUnitreeGo1#pdb-emergency-shut-off-backdoor-no-way-to-disable"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/MAVProxyUser/YushuTechUnitreeGo1#pdb-emergency-shut-off-backdoor-no-way-to-disable)
+

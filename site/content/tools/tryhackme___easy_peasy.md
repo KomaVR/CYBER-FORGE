@@ -3,6 +3,6 @@ title: "TryHackMe | Easy Peasy"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/easypeasyctf"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/easypeasyctf)
+

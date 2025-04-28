@@ -1,6 +1,6 @@
 ---
 title: "BUZZ.IM"
 description: ""
-external_url: "https://search.buzz.im/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://search.buzz.im/)
+

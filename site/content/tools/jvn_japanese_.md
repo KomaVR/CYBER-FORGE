@@ -1,6 +1,6 @@
 ---
 title: "JVN(Japanese)"
 description: ""
-external_url: "http://jvndb.jvn.jp/apis/myjvn/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://jvndb.jvn.jp/apis/myjvn/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Mostly Harmless"
 description: "Tells you whether or not it’s on Reddit."
-external_url: "http://kerrick.github.io/Mostly-Harmless/#features"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://kerrick.github.io/Mostly-Harmless/#features)
+

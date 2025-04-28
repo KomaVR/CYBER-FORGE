@@ -1,6 +1,6 @@
 ---
 title: "XSS'OR Encoder/Decoder"
 description: "Online Decoder/Encoder for testing purposes (@evilcos)"
-external_url: "http://xssor.io/#ende"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](http://xssor.io/#ende)
+

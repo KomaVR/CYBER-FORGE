@@ -1,6 +1,6 @@
 ---
 title: "RedPwn CTF 2019 - Blueprint"
 description: ""
-external_url: "https://ctftime.org/writeup/16201"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://ctftime.org/writeup/16201)
+

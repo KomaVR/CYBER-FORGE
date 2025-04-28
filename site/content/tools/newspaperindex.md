@@ -1,6 +1,6 @@
 ---
 title: "Newspaperindex"
 description: ""
-external_url: "http://www.newspaperindex.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.newspaperindex.com)
+

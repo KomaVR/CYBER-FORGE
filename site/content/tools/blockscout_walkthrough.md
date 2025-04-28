@@ -1,6 +1,6 @@
 ---
 title: "BlockScout Walkthrough"
 description: ""
-external_url: "https://youtu.be/Jb-EgQG3F2k"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://youtu.be/Jb-EgQG3F2k)
+

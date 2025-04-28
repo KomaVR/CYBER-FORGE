@@ -1,6 +1,6 @@
 ---
 title: "filesearching"
 description: ""
-external_url: "http://www.filesearching.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.filesearching.com)
+

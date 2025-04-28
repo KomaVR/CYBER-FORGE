@@ -11,6 +11,6 @@ PBKDF2 hash of your password is grub.pbkdf2.sha512.100000.2812C233DFC899EFC3D599
 
 
 "
-external_url: "https://en.wikipedia.org/wiki/PBKDF2"
-category: "Password Cracking"
----
+external_category: "Password Cracking"
+---[Visit Website](https://en.wikipedia.org/wiki/PBKDF2)
+

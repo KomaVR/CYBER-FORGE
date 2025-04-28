@@ -1,6 +1,6 @@
 ---
 title: "https://cloudseclist.com/"
 description: "Cloud Security Newsletter by Marco Lancini"
-external_url: "https://cloudseclist.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://cloudseclist.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "EfficientNet PyTorch"
 description: ""
-external_url: "https://github.com/lukemelas/EfficientNet-PyTorch"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/lukemelas/EfficientNet-PyTorch)
+

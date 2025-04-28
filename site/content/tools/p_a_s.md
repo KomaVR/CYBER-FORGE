@@ -1,6 +1,6 @@
 ---
 title: "P.A.S"
 description: ""
-external_url: "http://profexer.name/pas/download.php"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://profexer.name/pas/download.php)
+

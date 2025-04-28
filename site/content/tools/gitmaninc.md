@@ -1,6 +1,6 @@
 ---
 title: "Gitmaninc"
 description: ""
-external_url: "https://github.com/Gitmaninc"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Gitmaninc)
+

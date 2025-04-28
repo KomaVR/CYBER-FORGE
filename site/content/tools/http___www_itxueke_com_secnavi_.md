@@ -1,6 +1,6 @@
 ---
 title: "http://www.itxueke.com/SecNavi/"
 description: ""
-external_url: "http://www.itxueke.com/SecNavi/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.itxueke.com/SecNavi/)
+

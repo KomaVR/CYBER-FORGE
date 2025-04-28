@@ -1,6 +1,6 @@
 ---
 title: "TTSL"
 description: "Tool to scrape LinkedIn."
-external_url: "https://github.com/dchrastil/TTSL"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/dchrastil/TTSL)
+

@@ -3,6 +3,6 @@ title: "TryHackMe | WebOSINT"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/webosint"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://tryhackme.com/room/webosint)
+

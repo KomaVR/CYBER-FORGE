@@ -1,6 +1,6 @@
 ---
 title: "InstantAtlas"
 description: ""
-external_url: "http://www.instantatlas.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.instantatlas.com)
+

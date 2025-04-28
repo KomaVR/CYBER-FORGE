@@ -1,6 +1,6 @@
 ---
 title: "HunterShenSmzh"
 description: ""
-external_url: "https://github.com/HunterShenSmzh"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/HunterShenSmzh)
+

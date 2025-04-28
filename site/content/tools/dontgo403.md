@@ -1,6 +1,6 @@
 ---
 title: "Dontgo403"
 description: "The predecessor to NoMore403"
-external_url: "https://github.com/devploit/dontgo403"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/devploit/dontgo403)
+

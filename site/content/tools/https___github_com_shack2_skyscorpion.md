@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/shack2/skyscorpion"
 description: ""
-external_url: "https://github.com/shack2/skyscorpion"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/shack2/skyscorpion)
+

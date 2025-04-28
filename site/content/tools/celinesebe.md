@@ -1,6 +1,6 @@
 ---
 title: "CelineSebe"
 description: ""
-external_url: "https://github.com/CelineSebe"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/CelineSebe)
+

@@ -6,6 +6,6 @@ description: "
 git
 
 "
-external_url: "https://github.com/denny0223/scrabble"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/denny0223/scrabble)
+

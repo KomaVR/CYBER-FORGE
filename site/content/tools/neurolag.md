@@ -1,6 +1,6 @@
 ---
 title: "neurolag"
 description: ""
-external_url: "https://github.com/neurolag"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/neurolag)
+

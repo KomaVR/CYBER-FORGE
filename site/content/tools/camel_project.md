@@ -1,6 +1,6 @@
 ---
 title: "Camel project"
 description: ""
-external_url: "https://www.camel-ai.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.camel-ai.org/)
+

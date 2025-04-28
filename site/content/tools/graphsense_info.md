@@ -1,6 +1,6 @@
 ---
 title: "graphsense.info"
 description: ""
-external_url: "https://graphsense.info"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://graphsense.info)
+

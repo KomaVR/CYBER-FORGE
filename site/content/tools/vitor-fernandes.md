@@ -1,6 +1,6 @@
 ---
 title: "vitor-fernandes"
 description: ""
-external_url: "https://github.com/vitor-fernandes"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/vitor-fernandes)
+

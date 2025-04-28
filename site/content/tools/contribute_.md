@@ -1,6 +1,6 @@
 ---
 title: "Contribute!"
 description: "⚡"
-external_url: "https://mas.owasp.org/contributing"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://mas.owasp.org/contributing)
+

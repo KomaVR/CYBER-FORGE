@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/evilsocket/legba/"
 description: ""
-external_url: "https://github.com/evilsocket/legba/"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://github.com/evilsocket/legba/)
+

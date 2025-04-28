@@ -1,6 +1,6 @@
 ---
 title: "Drupwn"
 description: "Drupal enumeration & exploitation tool."
-external_url: "https://github.com/immunIT/drupwn"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://github.com/immunIT/drupwn)
+

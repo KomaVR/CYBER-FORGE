@@ -1,6 +1,6 @@
 ---
 title: "Advanced Background Checks"
 description: "Free People Search"
-external_url: "https://www.advancedbackgroundchecks.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.advancedbackgroundchecks.com/)
+

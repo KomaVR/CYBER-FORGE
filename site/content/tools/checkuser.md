@@ -1,6 +1,6 @@
 ---
 title: "Checkuser"
 description: ": Social existence checker"
-external_url: "https://checkuser.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://checkuser.org)
+

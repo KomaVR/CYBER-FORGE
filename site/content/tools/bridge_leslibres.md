@@ -1,6 +1,6 @@
 ---
 title: "Bridge.Leslibres"
 description: ""
-external_url: "https://bridge.leslibres.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://bridge.leslibres.org)
+

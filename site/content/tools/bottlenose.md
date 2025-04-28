@@ -1,6 +1,6 @@
 ---
 title: "Bottlenose"
 description: ""
-external_url: "http://bottlenose.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://bottlenose.com)
+

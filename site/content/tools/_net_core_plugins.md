@@ -1,6 +1,6 @@
 ---
 title: ".NET Core Plugins"
 description: "by Nate McMaster"
-external_url: "https://github.com/natemcmaster/DotNetCorePlugins"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/natemcmaster/DotNetCorePlugins)
+

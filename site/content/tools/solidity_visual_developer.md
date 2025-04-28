@@ -1,6 +1,6 @@
 ---
 title: "Solidity Visual Developer"
 description: ""
-external_url: "https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
+

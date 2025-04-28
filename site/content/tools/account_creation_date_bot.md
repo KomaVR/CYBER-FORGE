@@ -1,6 +1,6 @@
 ---
 title: "Account Creation Date Bot"
 description: ""
-external_url: "https://t.me/creationdatebot"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://t.me/creationdatebot)
+

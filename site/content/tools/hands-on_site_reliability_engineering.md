@@ -1,6 +1,6 @@
 ---
 title: "Hands-on Site Reliability Engineering"
 description: ""
-external_url: "https://amzn.to/3EwwNK8"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://amzn.to/3EwwNK8)
+

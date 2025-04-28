@@ -1,6 +1,6 @@
 ---
 title: "#12 Add capability of setting human-readable name of session"
 description: ""
-external_url: "https://github.com/WangYihang/Platypus/issues/12"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/WangYihang/Platypus/issues/12)
+

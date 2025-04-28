@@ -1,6 +1,6 @@
 ---
 title: "@EddieIvan01"
 description: "Delete command by"
-external_url: "https://github.com/EddieIvan01"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/EddieIvan01)
+

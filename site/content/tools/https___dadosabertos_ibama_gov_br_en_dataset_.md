@@ -1,6 +1,6 @@
 ---
 title: "https://dadosabertos.ibama.gov.br/en/dataset/"
 description: ""
-external_url: "https://dadosabertos.ibama.gov.br/en/dataset/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://dadosabertos.ibama.gov.br/en/dataset/)
+

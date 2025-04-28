@@ -1,6 +1,6 @@
 ---
 title: "bloxy.info"
 description: ""
-external_url: "https://bloxy.info/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://bloxy.info/)
+

@@ -1,6 +1,6 @@
 ---
 title: "pereyra-m"
 description: ""
-external_url: "https://github.com/pereyra-m"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/pereyra-m)
+

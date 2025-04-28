@@ -1,6 +1,6 @@
 ---
 title: "Save Telegram Chat History"
 description: ""
-external_url: "https://github.com/pigpagnet/save-telegram-chat-history"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/pigpagnet/save-telegram-chat-history)
+

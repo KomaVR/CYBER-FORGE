@@ -1,6 +1,6 @@
 ---
 title: "ghidra1"
 description: ""
-external_url: "https://github.com/ghidra1"
-category: "Reverse Engineering"
----
+external_category: "Reverse Engineering"
+---[Visit Website](https://github.com/ghidra1)
+

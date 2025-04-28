@@ -1,6 +1,6 @@
 ---
 title: "BlogSearchEngine"
 description: ""
-external_url: "http://www.blogsearchengine.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.blogsearchengine.org)
+

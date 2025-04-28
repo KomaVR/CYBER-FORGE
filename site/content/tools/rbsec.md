@@ -1,6 +1,6 @@
 ---
 title: "rbsec"
 description: ""
-external_url: "https://github.com/rbsec"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/rbsec)
+

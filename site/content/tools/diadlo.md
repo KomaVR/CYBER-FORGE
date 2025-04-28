@@ -1,6 +1,6 @@
 ---
 title: "Diadlo"
 description: ""
-external_url: "https://github.com/Diadlo"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Diadlo)
+

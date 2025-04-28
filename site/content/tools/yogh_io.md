@@ -1,6 +1,6 @@
 ---
 title: "yogh.io"
 description: ""
-external_url: "https://yogh.io/landing"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://yogh.io/landing)
+

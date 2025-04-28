@@ -1,6 +1,6 @@
 ---
 title: "Rehold"
 description: ""
-external_url: "https://rehold.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://rehold.com/)
+

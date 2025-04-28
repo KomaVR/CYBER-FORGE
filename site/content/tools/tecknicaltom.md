@@ -1,6 +1,6 @@
 ---
 title: "tecknicaltom"
 description: ""
-external_url: "https://github.com/tecknicaltom"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/tecknicaltom)
+

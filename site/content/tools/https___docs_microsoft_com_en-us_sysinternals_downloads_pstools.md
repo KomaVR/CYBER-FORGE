@@ -1,6 +1,6 @@
 ---
 title: "https://docs.microsoft.com/en-us/sysinternals/downloads/pstools"
 description: ""
-external_url: "https://docs.microsoft.com/en-us/sysinternals/downloads/pstools"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://docs.microsoft.com/en-us/sysinternals/downloads/pstools)
+

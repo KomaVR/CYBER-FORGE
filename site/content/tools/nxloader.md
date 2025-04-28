@@ -1,6 +1,6 @@
 ---
 title: "NXLoader"
 description: "(Android)"
-external_url: "https://github.com/DavidBuchanan314/NXLoader"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/DavidBuchanan314/NXLoader)
+

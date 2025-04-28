@@ -1,6 +1,6 @@
 ---
 title: "Newsblur"
 description: ""
-external_url: "http://newsblur.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://newsblur.com)
+

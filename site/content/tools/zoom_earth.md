@@ -1,6 +1,6 @@
 ---
 title: "Zoom Earth"
 description: ""
-external_url: "https://zoom.earth/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://zoom.earth/)
+

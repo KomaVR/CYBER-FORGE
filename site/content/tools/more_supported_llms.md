@@ -1,6 +1,6 @@
 ---
 title: "More Supported LLMs"
 description: ""
-external_url: "http://docs.dbgpt.site/docs/modules/smmf"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://docs.dbgpt.site/docs/modules/smmf)
+

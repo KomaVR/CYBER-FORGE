@@ -1,6 +1,6 @@
 ---
 title: "https://www.owasp.org/index.php/Category:OWASP_Fuzzing_Code_Database"
 description: "fuzzing_code_database"
-external_url: "https://www.owasp.org/index.php/Category:OWASP_Fuzzing_Code_Database"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.owasp.org/index.php/Category:OWASP_Fuzzing_Code_Database)
+

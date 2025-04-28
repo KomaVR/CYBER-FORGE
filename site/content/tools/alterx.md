@@ -7,6 +7,6 @@ Extract environments per subdomain level again
 Use  to generate permutations and resolve with puredns
 
 "
-external_url: "https://github.com/projectdiscovery/alterx"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/projectdiscovery/alterx)
+

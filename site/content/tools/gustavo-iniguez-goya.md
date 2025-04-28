@@ -1,6 +1,6 @@
 ---
 title: "gustavo-iniguez-goya"
 description: ""
-external_url: "https://github.com/gustavo-iniguez-goya"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/gustavo-iniguez-goya)
+

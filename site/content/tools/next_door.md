@@ -1,6 +1,6 @@
 ---
 title: "Next Door"
 description: ""
-external_url: "https://nextdoor.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://nextdoor.com/)
+

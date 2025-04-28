@@ -1,6 +1,6 @@
 ---
 title: "Ezilon"
 description: ""
-external_url: "http://www.ezilon.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.ezilon.com)
+

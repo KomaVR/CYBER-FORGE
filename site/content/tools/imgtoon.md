@@ -1,6 +1,6 @@
 ---
 title: "imgtoon"
 description: ""
-external_url: "https://imgtoon.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://imgtoon.com)
+

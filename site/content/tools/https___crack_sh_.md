@@ -1,6 +1,6 @@
 ---
 title: "https://crack.sh/"
 description: ""
-external_url: "https://crack.sh/"
-category: "Password Cracking"
----
+external_category: "Password Cracking"
+---[Visit Website](https://crack.sh/)
+

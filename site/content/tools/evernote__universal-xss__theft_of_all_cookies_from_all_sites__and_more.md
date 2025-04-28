@@ -1,6 +1,6 @@
 ---
 title: "Evernote: Universal-XSS, theft of all cookies from all sites, and more"
 description: ""
-external_url: "https://blog.oversecured.com/Evernote-Universal-XSS-theft-of-all-cookies-from-all-sites-and-more/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://blog.oversecured.com/Evernote-Universal-XSS-theft-of-all-cookies-from-all-sites-and-more/)
+

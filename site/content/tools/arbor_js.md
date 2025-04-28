@@ -1,6 +1,6 @@
 ---
 title: "Arbor.js"
 description: ""
-external_url: "http://arborjs.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://arborjs.org)
+

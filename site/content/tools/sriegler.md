@@ -2,6 +2,6 @@
 title: "sriegler"
 description: "sriegler
 Stefan Riegler"
-external_url: "https://github.com/sriegler"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/sriegler)
+

@@ -1,6 +1,6 @@
 ---
 title: "Burp Suite"
 description: ""
-external_url: "https://portswigger.net/burp/communitydownload"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://portswigger.net/burp/communitydownload)
+

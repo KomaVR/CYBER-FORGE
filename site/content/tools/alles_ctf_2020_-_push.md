@@ -11,6 +11,6 @@ Chrome Net Export tool
 
 
 "
-external_url: "https://github.com/0x13A0F/CTF_Writeups/tree/master/alles_ctf#push"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/0x13A0F/CTF_Writeups/tree/master/alles_ctf#push)
+

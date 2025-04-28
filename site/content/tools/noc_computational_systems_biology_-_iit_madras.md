@@ -1,6 +1,6 @@
 ---
 title: "NOC:Computational Systems Biology - IIT Madras"
 description: ""
-external_url: "https://nptel.ac.in/courses/102/106/102106068/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://nptel.ac.in/courses/102/106/102106068/)
+

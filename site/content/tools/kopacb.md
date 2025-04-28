@@ -1,6 +1,6 @@
 ---
 title: "KOPACb"
 description: ""
-external_url: "https://github.com/KOPACb"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/KOPACb)
+

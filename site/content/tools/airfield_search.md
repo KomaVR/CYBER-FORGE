@@ -1,6 +1,6 @@
 ---
 title: "Airfield Search"
 description: ""
-external_url: "http://www.pilotweb.aero/airfields/search-airfields"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.pilotweb.aero/airfields/search-airfields)
+

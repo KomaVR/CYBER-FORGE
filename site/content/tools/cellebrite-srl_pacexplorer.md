@@ -1,6 +1,6 @@
 ---
 title: "cellebrite-srl/PacExplorer"
 description: ""
-external_url: "https://github.com/cellebrite-srl/PacXplorer"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/cellebrite-srl/PacXplorer)
+

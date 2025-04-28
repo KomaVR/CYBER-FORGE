@@ -1,6 +1,6 @@
 ---
 title: "Latinobarometro"
 description: ""
-external_url: "http://www.latinobarometro.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.latinobarometro.org)
+

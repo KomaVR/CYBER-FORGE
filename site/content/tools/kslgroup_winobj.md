@@ -1,6 +1,6 @@
 ---
 title: "kslgroup/winobj"
 description: "[1星][4m] [Py]  A volatility plugin to parse Object Directories"
-external_url: "https://github.com/kslgroup/winobj"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/kslgroup/winobj)
+

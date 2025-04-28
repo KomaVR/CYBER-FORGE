@@ -5,6 +5,6 @@ description: "and python bindings:
 python-systemd package
 
 "
-external_url: "http://www.freedesktop.org/wiki/Software/systemd"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.freedesktop.org/wiki/Software/systemd)
+

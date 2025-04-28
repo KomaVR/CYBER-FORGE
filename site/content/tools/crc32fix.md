@@ -6,6 +6,6 @@ description: "
 fix height and width of png based on checksum
 
 "
-external_url: "https://github.com/Aloxaf/crc32fix"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Aloxaf/crc32fix)
+

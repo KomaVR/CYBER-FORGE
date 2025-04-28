@@ -1,6 +1,6 @@
 ---
 title: "Dargle"
 description: ""
-external_url: "http://www.dargle.net/search"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.dargle.net/search)
+

@@ -1,6 +1,6 @@
 ---
 title: "TwitRSS"
 description: ""
-external_url: "https://twitrss.me/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://twitrss.me/)
+

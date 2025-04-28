@@ -1,6 +1,6 @@
 ---
 title: "kycp.org"
 description: ""
-external_url: "https://kycp.org/#/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://kycp.org/#/)
+

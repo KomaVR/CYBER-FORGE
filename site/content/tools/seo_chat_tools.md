@@ -1,6 +1,6 @@
 ---
 title: "SEO Chat Tools"
 description: ""
-external_url: "http://tools.seochat.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://tools.seochat.com)
+

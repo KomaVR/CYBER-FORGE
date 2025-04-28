@@ -1,6 +1,6 @@
 ---
 title: "jgru"
 description: ""
-external_url: "https://github.com/jgru"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jgru)
+

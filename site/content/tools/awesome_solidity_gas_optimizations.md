@@ -1,6 +1,6 @@
 ---
 title: "Awesome Solidity Gas Optimizations"
 description: ""
-external_url: "https://github.com/iskdrews/awesome-solidity-gas-optimization"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/iskdrews/awesome-solidity-gas-optimization)
+

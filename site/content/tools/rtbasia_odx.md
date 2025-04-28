@@ -1,6 +1,6 @@
 ---
 title: "RTBAsia ODX"
 description: "Open Data Exchange"
-external_url: "https://ip.rtbasia.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://ip.rtbasia.com/)
+

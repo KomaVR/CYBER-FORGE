@@ -1,6 +1,6 @@
 ---
 title: "SQL Injection Cheat Sheet"
 description: "Netsparker's"
-external_url: "https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet)
+

@@ -1,6 +1,6 @@
 ---
 title: "Base"
 description: ""
-external_url: "http://www.base-search.net"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.base-search.net)
+

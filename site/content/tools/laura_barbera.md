@@ -1,6 +1,6 @@
 ---
 title: "Laura Barbera"
 description: "Logo by"
-external_url: "http://www.laurabb.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.laurabb.com/)
+

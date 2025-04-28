@@ -7,6 +7,6 @@ description: "
 mxrch/GHunt
 
 "
-external_url: "https://tools.epieos.com/google-account.php"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tools.epieos.com/google-account.php)
+

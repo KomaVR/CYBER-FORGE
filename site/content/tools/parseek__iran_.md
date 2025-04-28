@@ -1,6 +1,6 @@
 ---
 title: "Parseek (Iran)"
 description: ""
-external_url: "http://www.parseek.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.parseek.com)
+

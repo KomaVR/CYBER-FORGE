@@ -1,6 +1,6 @@
 ---
 title: "Kuiper"
 description: "Digital Investigation Platform"
-external_url: "https://github.com/DFIRKuiper/Kuiper"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/DFIRKuiper/Kuiper)
+

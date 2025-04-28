@@ -1,6 +1,6 @@
 ---
 title: "localhost:8080/challenge/challenge-24"
 description: ""
-external_url: "http://localhost:8080/challenge/challenge-24"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://localhost:8080/challenge/challenge-24)
+

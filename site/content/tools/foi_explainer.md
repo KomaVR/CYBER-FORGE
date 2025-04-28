@@ -3,6 +3,6 @@ title: "FOI Explainer"
 description: "
 
 "
-external_url: "https://www.oaic.gov.au/freedom-of-information"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.oaic.gov.au/freedom-of-information)
+

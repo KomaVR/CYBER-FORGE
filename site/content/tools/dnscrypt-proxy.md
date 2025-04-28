@@ -3,6 +3,6 @@ title: "dnscrypt-proxy"
 description: "
 provides a tool to build block lists from local and remote lists in common
 formats."
-external_url: "https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Combining-Blocklists"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Combining-Blocklists)
+

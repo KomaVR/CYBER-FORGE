@@ -1,6 +1,6 @@
 ---
 title: "OWScan"
 description: "No description provided"
-external_url: "https://github.com/Gameye98/OWScan"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Gameye98/OWScan)
+

@@ -1,6 +1,6 @@
 ---
 title: "Etools"
 description: ""
-external_url: "http://www.etools.ch"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.etools.ch)
+

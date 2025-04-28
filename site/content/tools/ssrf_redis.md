@@ -1,6 +1,6 @@
 ---
 title: "SSRF&redis"
 description: ""
-external_url: "https://xz.aliyun.com/t/5665"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://xz.aliyun.com/t/5665)
+

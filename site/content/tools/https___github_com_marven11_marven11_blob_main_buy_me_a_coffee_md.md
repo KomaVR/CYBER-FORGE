@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://github.com/Marven11/Marven11/blob/main/buy_me_a_coffee.md"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Marven11/Marven11/blob/main/buy_me_a_coffee.md)
+

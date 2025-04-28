@@ -1,6 +1,6 @@
 ---
 title: "Bing Videos"
 description: ""
-external_url: "http://www.bing.com/?scope=video"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.bing.com/?scope=video)
+

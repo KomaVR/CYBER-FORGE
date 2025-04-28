@@ -1,6 +1,6 @@
 ---
 title: "mainrs"
 description: ""
-external_url: "https://github.com/mainrs"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mainrs)
+

@@ -5,6 +5,6 @@ description: "AWDL - Apple Wireless Distribution Link
 
 
 "
-external_url: "https://googleprojectzero.blogspot.com/2020/12/an-ios-zero-click-radio-proximity.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://googleprojectzero.blogspot.com/2020/12/an-ios-zero-click-radio-proximity.html)
+

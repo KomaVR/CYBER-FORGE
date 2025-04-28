@@ -1,6 +1,6 @@
 ---
 title: "OrDuan"
 description: ""
-external_url: "https://github.com/OrDuan"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/OrDuan)
+

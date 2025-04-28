@@ -1,6 +1,6 @@
 ---
 title: "inther"
 description: "No description provided"
-external_url: "https://github.com/Gameye98/inther"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Gameye98/inther)
+

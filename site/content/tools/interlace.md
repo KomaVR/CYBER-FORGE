@@ -1,6 +1,6 @@
 ---
 title: "Interlace"
 description: "Multithreading ()"
-external_url: "https://github.com/codingo/Interlace"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/codingo/Interlace)
+

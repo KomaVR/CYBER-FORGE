@@ -2,6 +2,6 @@
 title: "uzil"
 description: "uzil
 Kumar Ujjwal"
-external_url: "https://github.com/uzil"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/uzil)
+

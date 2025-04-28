@@ -1,6 +1,6 @@
 ---
 title: "nalauder"
 description: ""
-external_url: "https://github.com/nalauder"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/nalauder)
+

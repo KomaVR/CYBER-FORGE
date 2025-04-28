@@ -1,6 +1,6 @@
 ---
 title: "Sleipnir"
 description: ""
-external_url: "http://www.fenrir-inc.com/jp/sleipnir"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.fenrir-inc.com/jp/sleipnir)
+

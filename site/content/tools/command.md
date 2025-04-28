@@ -1,6 +1,6 @@
 ---
 title: "Command"
 description: ""
-external_url: "https://www.blacklanternsecurity.com/bbot/Stable/dev/helpers/command"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.blacklanternsecurity.com/bbot/Stable/dev/helpers/command)
+

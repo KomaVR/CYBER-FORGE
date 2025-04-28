@@ -1,6 +1,6 @@
 ---
 title: "@hasegawayosuke"
 description: "Japanese javascript security researcher."
-external_url: "https://twitter.com/hasegawayosuke"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://twitter.com/hasegawayosuke)
+

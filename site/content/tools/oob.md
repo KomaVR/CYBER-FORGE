@@ -1,6 +1,6 @@
 ---
 title: "OOB"
 description: ""
-external_url: "https://www.freebuf.com/articles/web/201013.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.freebuf.com/articles/web/201013.html)
+

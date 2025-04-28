@@ -1,6 +1,6 @@
 ---
 title: "comex/substitute"
 description: ""
-external_url: "https://github.com/comex/substitute"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/comex/substitute)
+

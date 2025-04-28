@@ -1,6 +1,6 @@
 ---
 title: "Sublist3r"
 description: ""
-external_url: "https://api.sublist3r.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://api.sublist3r.com/)
+

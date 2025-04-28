@@ -1,6 +1,6 @@
 ---
 title: "Prometheus"
 description: "Metrics:"
-external_url: "https://prometheus.io/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://prometheus.io/)
+

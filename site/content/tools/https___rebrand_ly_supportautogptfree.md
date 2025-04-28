@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://rebrand.ly/SupportAUTOGPTfree"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://rebrand.ly/SupportAUTOGPTfree)
+

@@ -1,6 +1,6 @@
 ---
 title: "payloadbox/xxe-injection-payload-list"
 description: "Written by @payloadbox"
-external_url: "https://github.com/payloadbox/xxe-injection-payload-list"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://github.com/payloadbox/xxe-injection-payload-list)
+

@@ -1,6 +1,6 @@
 ---
 title: "Use Helm charts (community)"
 description: ""
-external_url: "https://docs.opencti.io/latest/deployment/installation/#helm-charts"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://docs.opencti.io/latest/deployment/installation/#helm-charts)
+

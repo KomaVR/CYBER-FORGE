@@ -1,6 +1,6 @@
 ---
 title: "zerbaliy3v"
 description: ""
-external_url: "https://github.com/zerbaliy3v"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/zerbaliy3v)
+

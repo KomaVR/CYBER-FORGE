@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://tippin.me/@lukechilds"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tippin.me/@lukechilds)
+

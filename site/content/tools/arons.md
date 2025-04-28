@@ -1,6 +1,6 @@
 ---
 title: "arons"
 description: ""
-external_url: "https://github.com/arons"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/arons)
+

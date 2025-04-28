@@ -1,6 +1,6 @@
 ---
 title: "@tretre91"
 description: "French translation"
-external_url: "https://github.com/tretre91"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/tretre91)
+

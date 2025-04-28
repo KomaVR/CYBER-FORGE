@@ -7,6 +7,6 @@ https://www.guerrillamail.com/
 https://rootsh.com/
 
 "
-external_url: "http://24mail.chacuo.net/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://24mail.chacuo.net/)
+

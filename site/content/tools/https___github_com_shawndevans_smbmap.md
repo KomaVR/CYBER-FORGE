@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/ShawnDEvans/smbmap"
 description: "smbmap:  SMB enumeration"
-external_url: "https://github.com/ShawnDEvans/smbmap"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ShawnDEvans/smbmap)
+

@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://instaloader.github.io/sponsors.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://instaloader.github.io/sponsors.html)
+

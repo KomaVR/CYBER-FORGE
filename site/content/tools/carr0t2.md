@@ -1,6 +1,6 @@
 ---
 title: "carr0t2"
 description: ""
-external_url: "https://github.com/carr0t2"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/carr0t2)
+

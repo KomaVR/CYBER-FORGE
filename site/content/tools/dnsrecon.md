@@ -1,6 +1,6 @@
 ---
 title: "dnsrecon"
 description: "DNS Enumeration Script."
-external_url: "https://github.com/darkoperator/dnsrecon"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://github.com/darkoperator/dnsrecon)
+

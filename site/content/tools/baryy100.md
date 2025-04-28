@@ -1,6 +1,6 @@
 ---
 title: "baryy100"
 description: ""
-external_url: "https://github.com/baryy100"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/baryy100)
+

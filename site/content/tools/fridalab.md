@@ -1,6 +1,6 @@
 ---
 title: "FridaLab"
 description: ""
-external_url: "https://rossmarks.uk/blog/fridalab/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://rossmarks.uk/blog/fridalab/)
+

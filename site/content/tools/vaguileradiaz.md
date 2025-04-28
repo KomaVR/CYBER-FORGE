@@ -2,6 +2,6 @@
 title: "vaguileradiaz"
 description: "vaguileradiaz
 Vicente Aguilera Diaz"
-external_url: "https://github.com/vaguileradiaz"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/vaguileradiaz)
+

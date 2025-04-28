@@ -1,6 +1,6 @@
 ---
 title: "https://teamignition.us/how-to-stop-being-a-scrub-and-learn-to-use-selinux.html"
 description: ""
-external_url: "https://teamignition.us/how-to-stop-being-a-scrub-and-learn-to-use-selinux.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://teamignition.us/how-to-stop-being-a-scrub-and-learn-to-use-selinux.html)
+

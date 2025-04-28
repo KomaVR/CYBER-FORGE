@@ -1,6 +1,6 @@
 ---
 title: "Oasis"
 description: ""
-external_url: "https://www.oasis.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.oasis.com/)
+

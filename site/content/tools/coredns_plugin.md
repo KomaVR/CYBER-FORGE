@@ -3,6 +3,6 @@ title: "CoreDNS Plugin"
 description: "
 
 "
-external_url: "https://github.com/gravitl/netmaker-coredns-plugin"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/gravitl/netmaker-coredns-plugin)
+

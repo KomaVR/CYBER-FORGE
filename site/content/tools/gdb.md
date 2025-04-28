@@ -7,6 +7,6 @@ peda (extension for increased functionality)
 gef ( extension for pwners)
 
 "
-external_url: "https://www.gnu.org/software/gdb/"
-category: "Reverse Engineering"
----
+external_category: "Reverse Engineering"
+---[Visit Website](https://www.gnu.org/software/gdb/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Dc:7"
 description: ""
-external_url: "https://www.hackingarticles.in/dc7-vulnhub-walkthrough/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.hackingarticles.in/dc7-vulnhub-walkthrough/)
+

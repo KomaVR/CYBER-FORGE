@@ -1,6 +1,6 @@
 ---
 title: "Twitter Search Engine"
 description: ""
-external_url: "https://twitter-search-engine.herokuapp.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://twitter-search-engine.herokuapp.com/)
+

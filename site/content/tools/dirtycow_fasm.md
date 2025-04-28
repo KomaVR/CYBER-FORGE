@@ -1,6 +1,6 @@
 ---
 title: "Dirtycow.fasm"
 description: "Fast dirtycow implementation with privilege escalation for amd64 in flatassembler."
-external_url: "https://github.com/sivizius/dirtycow.fasm"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/sivizius/dirtycow.fasm)
+

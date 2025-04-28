@@ -2,6 +2,6 @@
 title: "mapillary.com"
 description: "Mapillary, crowdsourced street-level photos,
 "
-external_url: "https://www.mapillary.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.mapillary.com)
+

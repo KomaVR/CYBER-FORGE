@@ -2,6 +2,6 @@
 title: "hfm"
 description: "hfm
 Okumura Takahiro"
-external_url: "https://github.com/hfm"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/hfm)
+

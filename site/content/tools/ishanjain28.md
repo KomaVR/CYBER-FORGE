@@ -1,6 +1,6 @@
 ---
 title: "ishanjain28"
 description: ""
-external_url: "https://github.com/ishanjain28"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ishanjain28)
+

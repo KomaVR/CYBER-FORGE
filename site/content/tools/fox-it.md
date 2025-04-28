@@ -1,6 +1,6 @@
 ---
 title: "Fox-IT"
 description: "bloodhound-python"
-external_url: "https://github.com/fox-it"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/fox-it)
+

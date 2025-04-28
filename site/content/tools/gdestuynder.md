@@ -1,6 +1,6 @@
 ---
 title: "gdestuynder"
 description: ""
-external_url: "https://github.com/gdestuynder"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/gdestuynder)
+

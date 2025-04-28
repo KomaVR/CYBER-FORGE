@@ -1,6 +1,6 @@
 ---
 title: "Gawker Hack"
 description: ""
-external_url: "https://labs.duo.com/gawker"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://labs.duo.com/gawker)
+

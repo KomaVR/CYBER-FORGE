@@ -2,7 +2,6 @@
 title: "Events & Webinars"
 description: "
 "
-external_url: "https://resources.github.com"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://resources.github.com)
 

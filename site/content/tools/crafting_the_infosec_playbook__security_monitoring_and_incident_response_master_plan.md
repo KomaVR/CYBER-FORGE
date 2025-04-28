@@ -3,6 +3,6 @@ title: "Crafting the InfoSec Playbook: Security Monitoring and Incident Response
 description: "
  - by Jeff Bollinger, Brandon Enright and Matthew Valites.
 "
-external_url: "https://www.amazon.com/Crafting-InfoSec-Playbook-Security-Monitoring/dp/1491949406"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.amazon.com/Crafting-InfoSec-Playbook-Security-Monitoring/dp/1491949406)
+

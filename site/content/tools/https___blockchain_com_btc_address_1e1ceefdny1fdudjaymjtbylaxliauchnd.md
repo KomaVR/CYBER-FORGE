@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://blockchain.com/btc/address/1E1CEEFdNy1FDUdJaYMjtbYLAxLiAuchNd"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://blockchain.com/btc/address/1E1CEEFdNy1FDUdJaYMjtbYLAxLiAuchNd)
+

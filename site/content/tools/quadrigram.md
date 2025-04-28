@@ -1,6 +1,6 @@
 ---
 title: "Quadrigram"
 description: ""
-external_url: "http://www.quadrigram.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.quadrigram.com)
+

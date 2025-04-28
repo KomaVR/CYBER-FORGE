@@ -1,6 +1,6 @@
 ---
 title: "ZRiddle"
 description: ""
-external_url: "https://github.com/ZRiddle"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ZRiddle)
+

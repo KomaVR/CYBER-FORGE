@@ -1,6 +1,6 @@
 ---
 title: "Zillow"
 description: ""
-external_url: "https://www.zillow.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.zillow.com/)
+

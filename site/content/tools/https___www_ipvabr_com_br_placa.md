@@ -1,6 +1,6 @@
 ---
 title: "https://www.ipvabr.com.br/placa"
 description: ""
-external_url: "https://www.ipvabr.com.br/placa"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ipvabr.com.br/placa)
+

@@ -5,6 +5,6 @@ description: "Example
 
 
 "
-external_url: "https://github.com/w181496/CTF/tree/master/RealWorldCTF2021/MoP2021"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/w181496/CTF/tree/master/RealWorldCTF2021/MoP2021)
+

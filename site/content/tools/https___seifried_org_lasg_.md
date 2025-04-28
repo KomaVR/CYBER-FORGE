@@ -1,6 +1,6 @@
 ---
 title: "https://seifried.org/lasg/"
 description: ""
-external_url: "https://seifried.org/lasg/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://seifried.org/lasg/)
+

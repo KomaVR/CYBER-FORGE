@@ -1,6 +1,6 @@
 ---
 title: "ezsploit"
 description: "Linux bash script automation for metasploit."
-external_url: "https://github.com/rand0m1ze/ezsploit"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/rand0m1ze/ezsploit)
+

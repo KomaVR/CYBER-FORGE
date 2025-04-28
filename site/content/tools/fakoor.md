@@ -1,6 +1,6 @@
 ---
 title: "fakoor"
 description: ""
-external_url: "https://github.com/fakoor"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/fakoor)
+

@@ -1,6 +1,6 @@
 ---
 title: "BankaiNoJutsu"
 description: ""
-external_url: "https://github.com/BankaiNoJutsu"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/BankaiNoJutsu)
+

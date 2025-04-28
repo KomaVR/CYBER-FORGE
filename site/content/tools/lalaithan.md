@@ -1,6 +1,6 @@
 ---
 title: "lalaithan"
 description: ""
-external_url: "https://github.com/lalaithan"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/lalaithan)
+

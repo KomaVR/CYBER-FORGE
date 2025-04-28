@@ -1,6 +1,6 @@
 ---
 title: "Wazuh website"
 description: ""
-external_url: "http://wazuh.com"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://wazuh.com)
+

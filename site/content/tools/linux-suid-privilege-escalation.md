@@ -1,6 +1,6 @@
 ---
 title: "linux-suid-privilege-escalation"
 description: ""
-external_url: "https://www.leavesongs.com/PENETRATION/linux-suid-privilege-escalation.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.leavesongs.com/PENETRATION/linux-suid-privilege-escalation.html)
+

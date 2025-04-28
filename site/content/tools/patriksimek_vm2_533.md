@@ -102,6 +102,6 @@ vm2 is officially deprecated
 
 
 "
-external_url: "https://github.com/patriksimek/vm2/issues/533"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/patriksimek/vm2/issues/533)
+

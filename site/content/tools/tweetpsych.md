@@ -1,6 +1,6 @@
 ---
 title: "TweetPsych"
 description: ""
-external_url: "http://tweetpsych.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://tweetpsych.com/)
+

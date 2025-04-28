@@ -4,6 +4,6 @@ description: "
 Historic Breach Database List,
 
 "
-external_url: "https://publicdbhost.dmca.gripe/random/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://publicdbhost.dmca.gripe/random/)
+

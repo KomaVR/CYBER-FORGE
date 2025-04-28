@@ -1,6 +1,6 @@
 ---
 title: "PDF Search Engine - Free download PDF files"
 description: ""
-external_url: "https://pdfsearches.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://pdfsearches.com/)
+

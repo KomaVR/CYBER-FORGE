@@ -1,6 +1,6 @@
 ---
 title: "PWN Challenge"
 description: "Binary Exploitation Wargame."
-external_url: "http://pwn.eonew.cn/"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](http://pwn.eonew.cn/)
+

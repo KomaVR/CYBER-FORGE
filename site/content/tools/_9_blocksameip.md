@@ -1,6 +1,6 @@
 ---
 title: "#9 BlockSameIP"
 description: "[DEPRECATED] Global Config (eg. )"
-external_url: "https://github.com/WangYihang/Platypus/pull/9"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/WangYihang/Platypus/pull/9)
+

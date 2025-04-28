@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://sponsors.github.red/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://sponsors.github.red/)
+

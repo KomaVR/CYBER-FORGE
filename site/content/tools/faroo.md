@@ -1,6 +1,6 @@
 ---
 title: "Faroo"
 description: ""
-external_url: "http://www.faroo.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.faroo.com/)
+

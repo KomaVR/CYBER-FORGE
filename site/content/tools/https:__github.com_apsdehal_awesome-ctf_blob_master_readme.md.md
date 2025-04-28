@@ -5,7 +5,6 @@ description: "Another very great cheat sheet for creating and solving challenges
 
 
 "
-external_url: "https://github.com/apsdehal/awesome-ctf/blob/master/README.md"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/apsdehal/awesome-ctf/blob/master/README.md)
 

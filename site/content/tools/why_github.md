@@ -2,6 +2,6 @@
 title: "Why GitHub"
 description: "
 "
-external_url: "https://github.com/why-github"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/why-github)
+

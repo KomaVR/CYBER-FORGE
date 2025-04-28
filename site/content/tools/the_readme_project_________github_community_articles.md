@@ -3,6 +3,6 @@ title: "The ReadME Project
         GitHub community articles"
 description: "
 "
-external_url: "https://github.com/readme"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/readme)
+

@@ -8,6 +8,6 @@ Encrypt locally before copying backups to unencrypted external media or the \"cl
 Verify backups by accessing them regularly.
 
 "
-external_url: "https://support.apple.com/104984"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://support.apple.com/104984)
+

@@ -3,6 +3,6 @@ title: "TryHackMe | ffuf"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/ffuf"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/ffuf)
+

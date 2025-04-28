@@ -1,6 +1,6 @@
 ---
 title: "Cyberforensics"
 description: ""
-external_url: "https://cyberforensics.com/blog/"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://cyberforensics.com/blog/)
+

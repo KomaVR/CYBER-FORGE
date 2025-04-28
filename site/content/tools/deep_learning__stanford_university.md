@@ -1,6 +1,6 @@
 ---
 title: "Deep Learning, Stanford University"
 description: ""
-external_url: "http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=DeepLearning"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=DeepLearning)
+

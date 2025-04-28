@@ -1,6 +1,6 @@
 ---
 title: "https://consultaprofissional.confea.org.br"
 description: ""
-external_url: "https://consultaprofissional.confea.org.br"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://consultaprofissional.confea.org.br)
+

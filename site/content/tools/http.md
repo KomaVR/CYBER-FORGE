@@ -1,6 +1,6 @@
 ---
 title: "HTTP"
 description: ""
-external_url: "https://gist.github.com/willurd/5720255"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://gist.github.com/willurd/5720255)
+

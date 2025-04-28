@@ -7,6 +7,6 @@ GitHub:
 https://github.com/chaitin/xray/discussions
 
 "
-external_url: "https://github.com/chaitin/xray/issues"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/chaitin/xray/issues)
+

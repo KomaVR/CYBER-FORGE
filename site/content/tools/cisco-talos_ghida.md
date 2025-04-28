@@ -1,6 +1,6 @@
 ---
 title: "Cisco-Talos/GhIDA"
 description: ""
-external_url: "https://github.com/Cisco-Talos/GhIDA"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Cisco-Talos/GhIDA)
+

@@ -2,6 +2,6 @@
 title: "StefanoDeVuono"
 description: "StefanoDeVuono
 Stefano De Vuono"
-external_url: "https://github.com/StefanoDeVuono"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/StefanoDeVuono)
+

@@ -1,6 +1,6 @@
 ---
 title: "Live Coin Watch"
 description: ""
-external_url: "https://www.livecoinwatch.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.livecoinwatch.com/)
+

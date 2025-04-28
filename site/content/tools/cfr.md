@@ -1,6 +1,6 @@
 ---
 title: "CFR"
 description: "Another java decompiler by @LeeAtBenf."
-external_url: "http://www.benf.org/other/cfr/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.benf.org/other/cfr/)
+

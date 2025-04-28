@@ -1,6 +1,6 @@
 ---
 title: "https://docs.crowdsec.net/"
 description: ""
-external_url: "https://docs.crowdsec.net/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://docs.crowdsec.net/)
+

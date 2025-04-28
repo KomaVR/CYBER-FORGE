@@ -1,6 +1,6 @@
 ---
 title: "http://oj.xctf.org.cn/"
 description: ""
-external_url: "http://oj.xctf.org.cn/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://oj.xctf.org.cn/)
+

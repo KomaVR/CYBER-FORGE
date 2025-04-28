@@ -1,6 +1,6 @@
 ---
 title: "How many of me?"
 description: ""
-external_url: "http://howmanyofme.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://howmanyofme.com/)
+

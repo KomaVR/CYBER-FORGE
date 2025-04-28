@@ -1,6 +1,6 @@
 ---
 title: "Similar Web"
 description: "Compare any website traffic statistics & analytics."
-external_url: "https://www.similarweb.com"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://www.similarweb.com)
+

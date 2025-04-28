@@ -1,6 +1,6 @@
 ---
 title: "fabidick22"
 description: ""
-external_url: "https://github.com/fabidick22"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/fabidick22)
+

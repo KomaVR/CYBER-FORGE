@@ -1,6 +1,6 @@
 ---
 title: "ExportData"
 description: ""
-external_url: "https://www.exportdata.io/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.exportdata.io/)
+

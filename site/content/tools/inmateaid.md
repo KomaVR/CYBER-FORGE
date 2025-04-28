@@ -1,6 +1,6 @@
 ---
 title: "InmateAid"
 description: ""
-external_url: "https://www.inmateaid.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.inmateaid.com)
+

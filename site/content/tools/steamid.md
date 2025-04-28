@@ -10,6 +10,6 @@ Steam
 
 
 "
-external_url: "https://steamid.uk/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://steamid.uk/)
+

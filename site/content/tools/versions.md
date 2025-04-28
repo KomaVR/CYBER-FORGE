@@ -1,6 +1,6 @@
 ---
 title: "versions"
 description: ""
-external_url: "https://repology.org/project/radare2/versions"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://repology.org/project/radare2/versions)
+

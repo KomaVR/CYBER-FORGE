@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/Ciphey/Ciphey"
 description: ""
-external_url: "https://github.com/Ciphey/Ciphey"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Ciphey/Ciphey)
+

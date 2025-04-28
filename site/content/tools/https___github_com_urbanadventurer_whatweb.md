@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/urbanadventurer/WhatWeb"
 description: "WhatWeb - Next generation web scanner"
-external_url: "https://github.com/urbanadventurer/WhatWeb"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://github.com/urbanadventurer/WhatWeb)
+

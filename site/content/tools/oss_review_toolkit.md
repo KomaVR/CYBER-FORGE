@@ -1,6 +1,6 @@
 ---
 title: "OSS Review Toolkit"
 description: ""
-external_url: "https://github.com/oss-review-toolkit/ort"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/oss-review-toolkit/ort)
+

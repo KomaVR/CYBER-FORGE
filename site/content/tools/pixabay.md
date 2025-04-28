@@ -1,6 +1,6 @@
 ---
 title: "Pixabay"
 description: "Stunning royalty-free images & royalty-free stock"
-external_url: "https://pixabay.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://pixabay.com/)
+

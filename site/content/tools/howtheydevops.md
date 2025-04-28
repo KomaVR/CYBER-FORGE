@@ -1,6 +1,6 @@
 ---
 title: "Howtheydevops"
 description: ""
-external_url: "https://github.com/bregman-arie/howtheydevops"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/bregman-arie/howtheydevops)
+

@@ -1,6 +1,6 @@
 ---
 title: "Telegramic"
 description: ""
-external_url: "https://telegramic.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://telegramic.org/)
+

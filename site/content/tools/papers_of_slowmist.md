@@ -1,6 +1,6 @@
 ---
 title: "Papers of SlowMist"
 description: ""
-external_url: "https://github.com/slowmist/papers"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/slowmist/papers)
+

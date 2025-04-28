@@ -1,6 +1,6 @@
 ---
 title: "Introspy-iOS"
 description: "Security profiling for blackbox iOS."
-external_url: "http://isecpartners.github.io/Introspy-iOS/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://isecpartners.github.io/Introspy-iOS/)
+

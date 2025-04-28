@@ -1,6 +1,6 @@
 ---
 title: "Ning"
 description: ""
-external_url: "http://www.ning.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.ning.com)
+

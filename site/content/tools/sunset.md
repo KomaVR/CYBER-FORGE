@@ -1,6 +1,6 @@
 ---
 title: "Sunset"
 description: ""
-external_url: "https://www.hackingarticles.in/sunset-vulnhub-walkthrough/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.hackingarticles.in/sunset-vulnhub-walkthrough/)
+

@@ -1,6 +1,6 @@
 ---
 title: "samsheff"
 description: ""
-external_url: "https://github.com/samsheff"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/samsheff)
+

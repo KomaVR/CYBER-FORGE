@@ -1,6 +1,6 @@
 ---
 title: "http://search.chongbuluo.com/"
 description: ""
-external_url: "http://search.chongbuluo.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://search.chongbuluo.com/)
+

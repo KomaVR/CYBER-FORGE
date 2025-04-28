@@ -1,6 +1,6 @@
 ---
 title: "SatoMew"
 description: ""
-external_url: "https://github.com/SatoMew"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/SatoMew)
+

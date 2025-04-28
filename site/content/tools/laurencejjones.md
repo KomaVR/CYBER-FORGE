@@ -1,6 +1,6 @@
 ---
 title: "LaurenceJJones"
 description: ""
-external_url: "https://github.com/LaurenceJJones"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/LaurenceJJones)
+

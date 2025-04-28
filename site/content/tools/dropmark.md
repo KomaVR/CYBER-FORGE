@@ -1,6 +1,6 @@
 ---
 title: "Dropmark"
 description: ""
-external_url: "http://www.dropmark.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.dropmark.com)
+

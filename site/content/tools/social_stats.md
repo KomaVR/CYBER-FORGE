@@ -1,6 +1,6 @@
 ---
 title: "Social Stats"
 description: "(RU)"
-external_url: "http://socialstats.ru/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://socialstats.ru/)
+

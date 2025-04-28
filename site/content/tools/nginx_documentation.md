@@ -1,6 +1,6 @@
 ---
 title: "NGINX Documentation"
 description: ""
-external_url: "https://nginx.org/en/docs/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://nginx.org/en/docs/)
+

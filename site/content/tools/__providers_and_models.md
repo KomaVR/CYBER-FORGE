@@ -1,6 +1,6 @@
 ---
 title: "🚀 Providers and Models"
 description: ""
-external_url: "https://github.com/gpt4free/gpt4free.github.io/blob/main/docs%2Fproviders-and-models.md"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/gpt4free/gpt4free.github.io/blob/main/docs%2Fproviders-and-models.md)
+

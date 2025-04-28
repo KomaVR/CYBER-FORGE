@@ -19,6 +19,6 @@ Example:
 
 
 "
-external_url: "https://r3kapig.com/writeup/20220125-rwctf4/#rwdn"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://r3kapig.com/writeup/20220125-rwctf4/#rwdn)
+

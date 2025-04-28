@@ -1,6 +1,6 @@
 ---
 title: "Erigon Archive Nodes"
 description: ""
-external_url: "https://github.com/ledgerwatch/erigon"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ledgerwatch/erigon)
+

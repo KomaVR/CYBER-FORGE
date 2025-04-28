@@ -1,6 +1,6 @@
 ---
 title: "Beosin Twitter"
 description: ""
-external_url: "https://twitter.com/beosinalert"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://twitter.com/beosinalert)
+

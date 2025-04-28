@@ -1,6 +1,6 @@
 ---
 title: "toolske.com/text2sql"
 description: ""
-external_url: "https://toolske.com/text2sql"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://toolske.com/text2sql)
+

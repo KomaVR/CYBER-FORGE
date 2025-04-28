@@ -1,6 +1,6 @@
 ---
 title: "vreale"
 description: ""
-external_url: "http://vreale.net"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://vreale.net)
+

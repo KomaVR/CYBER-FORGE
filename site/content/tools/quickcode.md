@@ -1,6 +1,6 @@
 ---
 title: "QuickCode"
 description: "Python and R data analysis environment."
-external_url: "https://quickcode.io/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://quickcode.io/)
+

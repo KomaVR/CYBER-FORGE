@@ -1,6 +1,6 @@
 ---
 title: "VirusShare"
 description: "Virus online database with more than 44 millions of samples."
-external_url: "https://virusshare.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://virusshare.com)
+

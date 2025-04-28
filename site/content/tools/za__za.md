@@ -1,6 +1,6 @@
 ---
 title: "za @za"
 description: ""
-external_url: "https://www.github.com/za"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.github.com/za)
+

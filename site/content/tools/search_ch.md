@@ -1,6 +1,6 @@
 ---
 title: "Search.ch"
 description: "(CH)"
-external_url: "http://www.search.ch/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.search.ch/)
+

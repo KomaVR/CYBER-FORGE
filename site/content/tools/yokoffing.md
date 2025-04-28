@@ -1,6 +1,6 @@
 ---
 title: "yokoffing"
 description: ""
-external_url: "https://github.com/yokoffing"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/yokoffing)
+

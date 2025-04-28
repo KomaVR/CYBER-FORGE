@@ -1,6 +1,6 @@
 ---
 title: "giorgosioak"
 description: ""
-external_url: "https://github.com/giorgosioak"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/giorgosioak)
+

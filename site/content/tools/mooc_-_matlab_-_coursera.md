@@ -1,6 +1,6 @@
 ---
 title: "MOOC - Matlab - Coursera"
 description: ""
-external_url: "https://youtu.be/6iN56l7dEMY"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://youtu.be/6iN56l7dEMY)
+

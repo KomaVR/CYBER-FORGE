@@ -1,6 +1,6 @@
 ---
 title: "doxbin"
 description: "A dox style pastebin ran by hackers"
-external_url: "https://doxbin.net/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://doxbin.net/)
+

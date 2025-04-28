@@ -1,6 +1,6 @@
 ---
 title: "Selfoss"
 description: ""
-external_url: "http://selfoss.aditu.de"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://selfoss.aditu.de)
+

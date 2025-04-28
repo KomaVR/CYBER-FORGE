@@ -1,6 +1,6 @@
 ---
 title: "https://dados.agricultura.gov.br/dataset"
 description: ""
-external_url: "https://dados.agricultura.gov.br/dataset"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://dados.agricultura.gov.br/dataset)
+

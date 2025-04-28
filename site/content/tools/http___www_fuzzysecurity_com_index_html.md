@@ -1,6 +1,6 @@
 ---
 title: "http://www.fuzzysecurity.com/index.html"
 description: ""
-external_url: "http://www.fuzzysecurity.com/index.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.fuzzysecurity.com/index.html)
+

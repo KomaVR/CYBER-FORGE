@@ -1,6 +1,6 @@
 ---
 title: "Annual Reports"
 description: ""
-external_url: "http://www.annualreports.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.annualreports.com/)
+

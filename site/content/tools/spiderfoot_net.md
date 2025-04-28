@@ -1,6 +1,6 @@
 ---
 title: "spiderfoot.net"
 description: ""
-external_url: "https://spiderfoot.net"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://spiderfoot.net)
+

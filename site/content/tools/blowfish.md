@@ -1,6 +1,6 @@
 ---
 title: "BlowFish"
 description: ""
-external_url: "https://blowfish.xyz/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://blowfish.xyz/)
+

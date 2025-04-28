@@ -1,6 +1,6 @@
 ---
 title: "Tik-tok"
 description: ""
-external_url: "https://datanews.github.io/tik-tok"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://datanews.github.io/tik-tok)
+

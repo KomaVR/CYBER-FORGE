@@ -1,6 +1,6 @@
 ---
 title: "altcensored"
 description: ""
-external_url: "https://www.altcensored.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.altcensored.com/)
+

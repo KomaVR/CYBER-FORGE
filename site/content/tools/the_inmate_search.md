@@ -1,6 +1,6 @@
 ---
 title: "The Inmate Search"
 description: ""
-external_url: "https://theinmatesearch.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://theinmatesearch.org/)
+

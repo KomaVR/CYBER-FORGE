@@ -1,6 +1,6 @@
 ---
 title: "Foundry Fuzz"
 description: ""
-external_url: "https://book.getfoundry.sh/forge/fuzz-testing"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://book.getfoundry.sh/forge/fuzz-testing)
+

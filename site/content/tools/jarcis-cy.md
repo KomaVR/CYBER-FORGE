@@ -1,6 +1,6 @@
 ---
 title: "Jarcis-cy"
 description: ""
-external_url: "https://github.com/Jarcis-cy"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Jarcis-cy)
+

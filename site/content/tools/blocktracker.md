@@ -1,6 +1,6 @@
 ---
 title: "BlockTracker"
 description: ""
-external_url: "https://github.com/thisiskeanyvy/blocktracker"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/thisiskeanyvy/blocktracker)
+

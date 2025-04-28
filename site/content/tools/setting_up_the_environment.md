@@ -1,6 +1,6 @@
 ---
 title: "Setting up the environment"
 description: ""
-external_url: "https://github.com/bhavsec/reconspider#setting-up-the-environment"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/bhavsec/reconspider#setting-up-the-environment)
+

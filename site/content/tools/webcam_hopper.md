@@ -1,6 +1,6 @@
 ---
 title: "Webcam Hopper"
 description: "Live Webcams from around the world"
-external_url: "https://www.webcamhopper.com/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://www.webcamhopper.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Google Alerts"
 description: "A content change detection and notification service."
-external_url: "http://www.google.com/alerts"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.google.com/alerts)
+

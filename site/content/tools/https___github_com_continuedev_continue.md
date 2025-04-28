@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/continuedev/continue"
 description: "continue:"
-external_url: "https://github.com/continuedev/continue"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/continuedev/continue)
+

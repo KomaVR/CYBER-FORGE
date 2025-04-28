@@ -1,6 +1,6 @@
 ---
 title: "ledgerql.com"
 description: ""
-external_url: "https://ledgerql.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://ledgerql.com)
+

@@ -1,6 +1,6 @@
 ---
 title: "PenguinSnail"
 description: ""
-external_url: "https://github.com/PenguinSnail"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/PenguinSnail)
+

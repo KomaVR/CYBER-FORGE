@@ -1,6 +1,6 @@
 ---
 title: "directionless"
 description: ""
-external_url: "https://github.com/directionless"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/directionless)
+

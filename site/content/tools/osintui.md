@@ -1,6 +1,6 @@
 ---
 title: "osintui"
 description: ""
-external_url: "https://github.com/wssheldon/osintui"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://github.com/wssheldon/osintui)
+

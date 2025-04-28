@@ -1,6 +1,6 @@
 ---
 title: "Eitot"
 description: ""
-external_url: "https://github.com/Eitot"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Eitot)
+

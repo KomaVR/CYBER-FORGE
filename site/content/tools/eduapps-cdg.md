@@ -1,6 +1,6 @@
 ---
 title: "EduApps-CDG"
 description: ""
-external_url: "https://github.com/EduApps-CDG"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/EduApps-CDG)
+

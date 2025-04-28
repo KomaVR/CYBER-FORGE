@@ -1,6 +1,6 @@
 ---
 title: "Empire"
 description: "is a pure PowerShell post-exploitation agent."
-external_url: "http://www.powershellempire.com"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](http://www.powershellempire.com)
+

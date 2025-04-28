@@ -1,6 +1,6 @@
 ---
 title: "https://urlabuse.com/public/screenshot"
 description: ""
-external_url: "https://urlabuse.com/public/screenshot"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://urlabuse.com/public/screenshot)
+

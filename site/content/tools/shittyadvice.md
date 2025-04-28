@@ -1,6 +1,6 @@
 ---
 title: "ShittyAdvice"
 description: ""
-external_url: "https://github.com/ShittyAdvice"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ShittyAdvice)
+

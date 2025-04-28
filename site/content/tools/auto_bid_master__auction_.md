@@ -1,6 +1,6 @@
 ---
 title: "auto bid master (auction)"
 description: ""
-external_url: "http://www.autobidmaster.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.autobidmaster.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Stoq"
 description: "An open source framework for enterprise level automated analysis."
-external_url: "https://stoq.punchcyber.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://stoq.punchcyber.com/)
+

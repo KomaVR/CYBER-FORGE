@@ -3,6 +3,6 @@ title: "TryHackMe | GLITCH"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/glitch"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/glitch)
+

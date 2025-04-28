@@ -1,6 +1,6 @@
 ---
 title: "Volatility3"
 description: ""
-external_url: "https://github.com/volatilityfoundation/volatility3/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/volatilityfoundation/volatility3/)
+

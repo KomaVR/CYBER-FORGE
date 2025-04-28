@@ -1,6 +1,6 @@
 ---
 title: "My Fake Information Generator and Validator"
 description: ""
-external_url: "http://www.myfakeinfo.com/index.php"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.myfakeinfo.com/index.php)
+

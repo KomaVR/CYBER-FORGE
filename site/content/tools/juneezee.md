@@ -1,6 +1,6 @@
 ---
 title: "Juneezee"
 description: ""
-external_url: "https://github.com/Juneezee"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Juneezee)
+

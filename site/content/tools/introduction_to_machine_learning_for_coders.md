@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Machine Learning for Coders"
 description: ""
-external_url: "https://course18.fast.ai/ml"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://course18.fast.ai/ml)
+

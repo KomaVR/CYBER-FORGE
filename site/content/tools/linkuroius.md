@@ -1,6 +1,6 @@
 ---
 title: "Linkuroius"
 description: ""
-external_url: "http://linkurio.us"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://linkurio.us)
+

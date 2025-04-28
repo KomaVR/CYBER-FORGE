@@ -1,6 +1,6 @@
 ---
 title: "Naver"
 description: ""
-external_url: "https://www.naver.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.naver.com/)
+

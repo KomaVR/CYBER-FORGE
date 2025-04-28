@@ -1,6 +1,6 @@
 ---
 title: "Spring Data Redis <=2.1.0反序列化漏洞"
 description: ""
-external_url: "https://xz.aliyun.com/t/2339"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://xz.aliyun.com/t/2339)
+

@@ -1,6 +1,6 @@
 ---
 title: "DloomPlz"
 description: ""
-external_url: "https://github.com/DloomPlz"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/DloomPlz)
+

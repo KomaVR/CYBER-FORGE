@@ -1,6 +1,6 @@
 ---
 title: "EvtxECmd"
 description: "Evtx parser by Eric Zimmerman."
-external_url: "https://github.com/EricZimmerman/evtx"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/EricZimmerman/evtx)
+

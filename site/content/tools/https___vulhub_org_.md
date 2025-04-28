@@ -1,6 +1,6 @@
 ---
 title: "https://vulhub.org/"
 description: "Vulhub:"
-external_url: "https://vulhub.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://vulhub.org/)
+

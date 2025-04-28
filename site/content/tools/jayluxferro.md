@@ -1,6 +1,6 @@
 ---
 title: "jayluxferro"
 description: ""
-external_url: "https://github.com/jayluxferro"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jayluxferro)
+

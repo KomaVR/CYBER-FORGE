@@ -1,6 +1,6 @@
 ---
 title: "InsecInstitute Resources"
 description: ""
-external_url: "https://resources.infosecinstitute.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://resources.infosecinstitute.com/)
+

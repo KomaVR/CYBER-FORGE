@@ -1,6 +1,6 @@
 ---
 title: "slunak"
 description: ""
-external_url: "https://github.com/slunak"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/slunak)
+

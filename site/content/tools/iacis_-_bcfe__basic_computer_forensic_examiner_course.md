@@ -3,6 +3,6 @@ title: "IACIS - BCFE: Basic Computer Forensic Examiner course"
 description: "
 
 "
-external_url: "https://www.iacis.com/training/basic-computer-forensics-examiner/"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://www.iacis.com/training/basic-computer-forensics-examiner/)
+

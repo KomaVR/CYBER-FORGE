@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://www.icrc.org/en/donate/ukraine"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.icrc.org/en/donate/ukraine)
+

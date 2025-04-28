@@ -1,6 +1,6 @@
 ---
 title: "Running your first scan"
 description: ""
-external_url: "https://kubescape.io/docs/scanning/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://kubescape.io/docs/scanning/)
+

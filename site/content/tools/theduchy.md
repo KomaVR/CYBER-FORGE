@@ -1,6 +1,6 @@
 ---
 title: "TheDuchy"
 description: ""
-external_url: "https://github.com/TheDuchy"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/TheDuchy)
+

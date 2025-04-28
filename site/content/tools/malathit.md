@@ -1,6 +1,6 @@
 ---
 title: "malathit"
 description: ""
-external_url: "https://github.com/malathit"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/malathit)
+

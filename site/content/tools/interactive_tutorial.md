@@ -1,6 +1,6 @@
 ---
 title: "Interactive tutorial"
 description: "(part of the documentation)"
-external_url: "https://scapy.readthedocs.io/en/latest/usage.html#interactive-tutorial"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://scapy.readthedocs.io/en/latest/usage.html#interactive-tutorial)
+

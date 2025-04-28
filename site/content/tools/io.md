@@ -1,6 +1,6 @@
 ---
 title: "IO"
 description: "Wargame for binary challenges."
-external_url: "http://io.netgarage.org/"
-category: "Reverse Engineering"
----
+external_category: "Reverse Engineering"
+---[Visit Website](http://io.netgarage.org/)
+

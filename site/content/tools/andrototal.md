@@ -1,6 +1,6 @@
 ---
 title: "AndroTotal"
 description: ""
-external_url: "http://andrototal.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://andrototal.org/)
+

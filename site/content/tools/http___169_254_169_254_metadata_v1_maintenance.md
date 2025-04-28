@@ -1,6 +1,6 @@
 ---
 title: "http://169.254.169.254/metadata/v1/maintenance"
 description: ""
-external_url: "http://169.254.169.254/metadata/v1/maintenance"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://169.254.169.254/metadata/v1/maintenance)
+

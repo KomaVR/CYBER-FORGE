@@ -1,6 +1,6 @@
 ---
 title: "Joss Sparkes @RemakingEden"
 description: ""
-external_url: "https://www.github.com/RemakingEden"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.github.com/RemakingEden)
+

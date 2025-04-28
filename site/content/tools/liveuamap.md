@@ -1,6 +1,6 @@
 ---
 title: "Liveuamap"
 description: ""
-external_url: "https://liveuamap.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://liveuamap.com/)
+

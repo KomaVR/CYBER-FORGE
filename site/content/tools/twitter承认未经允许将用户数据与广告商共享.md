@@ -47,6 +47,6 @@ threadreaderapp
 
 
 "
-external_url: "https://www.cnbeta.com/articles/tech/877047.htm"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.cnbeta.com/articles/tech/877047.htm)
+

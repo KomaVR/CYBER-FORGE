@@ -1,6 +1,6 @@
 ---
 title: "MarcT0K"
 description: ""
-external_url: "https://github.com/MarcT0K"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/MarcT0K)
+

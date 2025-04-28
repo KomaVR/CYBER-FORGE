@@ -1,6 +1,6 @@
 ---
 title: "strace: for fun, profit, and debugging"
 description: ""
-external_url: "http://timetobleed.com/hello-world/"
-category: "Reverse Engineering"
----
+external_category: "Reverse Engineering"
+---[Visit Website](http://timetobleed.com/hello-world/)
+

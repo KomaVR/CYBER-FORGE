@@ -3,6 +3,6 @@ title: "TryHackMe | Year of the Dog"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/yearofthedog"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/yearofthedog)
+

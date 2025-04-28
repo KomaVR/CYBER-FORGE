@@ -1,6 +1,6 @@
 ---
 title: "https://dnsdumpster.com"
 description: ""
-external_url: "https://dnsdumpster.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://dnsdumpster.com)
+

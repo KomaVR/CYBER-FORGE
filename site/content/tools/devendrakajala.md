@@ -1,6 +1,6 @@
 ---
 title: "devendrakajala"
 description: ""
-external_url: "https://github.com/devendrakajala"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/devendrakajala)
+

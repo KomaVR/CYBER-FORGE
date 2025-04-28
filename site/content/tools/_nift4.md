@@ -1,6 +1,6 @@
 ---
 title: "@nift4"
 description: "macOS support and bug fixes"
-external_url: "https://github.com/nift4"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/nift4)
+

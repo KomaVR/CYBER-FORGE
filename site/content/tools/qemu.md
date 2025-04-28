@@ -6,6 +6,6 @@ description: "
 geohot/qira
 
 "
-external_url: "https://qemu.readthedocs.io/en/latest/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://qemu.readthedocs.io/en/latest/)
+

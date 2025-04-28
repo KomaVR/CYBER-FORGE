@@ -1,6 +1,6 @@
 ---
 title: "kzantow"
 description: ""
-external_url: "https://github.com/kzantow"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/kzantow)
+

@@ -2,6 +2,6 @@
 title: "adilsoybali"
 description: "adilsoybali
 Adil Soybalı"
-external_url: "https://github.com/adilsoybali"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/adilsoybali)
+

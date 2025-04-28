@@ -1,6 +1,6 @@
 ---
 title: "CommonCrawl"
 description: "Open repository of web crawl data"
-external_url: "https://commoncrawl.org/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://commoncrawl.org/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Factual Search"
 description: ""
-external_url: "https://factualsearch.news"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://factualsearch.news)
+

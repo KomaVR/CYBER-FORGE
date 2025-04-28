@@ -1,6 +1,6 @@
 ---
 title: "Bitref"
 description: ""
-external_url: "https://bitref.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://bitref.com/)
+

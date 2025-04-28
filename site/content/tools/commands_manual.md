@@ -1,6 +1,6 @@
 ---
 title: "Commands manual"
 description: ""
-external_url: "https://github.com/mategol/PySilon-malware#commands-manual"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mategol/PySilon-malware#commands-manual)
+

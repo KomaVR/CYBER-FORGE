@@ -1,6 +1,6 @@
 ---
 title: "betterdefaultpasslist"
 description: ""
-external_url: "https://github.com/govolution/betterdefaultpasslist"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/govolution/betterdefaultpasslist)
+

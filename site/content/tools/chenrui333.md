@@ -1,6 +1,6 @@
 ---
 title: "chenrui333"
 description: ""
-external_url: "https://github.com/chenrui333"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/chenrui333)
+

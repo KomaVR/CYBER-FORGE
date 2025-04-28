@@ -1,6 +1,6 @@
 ---
 title: "yutodadil"
 description: ""
-external_url: "https://github.com/yutodadil"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/yutodadil)
+

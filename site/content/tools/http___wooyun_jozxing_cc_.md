@@ -1,6 +1,6 @@
 ---
 title: "http://wooyun.jozxing.cc/"
 description: ""
-external_url: "http://wooyun.jozxing.cc/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://wooyun.jozxing.cc/)
+

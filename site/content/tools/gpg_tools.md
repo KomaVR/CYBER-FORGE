@@ -1,6 +1,6 @@
 ---
 title: "GPG Tools"
 description: ""
-external_url: "https://gpgtools.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://gpgtools.org)
+

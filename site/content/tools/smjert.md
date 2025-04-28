@@ -1,6 +1,6 @@
 ---
 title: "Smjert"
 description: ""
-external_url: "https://github.com/Smjert"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Smjert)
+

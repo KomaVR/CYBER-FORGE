@@ -1,6 +1,6 @@
 ---
 title: "translating KeeWeb"
 description: "Help"
-external_url: "https://keeweb.oneskyapp.com"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://keeweb.oneskyapp.com)
+

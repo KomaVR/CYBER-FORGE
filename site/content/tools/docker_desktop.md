@@ -1,6 +1,6 @@
 ---
 title: "Docker Desktop"
 description: "Install"
-external_url: "https://docs.docker.com/desktop/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://docs.docker.com/desktop/)
+

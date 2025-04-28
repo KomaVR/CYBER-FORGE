@@ -1,6 +1,6 @@
 ---
 title: "usnjrnl_dump"
 description: ""
-external_url: "https://github.com/janstarke/usnjrnl"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/janstarke/usnjrnl)
+

@@ -1,6 +1,6 @@
 ---
 title: "crclark96"
 description: ""
-external_url: "https://github.com/crclark96"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/crclark96)
+

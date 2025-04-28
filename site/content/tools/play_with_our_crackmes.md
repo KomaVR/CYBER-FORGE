@@ -1,6 +1,6 @@
 ---
 title: "Play with our Crackmes"
 description: "💥"
-external_url: "https://mas.owasp.org/crackmes"
-category: "Password Cracking"
----
+external_category: "Password Cracking"
+---[Visit Website](https://mas.owasp.org/crackmes)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/advisories"
 description: "GitHub Security Advisories (GHSAs):"
-external_url: "https://github.com/advisories"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/advisories)
+

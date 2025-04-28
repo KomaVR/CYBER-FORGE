@@ -5,6 +5,6 @@ description: "country:\"BR\"
 
 
 "
-external_url: "https://www.shodan.io/search?query=country%3A%22BR%22"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://www.shodan.io/search?query=country%3A%22BR%22)
+

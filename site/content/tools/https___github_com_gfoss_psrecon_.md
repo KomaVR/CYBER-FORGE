@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/gfoss/PSRecon/"
 description: ""
-external_url: "https://github.com/gfoss/PSRecon/"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://github.com/gfoss/PSRecon/)
+

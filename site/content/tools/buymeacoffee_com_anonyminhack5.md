@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://buymeacoffee.com/AnonyminHack5"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://buymeacoffee.com/AnonyminHack5)
+

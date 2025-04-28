@@ -1,6 +1,6 @@
 ---
 title: "ZMail"
 description: ""
-external_url: "http://zmail.sourceforge.net"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://zmail.sourceforge.net)
+

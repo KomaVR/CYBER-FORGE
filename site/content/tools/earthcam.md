@@ -1,6 +1,6 @@
 ---
 title: "Earthcam"
 description: ""
-external_url: "http://www.earthcam.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.earthcam.com)
+

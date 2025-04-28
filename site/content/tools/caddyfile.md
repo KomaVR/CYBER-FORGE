@@ -1,6 +1,6 @@
 ---
 title: "Caddyfile"
 description: "Easy configuration with the"
-external_url: "https://caddyserver.com/docs/caddyfile"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://caddyserver.com/docs/caddyfile)
+

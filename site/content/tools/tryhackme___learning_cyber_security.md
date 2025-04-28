@@ -3,6 +3,6 @@ title: "TryHackMe | Learning Cyber Security"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/beginnerpathintro"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/beginnerpathintro)
+

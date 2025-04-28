@@ -1,6 +1,6 @@
 ---
 title: "ISIS Lab"
 description: "CTF Wiki by Isis lab."
-external_url: "https://github.com/isislab/Project-Ideas/wiki"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/isislab/Project-Ideas/wiki)
+

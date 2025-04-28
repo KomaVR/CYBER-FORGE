@@ -3,6 +3,6 @@ title: "TryHackMe | The Blob Blog"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/theblobblog"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/theblobblog)
+

@@ -1,6 +1,6 @@
 ---
 title: "Accepting risk with exceptions"
 description: ""
-external_url: "https://kubescape.io/docs/accepting-risk/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://kubescape.io/docs/accepting-risk/)
+

@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://liberapay.com/keepassxc"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://liberapay.com/keepassxc)
+

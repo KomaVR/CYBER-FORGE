@@ -1,6 +1,6 @@
 ---
 title: "https://wiki.archlinux.org/index.php/SSH_Keys"
 description: ""
-external_url: "https://wiki.archlinux.org/index.php/SSH_Keys"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://wiki.archlinux.org/index.php/SSH_Keys)
+

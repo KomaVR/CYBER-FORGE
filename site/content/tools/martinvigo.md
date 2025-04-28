@@ -2,6 +2,6 @@
 title: "martinvigo"
 description: "martinvigo
 Martin Vigo"
-external_url: "https://github.com/martinvigo"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/martinvigo)
+

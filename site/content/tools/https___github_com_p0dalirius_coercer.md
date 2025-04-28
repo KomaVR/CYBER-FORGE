@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/p0dalirius/Coercer"
 description: "Coercer:"
-external_url: "https://github.com/p0dalirius/Coercer"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/p0dalirius/Coercer)
+

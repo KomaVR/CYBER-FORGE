@@ -1,6 +1,6 @@
 ---
 title: "virusdefender"
 description: ""
-external_url: "https://github.com/virusdefender"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/virusdefender)
+

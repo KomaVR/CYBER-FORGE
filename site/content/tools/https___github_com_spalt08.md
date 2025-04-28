@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/spalt08"
 description: ""
-external_url: "https://github.com/spalt08"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/spalt08)
+

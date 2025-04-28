@@ -1,6 +1,6 @@
 ---
 title: "https://www.brokenbrowser.com/uxss-ie-htmlfile/"
 description: ""
-external_url: "https://www.brokenbrowser.com/uxss-ie-htmlfile/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://www.brokenbrowser.com/uxss-ie-htmlfile/)
+

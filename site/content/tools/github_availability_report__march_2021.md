@@ -1,6 +1,6 @@
 ---
 title: "GitHub Availability Report: March 2021"
 description: ""
-external_url: "https://github.blog/2021-04-07-github-availability-report-march-2021/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.blog/2021-04-07-github-availability-report-march-2021/)
+

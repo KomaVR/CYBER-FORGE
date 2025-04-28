@@ -1,6 +1,6 @@
 ---
 title: "Buzzweb"
 description: ""
-external_url: "https://buzzweb.pro/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://buzzweb.pro/)
+

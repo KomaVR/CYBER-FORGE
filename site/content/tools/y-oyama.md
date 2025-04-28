@@ -1,6 +1,6 @@
 ---
 title: "y-oyama"
 description: ""
-external_url: "https://github.com/y-oyama"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/y-oyama)
+

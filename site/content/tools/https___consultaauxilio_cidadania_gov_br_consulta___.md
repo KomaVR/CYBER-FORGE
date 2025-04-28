@@ -1,6 +1,6 @@
 ---
 title: "https://consultaauxilio.cidadania.gov.br/consulta/#/"
 description: ""
-external_url: "https://consultaauxilio.cidadania.gov.br/consulta/#/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://consultaauxilio.cidadania.gov.br/consulta/#/)
+

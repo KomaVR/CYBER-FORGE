@@ -1,6 +1,6 @@
 ---
 title: "syve.ai"
 description: ""
-external_url: "https://www.syve.ai/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.syve.ai/)
+

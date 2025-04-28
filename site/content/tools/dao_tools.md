@@ -1,6 +1,6 @@
 ---
 title: "DAO Tools"
 description: ""
-external_url: "https://www.daomasters.xyz"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.daomasters.xyz)
+

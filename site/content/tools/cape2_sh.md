@@ -6,6 +6,6 @@ Read and understand what it does! This is not a silver bullet for all your probl
 sudo ./ base 2>&1 | tee cape.log
 
 "
-external_url: "https://github.com/kevoreilly/CAPEv2/blob/master/installer/cape2.sh"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/kevoreilly/CAPEv2/blob/master/installer/cape2.sh)
+

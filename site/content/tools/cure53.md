@@ -1,6 +1,6 @@
 ---
 title: "cure53"
 description: ""
-external_url: "https://github.com/cure53"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/cure53)
+

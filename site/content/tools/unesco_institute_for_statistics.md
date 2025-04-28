@@ -1,6 +1,6 @@
 ---
 title: "UNESCO Institute for Statistics"
 description: ""
-external_url: "http://uis.unesco.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://uis.unesco.org)
+

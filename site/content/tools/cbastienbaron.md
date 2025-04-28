@@ -1,6 +1,6 @@
 ---
 title: "cbastienbaron"
 description: ""
-external_url: "https://github.com/cbastienbaron"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/cbastienbaron)
+

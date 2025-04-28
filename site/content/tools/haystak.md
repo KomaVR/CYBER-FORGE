@@ -1,6 +1,6 @@
 ---
 title: "haystak"
 description: ""
-external_url: "https://tor2web.onionsearchengine.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tor2web.onionsearchengine.com/)
+

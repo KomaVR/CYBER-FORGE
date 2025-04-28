@@ -1,6 +1,6 @@
 ---
 title: "OSINT Recon Tool"
 description: ""
-external_url: "https://recontool.org/#mindmap"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://recontool.org/#mindmap)
+

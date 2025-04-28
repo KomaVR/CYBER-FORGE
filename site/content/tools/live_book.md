@@ -1,6 +1,6 @@
 ---
 title: "Live Book"
 description: ""
-external_url: "http://livebook.com.ua/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://livebook.com.ua/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Traefik Kubernetes Ingress"
 description: ""
-external_url: "https://www.authelia.com/integration/kubernetes/traefik-ingress/#ingress"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.authelia.com/integration/kubernetes/traefik-ingress/#ingress)
+

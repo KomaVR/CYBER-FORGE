@@ -1,6 +1,6 @@
 ---
 title: "CampusCareerCenter"
 description: ""
-external_url: "http://www.campuscareercenter.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.campuscareercenter.com)
+

@@ -1,6 +1,6 @@
 ---
 title: "ghidravore"
 description: ""
-external_url: "https://github.com/ghidravore"
-category: "Reverse Engineering"
----
+external_category: "Reverse Engineering"
+---[Visit Website](https://github.com/ghidravore)
+

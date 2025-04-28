@@ -1,6 +1,6 @@
 ---
 title: "ruler"
 description: ": A tool to abuse Exchange services"
-external_url: "https://github.com/sensepost/ruler"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/sensepost/ruler)
+

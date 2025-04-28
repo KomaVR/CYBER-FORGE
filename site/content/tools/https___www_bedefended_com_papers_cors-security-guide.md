@@ -3,6 +3,6 @@ title: "https://www.bedefended.com/papers/cors-security-guide"
 description: "
 
 "
-external_url: "https://www.bedefended.com/papers/cors-security-guide"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.bedefended.com/papers/cors-security-guide)
+

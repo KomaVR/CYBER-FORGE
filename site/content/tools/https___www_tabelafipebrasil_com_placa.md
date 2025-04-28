@@ -1,6 +1,6 @@
 ---
 title: "https://www.tabelafipebrasil.com/placa"
 description: ""
-external_url: "https://www.tabelafipebrasil.com/placa"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.tabelafipebrasil.com/placa)
+

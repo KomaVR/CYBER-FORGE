@@ -6,6 +6,6 @@ description: "
 fix png checksum
 
 "
-external_url: "https://github.com/landaire/png-crc-fix"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/landaire/png-crc-fix)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://wooyun.shuimugan.com/"
 description: ""
-external_url: "https://wooyun.shuimugan.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://wooyun.shuimugan.com/)
+

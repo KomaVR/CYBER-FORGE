@@ -7,6 +7,6 @@ floss
 IDA插件
 
 "
-external_url: "https://github.com/fireeye/flare-floss"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/fireeye/flare-floss)
+

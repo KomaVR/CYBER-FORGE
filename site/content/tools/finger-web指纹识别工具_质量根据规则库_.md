@@ -1,6 +1,6 @@
 ---
 title: "Finger-web指纹识别工具『质量根据规则库』"
 description: ""
-external_url: "https://github.com/EASY233/Finger"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/EASY233/Finger)
+

@@ -1,6 +1,6 @@
 ---
 title: "r-tx"
 description: ""
-external_url: "https://github.com/r-tx"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/r-tx)
+

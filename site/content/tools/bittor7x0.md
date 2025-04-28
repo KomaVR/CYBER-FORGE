@@ -1,6 +1,6 @@
 ---
 title: "bittor7x0"
 description: ""
-external_url: "https://github.com/bittor7x0"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/bittor7x0)
+

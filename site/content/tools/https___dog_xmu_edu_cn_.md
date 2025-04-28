@@ -1,6 +1,6 @@
 ---
 title: "https://dog.xmu.edu.cn/"
 description: ""
-external_url: "https://dog.xmu.edu.cn/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://dog.xmu.edu.cn/)
+

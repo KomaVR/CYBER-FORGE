@@ -1,6 +1,6 @@
 ---
 title: "JuiceShopBot"
 description: ""
-external_url: "https://github.com/JuiceShopBot"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/JuiceShopBot)
+

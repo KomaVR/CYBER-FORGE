@@ -1,6 +1,6 @@
 ---
 title: "airodump-ng"
 description: ""
-external_url: "https://www.aircrack-ng.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.aircrack-ng.org/)
+

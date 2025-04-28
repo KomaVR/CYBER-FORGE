@@ -1,6 +1,6 @@
 ---
 title: "id3s3c"
 description: ""
-external_url: "https://github.com/id3s3c"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/id3s3c)
+

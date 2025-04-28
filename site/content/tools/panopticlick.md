@@ -1,6 +1,6 @@
 ---
 title: "Panopticlick"
 description: ""
-external_url: "https://panopticlick.eff.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://panopticlick.eff.org)
+

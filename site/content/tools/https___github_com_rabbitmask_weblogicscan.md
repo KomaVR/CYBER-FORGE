@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/rabbitmask/WeblogicScan"
 description: "WeblogicScan:"
-external_url: "https://github.com/rabbitmask/WeblogicScan"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/rabbitmask/WeblogicScan)
+

@@ -1,6 +1,6 @@
 ---
 title: "Privatelee"
 description: ""
-external_url: "https://privatelee.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://privatelee.com)
+

@@ -1,6 +1,6 @@
 ---
 title: "kmathisbf"
 description: "kmathisbf"
-external_url: "https://github.com/kmathisbf"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/kmathisbf)
+

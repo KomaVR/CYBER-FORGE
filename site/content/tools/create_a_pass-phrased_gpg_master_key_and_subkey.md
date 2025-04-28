@@ -7,6 +7,6 @@ Add the passphrase as a secret named GPG_PASSPHRASE to your repository
 Add the fingerprint of the GPG subkey as a secret named GPG_FINGERPRINT to your repository
 
 "
-external_url: "https://mikeross.xyz/create-gpg-key-pair-with-subkeys/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://mikeross.xyz/create-gpg-key-pair-with-subkeys/)
+

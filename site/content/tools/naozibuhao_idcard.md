@@ -1,6 +1,6 @@
 ---
 title: "naozibuhao/idcard"
 description: ""
-external_url: "https://github.com/naozibuhao/idcard"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/naozibuhao/idcard)
+

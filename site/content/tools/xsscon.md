@@ -1,6 +1,6 @@
 ---
 title: "XSSCon"
 description: ""
-external_url: "https://github.com/menkrep1337/XSSCon"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/menkrep1337/XSSCon)
+

@@ -1,6 +1,6 @@
 ---
 title: "copybara-github"
 description: ""
-external_url: "https://github.com/copybara-github"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/copybara-github)
+

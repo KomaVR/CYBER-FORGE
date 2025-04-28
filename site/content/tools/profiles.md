@@ -1,6 +1,6 @@
 ---
 title: "profiles"
 description: ""
-external_url: "https://github.com/profiles"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/profiles)
+

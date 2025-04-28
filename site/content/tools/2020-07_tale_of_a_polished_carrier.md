@@ -5,6 +5,6 @@ description: "
 GitHub Hosted Samples and Embedded File Extractions
 
 "
-external_url: "https://inquest.net/blog/2020/07/27/Tale-of-a-Polished-Carrier"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://inquest.net/blog/2020/07/27/Tale-of-a-Polished-Carrier)
+

@@ -1,6 +1,6 @@
 ---
 title: "gotbadger"
 description: ""
-external_url: "https://github.com/gotbadger"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/gotbadger)
+

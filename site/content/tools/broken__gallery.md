@@ -1,6 +1,6 @@
 ---
 title: "Broken: Gallery"
 description: ""
-external_url: "https://www.hackingarticles.in/broken-gallery-vulnhub-walkthrough/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.hackingarticles.in/broken-gallery-vulnhub-walkthrough/)
+

@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://issuehunt.io/r/noraj"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://issuehunt.io/r/noraj)
+

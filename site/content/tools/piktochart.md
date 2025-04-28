@@ -1,6 +1,6 @@
 ---
 title: "Piktochart"
 description: ""
-external_url: "https://piktochart.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://piktochart.com)
+

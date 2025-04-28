@@ -1,6 +1,6 @@
 ---
 title: "thewhiteh4t"
 description: ""
-external_url: "https://github.com/thewhiteh4t"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/thewhiteh4t)
+

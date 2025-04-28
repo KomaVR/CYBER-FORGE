@@ -1,6 +1,6 @@
 ---
 title: "ProcursusTeam/Procursus"
 description: ""
-external_url: "https://github.com/ProcursusTeam/Procursus"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ProcursusTeam/Procursus)
+

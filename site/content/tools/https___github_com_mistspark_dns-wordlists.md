@@ -3,6 +3,6 @@ title: "https://github.com/MistSpark/DNS-Wordlists"
 description: "
 
 "
-external_url: "https://github.com/MistSpark/DNS-Wordlists"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/MistSpark/DNS-Wordlists)
+

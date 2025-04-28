@@ -1,6 +1,6 @@
 ---
 title: "xusheng6"
 description: ""
-external_url: "https://github.com/xusheng6"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/xusheng6)
+

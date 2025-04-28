@@ -1,6 +1,6 @@
 ---
 title: "Ethereum-graph-debugger"
 description: ""
-external_url: "https://github.com/fergarrui/ethereum-graph-debugger"
-category: "Reverse Engineering"
----
+external_category: "Reverse Engineering"
+---[Visit Website](https://github.com/fergarrui/ethereum-graph-debugger)
+

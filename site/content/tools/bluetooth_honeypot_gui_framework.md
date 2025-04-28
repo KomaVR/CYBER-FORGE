@@ -1,6 +1,6 @@
 ---
 title: "Bluetooth Honeypot GUI Framework"
 description: ""
-external_url: "https://github.com/andrewmichaelsmith/bluepot"
-category: "Wireless Hacking"
----
+external_category: "Wireless Hacking"
+---[Visit Website](https://github.com/andrewmichaelsmith/bluepot)
+

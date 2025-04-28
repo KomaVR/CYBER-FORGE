@@ -3,6 +3,6 @@ title: "TryHackMe | MITRE"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/mitre"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/mitre)
+

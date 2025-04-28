@@ -1,6 +1,6 @@
 ---
 title: "https://people.canonical.com/~ubuntu-security/"
 description: "Ubuntu Linux Security:"
-external_url: "https://people.canonical.com/~ubuntu-security/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://people.canonical.com/~ubuntu-security/)
+

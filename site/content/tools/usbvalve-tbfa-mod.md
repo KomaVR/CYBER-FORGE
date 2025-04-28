@@ -1,6 +1,6 @@
 ---
 title: "USBvalve-tbfa-Mod"
 description: ""
-external_url: "https://github.com/TryBreakFixAgain/USBvalve-tbfa-Mod"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/TryBreakFixAgain/USBvalve-tbfa-Mod)
+

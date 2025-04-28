@@ -1,6 +1,6 @@
 ---
 title: "https://www.ctftools.com/down/"
 description: ""
-external_url: "https://www.ctftools.com/down/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ctftools.com/down/)
+

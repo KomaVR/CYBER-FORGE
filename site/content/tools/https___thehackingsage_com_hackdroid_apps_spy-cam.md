@@ -1,6 +1,6 @@
 ---
 title: "https://thehackingsage.com/hackdroid/apps/spy-cam"
 description: "Spy-cam :"
-external_url: "https://thehackingsage.com/hackdroid/apps/spy-cam"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://thehackingsage.com/hackdroid/apps/spy-cam)
+

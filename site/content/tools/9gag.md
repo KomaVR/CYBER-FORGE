@@ -1,6 +1,6 @@
 ---
 title: "9gag"
 description: ""
-external_url: "https://9gag.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://9gag.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Android Native Library Analysis with QBDI"
 description: "2019.06 [quarkslab]"
-external_url: "https://blog.quarkslab.com/android-native-library-analysis-with-qbdi.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://blog.quarkslab.com/android-native-library-analysis-with-qbdi.html)
+

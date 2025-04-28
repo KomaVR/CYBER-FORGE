@@ -1,6 +1,6 @@
 ---
 title: "ShiftLefter"
 description: ""
-external_url: "https://github.com/ShiftLefter"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ShiftLefter)
+

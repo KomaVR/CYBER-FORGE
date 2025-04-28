@@ -1,6 +1,6 @@
 ---
 title: "AlexandraC0"
 description: ""
-external_url: "https://github.com/AlexandraC0"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/AlexandraC0)
+

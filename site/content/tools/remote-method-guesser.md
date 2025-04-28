@@ -5,6 +5,6 @@ description: "
 RMI vulnerability scanner
 
 "
-external_url: "https://github.com/qtc-de/remote-method-guesser"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://github.com/qtc-de/remote-method-guesser)
+

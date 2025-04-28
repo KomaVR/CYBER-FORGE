@@ -1,6 +1,6 @@
 ---
 title: "https://valoresareceber.bcb.gov.br/publico/"
 description: ""
-external_url: "https://valoresareceber.bcb.gov.br/publico/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://valoresareceber.bcb.gov.br/publico/)
+

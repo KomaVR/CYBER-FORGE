@@ -1,6 +1,6 @@
 ---
 title: "jorgectf"
 description: ""
-external_url: "https://github.com/jorgectf"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jorgectf)
+

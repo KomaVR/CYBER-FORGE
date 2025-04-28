@@ -1,6 +1,6 @@
 ---
 title: "NT"
 description: ""
-external_url: "https://www.nt.gov.au/tenders"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.nt.gov.au/tenders)
+

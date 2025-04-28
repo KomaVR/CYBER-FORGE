@@ -1,6 +1,6 @@
 ---
 title: "voided"
 description: ""
-external_url: "https://github.com/voided"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/voided)
+

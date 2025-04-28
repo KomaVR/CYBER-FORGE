@@ -1,6 +1,6 @@
 ---
 title: "RSACTFTool"
 description: "A tool for recovering RSA private key with various attack."
-external_url: "https://github.com/Ganapati/RsaCtfTool"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Ganapati/RsaCtfTool)
+

@@ -1,6 +1,6 @@
 ---
 title: "Facebook Messenger"
 description: ""
-external_url: "https://www.messenger.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.messenger.com/)
+

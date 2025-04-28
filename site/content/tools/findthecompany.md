@@ -1,6 +1,6 @@
 ---
 title: "FindtheCompany"
 description: ""
-external_url: "http://www.findthecompany.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.findthecompany.com/)
+

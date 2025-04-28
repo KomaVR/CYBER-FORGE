@@ -1,6 +1,6 @@
 ---
 title: "Lsassy"
 description: "Extract credentials from lsass remotely."
-external_url: "https://github.com/Hackndo/lsassy"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Hackndo/lsassy)
+

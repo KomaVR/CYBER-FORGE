@@ -1,6 +1,6 @@
 ---
 title: "chaihahaha"
 description: ""
-external_url: "https://github.com/chaihahaha"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/chaihahaha)
+

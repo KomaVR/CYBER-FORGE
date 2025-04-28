@@ -14,6 +14,6 @@ How to disable most push advertisement on MIUI China Version
 
 
 "
-external_url: "https://www.solidot.org/story?sid=64260"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://www.solidot.org/story?sid=64260)
+

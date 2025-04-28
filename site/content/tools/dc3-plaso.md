@@ -1,6 +1,6 @@
 ---
 title: "dc3-plaso"
 description: ""
-external_url: "https://github.com/dc3-plaso"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/dc3-plaso)
+

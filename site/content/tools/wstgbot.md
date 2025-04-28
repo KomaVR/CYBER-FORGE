@@ -1,6 +1,6 @@
 ---
 title: "wstgbot"
 description: ""
-external_url: "https://github.com/wstgbot"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/wstgbot)
+

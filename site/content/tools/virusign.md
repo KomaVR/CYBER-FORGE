@@ -1,6 +1,6 @@
 ---
 title: "ViruSign"
 description: "Another online malware database."
-external_url: "https://www.virusign.com"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://www.virusign.com)
+

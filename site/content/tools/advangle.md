@@ -1,6 +1,6 @@
 ---
 title: "Advangle"
 description: ""
-external_url: "http://advangle.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://advangle.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "mamarto"
 description: ""
-external_url: "https://github.com/mamarto"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mamarto)
+

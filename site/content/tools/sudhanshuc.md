@@ -1,6 +1,6 @@
 ---
 title: "SudhanshuC"
 description: ""
-external_url: "https://github.com/SudhanshuC"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/SudhanshuC)
+

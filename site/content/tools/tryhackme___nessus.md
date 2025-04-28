@@ -3,6 +3,6 @@ title: "TryHackMe | Nessus"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/rpnessusredux"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/rpnessusredux)
+

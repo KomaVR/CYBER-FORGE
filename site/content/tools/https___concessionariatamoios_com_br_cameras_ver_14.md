@@ -1,6 +1,6 @@
 ---
 title: "https://concessionariatamoios.com.br/cameras/ver/14"
 description: ""
-external_url: "https://concessionariatamoios.com.br/cameras/ver/14"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://concessionariatamoios.com.br/cameras/ver/14)
+

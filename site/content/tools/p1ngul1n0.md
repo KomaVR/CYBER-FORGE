@@ -1,6 +1,6 @@
 ---
 title: "p1ngul1n0"
 description: ""
-external_url: "https://github.com/p1ngul1n0"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/p1ngul1n0)
+

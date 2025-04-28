@@ -1,6 +1,6 @@
 ---
 title: "blockscan.com"
 description: ""
-external_url: "https://blockscan.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://blockscan.com)
+

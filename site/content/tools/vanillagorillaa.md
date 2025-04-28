@@ -1,6 +1,6 @@
 ---
 title: "vanillagorillaa"
 description: ""
-external_url: "https://github.com/vanillagorillaa"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/vanillagorillaa)
+

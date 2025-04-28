@@ -1,6 +1,6 @@
 ---
 title: "csbruter-爆破Cobalt Strike的服务端密码"
 description: ""
-external_url: "https://github.com/ryanohoro/csbruter"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://github.com/ryanohoro/csbruter)
+

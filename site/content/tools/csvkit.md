@@ -1,6 +1,6 @@
 ---
 title: "csvkit"
 description: ""
-external_url: "https://github.com/wireservice/csvkit"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/wireservice/csvkit)
+

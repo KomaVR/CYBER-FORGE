@@ -1,6 +1,6 @@
 ---
 title: "shmink"
 description: ""
-external_url: "https://github.com/shmink"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/shmink)
+

@@ -1,6 +1,6 @@
 ---
 title: "Pidgin"
 description: ""
-external_url: "https://www.pidgin.im"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.pidgin.im)
+

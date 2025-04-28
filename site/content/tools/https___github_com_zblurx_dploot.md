@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/zblurx/dploot"
 description: "dploot:  DPAPI"
-external_url: "https://github.com/zblurx/dploot"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/zblurx/dploot)
+

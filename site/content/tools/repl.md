@@ -1,6 +1,6 @@
 ---
 title: "Repl"
 description: ""
-external_url: "https://0xmacro.com/library/trim/repl"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://0xmacro.com/library/trim/repl)
+

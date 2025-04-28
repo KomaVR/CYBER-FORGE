@@ -1,6 +1,6 @@
 ---
 title: "Open Street Map"
 description: ""
-external_url: "http://www.openstreetmap.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.openstreetmap.org)
+

@@ -1,6 +1,6 @@
 ---
 title: "Infringement Report"
 description: "The web's best image copyright infringement search tool"
-external_url: "https://infringement.report/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://infringement.report/)
+

@@ -5,6 +5,6 @@ description: "If you want to use random numbers that are unpredictable to anyone
 For example, , which implements Verifiable Random Function (VRF).
 
 "
-external_url: "https://docs.chain.link/docs/chainlink-vrf/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://docs.chain.link/docs/chainlink-vrf/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Knock"
 description: "A python tool designed to enumerate subdomains on a target domain through a wordlist."
-external_url: "https://github.com/guelfoweb/knock"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/guelfoweb/knock)
+

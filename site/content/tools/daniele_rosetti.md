@@ -1,6 +1,6 @@
 ---
 title: "Daniele Rosetti"
 description: ": Administrator and Frontend Maintainer"
-external_url: "https://github.com/drosetti"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/drosetti)
+

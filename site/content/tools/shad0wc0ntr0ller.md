@@ -1,6 +1,6 @@
 ---
 title: "Shad0wC0ntr0ller"
 description: ""
-external_url: "https://github.com/Shad0wC0ntr0ller"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Shad0wC0ntr0ller)
+

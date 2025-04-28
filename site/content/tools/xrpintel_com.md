@@ -1,6 +1,6 @@
 ---
 title: "xrpintel.com"
 description: ""
-external_url: "https://xrpintel.com/waterfall"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://xrpintel.com/waterfall)
+

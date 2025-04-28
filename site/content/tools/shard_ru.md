@@ -1,6 +1,6 @@
 ---
 title: "shard.ru"
 description: ""
-external_url: "https://shard.ru"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://shard.ru)
+

@@ -1,6 +1,6 @@
 ---
 title: "cron2"
 description: ""
-external_url: "https://github.com/cron2"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/cron2)
+

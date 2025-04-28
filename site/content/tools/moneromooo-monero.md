@@ -1,6 +1,6 @@
 ---
 title: "moneromooo-monero"
 description: ""
-external_url: "https://github.com/moneromooo-monero"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/moneromooo-monero)
+

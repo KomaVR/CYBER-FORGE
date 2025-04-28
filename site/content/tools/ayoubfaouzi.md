@@ -1,6 +1,6 @@
 ---
 title: "ayoubfaouzi"
 description: ""
-external_url: "https://github.com/ayoubfaouzi"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ayoubfaouzi)
+

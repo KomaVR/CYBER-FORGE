@@ -1,6 +1,6 @@
 ---
 title: "RainbowDashy"
 description: ""
-external_url: "https://github.com/RainbowDashy"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/RainbowDashy)
+

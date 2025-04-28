@@ -1,6 +1,6 @@
 ---
 title: "https://google.com/"
 description: ""
-external_url: "https://google.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://google.com/)
+

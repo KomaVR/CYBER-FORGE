@@ -1,6 +1,6 @@
 ---
 title: "OECD Data"
 description: ""
-external_url: "https://data.oecd.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://data.oecd.org)
+

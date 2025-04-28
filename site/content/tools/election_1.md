@@ -1,6 +1,6 @@
 ---
 title: "eLection:1"
 description: ""
-external_url: "https://www.hackingarticles.in/election-1-vulnhub-walkthorugh/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.hackingarticles.in/election-1-vulnhub-walkthorugh/)
+

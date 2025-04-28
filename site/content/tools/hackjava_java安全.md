@@ -1,6 +1,6 @@
 ---
 title: "HackJava：Java安全"
 description: ""
-external_url: "https://github.com/HackJava/HackJava"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/HackJava/HackJava)
+

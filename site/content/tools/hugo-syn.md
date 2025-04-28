@@ -1,6 +1,6 @@
 ---
 title: "hugo-syn"
 description: ""
-external_url: "https://github.com/hugo-syn"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/hugo-syn)
+

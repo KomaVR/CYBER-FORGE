@@ -1,6 +1,6 @@
 ---
 title: "caribpa"
 description: ""
-external_url: "https://github.com/caribpa"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/caribpa)
+

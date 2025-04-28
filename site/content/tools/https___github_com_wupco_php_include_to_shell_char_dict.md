@@ -16,6 +16,6 @@ N1CTF 2023 - laravel
 
 
 "
-external_url: "https://github.com/wupco/PHP_INCLUDE_TO_SHELL_CHAR_DICT"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/wupco/PHP_INCLUDE_TO_SHELL_CHAR_DICT)
+

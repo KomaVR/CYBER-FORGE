@@ -12,6 +12,6 @@ Microsoft Edge 被指悄悄导入了 Firefox 数据
 
 
 "
-external_url: "https://www.landiannews.com/archives/61675.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.landiannews.com/archives/61675.html)
+

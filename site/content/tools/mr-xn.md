@@ -1,6 +1,6 @@
 ---
 title: "Mr-xn"
 description: ""
-external_url: "https://github.com/Mr-xn"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Mr-xn)
+

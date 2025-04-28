@@ -1,6 +1,6 @@
 ---
 title: "CodeQL：深入理解CodeQL"
 description: ""
-external_url: "https://github.com/ASTTeam/CodeQL"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ASTTeam/CodeQL)
+

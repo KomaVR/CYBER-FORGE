@@ -1,6 +1,6 @@
 ---
 title: "ACLight"
 description: "Advanced Discovery of Privileged Accounts"
-external_url: "https://github.com/cyberark/ACLight"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/cyberark/ACLight)
+

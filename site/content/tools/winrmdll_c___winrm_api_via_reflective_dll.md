@@ -1,6 +1,6 @@
 ---
 title: "winrmdll：C++ WinRM API via Reflective DLL"
 description: ""
-external_url: "https://github.com/mez-0/winrmdll"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mez-0/winrmdll)
+

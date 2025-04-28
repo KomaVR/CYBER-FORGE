@@ -1,6 +1,6 @@
 ---
 title: "gadcam"
 description: ""
-external_url: "https://github.com/gadcam"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/gadcam)
+

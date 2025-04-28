@@ -5,6 +5,6 @@ description: "SERRA ANCHIETA
 
 
 "
-external_url: "https://www.ecovias.com.br/boletim/camera/12"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ecovias.com.br/boletim/camera/12)
+

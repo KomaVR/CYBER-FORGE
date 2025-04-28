@@ -1,6 +1,6 @@
 ---
 title: "UzTelegram"
 description: ""
-external_url: "https://uztelegram.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://uztelegram.com/)
+

@@ -3,6 +3,6 @@ title: "https://portswigger.net/research/practical-web-cache-poisoning"
 description: "
 
 "
-external_url: "https://portswigger.net/research/practical-web-cache-poisoning"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://portswigger.net/research/practical-web-cache-poisoning)
+

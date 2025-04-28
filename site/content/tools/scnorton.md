@@ -1,6 +1,6 @@
 ---
 title: "scnorton"
 description: ""
-external_url: "https://github.com/scnorton"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/scnorton)
+

@@ -1,6 +1,6 @@
 ---
 title: "Source (Bitbucket)"
 description: ""
-external_url: "https://bitbucket.org/iBotPeaches/apktool/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://bitbucket.org/iBotPeaches/apktool/)
+

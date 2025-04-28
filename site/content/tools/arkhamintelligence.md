@@ -1,6 +1,6 @@
 ---
 title: "arkhamintelligence"
 description: ""
-external_url: "https://platform.arkhamintelligence.com/waitlist"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://platform.arkhamintelligence.com/waitlist)
+

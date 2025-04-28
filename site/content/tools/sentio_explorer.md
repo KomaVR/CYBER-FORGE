@@ -1,6 +1,6 @@
 ---
 title: "Sentio Explorer"
 description: ""
-external_url: "https://app.sentio.xyz/explorer"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://app.sentio.xyz/explorer)
+

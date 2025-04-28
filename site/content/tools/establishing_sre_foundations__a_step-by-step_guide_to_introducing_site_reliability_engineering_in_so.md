@@ -1,6 +1,6 @@
 ---
 title: "Establishing SRE Foundations: A Step-by-Step Guide to Introducing Site Reliability Engineering in Software Delivery Organizations"
 description: "📔"
-external_url: "https://amzn.to/4i87f4D"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://amzn.to/4i87f4D)
+

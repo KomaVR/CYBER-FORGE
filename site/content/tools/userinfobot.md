@@ -1,6 +1,6 @@
 ---
 title: "UserInfoBot"
 description: ""
-external_url: "https://t.me/userinfobot"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://t.me/userinfobot)
+

@@ -1,6 +1,6 @@
 ---
 title: "uncognic"
 description: ""
-external_url: "https://github.com/uncognic"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/uncognic)
+

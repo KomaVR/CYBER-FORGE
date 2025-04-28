@@ -1,6 +1,6 @@
 ---
 title: "Rekt.News"
 description: ""
-external_url: "https://rekt.news"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://rekt.news)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://tria.ge/signup"
 description: "Triage: ."
-external_url: "https://tria.ge/signup"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tria.ge/signup)
+

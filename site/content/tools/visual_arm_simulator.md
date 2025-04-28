@@ -1,6 +1,6 @@
 ---
 title: "VisUAL ARM Simulator"
 description: ""
-external_url: "https://salmanarif.bitbucket.io/visual/index.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://salmanarif.bitbucket.io/visual/index.html)
+

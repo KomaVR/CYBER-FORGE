@@ -1,6 +1,6 @@
 ---
 title: "ThreatPinch Lookup"
 description: ""
-external_url: "https://github.com/cloudtracer/ThreatPinchLookup"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/cloudtracer/ThreatPinchLookup)
+

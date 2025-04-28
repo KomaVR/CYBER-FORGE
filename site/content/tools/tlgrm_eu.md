@@ -1,6 +1,6 @@
 ---
 title: "Tlgrm.eu"
 description: ""
-external_url: "https://tlgrm.eu/channels"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tlgrm.eu/channels)
+

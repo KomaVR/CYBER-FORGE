@@ -1,6 +1,6 @@
 ---
 title: "Telegram-extractor"
 description: "Python3 scripts to analyse the data stored in Telegram."
-external_url: "https://github.com/tsusanka/telegram-extractor"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/tsusanka/telegram-extractor)
+

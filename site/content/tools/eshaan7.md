@@ -1,6 +1,6 @@
 ---
 title: "eshaan7"
 description: ""
-external_url: "https://github.com/eshaan7"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/eshaan7)
+

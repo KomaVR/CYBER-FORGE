@@ -1,6 +1,6 @@
 ---
 title: "superhedgy"
 description: ""
-external_url: "https://github.com/superhedgy"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/superhedgy)
+

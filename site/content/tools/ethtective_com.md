@@ -1,6 +1,6 @@
 ---
 title: "ethtective.com"
 description: ""
-external_url: "http://ethtective.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://ethtective.com/)
+

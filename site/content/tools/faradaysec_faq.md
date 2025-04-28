@@ -1,6 +1,6 @@
 ---
 title: "FaradaySEC FAQ"
 description: "Frequently Asked Questions:"
-external_url: "https://docs.faradaysec.com/FAQ/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://docs.faradaysec.com/FAQ/)
+

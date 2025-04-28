@@ -1,6 +1,6 @@
 ---
 title: "Faceagle"
 description: "is a face recognition search engine."
-external_url: "https://faceagle.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://faceagle.com/)
+

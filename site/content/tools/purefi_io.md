@@ -1,6 +1,6 @@
 ---
 title: "purefi.io"
 description: ""
-external_url: "https://purefi.io"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://purefi.io)
+

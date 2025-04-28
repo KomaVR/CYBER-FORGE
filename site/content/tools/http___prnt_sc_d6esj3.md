@@ -1,6 +1,6 @@
 ---
 title: "http://prnt.sc/d6esj3"
 description: ""
-external_url: "http://prnt.sc/d6esj3"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://prnt.sc/d6esj3)
+

@@ -1,6 +1,6 @@
 ---
 title: "metropolis.space"
 description: ""
-external_url: "https://www.metropolis.space/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.metropolis.space/)
+

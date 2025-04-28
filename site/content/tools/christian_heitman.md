@@ -1,6 +1,6 @@
 ---
 title: "Christian Heitman"
 description: "Quarkslab"
-external_url: "https://github.com/cnheitman"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/cnheitman)
+

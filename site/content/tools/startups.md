@@ -2,6 +2,6 @@
 title: "Startups"
 description: "
 "
-external_url: "https://github.com/enterprise/startups"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/enterprise/startups)
+

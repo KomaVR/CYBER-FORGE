@@ -1,6 +1,6 @@
 ---
 title: "Bizeurope"
 description: ""
-external_url: "http://www.bizeurope.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.bizeurope.com)
+

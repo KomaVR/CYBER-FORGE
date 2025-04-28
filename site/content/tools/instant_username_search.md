@@ -12,6 +12,6 @@ KnowEm Username Search
 sherlock-project/sherlock
 
 "
-external_url: "https://instantusername.com/#/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://instantusername.com/#/)
+

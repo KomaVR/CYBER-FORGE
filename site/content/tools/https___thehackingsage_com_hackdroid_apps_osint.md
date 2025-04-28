@@ -1,6 +1,6 @@
 ---
 title: "https://thehackingsage.com/hackdroid/apps/osint"
 description: "OSINT :"
-external_url: "https://thehackingsage.com/hackdroid/apps/osint"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://thehackingsage.com/hackdroid/apps/osint)
+

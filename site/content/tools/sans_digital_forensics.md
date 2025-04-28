@@ -1,6 +1,6 @@
 ---
 title: "SANS Digital Forensics"
 description: ""
-external_url: "https://digital-forensics.sans.org/"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://digital-forensics.sans.org/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Pentoo"
 description: "Security-focused livecd based on Gentoo."
-external_url: "http://www.pentoo.ch"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.pentoo.ch)
+

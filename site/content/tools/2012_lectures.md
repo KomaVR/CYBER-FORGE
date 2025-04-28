@@ -10,6 +10,6 @@ description: "Oregon Programming Languages Summer School (Proof theory, type the
  Latest YT playlists
 
 "
-external_url: "https://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
+

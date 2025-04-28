@@ -1,6 +1,6 @@
 ---
 title: "Ph0tonic"
 description: ""
-external_url: "https://github.com/Ph0tonic"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Ph0tonic)
+

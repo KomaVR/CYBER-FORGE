@@ -1,6 +1,6 @@
 ---
 title: "dr-BEat"
 description: ""
-external_url: "https://github.com/dr-BEat"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/dr-BEat)
+

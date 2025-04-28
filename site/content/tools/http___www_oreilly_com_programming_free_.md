@@ -1,6 +1,6 @@
 ---
 title: "http://www.oreilly.com/programming/free/"
 description: ""
-external_url: "http://www.oreilly.com/programming/free/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.oreilly.com/programming/free/)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/EgeBalci/EGESPLOIT"
 description: ""
-external_url: "https://github.com/EgeBalci/EGESPLOIT"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/EgeBalci/EGESPLOIT)
+

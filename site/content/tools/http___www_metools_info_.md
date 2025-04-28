@@ -1,6 +1,6 @@
 ---
 title: "http://www.metools.info/"
 description: ""
-external_url: "http://www.metools.info/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.metools.info/)
+

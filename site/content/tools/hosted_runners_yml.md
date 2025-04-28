@@ -1,6 +1,6 @@
 ---
 title: "hosted_runners.yml"
 description: "Build Status:"
-external_url: "https://github.com/osquery/osquery/actions/workflows/hosted_runners.yml"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/osquery/osquery/actions/workflows/hosted_runners.yml)
+

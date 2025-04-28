@@ -1,6 +1,6 @@
 ---
 title: "DroidCam (Capture Image)"
 description: ""
-external_url: "https://github.com/kinghacker0/WishFish"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/kinghacker0/WishFish)
+

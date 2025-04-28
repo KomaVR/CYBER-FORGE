@@ -8,6 +8,6 @@ https://www.cyberciti.biz/faq/howto-check-linux-rootkist-with-detectors-software
 https://www.tecmint.com/install-rootkit-hunter-scan-for-rootkits-backdoors-in-linux/
 
 "
-external_url: "http://www.chkrootkit.org/"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](http://www.chkrootkit.org/)
+

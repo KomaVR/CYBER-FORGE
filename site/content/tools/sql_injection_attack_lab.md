@@ -4,6 +4,6 @@ description: "
 
 Launching the SQL-injection attack on a vulnerable web application. Conducting experiments with several countermeasures.
 "
-external_url: "http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Web/Web_SQL_Injection"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Web/Web_SQL_Injection)
+

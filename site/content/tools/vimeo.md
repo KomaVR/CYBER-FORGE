@@ -1,6 +1,6 @@
 ---
 title: "Vimeo"
 description: ""
-external_url: "https://vimeo.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://vimeo.com)
+

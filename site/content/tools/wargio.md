@@ -1,6 +1,6 @@
 ---
 title: "wargio"
 description: ""
-external_url: "https://github.com/wargio"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/wargio)
+

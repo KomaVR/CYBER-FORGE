@@ -1,6 +1,6 @@
 ---
 title: "pcm1k"
 description: ""
-external_url: "https://github.com/pcm1k"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/pcm1k)
+

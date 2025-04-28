@@ -1,6 +1,6 @@
 ---
 title: "psifertex"
 description: ""
-external_url: "https://github.com/psifertex"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/psifertex)
+

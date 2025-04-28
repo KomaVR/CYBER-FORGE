@@ -1,6 +1,6 @@
 ---
 title: "USBPcap"
 description: "USB capture for Windows."
-external_url: "https://github.com/desowin/usbpcap"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/desowin/usbpcap)
+

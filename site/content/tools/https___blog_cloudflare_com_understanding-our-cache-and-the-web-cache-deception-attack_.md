@@ -3,6 +3,6 @@ title: "https://blog.cloudflare.com/understanding-our-cache-and-the-web-cache-de
 description: "
 
 "
-external_url: "https://blog.cloudflare.com/understanding-our-cache-and-the-web-cache-deception-attack/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://blog.cloudflare.com/understanding-our-cache-and-the-web-cache-deception-attack/)
+

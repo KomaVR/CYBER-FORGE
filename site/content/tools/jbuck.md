@@ -1,6 +1,6 @@
 ---
 title: "jbuck"
 description: ""
-external_url: "https://github.com/jbuck"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/jbuck)
+

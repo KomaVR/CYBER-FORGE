@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/mozilla/readability"
 description: "Readability:"
-external_url: "https://github.com/mozilla/readability"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mozilla/readability)
+

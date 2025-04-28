@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/alrra"
 description: "Cătălin Mariș"
-external_url: "https://github.com/alrra"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/alrra)
+

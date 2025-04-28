@@ -1,6 +1,6 @@
 ---
 title: "vyaspranjal33"
 description: ""
-external_url: "https://github.com/vyaspranjal33"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/vyaspranjal33)
+

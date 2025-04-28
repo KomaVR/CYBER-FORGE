@@ -1,6 +1,6 @@
 ---
 title: "Xing"
 description: ""
-external_url: "http://www.xing.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.xing.com)
+

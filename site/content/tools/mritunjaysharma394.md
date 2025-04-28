@@ -1,6 +1,6 @@
 ---
 title: "mritunjaysharma394"
 description: ""
-external_url: "https://github.com/mritunjaysharma394"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mritunjaysharma394)
+

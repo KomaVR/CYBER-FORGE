@@ -5,6 +5,6 @@ description: "Good website to find different shellcode:
 
 
 "
-external_url: "http://shell-storm.org/shellcode/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://shell-storm.org/shellcode/)
+

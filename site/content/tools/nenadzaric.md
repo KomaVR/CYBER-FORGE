@@ -1,6 +1,6 @@
 ---
 title: "nenadzaric"
 description: ""
-external_url: "https://github.com/nenadzaric"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/nenadzaric)
+

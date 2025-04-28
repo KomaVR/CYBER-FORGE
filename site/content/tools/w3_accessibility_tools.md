@@ -1,6 +1,6 @@
 ---
 title: "W3 Accessibility Tools"
 description: ""
-external_url: "https://www.w3.org/WAI/test-evaluate/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.w3.org/WAI/test-evaluate/)
+

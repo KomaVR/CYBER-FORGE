@@ -1,6 +1,6 @@
 ---
 title: "Fugue"
 description: "Interface icons by"
-external_url: "https://p.yusukekamiyamane.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://p.yusukekamiyamane.com)
+

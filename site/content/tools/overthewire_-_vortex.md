@@ -1,6 +1,6 @@
 ---
 title: "OverTheWire - Vortex"
 description: ""
-external_url: "http://overthewire.org/wargames/vortex/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://overthewire.org/wargames/vortex/)
+

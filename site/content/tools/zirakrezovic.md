@@ -1,6 +1,6 @@
 ---
 title: "ZIRAKrezovic"
 description: ""
-external_url: "https://github.com/ZIRAKrezovic"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ZIRAKrezovic)
+

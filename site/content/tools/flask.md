@@ -1,6 +1,6 @@
 ---
 title: "flask"
 description: "a lightweight python web framework"
-external_url: "http://flask.pocoo.org/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://flask.pocoo.org/)
+

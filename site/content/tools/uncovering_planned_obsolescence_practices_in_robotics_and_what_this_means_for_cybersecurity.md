@@ -8,6 +8,6 @@ Breaking ROS 2 security assumptions: Targeting the top 6 DDS implementations, RO
 DDS and ROS 2 cybersecurity, ROS 2 Security Working Group
 
 "
-external_url: "https://www.youtube.com/watch?v=PnVq_ThrDVI&list=PLf4Fnww4KiFdjCAfs04ynv40xbpqFPibm&index=15"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.youtube.com/watch?v=PnVq_ThrDVI&list=PLf4Fnww4KiFdjCAfs04ynv40xbpqFPibm&index=15)
+

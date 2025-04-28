@@ -3,6 +3,6 @@ title: "rustls"
 description: "
 local-http- - Support HTTPS with 
 "
-external_url: "https://crates.io/crates/rustls"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://crates.io/crates/rustls)
+

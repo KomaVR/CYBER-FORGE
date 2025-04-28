@@ -1,6 +1,6 @@
 ---
 title: "https://www.imei.info/pt/"
 description: ""
-external_url: "https://www.imei.info/pt/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.imei.info/pt/)
+

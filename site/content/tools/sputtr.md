@@ -1,6 +1,6 @@
 ---
 title: "Sputtr"
 description: ""
-external_url: "http://www.sputtr.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.sputtr.com/)
+

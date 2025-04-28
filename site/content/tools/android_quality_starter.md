@@ -1,6 +1,6 @@
 ---
 title: "Android Quality Starter"
 description: ""
-external_url: "https://github.com/pwittchen/android-quality-starter"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/pwittchen/android-quality-starter)
+

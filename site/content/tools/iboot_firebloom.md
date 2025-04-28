@@ -7,6 +7,6 @@ OpenJailbreak/iBootRE
 *OS iBoot
 
 "
-external_url: "https://saaramar.github.io/iBoot_firebloom/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://saaramar.github.io/iBoot_firebloom/)
+

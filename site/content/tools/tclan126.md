@@ -1,6 +1,6 @@
 ---
 title: "tclan126"
 description: ""
-external_url: "https://github.com/tclan126"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/tclan126)
+

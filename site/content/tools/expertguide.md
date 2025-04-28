@@ -1,6 +1,6 @@
 ---
 title: "ExpertGuide"
 description: ""
-external_url: "http://www.expertguide.com.au/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.expertguide.com.au/)
+

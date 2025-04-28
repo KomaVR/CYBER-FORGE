@@ -1,6 +1,6 @@
 ---
 title: "Sub-Domain TakeOver"
 description: ""
-external_url: "https://github.com/edoardottt/takeover"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/edoardottt/takeover)
+

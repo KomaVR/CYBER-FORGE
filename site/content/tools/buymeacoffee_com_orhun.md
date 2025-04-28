@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://buymeacoffee.com/orhun"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://buymeacoffee.com/orhun)
+

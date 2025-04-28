@@ -1,6 +1,6 @@
 ---
 title: "CYB3RMX"
 description: ""
-external_url: "https://github.com/CYB3RMX"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/CYB3RMX)
+

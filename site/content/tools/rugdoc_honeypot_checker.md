@@ -1,6 +1,6 @@
 ---
 title: "rugdoc honeypot checker"
 description: ""
-external_url: "https://rugdoc.io/honeypot/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://rugdoc.io/honeypot/)
+

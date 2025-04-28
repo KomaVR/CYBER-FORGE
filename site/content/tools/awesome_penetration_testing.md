@@ -1,6 +1,6 @@
 ---
 title: "Awesome Penetration Testing"
 description: ""
-external_url: "https://github.com/enaqx/awesome-pentest"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/enaqx/awesome-pentest)
+

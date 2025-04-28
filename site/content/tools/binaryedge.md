@@ -1,6 +1,6 @@
 ---
 title: "BinaryEdge"
 description: "We scan the web and gather data for you"
-external_url: "https://www.binaryedge.io/"
-category: "Reverse Engineering"
----
+external_category: "Reverse Engineering"
+---[Visit Website](https://www.binaryedge.io/)
+

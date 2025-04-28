@@ -6,6 +6,6 @@ Boletim informacional relacionado ao transporte coletivo de Curitiba
 
 
 "
-external_url: "https://www.urbs.curitiba.pr.gov.br/mobile/boletim"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.urbs.curitiba.pr.gov.br/mobile/boletim)
+

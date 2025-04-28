@@ -3,6 +3,6 @@ title: "TryHackMe | The find command"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/thefindcommand"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/thefindcommand)
+

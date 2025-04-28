@@ -1,6 +1,6 @@
 ---
 title: "qPublic"
 description: ""
-external_url: "https://qpublic.schneidercorp.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://qpublic.schneidercorp.com/)
+

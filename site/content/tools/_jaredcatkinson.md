@@ -1,6 +1,6 @@
 ---
 title: "@jaredcatkinson"
 description: "PowerShell Forensics"
-external_url: "https://twitter.com/jaredcatkinson"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://twitter.com/jaredcatkinson)
+

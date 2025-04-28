@@ -1,6 +1,6 @@
 ---
 title: "@jtop_fap"
 description: "Huge refactoring & lib-mode with thanks to"
-external_url: "https://twitter.com/jtop_fap"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://twitter.com/jtop_fap)
+

@@ -3,6 +3,6 @@ title: "TryHackMe | Brooklyn Nine Nine"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/brooklynninenine"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/brooklynninenine)
+

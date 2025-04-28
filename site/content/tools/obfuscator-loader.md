@@ -1,6 +1,6 @@
 ---
 title: "obfuscator-loader"
 description: "Webpack loader:"
-external_url: "https://github.com/javascript-obfuscator/obfuscator-loader"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/javascript-obfuscator/obfuscator-loader)
+

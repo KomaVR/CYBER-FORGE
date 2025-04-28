@@ -1,6 +1,6 @@
 ---
 title: "yihong0618"
 description: ""
-external_url: "https://github.com/yihong0618"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/yihong0618)
+

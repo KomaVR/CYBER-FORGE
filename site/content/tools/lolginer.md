@@ -1,6 +1,6 @@
 ---
 title: "Lolginer"
 description: ""
-external_url: "https://github.com/Lolginer"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Lolginer)
+

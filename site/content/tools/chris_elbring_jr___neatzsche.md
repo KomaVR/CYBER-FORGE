@@ -1,6 +1,6 @@
 ---
 title: "Chris Elbring Jr. @neatzsche"
 description: ""
-external_url: "https://www.github.com/neatzsche"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.github.com/neatzsche)
+

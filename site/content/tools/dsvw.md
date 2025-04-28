@@ -1,6 +1,6 @@
 ---
 title: "DSVW"
 description: "Damn Small Vulnerable Web."
-external_url: "https://github.com/stamparm/DSVW"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/stamparm/DSVW)
+

@@ -1,6 +1,6 @@
 ---
 title: "Yippy"
 description: ""
-external_url: "http://yippy.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://yippy.com/)
+

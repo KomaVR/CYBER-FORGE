@@ -1,6 +1,6 @@
 ---
 title: "mamadoudicko"
 description: ""
-external_url: "https://github.com/mamadoudicko"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mamadoudicko)
+

@@ -1,6 +1,6 @@
 ---
 title: "@stamparm"
 description: "Miroslav Stampar ()"
-external_url: "https://github.com/stamparm"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/stamparm)
+

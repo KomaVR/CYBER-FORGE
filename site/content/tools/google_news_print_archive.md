@@ -1,6 +1,6 @@
 ---
 title: "Google News Print Archive"
 description: ""
-external_url: "http://news.google.com/newspapers"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://news.google.com/newspapers)
+

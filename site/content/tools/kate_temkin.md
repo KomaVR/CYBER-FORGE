@@ -1,6 +1,6 @@
 ---
 title: "Kate Temkin"
 description: "/ Fusée Launcher"
-external_url: "https://github.com/ktemkin"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ktemkin)
+

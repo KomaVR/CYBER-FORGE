@@ -1,6 +1,6 @@
 ---
 title: "MarketVisual"
 description: ""
-external_url: "http://www.marketvisual.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.marketvisual.com/)
+

@@ -1,6 +1,6 @@
 ---
 title: "C++ core"
 description: "Blazingly fast."
-external_url: "https://github.com/Ciphey/CipheyCore"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Ciphey/CipheyCore)
+

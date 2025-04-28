@@ -3,6 +3,6 @@ title: "TryHackMe | Misguided Ghosts"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/misguidedghosts"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/misguidedghosts)
+

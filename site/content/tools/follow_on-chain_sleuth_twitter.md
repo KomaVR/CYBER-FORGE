@@ -1,6 +1,6 @@
 ---
 title: "Follow on-chain Sleuth Twitter"
 description: ""
-external_url: "https://mobile.twitter.com/Onchainsnoop"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://mobile.twitter.com/Onchainsnoop)
+

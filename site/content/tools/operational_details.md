@@ -1,6 +1,6 @@
 ---
 title: "Operational Details"
 description: ""
-external_url: "https://turbinia.readthedocs.io/en/latest/user/operational-details.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://turbinia.readthedocs.io/en/latest/user/operational-details.html)
+

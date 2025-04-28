@@ -1,6 +1,6 @@
 ---
 title: "Tellows"
 description: "Who is calling? The phone number reverse search"
-external_url: "https://www.tellows.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.tellows.com/)
+

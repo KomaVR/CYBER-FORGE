@@ -1,6 +1,6 @@
 ---
 title: "https://ppn.snovvcrash.rocks/"
 description: ""
-external_url: "https://ppn.snovvcrash.rocks/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://ppn.snovvcrash.rocks/)
+

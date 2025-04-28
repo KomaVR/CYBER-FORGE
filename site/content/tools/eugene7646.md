@@ -1,6 +1,6 @@
 ---
 title: "eugene7646"
 description: ""
-external_url: "https://github.com/eugene7646"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/eugene7646)
+

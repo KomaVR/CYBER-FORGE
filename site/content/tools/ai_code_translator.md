@@ -1,6 +1,6 @@
 ---
 title: "AI code translator"
 description: ""
-external_url: "https://github.com/mckaywrigley/ai-code-translator"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mckaywrigley/ai-code-translator)
+

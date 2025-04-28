@@ -1,6 +1,6 @@
 ---
 title: "Exhibit"
 description: ""
-external_url: "http://www.simile-widgets.org/exhibit"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.simile-widgets.org/exhibit)
+

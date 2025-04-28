@@ -1,6 +1,6 @@
 ---
 title: "ebramanti"
 description: ""
-external_url: "https://github.com/ebramanti"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ebramanti)
+

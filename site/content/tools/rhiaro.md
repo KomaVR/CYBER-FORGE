@@ -1,6 +1,6 @@
 ---
 title: "rhiaro"
 description: ""
-external_url: "https://github.com/rhiaro"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/rhiaro)
+

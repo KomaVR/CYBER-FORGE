@@ -10,6 +10,6 @@ Nginx 大小寫敏感，Swift 不敏感
 
 
 "
-external_url: "https://adragos.ro/line-ctf-2024/#zipviewer-version-clown"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://adragos.ro/line-ctf-2024/#zipviewer-version-clown)
+

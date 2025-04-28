@@ -1,6 +1,6 @@
 ---
 title: "Batchgeo"
 description: ""
-external_url: "http://batchgeo.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://batchgeo.com)
+

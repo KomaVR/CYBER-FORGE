@@ -1,6 +1,6 @@
 ---
 title: "Clojure"
 description: ""
-external_url: "https://github.com/perkss/tinklj"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/perkss/tinklj)
+

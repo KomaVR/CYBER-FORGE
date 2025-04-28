@@ -1,6 +1,6 @@
 ---
 title: "venshine/decompile-apk"
 description: "[283星][8m] [Shell]  APK 反编译"
-external_url: "https://github.com/venshine/decompile-apk"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/venshine/decompile-apk)
+

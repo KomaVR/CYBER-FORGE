@@ -14,6 +14,6 @@ PBCTF 2023 - Makima
 
 
 "
-external_url: "https://www.nginx.com/resources/wiki/start/topics/examples/x-accel/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.nginx.com/resources/wiki/start/topics/examples/x-accel/)
+

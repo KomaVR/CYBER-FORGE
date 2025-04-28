@@ -3,6 +3,6 @@ title: "Whitewidow"
 description: "
  – SQL Vulnerability Scanner
 "
-external_url: "https://www.kitploit.com/2017/05/whitewidow-sql-vulnerability-scanner.html"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://www.kitploit.com/2017/05/whitewidow-sql-vulnerability-scanner.html)
+

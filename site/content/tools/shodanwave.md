@@ -1,6 +1,6 @@
 ---
 title: "shodanwave"
 description: "Shodanwave is a tool for exploring and obtaining information from Netwave IP Camera. ."
-external_url: "https://github.com/hackatnow/shodanwave"
-category: "OSINT & Recon"
----
+external_category: "OSINT & Recon"
+---[Visit Website](https://github.com/hackatnow/shodanwave)
+

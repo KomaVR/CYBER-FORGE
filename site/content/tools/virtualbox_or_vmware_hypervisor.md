@@ -1,6 +1,6 @@
 ---
 title: "VirtualBox or VMWare hypervisor"
 description: ""
-external_url: "https://bluecapesecurity.com/build-your-lab/virtualization/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://bluecapesecurity.com/build-your-lab/virtualization/)
+

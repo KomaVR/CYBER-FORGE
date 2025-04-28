@@ -2,6 +2,6 @@
 title: "AzizKpln"
 description: "AzizKpln
 Aziz Kaplan"
-external_url: "https://github.com/AzizKpln"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/AzizKpln)
+

@@ -6,6 +6,6 @@ Check if something was photoshopped (look at highlights)
 
 
 "
-external_url: "https://29a.ch/photo-forensics/#error-level-analysis"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://29a.ch/photo-forensics/#error-level-analysis)
+

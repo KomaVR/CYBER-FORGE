@@ -1,6 +1,6 @@
 ---
 title: "gidano"
 description: ""
-external_url: "https://github.com/gidano"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/gidano)
+

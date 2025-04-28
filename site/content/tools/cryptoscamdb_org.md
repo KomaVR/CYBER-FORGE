@@ -1,6 +1,6 @@
 ---
 title: "cryptoscamdb.org"
 description: ""
-external_url: "https://cryptoscamdb.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://cryptoscamdb.org)
+

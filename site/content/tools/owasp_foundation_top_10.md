@@ -3,6 +3,6 @@ title: "OWASP Foundation Top 10"
 description: "
 
 "
-external_url: "https://owasp.org/www-project-top-ten/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://owasp.org/www-project-top-ten/)
+

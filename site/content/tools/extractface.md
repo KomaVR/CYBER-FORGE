@@ -1,6 +1,6 @@
 ---
 title: "ExtractFace"
 description: ""
-external_url: "http://le-tools.com/ExtractFace.html#download"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://le-tools.com/ExtractFace.html#download)
+

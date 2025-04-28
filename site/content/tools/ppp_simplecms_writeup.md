@@ -10,6 +10,6 @@ select query from sys.statements_with_full_table_scans
 MySQL 5.7
 
 "
-external_url: "https://github.com/pwning/public-writeup/tree/master/codegate2018/Simple%20CMS"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/pwning/public-writeup/tree/master/codegate2018/Simple%20CMS)
+

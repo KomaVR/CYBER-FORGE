@@ -1,6 +1,6 @@
 ---
 title: "alright21"
 description: ""
-external_url: "https://github.com/alright21"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/alright21)
+

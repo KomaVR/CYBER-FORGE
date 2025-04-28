@@ -3,6 +3,6 @@ title: "TryHackMe | You're in a cave"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/inacave"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/inacave)
+

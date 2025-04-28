@@ -1,6 +1,6 @@
 ---
 title: "SwiftOnSecurity Sysmon Config"
 description: ""
-external_url: "https://github.com/SwiftOnSecurity/sysmon-config"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/SwiftOnSecurity/sysmon-config)
+

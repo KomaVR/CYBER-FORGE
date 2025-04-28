@@ -8,6 +8,6 @@ description: "
 
 
 "
-external_url: "https://liberapay.com/gildas"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://liberapay.com/gildas)
+

@@ -1,6 +1,6 @@
 ---
 title: "DNSViz"
 description: ""
-external_url: "http://dnsviz.net"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://dnsviz.net)
+

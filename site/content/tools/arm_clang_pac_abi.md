@@ -5,6 +5,6 @@ description: "Compilers
 
 
 "
-external_url: "https://github.com/apple/llvm-project/blob/apple/main/clang/docs/PointerAuthentication.rst"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/apple/llvm-project/blob/apple/main/clang/docs/PointerAuthentication.rst)
+

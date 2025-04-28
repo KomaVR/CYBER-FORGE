@@ -1,6 +1,6 @@
 ---
 title: "loretanr"
 description: ""
-external_url: "https://github.com/loretanr"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/loretanr)
+

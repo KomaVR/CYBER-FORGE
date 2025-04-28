@@ -24,6 +24,6 @@ Ruby open: \"/path/to/key_file|whoami\"
 Example: 
 
 "
-external_url: "https://chybeta.github.io/2017/08/29/HITB-CTF-2017-Pasty-writeup/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://chybeta.github.io/2017/08/29/HITB-CTF-2017-Pasty-writeup/)
+

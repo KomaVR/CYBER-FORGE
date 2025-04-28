@@ -6,6 +6,6 @@ description: "SCCM:
 https://github.com/Mayyhem/SharpSCCM
 
 "
-external_url: "https://github.com/garrettfoster13/sccmhunter"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/garrettfoster13/sccmhunter)
+

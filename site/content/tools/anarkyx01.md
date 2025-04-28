@@ -1,6 +1,6 @@
 ---
 title: "AnarKyx01"
 description: ""
-external_url: "https://github.com/AnarKyx01"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/AnarKyx01)
+

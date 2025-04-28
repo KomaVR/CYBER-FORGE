@@ -1,6 +1,6 @@
 ---
 title: "iTranslate Voice"
 description: ""
-external_url: "http://itranslatevoice.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://itranslatevoice.com/)
+

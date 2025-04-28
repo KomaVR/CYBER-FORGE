@@ -1,6 +1,6 @@
 ---
 title: "Government of Canada Open Data"
 description: ""
-external_url: "http://open.canada.ca/en"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://open.canada.ca/en)
+

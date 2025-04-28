@@ -1,6 +1,6 @@
 ---
 title: "Follow bax1337"
 description: ""
-external_url: "https://twitter.com/bax1337"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://twitter.com/bax1337)
+

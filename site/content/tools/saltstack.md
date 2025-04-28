@@ -1,6 +1,6 @@
 ---
 title: "saltstack"
 description: "states that actually do the work"
-external_url: "https://github.com/teamdfir/sift-saltstack"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/teamdfir/sift-saltstack)
+

@@ -1,6 +1,6 @@
 ---
 title: "LingvoSoftOnline"
 description: ""
-external_url: "http://www.lingvozone.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.lingvozone.com/)
+

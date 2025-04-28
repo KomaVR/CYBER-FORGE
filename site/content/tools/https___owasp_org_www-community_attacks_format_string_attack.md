@@ -5,6 +5,6 @@ description: "Look at Table 2 for what to try if you see \"printf(buf)\" or some
 
 
 "
-external_url: "https://owasp.org/www-community/attacks/Format_string_attack"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://owasp.org/www-community/attacks/Format_string_attack)
+

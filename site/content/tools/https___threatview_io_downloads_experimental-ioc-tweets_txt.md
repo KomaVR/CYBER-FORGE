@@ -1,6 +1,6 @@
 ---
 title: "https://threatview.io/Downloads/Experimental-IOC-Tweets.txt"
 description: ""
-external_url: "https://threatview.io/Downloads/Experimental-IOC-Tweets.txt"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://threatview.io/Downloads/Experimental-IOC-Tweets.txt)
+

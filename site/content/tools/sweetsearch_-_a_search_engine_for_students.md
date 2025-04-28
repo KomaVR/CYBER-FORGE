@@ -1,6 +1,6 @@
 ---
 title: "SweetSearch - A Search Engine for Students"
 description: ""
-external_url: "https://sweetsearch.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://sweetsearch.com/)
+

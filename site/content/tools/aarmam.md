@@ -1,6 +1,6 @@
 ---
 title: "aarmam"
 description: ""
-external_url: "https://github.com/aarmam"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/aarmam)
+

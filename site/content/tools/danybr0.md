@@ -1,6 +1,6 @@
 ---
 title: "danybr0"
 description: ""
-external_url: "https://github.com/danybr0"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/danybr0)
+

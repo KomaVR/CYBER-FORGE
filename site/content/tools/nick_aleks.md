@@ -1,6 +1,6 @@
 ---
 title: "Nick Aleks"
 description: ""
-external_url: "https://github.com/nicholasaleks"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/nicholasaleks)
+

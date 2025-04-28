@@ -1,6 +1,6 @@
 ---
 title: "tr33n"
 description: ""
-external_url: "https://github.com/tr33n"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/tr33n)
+

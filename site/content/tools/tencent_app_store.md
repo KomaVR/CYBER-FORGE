@@ -1,6 +1,6 @@
 ---
 title: "Tencent App Store"
 description: ""
-external_url: "https://sj.qq.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://sj.qq.com/)
+

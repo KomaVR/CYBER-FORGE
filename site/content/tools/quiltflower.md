@@ -5,6 +5,6 @@ description: "
 Advanced terminal-based java decompiler
 
 "
-external_url: "https://github.com/QuiltMC/quiltflower/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/QuiltMC/quiltflower/)
+

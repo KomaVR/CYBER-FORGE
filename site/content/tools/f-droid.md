@@ -1,6 +1,6 @@
 ---
 title: "F-Droid"
 description: ""
-external_url: "https://f-droid.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://f-droid.org/)
+

@@ -1,6 +1,6 @@
 ---
 title: "haiyuidesu/sephelper"
 description: ""
-external_url: "https://github.com/haiyuidesu/sephelper"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/haiyuidesu/sephelper)
+

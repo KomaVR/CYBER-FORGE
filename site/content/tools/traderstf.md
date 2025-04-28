@@ -1,6 +1,6 @@
 ---
 title: "TraderStf"
 description: ""
-external_url: "https://github.com/TraderStf"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/TraderStf)
+

@@ -1,6 +1,6 @@
 ---
 title: "The Internals of AppLocker - Part 3 - Access Tokens and Access Checking"
 description: "2019.11 [tyranidslair]"
-external_url: "https://tyranidslair.blogspot.com/2019/11/the-internals-of-applocker-part-3.html"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tyranidslair.blogspot.com/2019/11/the-internals-of-applocker-part-3.html)
+

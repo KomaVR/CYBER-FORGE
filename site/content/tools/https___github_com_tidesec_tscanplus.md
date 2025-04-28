@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/TideSec/TscanPlus"
 description: "TscanPlus:"
-external_url: "https://github.com/TideSec/TscanPlus"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/TideSec/TscanPlus)
+

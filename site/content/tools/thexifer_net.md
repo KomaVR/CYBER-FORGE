@@ -1,6 +1,6 @@
 ---
 title: "thexifer.net"
 description: ""
-external_url: "https://www.thexifer.net/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.thexifer.net/)
+

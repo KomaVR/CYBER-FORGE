@@ -1,6 +1,6 @@
 ---
 title: "Ar3h"
 description: "Ar3h"
-external_url: "https://github.com/Ar3h"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Ar3h)
+

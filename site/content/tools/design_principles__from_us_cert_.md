@@ -1,6 +1,6 @@
 ---
 title: "Design principles (from US CERT)"
 description: ""
-external_url: "https://www.us-cert.gov/bsi/articles/knowledge/principles/design-principles"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.us-cert.gov/bsi/articles/knowledge/principles/design-principles)
+

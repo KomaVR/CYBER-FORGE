@@ -1,6 +1,6 @@
 ---
 title: "Jessy Campos"
 description: "n/a"
-external_url: "https://github.com/ek0"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ek0)
+

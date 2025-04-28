@@ -10,6 +10,6 @@ HITCON CTF 2018 - Baby Cake PHP 2017
 DCTF 2018 - Vulture
 
 "
-external_url: "https://harold.kim/blog/2021/11/n1ctf-writeup/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://harold.kim/blog/2021/11/n1ctf-writeup/)
+

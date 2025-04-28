@@ -1,6 +1,6 @@
 ---
 title: "Audits"
 description: ""
-external_url: "https://pwndoc.github.io/pwndoc/#/audits"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://pwndoc.github.io/pwndoc/#/audits)
+

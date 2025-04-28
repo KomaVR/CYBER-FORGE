@@ -3,6 +3,6 @@ title: "The Practice of Network Security Monitoring: Understanding Incident Dete
 description: "
  - Richard Bejtlich's book on IR.
 "
-external_url: "http://www.amazon.com/gp/product/1593275099"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](http://www.amazon.com/gp/product/1593275099)
+

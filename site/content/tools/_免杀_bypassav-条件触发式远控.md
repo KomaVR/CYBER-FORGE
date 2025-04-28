@@ -1,6 +1,6 @@
 ---
 title: "【免杀】bypassAV-条件触发式远控"
 description: ""
-external_url: "https://github.com/pureqh/bypassAV"
-category: "Grey Hat Tools"
----
+external_category: "Grey Hat Tools"
+---[Visit Website](https://github.com/pureqh/bypassAV)
+

@@ -1,6 +1,6 @@
 ---
 title: "QuasarRAT"
 description: ""
-external_url: "https://github.com/quasar/QuasarRAT"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/quasar/QuasarRAT)
+

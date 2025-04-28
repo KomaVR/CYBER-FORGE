@@ -1,6 +1,6 @@
 ---
 title: "brianteeman"
 description: ""
-external_url: "https://github.com/brianteeman"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/brianteeman)
+

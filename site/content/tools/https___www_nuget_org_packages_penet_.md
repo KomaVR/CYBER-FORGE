@@ -9,6 +9,6 @@ Compiled from the MalDLL project provided above (or use the precompiled binaries
 Install NuGet Package:** PeNet** ->  (Prereq while compiling the ImpulsiveDLLHijack project)
 
 "
-external_url: "https://www.nuget.org/packages/PeNet/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.nuget.org/packages/PeNet/)
+

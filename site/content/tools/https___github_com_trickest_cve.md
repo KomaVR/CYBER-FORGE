@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/trickest/cve"
 description: ""
-external_url: "https://github.com/trickest/cve"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/trickest/cve)
+

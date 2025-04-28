@@ -1,6 +1,6 @@
 ---
 title: "WorldCam"
 description: "Webcams from around the world"
-external_url: "https://worldcam.eu/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://worldcam.eu/)
+

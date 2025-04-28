@@ -1,6 +1,6 @@
 ---
 title: "Testing for JSON Web Token Flaw (EXTRA-TEST-006)"
 description: ""
-external_url: "https://github.com/Voorivex/pentest-guide/tree/master/JSON-Web-Token-Flaw"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/Voorivex/pentest-guide/tree/master/JSON-Web-Token-Flaw)
+

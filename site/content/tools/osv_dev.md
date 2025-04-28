@@ -1,6 +1,6 @@
 ---
 title: "osv.dev"
 description: "Open Source Vulnerabilities"
-external_url: "https://osv.dev/list"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://osv.dev/list)
+

@@ -1,6 +1,6 @@
 ---
 title: "Diamond Rivero @diamant3"
 description: ""
-external_url: "https://www.github.com/diamant3"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.github.com/diamant3)
+

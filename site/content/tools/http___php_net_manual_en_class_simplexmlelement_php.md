@@ -5,6 +5,6 @@ description: "SimpleXMLElement is a class in PHP
 
 
 "
-external_url: "http://php.net/manual/en/class.simplexmlelement.php"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://php.net/manual/en/class.simplexmlelement.php)
+

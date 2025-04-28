@@ -1,6 +1,6 @@
 ---
 title: "https://grupos-online.com/"
 description: ""
-external_url: "https://grupos-online.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://grupos-online.com/)
+

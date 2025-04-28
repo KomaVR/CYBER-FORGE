@@ -1,6 +1,6 @@
 ---
 title: "mimura1133"
 description: ""
-external_url: "https://github.com/mimura1133"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/mimura1133)
+

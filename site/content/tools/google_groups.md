@@ -1,6 +1,6 @@
 ---
 title: "Google Groups"
 description: ""
-external_url: "https://groups.google.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://groups.google.com)
+

@@ -1,6 +1,6 @@
 ---
 title: "webcitation"
 description: ""
-external_url: "http://www.webcitation.org"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://www.webcitation.org)
+

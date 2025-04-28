@@ -1,6 +1,6 @@
 ---
 title: "Fake Address, Random Address Generator"
 description: ""
-external_url: "https://www.fakeaddressgenerator.com/Index/index"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.fakeaddressgenerator.com/Index/index)
+

@@ -1,6 +1,6 @@
 ---
 title: "https://www.onesearch.com/"
 description: ""
-external_url: "https://www.onesearch.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.onesearch.com/)
+

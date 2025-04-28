@@ -1,6 +1,6 @@
 ---
 title: "SecTools"
 description: "Top 125 Network Security Tools"
-external_url: "http://sectools.org/"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](http://sectools.org/)
+

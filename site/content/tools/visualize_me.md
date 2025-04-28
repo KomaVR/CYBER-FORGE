@@ -1,6 +1,6 @@
 ---
 title: "Visualize.me"
 description: ""
-external_url: "http://vizualize.me"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://vizualize.me)
+

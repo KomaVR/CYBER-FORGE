@@ -1,6 +1,6 @@
 ---
 title: "DataBreaches"
 description: ""
-external_url: "https://www.databreaches.net/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.databreaches.net/)
+

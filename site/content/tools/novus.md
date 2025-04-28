@@ -1,6 +1,6 @@
 ---
 title: "Novus"
 description: ""
-external_url: "https://www.usenovus.io"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.usenovus.io)
+

@@ -16,6 +16,6 @@ Unique Kaspersky AV User ID Allowed 3rd-Party Web Tracking
 
 
 "
-external_url: "http://hackernews.cc/archives/26982"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://hackernews.cc/archives/26982)
+

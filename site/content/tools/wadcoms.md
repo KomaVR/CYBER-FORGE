@@ -5,6 +5,6 @@ description: "
 Interactive cheat sheet for Windows/AD environments
 
 "
-external_url: "https://wadcoms.github.io/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://wadcoms.github.io/)
+

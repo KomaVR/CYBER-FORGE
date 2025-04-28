@@ -1,6 +1,6 @@
 ---
 title: "Data Visualization Catalogue"
 description: ""
-external_url: "http://datavizcatalogue.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://datavizcatalogue.com)
+

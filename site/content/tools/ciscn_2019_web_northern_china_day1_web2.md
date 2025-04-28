@@ -1,6 +1,6 @@
 ---
 title: "ciscn_2019_web_northern_china_day1_web2"
 description: ""
-external_url: "https://github.com/glzjin/CISCN_2019_northern_China_day1_web2"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/glzjin/CISCN_2019_northern_China_day1_web2)
+

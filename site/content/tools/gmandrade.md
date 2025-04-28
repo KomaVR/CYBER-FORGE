@@ -1,6 +1,6 @@
 ---
 title: "gmandrade"
 description: ""
-external_url: "https://github.com/gmandrade"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/gmandrade)
+

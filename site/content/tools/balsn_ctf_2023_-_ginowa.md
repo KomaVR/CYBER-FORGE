@@ -15,6 +15,6 @@ Example
 
 
 "
-external_url: "https://github.com/w181496/My-CTF-Challenges/tree/master/Balsn-CTF-2023#ginowa"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/w181496/My-CTF-Challenges/tree/master/Balsn-CTF-2023#ginowa)
+

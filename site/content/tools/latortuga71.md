@@ -1,6 +1,6 @@
 ---
 title: "latortuga71"
 description: ""
-external_url: "https://github.com/latortuga71"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/latortuga71)
+

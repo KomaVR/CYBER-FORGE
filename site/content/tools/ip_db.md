@@ -1,6 +1,6 @@
 ---
 title: "IP DB"
 description: ""
-external_url: "https://www.maxmind.com/en/home"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.maxmind.com/en/home)
+

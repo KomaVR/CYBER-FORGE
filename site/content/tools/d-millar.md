@@ -1,6 +1,6 @@
 ---
 title: "d-millar"
 description: ""
-external_url: "https://github.com/d-millar"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/d-millar)
+

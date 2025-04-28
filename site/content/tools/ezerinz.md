@@ -1,6 +1,6 @@
 ---
 title: "ezerinz"
 description: ""
-external_url: "https://github.com/ezerinz"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/ezerinz)
+

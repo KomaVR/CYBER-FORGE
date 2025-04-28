@@ -3,6 +3,6 @@ title: "TryHackMe | StuxCTF"
 description: "
  
 "
-external_url: "https://tryhackme.com/room/stuxctf"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tryhackme.com/room/stuxctf)
+

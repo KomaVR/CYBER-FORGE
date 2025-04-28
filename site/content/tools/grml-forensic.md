@@ -1,6 +1,6 @@
 ---
 title: "GRML-Forensic"
 description: ""
-external_url: "https://grml-forensic.org/"
-category: "Malware Analysis"
----
+external_category: "Malware Analysis"
+---[Visit Website](https://grml-forensic.org/)
+

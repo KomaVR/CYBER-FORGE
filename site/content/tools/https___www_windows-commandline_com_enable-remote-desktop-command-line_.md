@@ -1,6 +1,6 @@
 ---
 title: "https://www.windows-commandline.com/enable-remote-desktop-command-line/"
 description: ""
-external_url: "https://www.windows-commandline.com/enable-remote-desktop-command-line/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.windows-commandline.com/enable-remote-desktop-command-line/)
+

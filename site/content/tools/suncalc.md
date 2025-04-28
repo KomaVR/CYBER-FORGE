@@ -1,6 +1,6 @@
 ---
 title: "SunCalc"
 description: ""
-external_url: "https://www.suncalc.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.suncalc.org/)
+

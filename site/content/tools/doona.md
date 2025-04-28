@@ -1,6 +1,6 @@
 ---
 title: "doona"
 description: "Network based protocol fuzzer."
-external_url: "https://github.com/wireghoul/doona"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://github.com/wireghoul/doona)
+

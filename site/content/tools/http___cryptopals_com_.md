@@ -1,6 +1,6 @@
 ---
 title: "http://cryptopals.com/"
 description: ""
-external_url: "http://cryptopals.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://cryptopals.com/)
+

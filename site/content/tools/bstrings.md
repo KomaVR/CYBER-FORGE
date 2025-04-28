@@ -1,6 +1,6 @@
 ---
 title: "bstrings"
 description: "Improved strings utility"
-external_url: "https://github.com/EricZimmerman/bstrings"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/EricZimmerman/bstrings)
+

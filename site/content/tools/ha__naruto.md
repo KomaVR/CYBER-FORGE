@@ -1,6 +1,6 @@
 ---
 title: "HA: Naruto"
 description: ""
-external_url: "https://www.hackingarticles.in/ha-naruto-vulnhub-walkthrough/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.hackingarticles.in/ha-naruto-vulnhub-walkthrough/)
+

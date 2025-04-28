@@ -1,6 +1,6 @@
 ---
 title: "Awesome Sysadmin"
 description: ""
-external_url: "https://github.com/awesome-foss/awesome-sysadmin"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/awesome-foss/awesome-sysadmin)
+

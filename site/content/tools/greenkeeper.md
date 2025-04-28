@@ -1,6 +1,6 @@
 ---
 title: "greenkeeper"
 description: ""
-external_url: "https://github.com/apps/greenkeeper"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/apps/greenkeeper)
+

@@ -1,6 +1,6 @@
 ---
 title: "NTFS journal parser"
 description: ""
-external_url: "http://strozfriedberg.github.io/ntfs-linker/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://strozfriedberg.github.io/ntfs-linker/)
+

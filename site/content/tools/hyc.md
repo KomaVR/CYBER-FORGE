@@ -1,6 +1,6 @@
 ---
 title: "hyc"
 description: ""
-external_url: "https://github.com/hyc"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/hyc)
+

@@ -5,6 +5,6 @@ description: "INTERLIGACAO PLANALTO
 
 
 "
-external_url: "https://www.ecovias.com.br/boletim/camera/15"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ecovias.com.br/boletim/camera/15)
+

@@ -1,6 +1,6 @@
 ---
 title: "MDMCK10"
 description: ""
-external_url: "https://github.com/MDMCK10"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/MDMCK10)
+

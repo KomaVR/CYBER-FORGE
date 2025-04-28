@@ -1,6 +1,6 @@
 ---
 title: "Coverity"
 description: ""
-external_url: "https://www.coverity.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.coverity.com)
+

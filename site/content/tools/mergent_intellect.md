@@ -1,6 +1,6 @@
 ---
 title: "Mergent Intellect"
 description: ""
-external_url: "http://www.mergentintellect.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.mergentintellect.com)
+

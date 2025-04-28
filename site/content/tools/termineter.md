@@ -1,6 +1,6 @@
 ---
 title: "termineter"
 description: "Smart Meter Security Testing Framework."
-external_url: "https://github.com/securestate/termineter"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/securestate/termineter)
+

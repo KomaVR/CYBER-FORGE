@@ -1,6 +1,6 @@
 ---
 title: "FMEA Procedure"
 description: ""
-external_url: "https://asq.org/quality-resources/fmea"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://asq.org/quality-resources/fmea)
+

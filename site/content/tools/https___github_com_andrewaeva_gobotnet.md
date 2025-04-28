@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/andrewaeva/gobotnet"
 description: ""
-external_url: "https://github.com/andrewaeva/gobotnet"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/andrewaeva/gobotnet)
+

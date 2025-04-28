@@ -1,6 +1,6 @@
 ---
 title: "Mention"
 description: ""
-external_url: "https://en.mention.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://en.mention.com)
+

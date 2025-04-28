@@ -1,6 +1,6 @@
 ---
 title: "Dictionary.com: Translation"
 description: ""
-external_url: "http://translate.reference.com/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://translate.reference.com/)
+

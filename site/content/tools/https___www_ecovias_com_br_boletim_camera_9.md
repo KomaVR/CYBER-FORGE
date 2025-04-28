@@ -5,6 +5,6 @@ description: "PEDAGIO GUARUJA
 
 
 "
-external_url: "https://www.ecovias.com.br/boletim/camera/9"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ecovias.com.br/boletim/camera/9)
+

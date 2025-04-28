@@ -1,6 +1,6 @@
 ---
 title: "baltpeter"
 description: ""
-external_url: "https://github.com/baltpeter"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/baltpeter)
+

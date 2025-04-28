@@ -1,6 +1,6 @@
 ---
 title: "CVSS"
 description: ""
-external_url: "http://www.first.org/cvss"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.first.org/cvss)
+

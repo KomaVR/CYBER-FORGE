@@ -1,6 +1,6 @@
 ---
 title: "Best of the Web Blog Directory"
 description: ""
-external_url: "https://blogs.botw.org/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://blogs.botw.org/)
+

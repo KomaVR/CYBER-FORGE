@@ -1,6 +1,6 @@
 ---
 title: "sel4 website"
 description: "and summit"
-external_url: "https://sel4.systems/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://sel4.systems/)
+

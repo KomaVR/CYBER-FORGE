@@ -1,6 +1,6 @@
 ---
 title: "Osx-config-check"
 description: "Verify the configuration of your OS X machine."
-external_url: "https://github.com/kristovatlas/osx-config-check"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/kristovatlas/osx-config-check)
+

@@ -1,6 +1,6 @@
 ---
 title: "Principles of Compiler Design - IISC Bangalore"
 description: ""
-external_url: "https://nptel.ac.in/courses/106108113/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://nptel.ac.in/courses/106108113/)
+

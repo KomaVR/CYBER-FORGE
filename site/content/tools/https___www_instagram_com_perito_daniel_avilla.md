@@ -1,6 +1,6 @@
 ---
 title: "https://www.instagram.com/perito_daniel_avilla"
 description: ""
-external_url: "https://www.instagram.com/perito_daniel_avilla"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.instagram.com/perito_daniel_avilla)
+

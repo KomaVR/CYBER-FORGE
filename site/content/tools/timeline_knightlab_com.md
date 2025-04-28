@@ -4,6 +4,6 @@ description: "
 Knight Lab, make an interactive timeline of events,
  
 "
-external_url: "https://timeline.knightlab.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://timeline.knightlab.com)
+

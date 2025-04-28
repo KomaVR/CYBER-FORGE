@@ -1,6 +1,6 @@
 ---
 title: "Vegile - Ghost In The Shell"
 description: ""
-external_url: "https://github.com/Screetsec/Vegile"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Screetsec/Vegile)
+

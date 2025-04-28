@@ -1,6 +1,6 @@
 ---
 title: "Zapmeta"
 description: ""
-external_url: "http://www.zapmeta.com/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://www.zapmeta.com/)
+

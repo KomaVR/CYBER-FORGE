@@ -1,6 +1,6 @@
 ---
 title: "Snipa22"
 description: ""
-external_url: "https://github.com/Snipa22"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/Snipa22)
+

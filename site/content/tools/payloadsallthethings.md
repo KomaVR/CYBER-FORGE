@@ -1,6 +1,6 @@
 ---
 title: "PayloadsAllTheThings"
 description: "Written by @swisskyrepo."
-external_url: "https://github.com/swisskyrepo/PayloadsAllTheThings/"
-category: "Black Hat Tools"
----
+external_category: "Black Hat Tools"
+---[Visit Website](https://github.com/swisskyrepo/PayloadsAllTheThings/)
+

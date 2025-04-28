@@ -1,6 +1,6 @@
 ---
 title: "MacQuisition"
 description: ""
-external_url: "https://www.blackbagtech.com/category/blog/macquisition/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.blackbagtech.com/category/blog/macquisition/)
+

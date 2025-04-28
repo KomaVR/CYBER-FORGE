@@ -7,6 +7,6 @@ SQL Injection
 Testing for Incubated Vulnerabilities (OTG-INPVAL-015)
 
 "
-external_url: "https://github.com/Voorivex/pentest-guide/tree/master/SQL-Injection"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/Voorivex/pentest-guide/tree/master/SQL-Injection)
+

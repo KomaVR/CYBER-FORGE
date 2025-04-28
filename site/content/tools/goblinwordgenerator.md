@@ -1,6 +1,6 @@
 ---
 title: "GoblinWordGenerator"
 description: "Python wordlist generator ."
-external_url: "https://github.com/UndeadSec/GoblinWordGenerator"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://github.com/UndeadSec/GoblinWordGenerator)
+

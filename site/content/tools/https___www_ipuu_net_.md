@@ -8,6 +8,6 @@ https://myip.ms/
 https://ipwhois.cnnic.net.cn
 
 "
-external_url: "https://www.ipuu.net/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.ipuu.net/)
+

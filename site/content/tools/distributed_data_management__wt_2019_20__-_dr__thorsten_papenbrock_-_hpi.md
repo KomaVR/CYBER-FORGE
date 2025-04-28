@@ -1,6 +1,6 @@
 ---
 title: "Distributed Data Management (WT 2019/20) - Dr. Thorsten Papenbrock - HPI"
 description: ""
-external_url: "https://www.tele-task.de/series/1285/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.tele-task.de/series/1285/)
+

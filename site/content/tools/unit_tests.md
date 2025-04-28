@@ -1,6 +1,6 @@
 ---
 title: "Unit Tests"
 description: ""
-external_url: "https://www.blacklanternsecurity.com/bbot/Stable/dev/tests"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.blacklanternsecurity.com/bbot/Stable/dev/tests)
+

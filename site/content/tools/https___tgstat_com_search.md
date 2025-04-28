@@ -5,6 +5,6 @@ description: "(\"password\"|\"senha\")
 
 
 "
-external_url: "https://tgstat.com/search"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://tgstat.com/search)
+

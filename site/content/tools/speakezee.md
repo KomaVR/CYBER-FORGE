@@ -1,6 +1,6 @@
 ---
 title: "Speakezee"
 description: ""
-external_url: "https://www.speakezee.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.speakezee.org)
+

@@ -1,6 +1,6 @@
 ---
 title: "Bibsonomy"
 description: ""
-external_url: "http://www.bibsonomy.org"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.bibsonomy.org)
+

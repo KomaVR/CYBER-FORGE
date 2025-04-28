@@ -1,6 +1,6 @@
 ---
 title: "learn-c"
 description: ""
-external_url: "https://www.learn-c.org/"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://www.learn-c.org/)
+

@@ -1,6 +1,6 @@
 ---
 title: "Orange"
 description: "Taiwan's talented web penetrator."
-external_url: "http://blog.orange.tw/"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](http://blog.orange.tw/)
+

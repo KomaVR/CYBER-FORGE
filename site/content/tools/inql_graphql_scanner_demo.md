@@ -1,6 +1,6 @@
 ---
 title: "InQL GraphQL Scanner Demo"
 description: ""
-external_url: "https://www.youtube.com/watch?v=KOCBeJmTs78"
-category: "White Hat Tools"
----
+external_category: "White Hat Tools"
+---[Visit Website](https://www.youtube.com/watch?v=KOCBeJmTs78)
+

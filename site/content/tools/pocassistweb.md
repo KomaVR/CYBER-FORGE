@@ -1,6 +1,6 @@
 ---
 title: "pocassistweb"
 description: "支持前后端分离部署。前端源码、nginx配置示例可参考"
-external_url: "https://github.com/jweny/pocassistweb"
-category: "Web Exploitation"
----
+external_category: "Web Exploitation"
+---[Visit Website](https://github.com/jweny/pocassistweb)
+

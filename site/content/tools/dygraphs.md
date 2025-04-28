@@ -1,6 +1,6 @@
 ---
 title: "dygraphs"
 description: ""
-external_url: "http://dygraphs.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://dygraphs.com)
+

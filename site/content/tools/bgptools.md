@@ -1,6 +1,6 @@
 ---
 title: "BGPTools"
 description: ""
-external_url: "https://bgp.tools"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://bgp.tools)
+

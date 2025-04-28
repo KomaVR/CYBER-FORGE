@@ -1,6 +1,6 @@
 ---
 title: "tutorial video"
 description: "Our getting started"
-external_url: "https://youtu.be/-JmUTNWQDTQ?si=qpAClDWMXo2zwUK7"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://youtu.be/-JmUTNWQDTQ?si=qpAClDWMXo2zwUK7)
+

@@ -1,6 +1,6 @@
 ---
 title: "IP Checking"
 description: ""
-external_url: "http://www.ipchecking.com"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](http://www.ipchecking.com)
+

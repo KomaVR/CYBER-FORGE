@@ -1,6 +1,6 @@
 ---
 title: "Follow SamCZSun!"
 description: ""
-external_url: "https://twitter.com/samczsun"
-category: "Miscellaneous"
----
+external_category: "Miscellaneous"
+---[Visit Website](https://twitter.com/samczsun)
+
