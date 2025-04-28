@@ -3,7 +3,7 @@ import requests
 import time
 
 GITHUB_API = "https://api.github.com"
-TOKEN = os.getenv("GITHUB_TOKEN")
+TOKEN = os.getenv("CYBERFORGE_GH_TOKEN")
 HEADERS = {"Authorization": f"token {TOKEN}"} if TOKEN else {}
 TOPICS = ["hacking","pentest","security","vulnerability","exploit","reversing","malware","forensics","osint"]
 
