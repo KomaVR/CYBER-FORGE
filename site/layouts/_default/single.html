@@ -1,0 +1,8 @@
+{{ define "main" }}
+<article class="tool-detail">
+  <h1>{{ .Title }}</h1>
+  <p>{{ .Params.description }}</p>
+  <p><strong>Category:</strong> {{ .Params.category }}</p>
+  <p><a class="btn" href="{{ .Params.url }}" target="_blank">Visit Tool</a></p>
+</article>
+{{ end }}
