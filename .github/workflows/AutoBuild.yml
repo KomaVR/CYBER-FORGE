@@ -43,5 +43,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           publish_dir: ./site/public
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.CYBERFORGE_GH_TOKEN }}
           cname: cyberform.org
