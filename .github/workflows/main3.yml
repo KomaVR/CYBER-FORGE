@@ -4,8 +4,8 @@ on:
   push:
     branches: [ main ]
   schedule:
-    - cron: '0 3 * * *'  # Daily deploy at 3 AM UTC
-  workflow_dispatch:     # <-- This adds the Deploy Now button
+    - cron: '0 3 * * *'  # daily at 3AM UTC
+  workflow_dispatch:     # adds the “Run workflow” button
 
 permissions:
   contents: write
@@ -16,23 +16,23 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
-      - name: Install Python Dependencies (Including PyYAML)
+      - name: Install Python Dependencies
         run: |
           cd scraper
-          pip install -r requirements.txt  # Ensure PyYAML is listed in requirements.txt
-          pip install pyyaml  # Install PyYAML if it's not in requirements.txt
+          pip install -r requirements.txt
+          pip install pyyaml
 
       - name: Run Fixer Script (Fix Broken Files)
         run: |
           cd scraper
-          python3 fix_filenames_and_frontmatter.py
+          python3 fix_filenames_and_frontmatter.py || echo "Continue even if fixing fails"
 
       - name: Install Hugo
         uses: peaceiris/actions-hugo@v2
@@ -49,4 +49,5 @@ jobs:
         with:
           publish_dir: ./site/public
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          cname: cyberform.org
+          publish_branch: gh-pages
+          cname: cyberform.org  # remove if you’re not using a custom domain
