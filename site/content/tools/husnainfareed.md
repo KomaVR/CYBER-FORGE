@@ -1,6 +1,6 @@
 ---
 title: "husnainfareed"
 description: ""
-url: "https://github.com/husnainfareed"
+external_url: "https://github.com/husnainfareed"
 category: "Miscellaneous"
 ---

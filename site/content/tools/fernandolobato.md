@@ -1,6 +1,6 @@
 ---
 title: "fernandolobato"
 description: ""
-url: "https://github.com/fernandolobato"
+external_url: "https://github.com/fernandolobato"
 category: "Miscellaneous"
 ---

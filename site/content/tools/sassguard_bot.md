@@ -1,6 +1,6 @@
 ---
 title: "SassGuard Bot"
 description: ""
-url: "https://sassguard.app"
+external_url: "https://sassguard.app"
 category: "Miscellaneous"
 ---

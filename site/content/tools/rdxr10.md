@@ -1,6 +1,6 @@
 ---
 title: "RDxR10"
 description: ""
-url: "https://github.com/RDxR10"
+external_url: "https://github.com/RDxR10"
 category: "Miscellaneous"
 ---

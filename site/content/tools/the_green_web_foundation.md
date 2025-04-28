@@ -1,6 +1,6 @@
 ---
 title: "The Green Web Foundation"
 description: ""
-url: "https://www.thegreenwebfoundation.org/"
+external_url: "https://www.thegreenwebfoundation.org/"
 category: "Web Exploitation"
 ---

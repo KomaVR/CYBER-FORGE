@@ -1,6 +1,6 @@
 ---
 title: "webtoolsvn"
 description: ""
-url: "http://www.webtoolsvn.com/en-decode/"
+external_url: "http://www.webtoolsvn.com/en-decode/"
 category: "Web Exploitation"
 ---

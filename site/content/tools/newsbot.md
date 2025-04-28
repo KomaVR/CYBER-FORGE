@@ -1,6 +1,6 @@
 ---
 title: "NewsBot"
 description: ""
-url: "https://getnewsbot.com"
+external_url: "https://getnewsbot.com"
 category: "Miscellaneous"
 ---

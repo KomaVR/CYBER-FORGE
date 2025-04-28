@@ -1,6 +1,6 @@
 ---
 title: "mock-server/mockserver"
 description: "[2391星][21d] [Java]  MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby. MockServer also includes a proxy that introspects all proxied traffic including encrypted SSL traffic and supports Port Forwarding, Web Proxying (i.e. HTTP proxy), HTTPS Tunneling Proxying (using HTTP CONNECT) and…"
-url: "https://github.com/mock-server/mockserver"
+external_url: "https://github.com/mock-server/mockserver"
 category: "Web Exploitation"
 ---

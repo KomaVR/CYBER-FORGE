@@ -1,6 +1,6 @@
 ---
 title: "stately.ai"
 description: ""
-url: "https://stately.ai"
+external_url: "https://stately.ai"
 category: "Miscellaneous"
 ---

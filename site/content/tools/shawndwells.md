@@ -1,6 +1,6 @@
 ---
 title: "shawndwells"
 description: ""
-url: "https://github.com/shawndwells"
+external_url: "https://github.com/shawndwells"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Gigablast"
 description: ""
-url: "http://gigablast.com/"
+external_url: "http://gigablast.com/"
 category: "Miscellaneous"
 ---

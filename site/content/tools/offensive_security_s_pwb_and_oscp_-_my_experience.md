@@ -1,6 +1,6 @@
 ---
 title: "Offensive Security’s PWB and OSCP - My Experience"
 description: "(+ some scripts)"
-url: "http://www.securitysift.com/offsec-pwb-oscp/"
+external_url: "http://www.securitysift.com/offsec-pwb-oscp/"
 category: "Miscellaneous"
 ---

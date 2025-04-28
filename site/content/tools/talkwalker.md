@@ -1,6 +1,6 @@
 ---
 title: "Talkwalker"
 description: ""
-url: "http://www.talkwalker.com"
+external_url: "http://www.talkwalker.com"
 category: "Miscellaneous"
 ---

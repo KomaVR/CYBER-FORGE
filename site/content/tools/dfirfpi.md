@@ -1,6 +1,6 @@
 ---
 title: "dfirfpi"
 description: ""
-url: "https://github.com/dfirfpi"
+external_url: "https://github.com/dfirfpi"
 category: "Miscellaneous"
 ---

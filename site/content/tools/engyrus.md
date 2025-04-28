@@ -1,6 +1,6 @@
 ---
 title: "engyrus"
 description: ""
-url: "https://github.com/engyrus"
+external_url: "https://github.com/engyrus"
 category: "Miscellaneous"
 ---

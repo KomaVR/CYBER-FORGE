@@ -1,6 +1,6 @@
 ---
 title: "CSI Linux"
 description: ""
-url: "https://csilinux.com"
+external_url: "https://csilinux.com"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "bernardoamc"
 description: ""
-url: "https://github.com/bernardoamc"
+external_url: "https://github.com/bernardoamc"
 category: "Miscellaneous"
 ---

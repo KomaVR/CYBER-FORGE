@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://ko-fi.com/xtekky"
+external_url: "https://ko-fi.com/xtekky"
 category: "Miscellaneous"
 ---

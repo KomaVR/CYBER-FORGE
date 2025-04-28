@@ -1,6 +1,6 @@
 ---
 title: "p.yusukekamiyamane"
 description: "for Fugue icons"
-url: "https://p.yusukekamiyamane.com/"
+external_url: "https://p.yusukekamiyamane.com/"
 category: "Miscellaneous"
 ---

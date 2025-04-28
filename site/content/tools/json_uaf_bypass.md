@@ -8,6 +8,6 @@ description: "
 7.3 < 7.3.6 (released: 30 May 2019)
 
 "
-url: "https://github.com/mm0r1/exploits/tree/master/php-json-bypass"
+external_url: "https://github.com/mm0r1/exploits/tree/master/php-json-bypass"
 category: "Grey Hat Tools"
 ---

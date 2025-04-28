@@ -1,6 +1,6 @@
 ---
 title: "ryanmkurtz"
 description: ""
-url: "https://github.com/ryanmkurtz"
+external_url: "https://github.com/ryanmkurtz"
 category: "Miscellaneous"
 ---

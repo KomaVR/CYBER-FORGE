@@ -1,6 +1,6 @@
 ---
 title: "Deturl"
 description: "Download a YouTube video from any web page."
-url: "http://deturl.com"
+external_url: "http://deturl.com"
 category: "Web Exploitation"
 ---

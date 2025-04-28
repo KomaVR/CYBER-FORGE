@@ -1,6 +1,6 @@
 ---
 title: "Scrap Theft"
 description: ""
-url: "https://www.scraptheftalert.com"
+external_url: "https://www.scraptheftalert.com"
 category: "Miscellaneous"
 ---

@@ -5,6 +5,6 @@ description: "Windows Remote Command Execution
  - Blogpost focused on remote command execution techniques used by attackers and read teamers and detailed logging recommendations.
 
 "
-url: "https://www.synacktiv.com/en/publications/traces-of-windows-remote-command-execution.html"
+external_url: "https://www.synacktiv.com/en/publications/traces-of-windows-remote-command-execution.html"
 category: "Miscellaneous"
 ---

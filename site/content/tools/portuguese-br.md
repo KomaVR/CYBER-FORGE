@@ -1,6 +1,6 @@
 ---
 title: "Portuguese-BR"
 description: ""
-url: "https://github.com/doverh/wstg-translations-pt"
+external_url: "https://github.com/doverh/wstg-translations-pt"
 category: "Miscellaneous"
 ---

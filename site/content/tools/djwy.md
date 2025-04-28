@@ -1,6 +1,6 @@
 ---
 title: "djwy"
 description: ""
-url: "https://github.com/djwy"
+external_url: "https://github.com/djwy"
 category: "Miscellaneous"
 ---

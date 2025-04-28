@@ -1,6 +1,6 @@
 ---
 title: "And many more"
 description: ""
-url: "https://github.com/JonathanSalwan/Triton/graphs/contributors"
+external_url: "https://github.com/JonathanSalwan/Triton/graphs/contributors"
 category: "Miscellaneous"
 ---

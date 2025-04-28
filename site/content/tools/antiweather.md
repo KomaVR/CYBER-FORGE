@@ -1,6 +1,6 @@
 ---
 title: "Antiweather"
 description: ""
-url: "https://bennettfeely.com/antiweather/"
+external_url: "https://bennettfeely.com/antiweather/"
 category: "Miscellaneous"
 ---

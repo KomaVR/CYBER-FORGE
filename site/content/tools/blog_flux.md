@@ -1,6 +1,6 @@
 ---
 title: "Blog Flux"
 description: ""
-url: "http://blogflux.com/"
+external_url: "http://blogflux.com/"
 category: "Miscellaneous"
 ---

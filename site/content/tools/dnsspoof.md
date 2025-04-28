@@ -1,6 +1,6 @@
 ---
 title: "dnsspoof"
 description: ""
-url: "https://github.com/m4n3dw0lf/pythem/wiki/Commands-Reference#dnsspoof"
+external_url: "https://github.com/m4n3dw0lf/pythem/wiki/Commands-Reference#dnsspoof"
 category: "Social Engineering"
 ---

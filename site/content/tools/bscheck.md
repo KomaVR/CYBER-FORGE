@@ -1,6 +1,6 @@
 ---
 title: "bscheck"
 description: ""
-url: "http://bscheck.eu/"
+external_url: "http://bscheck.eu/"
 category: "Miscellaneous"
 ---

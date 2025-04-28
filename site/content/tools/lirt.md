@@ -1,6 +1,6 @@
 ---
 title: "Lirt"
 description: ""
-url: "https://github.com/Lirt"
+external_url: "https://github.com/Lirt"
 category: "Miscellaneous"
 ---

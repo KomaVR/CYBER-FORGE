@@ -1,6 +1,6 @@
 ---
 title: "Cacoo"
 description: ""
-url: "https://cacoo.com"
+external_url: "https://cacoo.com"
 category: "Miscellaneous"
 ---

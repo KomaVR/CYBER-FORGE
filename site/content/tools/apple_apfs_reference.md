@@ -9,6 +9,6 @@ cugu/apfs.ksy
 bxl1989 APFS Remount
 
 "
-url: "https://developer.apple.com/support/downloads/Apple-File-System-Reference.pdf"
+external_url: "https://developer.apple.com/support/downloads/Apple-File-System-Reference.pdf"
 category: "Miscellaneous"
 ---

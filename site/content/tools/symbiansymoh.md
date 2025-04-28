@@ -1,6 +1,6 @@
 ---
 title: "SymbianSyMoh"
 description: ""
-url: "https://github.com/SymbianSyMoh"
+external_url: "https://github.com/SymbianSyMoh"
 category: "Miscellaneous"
 ---

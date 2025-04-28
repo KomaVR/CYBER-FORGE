@@ -1,6 +1,6 @@
 ---
 title: "AsparagusEduardo"
 description: ""
-url: "https://github.com/AsparagusEduardo"
+external_url: "https://github.com/AsparagusEduardo"
 category: "Miscellaneous"
 ---

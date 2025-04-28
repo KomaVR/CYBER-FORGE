@@ -1,6 +1,6 @@
 ---
 title: "http://sistemas.anatel.gov.br/siec-servico-movel-web/"
 description: ""
-url: "http://sistemas.anatel.gov.br/siec-servico-movel-web/"
+external_url: "http://sistemas.anatel.gov.br/siec-servico-movel-web/"
 category: "Web Exploitation"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "KawaiiDeauther"
 description: ""
-url: "https://github.com/aryanrtm/KawaiiDeauther"
+external_url: "https://github.com/aryanrtm/KawaiiDeauther"
 category: "Miscellaneous"
 ---

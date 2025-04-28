@@ -1,6 +1,6 @@
 ---
 title: "Bloodiko"
 description: ""
-url: "https://github.com/Bloodiko"
+external_url: "https://github.com/Bloodiko"
 category: "Miscellaneous"
 ---

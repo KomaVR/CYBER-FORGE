@@ -1,6 +1,6 @@
 ---
 title: "TweetMap"
 description: ""
-url: "http://mapd.csail.mit.edu/tweetmap"
+external_url: "http://mapd.csail.mit.edu/tweetmap"
 category: "Miscellaneous"
 ---

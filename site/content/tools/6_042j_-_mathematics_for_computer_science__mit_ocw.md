@@ -13,6 +13,6 @@ CMU 21 228 Discrete Mathematics spring 2021, by Po-Shen Loh
 COMP2804: Discrete Structures II
 
 "
-url: "https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/video_galleries/video-lectures/"
+external_url: "https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/video_galleries/video-lectures/"
 category: "Miscellaneous"
 ---

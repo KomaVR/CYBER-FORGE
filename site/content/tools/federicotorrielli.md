@@ -1,6 +1,6 @@
 ---
 title: "federicotorrielli"
 description: ""
-url: "https://github.com/federicotorrielli"
+external_url: "https://github.com/federicotorrielli"
 category: "Miscellaneous"
 ---

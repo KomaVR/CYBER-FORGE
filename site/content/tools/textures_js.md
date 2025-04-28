@@ -1,6 +1,6 @@
 ---
 title: "Textures.js"
 description: ""
-url: "https://riccardoscalco.github.io/textures"
+external_url: "https://riccardoscalco.github.io/textures"
 category: "Miscellaneous"
 ---

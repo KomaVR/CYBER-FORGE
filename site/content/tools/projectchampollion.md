@@ -5,6 +5,6 @@ description: "Rosetta2
 
 
 "
-url: "https://github.com/FFRI/ProjectChampollion/"
+external_url: "https://github.com/FFRI/ProjectChampollion/"
 category: "Miscellaneous"
 ---

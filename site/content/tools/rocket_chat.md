@@ -1,6 +1,6 @@
 ---
 title: "Rocket Chat"
 description: "Chat support, with optional  integration"
-url: "https://rocket.chat/"
+external_url: "https://rocket.chat/"
 category: "Miscellaneous"
 ---

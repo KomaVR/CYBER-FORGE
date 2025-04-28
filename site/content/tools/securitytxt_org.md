@@ -1,6 +1,6 @@
 ---
 title: "securitytxt.org"
 description: ""
-url: "https://securitytxt.org/"
+external_url: "https://securitytxt.org/"
 category: "Miscellaneous"
 ---

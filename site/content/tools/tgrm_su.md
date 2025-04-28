@@ -1,6 +1,6 @@
 ---
 title: "TGRM.SU"
 description: ""
-url: "https://tgrm.su/"
+external_url: "https://tgrm.su/"
 category: "Miscellaneous"
 ---

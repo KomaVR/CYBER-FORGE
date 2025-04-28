@@ -1,6 +1,6 @@
 ---
 title: "Zesty Facebook Search"
 description: ""
-url: "http://zesty.ca/facebook"
+external_url: "http://zesty.ca/facebook"
 category: "Miscellaneous"
 ---

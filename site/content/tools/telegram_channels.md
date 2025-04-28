@@ -1,6 +1,6 @@
 ---
 title: "Telegram Channels"
 description: ""
-url: "https://telegramchannels.me/"
+external_url: "https://telegramchannels.me/"
 category: "Miscellaneous"
 ---

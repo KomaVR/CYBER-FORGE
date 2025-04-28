@@ -3,6 +3,6 @@ title: "FastCGI Extension"
 description: "
 
 "
-url: "https://github.com/w181496/FuckFastcgi"
+external_url: "https://github.com/w181496/FuckFastcgi"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "chaineye.tools"
 description: ""
-url: "https://chaineye.tools"
+external_url: "https://chaineye.tools"
 category: "Miscellaneous"
 ---

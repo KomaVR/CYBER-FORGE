@@ -1,6 +1,6 @@
 ---
 title: "nixawk"
 description: ""
-url: "https://github.com/nixawk"
+external_url: "https://github.com/nixawk"
 category: "Miscellaneous"
 ---

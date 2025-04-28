@@ -1,6 +1,6 @@
 ---
 title: "On Challenges in Verifying Trusted Executable Files in Memory Forensics"
 description: ""
-url: "http://dfrws.org/wp-content/uploads/2020/05/On-Challenges-in-Verifying-Trusted-Execut_2020_Forensic-Science-Internationa.pdf"
+external_url: "http://dfrws.org/wp-content/uploads/2020/05/On-Challenges-in-Verifying-Trusted-Execut_2020_Forensic-Science-Internationa.pdf"
 category: "Malware Analysis"
 ---

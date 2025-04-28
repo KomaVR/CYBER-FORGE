@@ -1,6 +1,6 @@
 ---
 title: "Wallet Guard"
 description: ""
-url: "https://walletguard.app/"
+external_url: "https://walletguard.app/"
 category: "Miscellaneous"
 ---

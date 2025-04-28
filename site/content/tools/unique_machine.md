@@ -3,6 +3,6 @@ title: "Unique Machine"
 description: "
 
 "
-url: "http://uniquemachine.org/"
+external_url: "http://uniquemachine.org/"
 category: "Miscellaneous"
 ---

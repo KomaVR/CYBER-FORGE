@@ -1,6 +1,6 @@
 ---
 title: "gsuberland"
 description: ""
-url: "https://github.com/gsuberland"
+external_url: "https://github.com/gsuberland"
 category: "Miscellaneous"
 ---

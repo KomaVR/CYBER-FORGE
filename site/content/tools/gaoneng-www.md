@@ -1,6 +1,6 @@
 ---
 title: "GaoNeng-wWw"
 description: ""
-url: "https://github.com/GaoNeng-wWw"
+external_url: "https://github.com/GaoNeng-wWw"
 category: "Miscellaneous"
 ---

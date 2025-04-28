@@ -12,6 +12,6 @@ ASIS 2018 Qual Nice Code
 
 
 "
-url: "https://3v4l.org/sUEMG"
+external_url: "https://3v4l.org/sUEMG"
 category: "Miscellaneous"
 ---

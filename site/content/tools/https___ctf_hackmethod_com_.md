@@ -1,6 +1,6 @@
 ---
 title: "https://ctf.hackmethod.com/"
 description: ""
-url: "https://ctf.hackmethod.com/"
+external_url: "https://ctf.hackmethod.com/"
 category: "Miscellaneous"
 ---

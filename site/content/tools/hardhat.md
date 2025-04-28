@@ -1,6 +1,6 @@
 ---
 title: "Hardhat"
 description: ""
-url: "https://hardhat.org/"
+external_url: "https://hardhat.org/"
 category: "Miscellaneous"
 ---

@@ -3,6 +3,6 @@ title: "https://github.com/Ullaakut/cameradar"
 description: "
 
 "
-url: "https://github.com/Ullaakut/cameradar"
+external_url: "https://github.com/Ullaakut/cameradar"
 category: "Miscellaneous"
 ---

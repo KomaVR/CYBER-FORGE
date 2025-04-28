@@ -1,6 +1,6 @@
 ---
 title: "octaviovg"
 description: ""
-url: "https://github.com/octaviovg"
+external_url: "https://github.com/octaviovg"
 category: "Miscellaneous"
 ---

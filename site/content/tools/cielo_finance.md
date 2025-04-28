@@ -1,6 +1,6 @@
 ---
 title: "cielo.finance"
 description: ""
-url: "https://cielo.finance/"
+external_url: "https://cielo.finance/"
 category: "Miscellaneous"
 ---

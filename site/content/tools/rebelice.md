@@ -1,6 +1,6 @@
 ---
 title: "rebelice"
 description: ""
-url: "https://github.com/rebelice"
+external_url: "https://github.com/rebelice"
 category: "Miscellaneous"
 ---

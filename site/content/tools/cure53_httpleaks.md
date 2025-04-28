@@ -6,6 +6,6 @@ leak HTTP
 
 
 "
-url: "https://github.com/cure53/HTTPLeaks"
+external_url: "https://github.com/cure53/HTTPLeaks"
 category: "Miscellaneous"
 ---

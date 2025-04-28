@@ -1,6 +1,6 @@
 ---
 title: "monstersb"
 description: ""
-url: "https://github.com/monstersb"
+external_url: "https://github.com/monstersb"
 category: "Miscellaneous"
 ---

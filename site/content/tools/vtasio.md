@@ -1,6 +1,6 @@
 ---
 title: "vtasio"
 description: ""
-url: "https://github.com/vtasio"
+external_url: "https://github.com/vtasio"
 category: "Miscellaneous"
 ---

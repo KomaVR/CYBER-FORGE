@@ -1,6 +1,6 @@
 ---
 title: "Chronic-Dev/syringe"
 description: ""
-url: "https://github.com/Chronic-Dev/syringe"
+external_url: "https://github.com/Chronic-Dev/syringe"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "bitinfocharts"
 description: ""
-url: "https://bitinfocharts.com"
+external_url: "https://bitinfocharts.com"
 category: "Miscellaneous"
 ---

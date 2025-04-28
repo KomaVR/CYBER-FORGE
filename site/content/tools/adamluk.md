@@ -1,6 +1,6 @@
 ---
 title: "adamluk"
 description: ""
-url: "https://github.com/adamluk"
+external_url: "https://github.com/adamluk"
 category: "Miscellaneous"
 ---

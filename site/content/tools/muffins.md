@@ -1,6 +1,6 @@
 ---
 title: "muffins"
 description: ""
-url: "https://github.com/muffins"
+external_url: "https://github.com/muffins"
 category: "Miscellaneous"
 ---

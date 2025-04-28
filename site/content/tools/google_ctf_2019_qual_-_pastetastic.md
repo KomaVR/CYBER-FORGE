@@ -6,6 +6,6 @@ description: "Example
 Volga CTF 2020 Qualifier - Archive
 
 "
-url: "https://github.com/koczkatamas/gctf19/tree/master/pastetastic"
+external_url: "https://github.com/koczkatamas/gctf19/tree/master/pastetastic"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "NoiseByNorthwest"
 description: ""
-url: "https://github.com/NoiseByNorthwest"
+external_url: "https://github.com/NoiseByNorthwest"
 category: "Miscellaneous"
 ---

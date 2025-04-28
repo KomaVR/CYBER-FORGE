@@ -1,6 +1,6 @@
 ---
 title: "Gabriele-Pippi"
 description: ""
-url: "https://github.com/Gabriele-Pippi"
+external_url: "https://github.com/Gabriele-Pippi"
 category: "Miscellaneous"
 ---

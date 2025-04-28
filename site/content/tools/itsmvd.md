@@ -1,6 +1,6 @@
 ---
 title: "itsmvd"
 description: ""
-url: "https://github.com/itsmvd"
+external_url: "https://github.com/itsmvd"
 category: "Miscellaneous"
 ---

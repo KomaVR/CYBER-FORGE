@@ -1,6 +1,6 @@
 ---
 title: "Aquilao"
 description: ""
-url: "https://github.com/Aquilao"
+external_url: "https://github.com/Aquilao"
 category: "Miscellaneous"
 ---

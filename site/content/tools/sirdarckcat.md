@@ -1,6 +1,6 @@
 ---
 title: "sirdarckcat"
 description: ""
-url: "https://github.com/sirdarckcat"
+external_url: "https://github.com/sirdarckcat"
 category: "Miscellaneous"
 ---

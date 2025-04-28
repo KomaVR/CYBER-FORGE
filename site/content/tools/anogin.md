@@ -1,6 +1,6 @@
 ---
 title: "ANogin"
 description: ""
-url: "https://github.com/ANogin"
+external_url: "https://github.com/ANogin"
 category: "Miscellaneous"
 ---

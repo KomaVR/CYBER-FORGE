@@ -1,6 +1,6 @@
 ---
 title: "Arrests"
 description: ""
-url: "http://www.arrests.org/"
+external_url: "http://www.arrests.org/"
 category: "Miscellaneous"
 ---

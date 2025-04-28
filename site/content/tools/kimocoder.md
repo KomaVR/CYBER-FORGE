@@ -1,6 +1,6 @@
 ---
 title: "kimocoder"
 description: ""
-url: "https://github.com/kimocoder"
+external_url: "https://github.com/kimocoder"
 category: "Miscellaneous"
 ---

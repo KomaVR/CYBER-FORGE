@@ -1,6 +1,6 @@
 ---
 title: "adrianosela"
 description: ""
-url: "https://github.com/adrianosela"
+external_url: "https://github.com/adrianosela"
 category: "Miscellaneous"
 ---

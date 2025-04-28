@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/sqlmapproject/sqlmap"
 description: ""
-url: "https://github.com/sqlmapproject/sqlmap"
+external_url: "https://github.com/sqlmapproject/sqlmap"
 category: "Web Exploitation"
 ---

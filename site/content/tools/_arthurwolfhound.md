@@ -1,6 +1,6 @@
 ---
 title: "@ArthurWolfhound"
 description: "Issue templates, wiki and translations"
-url: "https://github.com/ArthurWolfhound"
+external_url: "https://github.com/ArthurWolfhound"
 category: "Miscellaneous"
 ---

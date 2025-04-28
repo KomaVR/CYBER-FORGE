@@ -1,6 +1,6 @@
 ---
 title: "crssi"
 description: ""
-url: "https://github.com/crssi"
+external_url: "https://github.com/crssi"
 category: "Miscellaneous"
 ---

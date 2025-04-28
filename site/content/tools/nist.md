@@ -1,6 +1,6 @@
 ---
 title: "NIST"
 description: ""
-url: "https://cfreds.nist.gov/mem/memory-images.rar"
+external_url: "https://cfreds.nist.gov/mem/memory-images.rar"
 category: "Miscellaneous"
 ---

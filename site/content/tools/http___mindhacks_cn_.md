@@ -1,6 +1,6 @@
 ---
 title: "http://mindhacks.cn/"
 description: ""
-url: "http://mindhacks.cn/"
+external_url: "http://mindhacks.cn/"
 category: "Miscellaneous"
 ---

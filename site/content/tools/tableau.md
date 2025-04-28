@@ -1,6 +1,6 @@
 ---
 title: "Tableau"
 description: ""
-url: "http://www.tableau.com"
+external_url: "http://www.tableau.com"
 category: "Miscellaneous"
 ---

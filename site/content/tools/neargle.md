@@ -1,6 +1,6 @@
 ---
 title: "neargle"
 description: "@"
-url: "https://github.com/neargle"
+external_url: "https://github.com/neargle"
 category: "Miscellaneous"
 ---

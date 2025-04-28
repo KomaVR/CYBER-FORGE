@@ -1,6 +1,6 @@
 ---
 title: "yooper"
 description: ""
-url: "https://github.com/yooper"
+external_url: "https://github.com/yooper"
 category: "Miscellaneous"
 ---

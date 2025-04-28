@@ -1,6 +1,6 @@
 ---
 title: "Feed Filter Maker"
 description: ""
-url: "http://feed.janicek.co"
+external_url: "http://feed.janicek.co"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "xCrystal"
 description: ""
-url: "https://github.com/xCrystal"
+external_url: "https://github.com/xCrystal"
 category: "Miscellaneous"
 ---

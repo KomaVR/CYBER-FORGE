@@ -1,6 +1,6 @@
 ---
 title: "https://tryhackme.com/"
 description: "TryHackMe:"
-url: "https://tryhackme.com/"
+external_url: "https://tryhackme.com/"
 category: "Miscellaneous"
 ---

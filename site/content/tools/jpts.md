@@ -1,6 +1,6 @@
 ---
 title: "jpts"
 description: ""
-url: "https://github.com/jpts"
+external_url: "https://github.com/jpts"
 category: "Miscellaneous"
 ---

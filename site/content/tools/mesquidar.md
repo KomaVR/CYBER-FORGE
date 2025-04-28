@@ -2,6 +2,6 @@
 title: "mesquidar"
 description: "mesquidar
 Ruben Mesquida"
-url: "https://github.com/mesquidar"
+external_url: "https://github.com/mesquidar"
 category: "Miscellaneous"
 ---

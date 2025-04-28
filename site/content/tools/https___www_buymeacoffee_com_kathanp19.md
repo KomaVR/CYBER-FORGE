@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://www.buymeacoffee.com/kathanp19"
+external_url: "https://www.buymeacoffee.com/kathanp19"
 category: "Miscellaneous"
 ---

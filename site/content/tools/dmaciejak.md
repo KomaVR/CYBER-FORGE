@@ -1,6 +1,6 @@
 ---
 title: "dmaciejak"
 description: ""
-url: "https://github.com/dmaciejak"
+external_url: "https://github.com/dmaciejak"
 category: "Miscellaneous"
 ---

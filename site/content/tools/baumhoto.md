@@ -1,6 +1,6 @@
 ---
 title: "baumhoto"
 description: ""
-url: "https://github.com/baumhoto"
+external_url: "https://github.com/baumhoto"
 category: "Miscellaneous"
 ---

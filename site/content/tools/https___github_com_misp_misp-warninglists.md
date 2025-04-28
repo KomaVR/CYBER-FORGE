@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/MISP/misp-warninglists"
 description: ""
-url: "https://github.com/MISP/misp-warninglists"
+external_url: "https://github.com/MISP/misp-warninglists"
 category: "Miscellaneous"
 ---

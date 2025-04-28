@@ -1,6 +1,6 @@
 ---
 title: "Bing Images"
 description: ""
-url: "https://www.bing.com/images"
+external_url: "https://www.bing.com/images"
 category: "Miscellaneous"
 ---

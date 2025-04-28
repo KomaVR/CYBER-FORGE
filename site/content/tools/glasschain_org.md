@@ -1,6 +1,6 @@
 ---
 title: "glasschain.org"
 description: ""
-url: "https://glasschain.org"
+external_url: "https://glasschain.org"
 category: "Miscellaneous"
 ---

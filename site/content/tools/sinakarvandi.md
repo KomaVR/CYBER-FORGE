@@ -1,6 +1,6 @@
 ---
 title: "SinaKarvandi"
 description: ""
-url: "https://github.com/SinaKarvandi"
+external_url: "https://github.com/SinaKarvandi"
 category: "Miscellaneous"
 ---

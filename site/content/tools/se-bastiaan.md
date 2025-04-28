@@ -1,6 +1,6 @@
 ---
 title: "se-bastiaan"
 description: ""
-url: "https://github.com/se-bastiaan"
+external_url: "https://github.com/se-bastiaan"
 category: "Miscellaneous"
 ---

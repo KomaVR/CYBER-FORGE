@@ -1,6 +1,6 @@
 ---
 title: "liquidsec"
 description: ""
-url: "https://github.com/liquidsec"
+external_url: "https://github.com/liquidsec"
 category: "Miscellaneous"
 ---

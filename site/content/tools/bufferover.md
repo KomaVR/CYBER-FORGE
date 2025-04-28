@@ -1,6 +1,6 @@
 ---
 title: "Bufferover"
 description: ""
-url: "http://dns.bufferover.run/"
+external_url: "http://dns.bufferover.run/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "LouisBrunner"
 description: ""
-url: "https://github.com/LouisBrunner"
+external_url: "https://github.com/LouisBrunner"
 category: "Miscellaneous"
 ---

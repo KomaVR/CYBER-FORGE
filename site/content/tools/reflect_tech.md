@@ -1,6 +1,6 @@
 ---
 title: "Reflect.tech"
 description: ""
-url: "https://reflect.tech/faceswap/hot"
+external_url: "https://reflect.tech/faceswap/hot"
 category: "Miscellaneous"
 ---

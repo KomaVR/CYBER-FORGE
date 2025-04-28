@@ -1,6 +1,6 @@
 ---
 title: "davidalger"
 description: ""
-url: "https://github.com/davidalger"
+external_url: "https://github.com/davidalger"
 category: "Miscellaneous"
 ---

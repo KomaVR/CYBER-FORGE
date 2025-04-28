@@ -1,6 +1,6 @@
 ---
 title: "maxzinkus"
 description: ""
-url: "https://github.com/maxzinkus"
+external_url: "https://github.com/maxzinkus"
 category: "Miscellaneous"
 ---

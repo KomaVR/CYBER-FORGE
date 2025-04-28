@@ -1,6 +1,6 @@
 ---
 title: "maxprogrammer007"
 description: ""
-url: "https://github.com/maxprogrammer007"
+external_url: "https://github.com/maxprogrammer007"
 category: "Miscellaneous"
 ---

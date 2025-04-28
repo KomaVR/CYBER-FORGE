@@ -1,6 +1,6 @@
 ---
 title: "raindrop213"
 description: ""
-url: "https://github.com/raindrop213"
+external_url: "https://github.com/raindrop213"
 category: "Miscellaneous"
 ---

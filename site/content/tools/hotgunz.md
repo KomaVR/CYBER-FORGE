@@ -1,6 +1,6 @@
 ---
 title: "hotgunz"
 description: ""
-url: "http://www.hotgunz.com/search.php"
+external_url: "http://www.hotgunz.com/search.php"
 category: "Miscellaneous"
 ---

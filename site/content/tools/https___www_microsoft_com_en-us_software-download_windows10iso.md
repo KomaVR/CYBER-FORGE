@@ -22,6 +22,6 @@ Non-GPO - Semi-Automated (User needs to toggle off Tamper Protection): [https://
 
 
 "
-url: "https://www.microsoft.com/en-us/software-download/windows10ISO"
+external_url: "https://www.microsoft.com/en-us/software-download/windows10ISO"
 category: "Malware Analysis"
 ---

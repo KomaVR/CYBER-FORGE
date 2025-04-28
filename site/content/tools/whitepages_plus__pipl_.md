@@ -1,6 +1,6 @@
 ---
 title: "WhitePages Plus (pipl)"
 description: ""
-url: "https://whitepages.plus"
+external_url: "https://whitepages.plus"
 category: "Miscellaneous"
 ---

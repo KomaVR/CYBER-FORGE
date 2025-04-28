@@ -1,6 +1,6 @@
 ---
 title: "aeflores"
 description: ""
-url: "https://github.com/aeflores"
+external_url: "https://github.com/aeflores"
 category: "Miscellaneous"
 ---

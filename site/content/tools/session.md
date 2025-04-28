@@ -1,6 +1,6 @@
 ---
 title: "Session"
 description: ""
-url: "https://getsession.org/"
+external_url: "https://getsession.org/"
 category: "Miscellaneous"
 ---

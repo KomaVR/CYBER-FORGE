@@ -1,6 +1,6 @@
 ---
 title: "bartblaze"
 description: ""
-url: "https://github.com/bartblaze"
+external_url: "https://github.com/bartblaze"
 category: "Miscellaneous"
 ---

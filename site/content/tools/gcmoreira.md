@@ -1,6 +1,6 @@
 ---
 title: "gcmoreira"
 description: ""
-url: "https://github.com/gcmoreira"
+external_url: "https://github.com/gcmoreira"
 category: "Miscellaneous"
 ---

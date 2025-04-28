@@ -9,6 +9,6 @@ matteyeux/seprom-loader
 skr0x1c0/binja_kc
 
 "
-url: "https://binary.ninja"
+external_url: "https://binary.ninja"
 category: "Reverse Engineering"
 ---

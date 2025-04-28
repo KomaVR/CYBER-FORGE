@@ -1,6 +1,6 @@
 ---
 title: "lasrx"
 description: ""
-url: "https://github.com/lasrx"
+external_url: "https://github.com/lasrx"
 category: "Miscellaneous"
 ---

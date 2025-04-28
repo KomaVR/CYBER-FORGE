@@ -1,6 +1,6 @@
 ---
 title: "Acid"
 description: ""
-url: "https://www.hackingarticles.in/hack-acid-vm-ctf-challenge/"
+external_url: "https://www.hackingarticles.in/hack-acid-vm-ctf-challenge/"
 category: "Miscellaneous"
 ---

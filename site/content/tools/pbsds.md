@@ -1,6 +1,6 @@
 ---
 title: "pbsds"
 description: ""
-url: "https://github.com/pbsds"
+external_url: "https://github.com/pbsds"
 category: "Miscellaneous"
 ---

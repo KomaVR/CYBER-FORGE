@@ -5,6 +5,6 @@ description: "Brute force users:
 
 
 "
-url: "https://github.com/ropnop/kerbrute"
+external_url: "https://github.com/ropnop/kerbrute"
 category: "Miscellaneous"
 ---

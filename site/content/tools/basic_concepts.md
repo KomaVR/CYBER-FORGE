@@ -3,6 +3,6 @@ title: "Basic Concepts"
 description: "
 
 "
-url: "https://github.com/Soulghost/iblessing#basic-concepts"
+external_url: "https://github.com/Soulghost/iblessing#basic-concepts"
 category: "Miscellaneous"
 ---

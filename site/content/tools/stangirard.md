@@ -1,6 +1,6 @@
 ---
 title: "StanGirard"
 description: ""
-url: "https://github.com/StanGirard"
+external_url: "https://github.com/StanGirard"
 category: "Miscellaneous"
 ---

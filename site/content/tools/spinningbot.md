@@ -1,6 +1,6 @@
 ---
 title: "spinningbot"
 description: ""
-url: "https://github.com/spinningbot"
+external_url: "https://github.com/spinningbot"
 category: "Miscellaneous"
 ---

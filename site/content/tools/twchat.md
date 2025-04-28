@@ -1,6 +1,6 @@
 ---
 title: "TwChat"
 description: ""
-url: "http://twchat.com"
+external_url: "http://twchat.com"
 category: "Miscellaneous"
 ---

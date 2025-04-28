@@ -9,6 +9,6 @@ Siri 人工评估计划的员工说,自己每天要听 1000 条录音
 Apple to stop default practice of keeping Siri recordings
 
 "
-url: "https://www.ednchina.com/news/201907291202.html"
+external_url: "https://www.ednchina.com/news/201907291202.html"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "RedworkDE"
 description: ""
-url: "https://github.com/RedworkDE"
+external_url: "https://github.com/RedworkDE"
 category: "Miscellaneous"
 ---

@@ -10,6 +10,6 @@ Office 365
 
 
 "
-url: "https://www.bleepingcomputer.com/news/microsoft/microsoft-office-365-webmail-exposes-users-ip-address-in-emails/"
+external_url: "https://www.bleepingcomputer.com/news/microsoft/microsoft-office-365-webmail-exposes-users-ip-address-in-emails/"
 category: "Web Exploitation"
 ---

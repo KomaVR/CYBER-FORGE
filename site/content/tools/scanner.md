@@ -22,6 +22,6 @@ Word Cloud
 
 
 "
-url: "https://www.blacklanternsecurity.com/bbot/Stable/dev/scanner"
+external_url: "https://www.blacklanternsecurity.com/bbot/Stable/dev/scanner"
 category: "White Hat Tools"
 ---

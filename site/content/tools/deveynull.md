@@ -1,6 +1,6 @@
 ---
 title: "deveyNull"
 description: ""
-url: "https://github.com/deveyNull"
+external_url: "https://github.com/deveyNull"
 category: "Miscellaneous"
 ---

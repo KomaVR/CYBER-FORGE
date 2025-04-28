@@ -1,6 +1,6 @@
 ---
 title: "ThaaoBlues"
 description: ""
-url: "https://github.com/ThaaoBlues"
+external_url: "https://github.com/ThaaoBlues"
 category: "Miscellaneous"
 ---

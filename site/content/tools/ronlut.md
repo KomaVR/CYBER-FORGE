@@ -1,6 +1,6 @@
 ---
 title: "ronlut"
 description: ""
-url: "https://github.com/ronlut"
+external_url: "https://github.com/ronlut"
 category: "Miscellaneous"
 ---

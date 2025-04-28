@@ -1,6 +1,6 @@
 ---
 title: "danielchabr"
 description: ""
-url: "https://github.com/danielchabr"
+external_url: "https://github.com/danielchabr"
 category: "Miscellaneous"
 ---

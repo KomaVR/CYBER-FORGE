@@ -1,6 +1,6 @@
 ---
 title: "chainbound"
 description: ""
-url: "https://apollo.chainbound.io"
+external_url: "https://apollo.chainbound.io"
 category: "Miscellaneous"
 ---

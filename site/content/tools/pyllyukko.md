@@ -1,6 +1,6 @@
 ---
 title: "pyllyukko"
 description: ""
-url: "https://github.com/pyllyukko"
+external_url: "https://github.com/pyllyukko"
 category: "Miscellaneous"
 ---

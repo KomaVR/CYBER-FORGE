@@ -1,6 +1,6 @@
 ---
 title: "jroimartin"
 description: ""
-url: "https://github.com/jroimartin"
+external_url: "https://github.com/jroimartin"
 category: "Miscellaneous"
 ---

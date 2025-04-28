@@ -5,6 +5,6 @@ description: "iCloud
 
 
 "
-url: "https://gitlab.com/nicolas17/mesu-archive"
+external_url: "https://gitlab.com/nicolas17/mesu-archive"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "bitaml.com"
 description: ""
-url: "https://bitaml.com"
+external_url: "https://bitaml.com"
 category: "Miscellaneous"
 ---

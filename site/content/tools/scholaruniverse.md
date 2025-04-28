@@ -1,6 +1,6 @@
 ---
 title: "ScholarUniverse"
 description: ""
-url: "http://www.scholaruniverse.com/"
+external_url: "http://www.scholaruniverse.com/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "doctashay"
 description: ""
-url: "https://github.com/doctashay"
+external_url: "https://github.com/doctashay"
 category: "Miscellaneous"
 ---

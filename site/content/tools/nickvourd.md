@@ -1,6 +1,6 @@
 ---
 title: "nickvourd"
 description: ""
-url: "https://github.com/nickvourd"
+external_url: "https://github.com/nickvourd"
 category: "Miscellaneous"
 ---

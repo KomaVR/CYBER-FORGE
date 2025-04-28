@@ -6,6 +6,6 @@ description: "RDP
 RDP Logon / Logoff events 2 - RDP deep dive on 1149 by Mike Cary.
 
 "
-url: "https://ponderthebits.com/2018/02/windows-rdp-related-event-logs-identification-tracking-and-investigation/"
+external_url: "https://ponderthebits.com/2018/02/windows-rdp-related-event-logs-identification-tracking-and-investigation/"
 category: "Miscellaneous"
 ---

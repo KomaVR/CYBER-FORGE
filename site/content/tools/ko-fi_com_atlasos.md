@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://ko-fi.com/atlasos"
+external_url: "https://ko-fi.com/atlasos"
 category: "Miscellaneous"
 ---

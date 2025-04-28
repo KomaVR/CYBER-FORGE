@@ -1,6 +1,6 @@
 ---
 title: "SamuelHassine"
 description: ""
-url: "https://github.com/SamuelHassine"
+external_url: "https://github.com/SamuelHassine"
 category: "Miscellaneous"
 ---

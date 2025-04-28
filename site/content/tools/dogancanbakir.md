@@ -1,6 +1,6 @@
 ---
 title: "dogancanbakir"
 description: ""
-url: "https://github.com/dogancanbakir"
+external_url: "https://github.com/dogancanbakir"
 category: "Miscellaneous"
 ---

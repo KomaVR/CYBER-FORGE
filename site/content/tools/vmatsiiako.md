@@ -1,6 +1,6 @@
 ---
 title: "vmatsiiako"
 description: ""
-url: "https://github.com/vmatsiiako"
+external_url: "https://github.com/vmatsiiako"
 category: "Miscellaneous"
 ---

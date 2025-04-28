@@ -3,6 +3,6 @@ title: "TryHackMe | Archangel"
 description: "
  
 "
-url: "https://tryhackme.com/room/archangel"
+external_url: "https://tryhackme.com/room/archangel"
 category: "Miscellaneous"
 ---

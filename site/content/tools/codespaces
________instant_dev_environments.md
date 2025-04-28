@@ -3,7 +3,7 @@ title: "Codespaces
         Instant dev environments"
 description: "
 "
-url: "https://github.com/features/codespaces"
+external_url: "https://github.com/features/codespaces"
 category: "Miscellaneous"
 ---
 

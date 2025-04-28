@@ -1,6 +1,6 @@
 ---
 title: "bhuthesh"
 description: ""
-url: "https://github.com/bhuthesh"
+external_url: "https://github.com/bhuthesh"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "toniblyx"
 description: ""
-url: "https://github.com/toniblyx"
+external_url: "https://github.com/toniblyx"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "leumasme"
 description: ""
-url: "https://github.com/leumasme"
+external_url: "https://github.com/leumasme"
 category: "Miscellaneous"
 ---

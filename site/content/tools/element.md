@@ -1,6 +1,6 @@
 ---
 title: "Element"
 description: ""
-url: "https://element.io/"
+external_url: "https://element.io/"
 category: "Miscellaneous"
 ---

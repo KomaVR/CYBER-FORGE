@@ -1,6 +1,6 @@
 ---
 title: "jzold"
 description: ""
-url: "https://github.com/jzold"
+external_url: "https://github.com/jzold"
 category: "Miscellaneous"
 ---

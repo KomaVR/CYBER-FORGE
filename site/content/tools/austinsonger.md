@@ -1,6 +1,6 @@
 ---
 title: "austinsonger"
 description: ""
-url: "https://github.com/austinsonger"
+external_url: "https://github.com/austinsonger"
 category: "Miscellaneous"
 ---

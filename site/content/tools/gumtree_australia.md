@@ -1,6 +1,6 @@
 ---
 title: "Gumtree Australia"
 description: ""
-url: "https://www.gumtree.com.au"
+external_url: "https://www.gumtree.com.au"
 category: "Miscellaneous"
 ---

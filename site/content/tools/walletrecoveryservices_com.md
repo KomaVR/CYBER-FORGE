@@ -1,6 +1,6 @@
 ---
 title: "walletrecoveryservices.com"
 description: ""
-url: "https://www.walletrecoveryservices.com"
+external_url: "https://www.walletrecoveryservices.com"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "mrThe"
 description: ""
-url: "https://github.com/mrThe"
+external_url: "https://github.com/mrThe"
 category: "Miscellaneous"
 ---

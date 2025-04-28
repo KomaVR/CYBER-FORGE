@@ -1,6 +1,6 @@
 ---
 title: "Google"
 description: ""
-url: "https://www.google.com/"
+external_url: "https://www.google.com/"
 category: "Miscellaneous"
 ---

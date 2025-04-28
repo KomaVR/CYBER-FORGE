@@ -1,6 +1,6 @@
 ---
 title: "lumjjb"
 description: ""
-url: "https://github.com/lumjjb"
+external_url: "https://github.com/lumjjb"
 category: "Miscellaneous"
 ---

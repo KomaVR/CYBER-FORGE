@@ -1,6 +1,6 @@
 ---
 title: "sara-rn"
 description: ""
-url: "https://github.com/sara-rn"
+external_url: "https://github.com/sara-rn"
 category: "Miscellaneous"
 ---

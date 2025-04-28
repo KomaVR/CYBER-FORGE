@@ -1,6 +1,6 @@
 ---
 title: "NGA GEOINT"
 description: ""
-url: "https://github.com/ngageoint"
+external_url: "https://github.com/ngageoint"
 category: "Miscellaneous"
 ---

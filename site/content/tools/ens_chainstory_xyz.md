@@ -1,6 +1,6 @@
 ---
 title: "ENS chainstory.xyz"
 description: ""
-url: "https://www.chainstory.xyz"
+external_url: "https://www.chainstory.xyz"
 category: "Miscellaneous"
 ---

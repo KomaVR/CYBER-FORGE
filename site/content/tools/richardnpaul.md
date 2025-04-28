@@ -1,6 +1,6 @@
 ---
 title: "richardnpaul"
 description: ""
-url: "https://github.com/richardnpaul"
+external_url: "https://github.com/richardnpaul"
 category: "Miscellaneous"
 ---

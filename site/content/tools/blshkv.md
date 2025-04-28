@@ -1,6 +1,6 @@
 ---
 title: "blshkv"
 description: ""
-url: "https://github.com/blshkv"
+external_url: "https://github.com/blshkv"
 category: "Miscellaneous"
 ---

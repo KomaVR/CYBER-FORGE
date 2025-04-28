@@ -1,6 +1,6 @@
 ---
 title: "cosminstefanxp"
 description: ""
-url: "https://github.com/cosminstefanxp"
+external_url: "https://github.com/cosminstefanxp"
 category: "Miscellaneous"
 ---

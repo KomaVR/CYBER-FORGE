@@ -1,6 +1,6 @@
 ---
 title: "erenJag"
 description: ""
-url: "https://github.com/erenJag"
+external_url: "https://github.com/erenJag"
 category: "Miscellaneous"
 ---

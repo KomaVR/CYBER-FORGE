@@ -1,6 +1,6 @@
 ---
 title: "eduquintanilha"
 description: ""
-url: "https://github.com/eduquintanilha"
+external_url: "https://github.com/eduquintanilha"
 category: "Miscellaneous"
 ---

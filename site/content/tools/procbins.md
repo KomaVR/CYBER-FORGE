@@ -1,6 +1,6 @@
 ---
 title: "procbins"
 description: ""
-url: "https://github.com/janstarke/procbins"
+external_url: "https://github.com/janstarke/procbins"
 category: "Miscellaneous"
 ---

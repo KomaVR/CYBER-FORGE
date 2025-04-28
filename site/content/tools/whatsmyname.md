@@ -1,6 +1,6 @@
 ---
 title: "Whatsmyname"
 description: ""
-url: "https://www.whatsmyname.app/"
+external_url: "https://www.whatsmyname.app/"
 category: "Miscellaneous"
 ---

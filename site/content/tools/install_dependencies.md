@@ -11,6 +11,6 @@ Gentoo
 Windows
 
 "
-url: "https://sn0int.readthedocs.io/en/latest/build.html#install-dependencies"
+external_url: "https://sn0int.readthedocs.io/en/latest/build.html#install-dependencies"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "gfyoung"
 description: ""
-url: "https://github.com/gfyoung"
+external_url: "https://github.com/gfyoung"
 category: "Miscellaneous"
 ---

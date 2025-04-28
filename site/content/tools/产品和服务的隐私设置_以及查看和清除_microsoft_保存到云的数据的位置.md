@@ -7,6 +7,6 @@ Microsoft
 应用授权
 
 "
-url: "https://account.microsoft.com/privacy/activity-history"
+external_url: "https://account.microsoft.com/privacy/activity-history"
 category: "Miscellaneous"
 ---

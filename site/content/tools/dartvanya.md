@@ -1,6 +1,6 @@
 ---
 title: "DartVanya"
 description: ""
-url: "https://github.com/DartVanya"
+external_url: "https://github.com/DartVanya"
 category: "Miscellaneous"
 ---

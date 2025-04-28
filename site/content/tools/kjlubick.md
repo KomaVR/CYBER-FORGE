@@ -1,6 +1,6 @@
 ---
 title: "kjlubick"
 description: ""
-url: "https://github.com/kjlubick"
+external_url: "https://github.com/kjlubick"
 category: "Miscellaneous"
 ---

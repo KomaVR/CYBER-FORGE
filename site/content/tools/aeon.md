@@ -1,6 +1,6 @@
 ---
 title: "Aeon"
 description: ""
-url: "http://www.aeontimeline.com"
+external_url: "http://www.aeontimeline.com"
 category: "Miscellaneous"
 ---

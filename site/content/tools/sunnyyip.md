@@ -1,6 +1,6 @@
 ---
 title: "sunnyyip"
 description: ""
-url: "https://github.com/sunnyyip"
+external_url: "https://github.com/sunnyyip"
 category: "Miscellaneous"
 ---

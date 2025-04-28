@@ -1,6 +1,6 @@
 ---
 title: "Redis Security"
 description: ""
-url: "https://redis.io/topics/security"
+external_url: "https://redis.io/topics/security"
 category: "Miscellaneous"
 ---

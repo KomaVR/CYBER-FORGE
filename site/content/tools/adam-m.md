@@ -1,6 +1,6 @@
 ---
 title: "adam-m"
 description: ""
-url: "https://github.com/adam-m"
+external_url: "https://github.com/adam-m"
 category: "Miscellaneous"
 ---

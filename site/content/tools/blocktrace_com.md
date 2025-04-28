@@ -1,6 +1,6 @@
 ---
 title: "blocktrace.com"
 description: ""
-url: "https://www.blocktrace.com"
+external_url: "https://www.blocktrace.com"
 category: "Miscellaneous"
 ---

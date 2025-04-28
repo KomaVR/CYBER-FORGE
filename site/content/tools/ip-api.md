@@ -1,6 +1,6 @@
 ---
 title: "ip-api"
 description: ""
-url: "https://ip-api.com/"
+external_url: "https://ip-api.com/"
 category: "Miscellaneous"
 ---

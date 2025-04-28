@@ -1,6 +1,6 @@
 ---
 title: "sidxparab"
 description: ""
-url: "https://github.com/sidxparab"
+external_url: "https://github.com/sidxparab"
 category: "Miscellaneous"
 ---

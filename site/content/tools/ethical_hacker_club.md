@@ -1,6 +1,6 @@
 ---
 title: "Ethical Hacker Club"
 description: "Vietnamese (vi-VN): Fully supported, translated by"
-url: "https://github.com/FPTU-Ethical-Hackers-Club"
+external_url: "https://github.com/FPTU-Ethical-Hackers-Club"
 category: "Miscellaneous"
 ---

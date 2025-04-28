@@ -1,6 +1,6 @@
 ---
 title: "Mob-Droid"
 description: ""
-url: "https://github.com/kinghacker0/Mob-Droid"
+external_url: "https://github.com/kinghacker0/Mob-Droid"
 category: "Miscellaneous"
 ---

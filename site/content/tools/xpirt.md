@@ -1,6 +1,6 @@
 ---
 title: "xpirt"
 description: ""
-url: "https://github.com/xpirt"
+external_url: "https://github.com/xpirt"
 category: "Miscellaneous"
 ---

@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://patreon.com/TH3xACE"
+external_url: "https://patreon.com/TH3xACE"
 category: "Miscellaneous"
 ---

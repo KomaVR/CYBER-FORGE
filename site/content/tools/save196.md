@@ -1,6 +1,6 @@
 ---
 title: "save196"
 description: ""
-url: "https://github.com/save196"
+external_url: "https://github.com/save196"
 category: "Miscellaneous"
 ---

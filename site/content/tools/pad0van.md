@@ -1,6 +1,6 @@
 ---
 title: "pad0van"
 description: ""
-url: "https://github.com/pad0van"
+external_url: "https://github.com/pad0van"
 category: "Miscellaneous"
 ---

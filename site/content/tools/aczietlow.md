@@ -1,6 +1,6 @@
 ---
 title: "aczietlow"
 description: ""
-url: "https://github.com/aczietlow"
+external_url: "https://github.com/aczietlow"
 category: "Miscellaneous"
 ---

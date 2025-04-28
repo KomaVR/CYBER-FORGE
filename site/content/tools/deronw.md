@@ -1,6 +1,6 @@
 ---
 title: "DeronW"
 description: ""
-url: "https://github.com/DeronW"
+external_url: "https://github.com/DeronW"
 category: "Miscellaneous"
 ---

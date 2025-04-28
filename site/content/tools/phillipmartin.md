@@ -1,6 +1,6 @@
 ---
 title: "Phillipmartin"
 description: ""
-url: "https://github.com/Phillipmartin"
+external_url: "https://github.com/Phillipmartin"
 category: "Miscellaneous"
 ---

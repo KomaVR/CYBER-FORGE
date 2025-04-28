@@ -6,6 +6,6 @@ NixOS (thanks )
 Package here
 
 "
-url: "https://github.com/devhell"
+external_url: "https://github.com/devhell"
 category: "Miscellaneous"
 ---

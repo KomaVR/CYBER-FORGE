@@ -1,6 +1,6 @@
 ---
 title: "RPC-Backdoor：模拟 RPC 后门"
 description: ""
-url: "https://github.com/eladshamir/RPC-Backdoor"
+external_url: "https://github.com/eladshamir/RPC-Backdoor"
 category: "Miscellaneous"
 ---

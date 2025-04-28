@@ -1,6 +1,6 @@
 ---
 title: "oopsmishap"
 description: ""
-url: "https://github.com/oopsmishap"
+external_url: "https://github.com/oopsmishap"
 category: "Miscellaneous"
 ---

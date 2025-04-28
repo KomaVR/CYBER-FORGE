@@ -1,6 +1,6 @@
 ---
 title: "enganese"
 description: ""
-url: "https://github.com/enganese"
+external_url: "https://github.com/enganese"
 category: "Miscellaneous"
 ---

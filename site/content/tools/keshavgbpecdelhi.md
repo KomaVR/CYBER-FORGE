@@ -1,6 +1,6 @@
 ---
 title: "keshavgbpecdelhi"
 description: ""
-url: "https://github.com/keshavgbpecdelhi"
+external_url: "https://github.com/keshavgbpecdelhi"
 category: "Miscellaneous"
 ---

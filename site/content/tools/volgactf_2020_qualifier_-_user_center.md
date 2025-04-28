@@ -7,6 +7,6 @@ description: "$.getJSON / $.ajax XSS
 Example: 
 
 "
-url: "https://blog.blackfan.ru/2020/03/volgactf-2020-qualifier-writeup.html"
+external_url: "https://blog.blackfan.ru/2020/03/volgactf-2020-qualifier-writeup.html"
 category: "Web Exploitation"
 ---

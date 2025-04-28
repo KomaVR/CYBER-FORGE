@@ -1,6 +1,6 @@
 ---
 title: "kanzure"
 description: ""
-url: "https://github.com/kanzure"
+external_url: "https://github.com/kanzure"
 category: "Miscellaneous"
 ---

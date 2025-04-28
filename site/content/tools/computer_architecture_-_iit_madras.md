@@ -1,6 +1,6 @@
 ---
 title: "Computer Architecture - IIT Madras"
 description: ""
-url: "https://nptel.ac.in/courses/106106134/"
+external_url: "https://nptel.ac.in/courses/106106134/"
 category: "Miscellaneous"
 ---

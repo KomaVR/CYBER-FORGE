@@ -1,6 +1,6 @@
 ---
 title: "🚀 DIE API Library (for Developers)"
 description: ""
-url: "https://github.com/horsicq/die_library"
+external_url: "https://github.com/horsicq/die_library"
 category: "Miscellaneous"
 ---

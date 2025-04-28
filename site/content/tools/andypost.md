@@ -1,6 +1,6 @@
 ---
 title: "andypost"
 description: ""
-url: "https://github.com/andypost"
+external_url: "https://github.com/andypost"
 category: "Miscellaneous"
 ---

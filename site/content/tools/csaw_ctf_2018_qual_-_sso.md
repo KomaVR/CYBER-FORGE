@@ -12,6 +12,6 @@ Example
 
 
 "
-url: "https://github.com/w181496/CTF/blob/47fe34112401d123b2b53ee12058e7ec72888e0e/csaw_2018_qual/sso/README.md"
+external_url: "https://github.com/w181496/CTF/blob/47fe34112401d123b2b53ee12058e7ec72888e0e/csaw_2018_qual/sso/README.md"
 category: "Black Hat Tools"
 ---

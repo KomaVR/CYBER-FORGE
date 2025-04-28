@@ -1,6 +1,6 @@
 ---
 title: "DNS Enumeration - DNS Dumpster"
 description: ""
-url: "https://dnsdumpster.com/"
+external_url: "https://dnsdumpster.com/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "juliancnn"
 description: ""
-url: "https://github.com/juliancnn"
+external_url: "https://github.com/juliancnn"
 category: "Miscellaneous"
 ---

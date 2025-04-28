@@ -1,6 +1,6 @@
 ---
 title: "quininer"
 description: ""
-url: "https://github.com/quininer"
+external_url: "https://github.com/quininer"
 category: "Miscellaneous"
 ---

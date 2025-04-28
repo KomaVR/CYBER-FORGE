@@ -1,6 +1,6 @@
 ---
 title: "thomasmerz"
 description: ""
-url: "https://github.com/thomasmerz"
+external_url: "https://github.com/thomasmerz"
 category: "Miscellaneous"
 ---

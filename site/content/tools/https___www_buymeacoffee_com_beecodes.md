@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://www.buymeacoffee.com/beecodes"
+external_url: "https://www.buymeacoffee.com/beecodes"
 category: "Miscellaneous"
 ---

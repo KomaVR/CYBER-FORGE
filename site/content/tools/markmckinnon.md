@@ -1,6 +1,6 @@
 ---
 title: "markmckinnon"
 description: ""
-url: "https://github.com/markmckinnon"
+external_url: "https://github.com/markmckinnon"
 category: "Miscellaneous"
 ---

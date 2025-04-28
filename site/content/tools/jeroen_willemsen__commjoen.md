@@ -1,6 +1,6 @@
 ---
 title: "Jeroen Willemsen @commjoen"
 description: ""
-url: "https://www.github.com/commjoen"
+external_url: "https://www.github.com/commjoen"
 category: "Miscellaneous"
 ---

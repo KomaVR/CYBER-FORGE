@@ -1,6 +1,6 @@
 ---
 title: "Comparison to Other Tools"
 description: ""
-url: "https://www.blacklanternsecurity.com/bbot/Stable/comparison"
+external_url: "https://www.blacklanternsecurity.com/bbot/Stable/comparison"
 category: "Miscellaneous"
 ---

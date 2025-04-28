@@ -1,6 +1,6 @@
 ---
 title: "Archidoit"
 description: ""
-url: "https://github.com/Archidoit"
+external_url: "https://github.com/Archidoit"
 category: "Miscellaneous"
 ---

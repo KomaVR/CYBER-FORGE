@@ -1,6 +1,6 @@
 ---
 title: "GetTwitterID"
 description: ""
-url: "http://gettwitterid.com/"
+external_url: "http://gettwitterid.com/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Digle"
 description: ""
-url: "https://www.digle.com/"
+external_url: "https://www.digle.com/"
 category: "Miscellaneous"
 ---

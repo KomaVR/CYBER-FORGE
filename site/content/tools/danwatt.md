@@ -1,6 +1,6 @@
 ---
 title: "danwatt"
 description: ""
-url: "https://github.com/danwatt"
+external_url: "https://github.com/danwatt"
 category: "Miscellaneous"
 ---

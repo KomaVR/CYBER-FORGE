@@ -1,6 +1,6 @@
 ---
 title: "Abbas-MG"
 description: ""
-url: "https://github.com/Abbas-MG"
+external_url: "https://github.com/Abbas-MG"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "staaldraad"
 description: ""
-url: "https://github.com/staaldraad"
+external_url: "https://github.com/staaldraad"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "solmap.zeppelin.solutions"
 description: ""
-url: "https://solmap.zeppelin.solutions"
+external_url: "https://solmap.zeppelin.solutions"
 category: "Miscellaneous"
 ---

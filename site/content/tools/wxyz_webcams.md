@@ -1,6 +1,6 @@
 ---
 title: "WXYZ Webcams"
 description: "Real-time webcams"
-url: "https://wxyzwebcams.com/"
+external_url: "https://wxyzwebcams.com/"
 category: "Web Exploitation"
 ---

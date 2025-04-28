@@ -1,6 +1,6 @@
 ---
 title: "Manx"
 description: "(shell functionality and reverse shell payloads)"
-url: "https://github.com/mitre/manx"
+external_url: "https://github.com/mitre/manx"
 category: "Black Hat Tools"
 ---

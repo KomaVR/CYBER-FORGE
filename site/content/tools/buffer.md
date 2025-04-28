@@ -1,6 +1,6 @@
 ---
 title: "Buffer"
 description: ""
-url: "https://buffer.com"
+external_url: "https://buffer.com"
 category: "Miscellaneous"
 ---

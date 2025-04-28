@@ -1,6 +1,6 @@
 ---
 title: "Headhunter"
 description: ""
-url: "http://www.headhunter.com"
+external_url: "http://www.headhunter.com"
 category: "Miscellaneous"
 ---

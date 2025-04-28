@@ -1,6 +1,6 @@
 ---
 title: "cecio"
 description: "cecio"
-url: "https://github.com/cecio"
+external_url: "https://github.com/cecio"
 category: "Miscellaneous"
 ---

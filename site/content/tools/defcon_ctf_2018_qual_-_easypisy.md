@@ -7,6 +7,6 @@ openssl_verify
 e.g. 
 
 "
-url: "https://github.com/w181496/CTF/tree/master/defcon2018-qual/EasyPisy"
+external_url: "https://github.com/w181496/CTF/tree/master/defcon2018-qual/EasyPisy"
 category: "Miscellaneous"
 ---

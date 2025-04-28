@@ -1,6 +1,6 @@
 ---
 title: "cybernet"
 description: ""
-url: "https://github.com/cybernet"
+external_url: "https://github.com/cybernet"
 category: "Miscellaneous"
 ---

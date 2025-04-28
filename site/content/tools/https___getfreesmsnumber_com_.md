@@ -1,6 +1,6 @@
 ---
 title: "https://getfreesmsnumber.com/"
 description: ""
-url: "https://getfreesmsnumber.com/"
+external_url: "https://getfreesmsnumber.com/"
 category: "Miscellaneous"
 ---

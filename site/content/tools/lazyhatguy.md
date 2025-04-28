@@ -1,6 +1,6 @@
 ---
 title: "LazyHatGuy"
 description: ""
-url: "https://github.com/LazyHatGuy"
+external_url: "https://github.com/LazyHatGuy"
 category: "Miscellaneous"
 ---

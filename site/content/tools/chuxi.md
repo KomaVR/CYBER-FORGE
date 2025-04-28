@@ -1,6 +1,6 @@
 ---
 title: "chuxi"
 description: ""
-url: "https://github.com/chuxi"
+external_url: "https://github.com/chuxi"
 category: "Miscellaneous"
 ---

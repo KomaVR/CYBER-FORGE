@@ -1,6 +1,6 @@
 ---
 title: "idealphase"
 description: ""
-url: "https://github.com/idealphase"
+external_url: "https://github.com/idealphase"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "ExifLooter"
 description: ""
-url: "https://github.com/aydinnyunus/exiflooter"
+external_url: "https://github.com/aydinnyunus/exiflooter"
 category: "Miscellaneous"
 ---

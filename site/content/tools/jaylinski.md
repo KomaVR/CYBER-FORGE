@@ -1,6 +1,6 @@
 ---
 title: "jaylinski"
 description: ""
-url: "https://github.com/jaylinski"
+external_url: "https://github.com/jaylinski"
 category: "Miscellaneous"
 ---

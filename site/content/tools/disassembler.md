@@ -1,6 +1,6 @@
 ---
 title: "Disassembler"
 description: ": AArch64, x86/x86-64, ARM, RISC-V, Mips, PowerPC, eBPF"
-url: "https://lief.re/doc/latest/extended/disassembler/index.html"
+external_url: "https://lief.re/doc/latest/extended/disassembler/index.html"
 category: "Reverse Engineering"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Proxyshell-auto"
 description: "Automatic ProxyShell Exploit."
-url: "https://github.com/Udyz/proxyshell-auto"
+external_url: "https://github.com/Udyz/proxyshell-auto"
 category: "Black Hat Tools"
 ---

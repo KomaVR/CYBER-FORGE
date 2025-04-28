@@ -1,6 +1,6 @@
 ---
 title: "spmedia"
 description: ""
-url: "https://github.com/spmedia"
+external_url: "https://github.com/spmedia"
 category: "Miscellaneous"
 ---

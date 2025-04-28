@@ -1,6 +1,6 @@
 ---
 title: "iromise"
 description: ""
-url: "https://github.com/iromise"
+external_url: "https://github.com/iromise"
 category: "Miscellaneous"
 ---

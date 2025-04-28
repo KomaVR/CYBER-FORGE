@@ -1,6 +1,6 @@
 ---
 title: "ltearno"
 description: ""
-url: "https://github.com/ltearno"
+external_url: "https://github.com/ltearno"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Hashtatit"
 description: ""
-url: "http://www.hashatit.com/"
+external_url: "http://www.hashatit.com/"
 category: "Password Cracking"
 ---

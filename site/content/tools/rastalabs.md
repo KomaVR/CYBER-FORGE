@@ -1,6 +1,6 @@
 ---
 title: "RastaLabs"
 description: "Intermediate"
-url: "https://app.hackthebox.com/prolabs/overview/rastalabs"
+external_url: "https://app.hackthebox.com/prolabs/overview/rastalabs"
 category: "Miscellaneous"
 ---

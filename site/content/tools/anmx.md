@@ -1,6 +1,6 @@
 ---
 title: "anmx"
 description: ""
-url: "https://github.com/anmx"
+external_url: "https://github.com/anmx"
 category: "Miscellaneous"
 ---

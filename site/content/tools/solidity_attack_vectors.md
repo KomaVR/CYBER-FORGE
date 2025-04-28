@@ -1,6 +1,6 @@
 ---
 title: "Solidity Attack Vectors"
 description: ""
-url: "https://github.com/Quillhash/Solidity-Attack-Vectors"
+external_url: "https://github.com/Quillhash/Solidity-Attack-Vectors"
 category: "Miscellaneous"
 ---

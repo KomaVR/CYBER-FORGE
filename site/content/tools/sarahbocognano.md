@@ -1,6 +1,6 @@
 ---
 title: "SarahBocognano"
 description: ""
-url: "https://github.com/SarahBocognano"
+external_url: "https://github.com/SarahBocognano"
 category: "Miscellaneous"
 ---

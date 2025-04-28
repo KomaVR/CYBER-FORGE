@@ -1,6 +1,6 @@
 ---
 title: "patreon"
 description: "via"
-url: "https://www.patreon.com/TheOfficialFloW"
+external_url: "https://www.patreon.com/TheOfficialFloW"
 category: "Miscellaneous"
 ---

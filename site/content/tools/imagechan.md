@@ -1,6 +1,6 @@
 ---
 title: "imagechan"
 description: ""
-url: "http://www.imagechan.com/"
+external_url: "http://www.imagechan.com/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "quentinhardy"
 description: ""
-url: "https://github.com/quentinhardy"
+external_url: "https://github.com/quentinhardy"
 category: "Miscellaneous"
 ---

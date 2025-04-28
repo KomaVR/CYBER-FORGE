@@ -1,6 +1,6 @@
 ---
 title: "Azure Tenant Resolution by PingCastle"
 description: "Search for Azure Tenant using its domain name or its ID"
-url: "https://tenantresolution.pingcastle.com"
+external_url: "https://tenantresolution.pingcastle.com"
 category: "Miscellaneous"
 ---

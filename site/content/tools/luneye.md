@@ -1,6 +1,6 @@
 ---
 title: "Luneye"
 description: ""
-url: "https://github.com/Luneye"
+external_url: "https://github.com/Luneye"
 category: "Miscellaneous"
 ---

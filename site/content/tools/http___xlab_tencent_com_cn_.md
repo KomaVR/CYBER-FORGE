@@ -1,6 +1,6 @@
 ---
 title: "http://xlab.tencent.com/cn/"
 description: ""
-url: "http://xlab.tencent.com/cn/"
+external_url: "http://xlab.tencent.com/cn/"
 category: "Miscellaneous"
 ---

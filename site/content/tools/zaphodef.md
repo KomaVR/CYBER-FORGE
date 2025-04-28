@@ -1,6 +1,6 @@
 ---
 title: "zaphodef"
 description: ""
-url: "https://github.com/zaphodef"
+external_url: "https://github.com/zaphodef"
 category: "Web Exploitation"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "cushon"
 description: ""
-url: "https://github.com/cushon"
+external_url: "https://github.com/cushon"
 category: "Miscellaneous"
 ---

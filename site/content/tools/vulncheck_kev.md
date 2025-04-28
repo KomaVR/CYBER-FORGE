@@ -1,6 +1,6 @@
 ---
 title: "VulnCheck KEV"
 description: "VulnCheck:"
-url: "https://vulncheck.com/kev"
+external_url: "https://vulncheck.com/kev"
 category: "Miscellaneous"
 ---

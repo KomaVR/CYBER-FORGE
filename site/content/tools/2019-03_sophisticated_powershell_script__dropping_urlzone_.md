@@ -7,6 +7,6 @@ description: "
 6badf0748ca6cbd4a1f1175dbb8a6dbbee1656c7086378418e1397bce025aa60.exe
 
 "
-url: "http://blog.inquest.net/blog/2019/03/09/Analyzing-Sophisticated-PowerShell-Targeting-Japan/"
+external_url: "http://blog.inquest.net/blog/2019/03/09/Analyzing-Sophisticated-PowerShell-Targeting-Japan/"
 category: "Miscellaneous"
 ---

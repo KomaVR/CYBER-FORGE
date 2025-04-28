@@ -1,6 +1,6 @@
 ---
 title: "postmodern"
 description: ""
-url: "https://github.com/postmodern"
+external_url: "https://github.com/postmodern"
 category: "Miscellaneous"
 ---

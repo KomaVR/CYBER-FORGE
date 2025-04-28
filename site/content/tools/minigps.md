@@ -1,6 +1,6 @@
 ---
 title: "minigps"
 description: ""
-url: "http://www.minigps.net/cellsearch.html"
+external_url: "http://www.minigps.net/cellsearch.html"
 category: "Miscellaneous"
 ---

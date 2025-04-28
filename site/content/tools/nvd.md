@@ -1,6 +1,6 @@
 ---
 title: "NVD"
 description: ""
-url: "http://web.nvd.nist.gov/"
+external_url: "http://web.nvd.nist.gov/"
 category: "Miscellaneous"
 ---

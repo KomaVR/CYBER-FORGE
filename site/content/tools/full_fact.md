@@ -1,6 +1,6 @@
 ---
 title: "Full Fact"
 description: ""
-url: "https://fullfact.org"
+external_url: "https://fullfact.org"
 category: "Miscellaneous"
 ---

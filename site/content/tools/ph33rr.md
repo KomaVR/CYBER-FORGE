@@ -1,6 +1,6 @@
 ---
 title: "Ph33rr"
 description: ""
-url: "https://github.com/Ph33rr"
+external_url: "https://github.com/Ph33rr"
 category: "Miscellaneous"
 ---

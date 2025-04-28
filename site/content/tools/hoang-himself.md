@@ -1,6 +1,6 @@
 ---
 title: "hoang-himself"
 description: ""
-url: "https://github.com/hoang-himself"
+external_url: "https://github.com/hoang-himself"
 category: "Miscellaneous"
 ---

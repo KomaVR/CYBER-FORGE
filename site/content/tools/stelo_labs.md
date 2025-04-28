@@ -1,6 +1,6 @@
 ---
 title: "Stelo Labs"
 description: ""
-url: "https://stelolabs.com/"
+external_url: "https://stelolabs.com/"
 category: "Miscellaneous"
 ---

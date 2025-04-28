@@ -1,6 +1,6 @@
 ---
 title: "Taknok"
 description: ""
-url: "https://github.com/Taknok"
+external_url: "https://github.com/Taknok"
 category: "Miscellaneous"
 ---

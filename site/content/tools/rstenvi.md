@@ -1,6 +1,6 @@
 ---
 title: "rstenvi"
 description: ""
-url: "https://github.com/rstenvi"
+external_url: "https://github.com/rstenvi"
 category: "Miscellaneous"
 ---

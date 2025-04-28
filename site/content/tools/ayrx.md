@@ -1,6 +1,6 @@
 ---
 title: "Ayrx"
 description: ""
-url: "https://github.com/Ayrx"
+external_url: "https://github.com/Ayrx"
 category: "Miscellaneous"
 ---

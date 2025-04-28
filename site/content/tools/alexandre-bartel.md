@@ -1,6 +1,6 @@
 ---
 title: "Alexandre-Bartel"
 description: ""
-url: "https://github.com/Alexandre-Bartel"
+external_url: "https://github.com/Alexandre-Bartel"
 category: "Miscellaneous"
 ---

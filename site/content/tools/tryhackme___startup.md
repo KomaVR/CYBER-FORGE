@@ -3,6 +3,6 @@ title: "TryHackMe | Startup"
 description: "
  
 "
-url: "https://tryhackme.com/room/startup"
+external_url: "https://tryhackme.com/room/startup"
 category: "Miscellaneous"
 ---

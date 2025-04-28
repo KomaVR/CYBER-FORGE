@@ -1,6 +1,6 @@
 ---
 title: "eHow"
 description: ""
-url: "http://www.ehow.com"
+external_url: "http://www.ehow.com"
 category: "Miscellaneous"
 ---

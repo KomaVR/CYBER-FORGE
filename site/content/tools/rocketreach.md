@@ -1,6 +1,6 @@
 ---
 title: "RocketReach"
 description: "Your first-degree connection to any professional"
-url: "https://rocketreach.co/"
+external_url: "https://rocketreach.co/"
 category: "Miscellaneous"
 ---

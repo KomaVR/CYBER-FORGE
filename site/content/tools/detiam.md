@@ -1,6 +1,6 @@
 ---
 title: "detiam"
 description: ""
-url: "https://github.com/detiam"
+external_url: "https://github.com/detiam"
 category: "Miscellaneous"
 ---

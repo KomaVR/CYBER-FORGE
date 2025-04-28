@@ -1,6 +1,6 @@
 ---
 title: "tchannels"
 description: ""
-url: "https://tchannels.me"
+external_url: "https://tchannels.me"
 category: "Miscellaneous"
 ---

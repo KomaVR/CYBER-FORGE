@@ -1,6 +1,6 @@
 ---
 title: "zylideum"
 description: ""
-url: "https://github.com/zylideum"
+external_url: "https://github.com/zylideum"
 category: "Miscellaneous"
 ---

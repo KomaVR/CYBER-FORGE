@@ -132,7 +132,7 @@ Explore
 
 
 "
-url: "https://github.com/features/copilot"
+external_url: "https://github.com/features/copilot"
 category: "Miscellaneous"
 ---
 

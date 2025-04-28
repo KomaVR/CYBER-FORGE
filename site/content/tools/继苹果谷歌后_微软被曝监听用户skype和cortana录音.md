@@ -9,6 +9,6 @@ Revealed: Microsoft Contractors Are Listening to Some Skype Calls
 微软:暂不会停止对 Skype 和 Cortana 对话的人工审查
 
 "
-url: "https://tech.sina.com.cn/i/2019-08-08/doc-ihytcitm7662431.shtml"
+external_url: "https://tech.sina.com.cn/i/2019-08-08/doc-ihytcitm7662431.shtml"
 category: "Miscellaneous"
 ---

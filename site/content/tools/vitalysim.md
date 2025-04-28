@@ -1,6 +1,6 @@
 ---
 title: "vitalysim"
 description: ""
-url: "https://github.com/vitalysim"
+external_url: "https://github.com/vitalysim"
 category: "Miscellaneous"
 ---

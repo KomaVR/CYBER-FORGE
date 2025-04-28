@@ -1,6 +1,6 @@
 ---
 title: "seishun"
 description: ""
-url: "https://github.com/seishun"
+external_url: "https://github.com/seishun"
 category: "Miscellaneous"
 ---

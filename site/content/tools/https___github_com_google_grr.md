@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/google/grr"
 description: ""
-url: "https://github.com/google/grr"
+external_url: "https://github.com/google/grr"
 category: "Miscellaneous"
 ---

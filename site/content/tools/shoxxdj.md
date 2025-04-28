@@ -1,6 +1,6 @@
 ---
 title: "shoxxdj"
 description: ""
-url: "https://github.com/shoxxdj"
+external_url: "https://github.com/shoxxdj"
 category: "Miscellaneous"
 ---

@@ -6,6 +6,6 @@ description: "Meta
 lists
 
 "
-url: "https://github.com/sindresorhus/awesome"
+external_url: "https://github.com/sindresorhus/awesome"
 category: "Miscellaneous"
 ---

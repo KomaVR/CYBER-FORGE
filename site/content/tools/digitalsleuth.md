@@ -1,6 +1,6 @@
 ---
 title: "digitalsleuth"
 description: ""
-url: "https://github.com/digitalsleuth"
+external_url: "https://github.com/digitalsleuth"
 category: "Miscellaneous"
 ---

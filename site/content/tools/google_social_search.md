@@ -1,6 +1,6 @@
 ---
 title: "Google Social Search"
 description: ""
-url: "https://www.social-searcher.com/google-social-search/"
+external_url: "https://www.social-searcher.com/google-social-search/"
 category: "Miscellaneous"
 ---

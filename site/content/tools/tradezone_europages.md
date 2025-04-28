@@ -1,6 +1,6 @@
 ---
 title: "Tradezone Europages"
 description: ""
-url: "http://www.tradezone.com/europages.php"
+external_url: "http://www.tradezone.com/europages.php"
 category: "Miscellaneous"
 ---

@@ -7,6 +7,6 @@ description: "
 Humanitarian Data Exchange
 
 "
-url: "https://github.com/harismuneer/Ultimate-Facebook-Scraper"
+external_url: "https://github.com/harismuneer/Ultimate-Facebook-Scraper"
 category: "Miscellaneous"
 ---

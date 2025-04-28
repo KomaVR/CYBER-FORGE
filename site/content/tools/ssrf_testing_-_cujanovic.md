@@ -1,6 +1,6 @@
 ---
 title: "SSRF testing - cujanovic"
 description: ""
-url: "https://github.com/cujanovic/SSRF-Testing"
+external_url: "https://github.com/cujanovic/SSRF-Testing"
 category: "Miscellaneous"
 ---

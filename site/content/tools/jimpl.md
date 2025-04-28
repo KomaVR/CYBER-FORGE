@@ -1,6 +1,6 @@
 ---
 title: "Jimpl"
 description: "Online photo metadata and EXIF data viewer"
-url: "https://jimpl.com/"
+external_url: "https://jimpl.com/"
 category: "Miscellaneous"
 ---

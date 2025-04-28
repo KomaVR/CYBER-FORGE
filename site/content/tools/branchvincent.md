@@ -1,6 +1,6 @@
 ---
 title: "branchvincent"
 description: ""
-url: "https://github.com/branchvincent"
+external_url: "https://github.com/branchvincent"
 category: "Miscellaneous"
 ---

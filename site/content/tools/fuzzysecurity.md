@@ -1,6 +1,6 @@
 ---
 title: "FuzzySecurity"
 description: ""
-url: "https://github.com/FuzzySecurity"
+external_url: "https://github.com/FuzzySecurity"
 category: "Miscellaneous"
 ---

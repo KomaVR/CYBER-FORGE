@@ -1,6 +1,6 @@
 ---
 title: "Submarine Cable Map"
 description: ""
-url: "https://www.submarinecablemap.com/"
+external_url: "https://www.submarinecablemap.com/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "swisskyrepo"
 description: ""
-url: "https://github.com/swisskyrepo"
+external_url: "https://github.com/swisskyrepo"
 category: "Miscellaneous"
 ---

@@ -13,6 +13,6 @@ meta-llama/Llama-4-Scout-17B-16E-Instruct
 Qwen/Qwen2.5-VL-7B-Instruct
 
 "
-url: "https://kluster.ai/"
+external_url: "https://kluster.ai/"
 category: "Miscellaneous"
 ---

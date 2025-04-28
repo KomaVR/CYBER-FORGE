@@ -1,6 +1,6 @@
 ---
 title: "SuperIP"
 description: ""
-url: "https://suip.biz"
+external_url: "https://suip.biz"
 category: "Miscellaneous"
 ---

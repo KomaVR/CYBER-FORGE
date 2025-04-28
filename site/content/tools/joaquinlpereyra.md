@@ -1,6 +1,6 @@
 ---
 title: "joaquinlpereyra"
 description: ""
-url: "https://github.com/joaquinlpereyra"
+external_url: "https://github.com/joaquinlpereyra"
 category: "Miscellaneous"
 ---

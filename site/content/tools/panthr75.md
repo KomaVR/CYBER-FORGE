@@ -1,6 +1,6 @@
 ---
 title: "Panthr75"
 description: ""
-url: "https://github.com/Panthr75"
+external_url: "https://github.com/Panthr75"
 category: "Miscellaneous"
 ---

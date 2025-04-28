@@ -1,6 +1,6 @@
 ---
 title: "yigblst"
 description: ""
-url: "https://github.com/yigblst"
+external_url: "https://github.com/yigblst"
 category: "Miscellaneous"
 ---

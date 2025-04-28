@@ -1,6 +1,6 @@
 ---
 title: "Image Brief"
 description: ""
-url: "http://www.imagebrief.com"
+external_url: "http://www.imagebrief.com"
 category: "Miscellaneous"
 ---

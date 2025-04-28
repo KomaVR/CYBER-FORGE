@@ -1,6 +1,6 @@
 ---
 title: "dedigger.com"
 description: ""
-url: "https://www.dedigger.com/"
+external_url: "https://www.dedigger.com/"
 category: "Miscellaneous"
 ---

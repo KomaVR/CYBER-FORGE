@@ -1,6 +1,6 @@
 ---
 title: "fbi"
 description: "Facebook Information."
-url: "https://github.com/xHak9x/fbi"
+external_url: "https://github.com/xHak9x/fbi"
 category: "Miscellaneous"
 ---

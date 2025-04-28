@@ -1,6 +1,6 @@
 ---
 title: "https://placafipe.com"
 description: ""
-url: "https://placafipe.com"
+external_url: "https://placafipe.com"
 category: "Miscellaneous"
 ---

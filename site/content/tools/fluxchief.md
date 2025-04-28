@@ -1,6 +1,6 @@
 ---
 title: "fluxchief"
 description: ""
-url: "https://github.com/fluxchief"
+external_url: "https://github.com/fluxchief"
 category: "Miscellaneous"
 ---

@@ -3,6 +3,6 @@ title: "TryHackMe | Chocolate Factory"
 description: "
  
 "
-url: "https://tryhackme.com/room/chocolatefactory"
+external_url: "https://tryhackme.com/room/chocolatefactory"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Idealist"
 description: ""
-url: "http://www.idealist.org"
+external_url: "http://www.idealist.org"
 category: "Miscellaneous"
 ---

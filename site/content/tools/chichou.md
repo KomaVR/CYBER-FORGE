@@ -1,6 +1,6 @@
 ---
 title: "ChiChou"
 description: ""
-url: "https://github.com/ChiChou"
+external_url: "https://github.com/ChiChou"
 category: "Miscellaneous"
 ---

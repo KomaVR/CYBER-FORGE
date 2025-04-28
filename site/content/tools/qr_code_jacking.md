@@ -1,6 +1,6 @@
 ---
 title: "QR Code Jacking"
 description: ""
-url: "https://github.com/cryptedwolf/ohmyqr"
+external_url: "https://github.com/cryptedwolf/ohmyqr"
 category: "Miscellaneous"
 ---

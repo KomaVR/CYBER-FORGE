@@ -1,6 +1,6 @@
 ---
 title: "https://twitter.com/ashutosha_"
 description: "Twitter:"
-url: "https://twitter.com/ashutosha_"
+external_url: "https://twitter.com/ashutosha_"
 category: "Miscellaneous"
 ---

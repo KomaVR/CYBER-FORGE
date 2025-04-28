@@ -1,6 +1,6 @@
 ---
 title: "Dune Course"
 description: ""
-url: "https://www.youtube.com/@ournetwork9430"
+external_url: "https://www.youtube.com/@ournetwork9430"
 category: "Miscellaneous"
 ---

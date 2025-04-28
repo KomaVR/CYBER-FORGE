@@ -1,6 +1,6 @@
 ---
 title: "Rpc2socks"
 description: "Post-exploit tool that enables a SOCKS tunnel via a Windows host using an extensible custom RPC proto over SMB through a named pipe."
-url: "https://github.com/lexfo/rpc2socks"
+external_url: "https://github.com/lexfo/rpc2socks"
 category: "Black Hat Tools"
 ---

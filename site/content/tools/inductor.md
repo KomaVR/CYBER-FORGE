@@ -1,6 +1,6 @@
 ---
 title: "inductor"
 description: ""
-url: "https://github.com/inductor"
+external_url: "https://github.com/inductor"
 category: "Miscellaneous"
 ---

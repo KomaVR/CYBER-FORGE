@@ -1,6 +1,6 @@
 ---
 title: "ChainAware.ai"
 description: ""
-url: "https://chainaware.ai/"
+external_url: "https://chainaware.ai/"
 category: "Miscellaneous"
 ---

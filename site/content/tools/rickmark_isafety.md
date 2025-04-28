@@ -1,6 +1,6 @@
 ---
 title: "rickmark/isafety"
 description: ""
-url: "https://github.com/rickmark/isafety"
+external_url: "https://github.com/rickmark/isafety"
 category: "Miscellaneous"
 ---

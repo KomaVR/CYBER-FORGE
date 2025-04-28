@@ -1,6 +1,6 @@
 ---
 title: "duck-nukem"
 description: ""
-url: "https://github.com/duck-nukem"
+external_url: "https://github.com/duck-nukem"
 category: "Miscellaneous"
 ---

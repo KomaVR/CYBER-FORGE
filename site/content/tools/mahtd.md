@@ -1,6 +1,6 @@
 ---
 title: "mahtd"
 description: ""
-url: "https://github.com/mahtd"
+external_url: "https://github.com/mahtd"
 category: "Miscellaneous"
 ---

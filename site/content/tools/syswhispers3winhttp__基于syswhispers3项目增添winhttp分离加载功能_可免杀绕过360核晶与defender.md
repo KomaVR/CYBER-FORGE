@@ -1,6 +1,6 @@
 ---
 title: "SysWhispers3WinHttp: 基于SysWhispers3项目增添WinHttp分离加载功能，可免杀绕过360核晶与Defender"
 description: ""
-url: "https://github.com/huaigu4ng/SysWhispers3WinHttp"
+external_url: "https://github.com/huaigu4ng/SysWhispers3WinHttp"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "interprobe"
 description: ""
-url: "https://github.com/interprobe"
+external_url: "https://github.com/interprobe"
 category: "Miscellaneous"
 ---

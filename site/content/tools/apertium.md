@@ -1,6 +1,6 @@
 ---
 title: "Apertium"
 description: ""
-url: "https://www.apertium.org/"
+external_url: "https://www.apertium.org/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "CareerBuilder"
 description: ""
-url: "http://www.careerbuilder.com"
+external_url: "http://www.careerbuilder.com"
 category: "Miscellaneous"
 ---

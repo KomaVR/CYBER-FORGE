@@ -1,6 +1,6 @@
 ---
 title: "Inv-Link Creator Finder"
 description: ""
-url: "https://t.me/LinkCreatorBot"
+external_url: "https://t.me/LinkCreatorBot"
 category: "Miscellaneous"
 ---

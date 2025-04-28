@@ -1,6 +1,6 @@
 ---
 title: "Name Combiner"
 description: ""
-url: "https://namecombiner.com/"
+external_url: "https://namecombiner.com/"
 category: "Miscellaneous"
 ---

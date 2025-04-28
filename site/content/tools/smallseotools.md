@@ -1,6 +1,6 @@
 ---
 title: "SmallSEOTools"
 description: ""
-url: "http://smallseotools.com"
+external_url: "http://smallseotools.com"
 category: "Miscellaneous"
 ---

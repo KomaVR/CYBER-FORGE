@@ -5,6 +5,6 @@ description: "Example
 
 
 "
-url: "https://brycec.me/posts/corctf_2022_challenges#sbxcalc"
+external_url: "https://brycec.me/posts/corctf_2022_challenges#sbxcalc"
 category: "Miscellaneous"
 ---

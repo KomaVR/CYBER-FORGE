@@ -1,6 +1,6 @@
 ---
 title: "fluffypony"
 description: ""
-url: "https://github.com/fluffypony"
+external_url: "https://github.com/fluffypony"
 category: "Miscellaneous"
 ---

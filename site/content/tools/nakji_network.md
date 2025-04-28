@@ -1,6 +1,6 @@
 ---
 title: "nakji.network"
 description: ""
-url: "https://nakji.network"
+external_url: "https://nakji.network"
 category: "White Hat Tools"
 ---

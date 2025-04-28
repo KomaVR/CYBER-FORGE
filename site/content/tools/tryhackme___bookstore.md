@@ -3,6 +3,6 @@ title: "TryHackMe | Bookstore"
 description: "
  
 "
-url: "https://tryhackme.com/room/bookstoreoc"
+external_url: "https://tryhackme.com/room/bookstoreoc"
 category: "Miscellaneous"
 ---

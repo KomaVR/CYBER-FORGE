@@ -1,6 +1,6 @@
 ---
 title: "Twitter Search Advanced"
 description: ""
-url: "https://twitter.com/search-advanced?lang=en"
+external_url: "https://twitter.com/search-advanced?lang=en"
 category: "Miscellaneous"
 ---

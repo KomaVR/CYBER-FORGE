@@ -1,6 +1,6 @@
 ---
 title: "xxdesmus"
 description: ""
-url: "https://github.com/xxdesmus"
+external_url: "https://github.com/xxdesmus"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "tinyboxvk"
 description: ""
-url: "https://github.com/tinyboxvk"
+external_url: "https://github.com/tinyboxvk"
 category: "Miscellaneous"
 ---

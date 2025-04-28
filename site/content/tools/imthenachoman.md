@@ -1,6 +1,6 @@
 ---
 title: "imthenachoman"
 description: ""
-url: "https://github.com/imthenachoman"
+external_url: "https://github.com/imthenachoman"
 category: "Miscellaneous"
 ---

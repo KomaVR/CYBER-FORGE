@@ -8,6 +8,6 @@ curl '{asd,bb}'
 Example: 
 
 "
-url: "https://vuln.live/blog/16"
+external_url: "https://vuln.live/blog/16"
 category: "Web Exploitation"
 ---

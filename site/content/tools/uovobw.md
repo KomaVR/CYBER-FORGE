@@ -1,6 +1,6 @@
 ---
 title: "uovobw"
 description: ""
-url: "https://github.com/uovobw"
+external_url: "https://github.com/uovobw"
 category: "Miscellaneous"
 ---

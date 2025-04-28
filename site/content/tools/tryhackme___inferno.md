@@ -3,6 +3,6 @@ title: "TryHackMe | Inferno"
 description: "
  
 "
-url: "https://tryhackme.com/room/inferno"
+external_url: "https://tryhackme.com/room/inferno"
 category: "Miscellaneous"
 ---

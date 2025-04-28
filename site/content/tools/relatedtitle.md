@@ -1,6 +1,6 @@
 ---
 title: "RelatedTitle"
 description: ""
-url: "https://github.com/RelatedTitle"
+external_url: "https://github.com/RelatedTitle"
 category: "Miscellaneous"
 ---

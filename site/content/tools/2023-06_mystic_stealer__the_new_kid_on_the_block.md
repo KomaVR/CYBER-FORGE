@@ -5,6 +5,6 @@ description: "
 GitHub Hosted Samples
 
 "
-url: "https://inquest.net/blog/2023/06/15/mystic-stealer-new-kid-block"
+external_url: "https://inquest.net/blog/2023/06/15/mystic-stealer-new-kid-block"
 category: "Miscellaneous"
 ---

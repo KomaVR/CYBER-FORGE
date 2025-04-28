@@ -1,6 +1,6 @@
 ---
 title: "cdump"
 description: ""
-url: "https://github.com/cdump"
+external_url: "https://github.com/cdump"
 category: "Miscellaneous"
 ---

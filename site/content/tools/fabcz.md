@@ -1,6 +1,6 @@
 ---
 title: "fabcz"
 description: ""
-url: "https://github.com/fabcz"
+external_url: "https://github.com/fabcz"
 category: "Miscellaneous"
 ---

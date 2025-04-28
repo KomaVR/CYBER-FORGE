@@ -1,6 +1,6 @@
 ---
 title: "vhpcdpgl"
 description: ""
-url: "https://github.com/vhpcdpgl"
+external_url: "https://github.com/vhpcdpgl"
 category: "Miscellaneous"
 ---

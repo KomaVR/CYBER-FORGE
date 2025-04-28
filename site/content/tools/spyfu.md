@@ -1,6 +1,6 @@
 ---
 title: "SpyFu"
 description: ""
-url: "http://www.spyfu.com"
+external_url: "http://www.spyfu.com"
 category: "Miscellaneous"
 ---

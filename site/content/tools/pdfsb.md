@@ -1,6 +1,6 @@
 ---
 title: "PDFSB"
 description: ""
-url: "http://pdfsb.net/"
+external_url: "http://pdfsb.net/"
 category: "Miscellaneous"
 ---

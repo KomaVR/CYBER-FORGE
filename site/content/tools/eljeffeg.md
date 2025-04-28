@@ -1,6 +1,6 @@
 ---
 title: "eljeffeg"
 description: ""
-url: "https://github.com/eljeffeg"
+external_url: "https://github.com/eljeffeg"
 category: "Miscellaneous"
 ---

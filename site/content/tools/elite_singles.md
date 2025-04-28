@@ -1,6 +1,6 @@
 ---
 title: "Elite Singles"
 description: ""
-url: "https://www.elitesingles.com.au/"
+external_url: "https://www.elitesingles.com.au/"
 category: "Miscellaneous"
 ---

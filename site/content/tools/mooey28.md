@@ -1,6 +1,6 @@
 ---
 title: "Mooey28"
 description: ""
-url: "https://github.com/Mooey28"
+external_url: "https://github.com/Mooey28"
 category: "Miscellaneous"
 ---

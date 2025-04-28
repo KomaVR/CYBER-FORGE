@@ -1,6 +1,6 @@
 ---
 title: "CMU 16 745 Optimal Control and Reinforcement Learning spring by Zac Manchester"
 description: ""
-url: "https://www.youtube.com/@roboticexplorationlab3724/playlists"
+external_url: "https://www.youtube.com/@roboticexplorationlab3724/playlists"
 category: "Miscellaneous"
 ---

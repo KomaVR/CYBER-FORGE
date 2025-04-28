@@ -1,6 +1,6 @@
 ---
 title: "roopeshvs"
 description: ""
-url: "https://github.com/roopeshvs"
+external_url: "https://github.com/roopeshvs"
 category: "Miscellaneous"
 ---

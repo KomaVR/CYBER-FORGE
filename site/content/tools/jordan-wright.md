@@ -1,6 +1,6 @@
 ---
 title: "jordan-wright"
 description: ""
-url: "https://github.com/jordan-wright"
+external_url: "https://github.com/jordan-wright"
 category: "Miscellaneous"
 ---

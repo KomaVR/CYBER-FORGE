@@ -1,6 +1,6 @@
 ---
 title: "Kahvi-0"
 description: ""
-url: "https://github.com/Kahvi-0"
+external_url: "https://github.com/Kahvi-0"
 category: "Miscellaneous"
 ---

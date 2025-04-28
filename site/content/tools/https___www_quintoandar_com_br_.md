@@ -1,6 +1,6 @@
 ---
 title: "https://www.quintoandar.com.br/"
 description: ""
-url: "https://www.quintoandar.com.br/"
+external_url: "https://www.quintoandar.com.br/"
 category: "Miscellaneous"
 ---

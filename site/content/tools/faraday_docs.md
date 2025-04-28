@@ -1,6 +1,6 @@
 ---
 title: "Faraday Docs"
 description: "Documentation:"
-url: "https://docs.faradaysec.com"
+external_url: "https://docs.faradaysec.com"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "wmetcalf"
 description: ""
-url: "https://github.com/wmetcalf"
+external_url: "https://github.com/wmetcalf"
 category: "Miscellaneous"
 ---

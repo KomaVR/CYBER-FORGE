@@ -1,6 +1,6 @@
 ---
 title: "misttrack.io"
 description: ""
-url: "https://misttrack.io"
+external_url: "https://misttrack.io"
 category: "Miscellaneous"
 ---

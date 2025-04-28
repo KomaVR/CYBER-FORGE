@@ -11,6 +11,6 @@ Related articles
 
 
 "
-url: "https://www.aware-online.com/en/email-to-flickr-account-part1/"
+external_url: "https://www.aware-online.com/en/email-to-flickr-account-part1/"
 category: "Miscellaneous"
 ---

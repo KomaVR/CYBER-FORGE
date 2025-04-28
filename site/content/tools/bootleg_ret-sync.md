@@ -13,6 +13,6 @@ WinDgb
 x64dbg
 
 "
-url: "https://github.com/bootleg/ret-sync"
+external_url: "https://github.com/bootleg/ret-sync"
 category: "Reverse Engineering"
 ---

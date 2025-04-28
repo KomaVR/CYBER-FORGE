@@ -1,6 +1,6 @@
 ---
 title: "TheDuchy"
 description: ""
-url: "https://github.com/TheDuchy"
+external_url: "https://github.com/TheDuchy"
 category: "Miscellaneous"
 ---

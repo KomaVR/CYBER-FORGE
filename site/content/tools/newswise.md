@@ -1,6 +1,6 @@
 ---
 title: "Newswise"
 description: ""
-url: "http://www.newswise.com"
+external_url: "http://www.newswise.com"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "lgtm-migrator"
 description: ""
-url: "https://github.com/lgtm-migrator"
+external_url: "https://github.com/lgtm-migrator"
 category: "Miscellaneous"
 ---

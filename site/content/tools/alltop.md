@@ -1,6 +1,6 @@
 ---
 title: "Alltop"
 description: ""
-url: "http://alltop.com"
+external_url: "http://alltop.com"
 category: "Miscellaneous"
 ---

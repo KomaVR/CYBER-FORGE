@@ -3,6 +3,6 @@ title: "TryHackMe | Mustacchio"
 description: "
  
 "
-url: "https://tryhackme.com/room/mustacchio"
+external_url: "https://tryhackme.com/room/mustacchio"
 category: "Miscellaneous"
 ---

@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://patreon.com/algovpn"
+external_url: "https://patreon.com/algovpn"
 category: "Miscellaneous"
 ---

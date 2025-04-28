@@ -1,6 +1,6 @@
 ---
 title: "Lorna0"
 description: ""
-url: "https://github.com/Lorna0"
+external_url: "https://github.com/Lorna0"
 category: "Miscellaneous"
 ---

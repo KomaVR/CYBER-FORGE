@@ -1,6 +1,6 @@
 ---
 title: "ImuSpirit"
 description: ""
-url: "https://github.com/ImuSpirit"
+external_url: "https://github.com/ImuSpirit"
 category: "Miscellaneous"
 ---

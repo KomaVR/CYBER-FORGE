@@ -1,6 +1,6 @@
 ---
 title: "gymgit"
 description: ""
-url: "https://github.com/gymgit"
+external_url: "https://github.com/gymgit"
 category: "Miscellaneous"
 ---

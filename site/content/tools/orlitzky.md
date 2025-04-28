@@ -1,6 +1,6 @@
 ---
 title: "orlitzky"
 description: ""
-url: "https://github.com/orlitzky"
+external_url: "https://github.com/orlitzky"
 category: "Miscellaneous"
 ---

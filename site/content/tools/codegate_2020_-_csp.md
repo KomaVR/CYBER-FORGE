@@ -7,6 +7,6 @@ Nginx add_header
 e.g. 
 
 "
-url: "https://balsn.tw/ctf_writeup/20200208-codegatectf2020quals/#csp"
+external_url: "https://balsn.tw/ctf_writeup/20200208-codegatectf2020quals/#csp"
 category: "Miscellaneous"
 ---

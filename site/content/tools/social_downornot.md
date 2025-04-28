@@ -1,6 +1,6 @@
 ---
 title: "Social DownORNot"
 description: ""
-url: "http://social.downornot.com"
+external_url: "http://social.downornot.com"
 category: "Miscellaneous"
 ---

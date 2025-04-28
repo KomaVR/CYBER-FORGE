@@ -1,6 +1,6 @@
 ---
 title: "https://viewdns.info/"
 description: ""
-url: "https://viewdns.info/"
+external_url: "https://viewdns.info/"
 category: "Miscellaneous"
 ---

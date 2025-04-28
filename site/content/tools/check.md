@@ -1,6 +1,6 @@
 ---
 title: "Check"
 description: ""
-url: "https://meedan.com/check"
+external_url: "https://meedan.com/check"
 category: "Miscellaneous"
 ---

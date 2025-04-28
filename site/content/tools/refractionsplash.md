@@ -1,6 +1,6 @@
 ---
 title: "RefractionSplash"
 description: ""
-url: "https://github.com/RefractionSplash"
+external_url: "https://github.com/RefractionSplash"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "viardant"
 description: ""
-url: "https://github.com/viardant"
+external_url: "https://github.com/viardant"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "qqux"
 description: ""
-url: "https://github.com/qqux"
+external_url: "https://github.com/qqux"
 category: "Miscellaneous"
 ---

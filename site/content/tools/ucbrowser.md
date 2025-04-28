@@ -1,6 +1,6 @@
 ---
 title: "UCBrowser"
 description: ""
-url: "http://www.ucweb.com"
+external_url: "http://www.ucweb.com"
 category: "Miscellaneous"
 ---

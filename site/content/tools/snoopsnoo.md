@@ -1,6 +1,6 @@
 ---
 title: "SnoopSnoo"
 description: ""
-url: "http://snoopsnoo.com/"
+external_url: "http://snoopsnoo.com/"
 category: "Miscellaneous"
 ---

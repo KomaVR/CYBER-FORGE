@@ -1,6 +1,6 @@
 ---
 title: "OSCPRepo"
 description: ""
-url: "https://github.com/rewardone/OSCPRepo"
+external_url: "https://github.com/rewardone/OSCPRepo"
 category: "Miscellaneous"
 ---

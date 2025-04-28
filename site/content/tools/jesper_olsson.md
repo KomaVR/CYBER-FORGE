@@ -1,6 +1,6 @@
 ---
 title: "Jesper Olsson"
 description: ""
-url: "https://github.com/jesperolsson-se"
+external_url: "https://github.com/jesperolsson-se"
 category: "Miscellaneous"
 ---

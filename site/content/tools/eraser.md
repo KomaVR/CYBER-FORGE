@@ -1,6 +1,6 @@
 ---
 title: "Eraser"
 description: ""
-url: "http://eraser.heidi.ie"
+external_url: "http://eraser.heidi.ie"
 category: "Miscellaneous"
 ---

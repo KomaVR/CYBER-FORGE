@@ -1,6 +1,6 @@
 ---
 title: "mgunyho"
 description: ""
-url: "https://github.com/mgunyho"
+external_url: "https://github.com/mgunyho"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "iTranslate"
 description: ""
-url: "http://www.itranslateapp.com/"
+external_url: "http://www.itranslateapp.com/"
 category: "Miscellaneous"
 ---

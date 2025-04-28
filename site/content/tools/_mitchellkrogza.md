@@ -3,6 +3,6 @@ title: "@mitchellkrogza"
 description: "
 Mitchell Krog () - Support  on Ko-fi!
 "
-url: "https://github.com/mitchellkrogza"
+external_url: "https://github.com/mitchellkrogza"
 category: "Miscellaneous"
 ---

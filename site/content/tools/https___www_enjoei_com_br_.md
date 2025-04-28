@@ -1,6 +1,6 @@
 ---
 title: "https://www.enjoei.com.br/"
 description: ""
-url: "https://www.enjoei.com.br/"
+external_url: "https://www.enjoei.com.br/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Beyarz"
 description: ""
-url: "https://github.com/Beyarz"
+external_url: "https://github.com/Beyarz"
 category: "Miscellaneous"
 ---

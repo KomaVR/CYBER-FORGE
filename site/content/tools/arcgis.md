@@ -1,6 +1,6 @@
 ---
 title: "ArcGIS"
 description: ""
-url: "https://livingatlas.arcgis.com/en/browse/"
+external_url: "https://livingatlas.arcgis.com/en/browse/"
 category: "Miscellaneous"
 ---

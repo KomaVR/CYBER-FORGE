@@ -1,6 +1,6 @@
 ---
 title: "Halfluke"
 description: ""
-url: "https://github.com/halfluke"
+external_url: "https://github.com/halfluke"
 category: "Miscellaneous"
 ---

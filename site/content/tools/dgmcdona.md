@@ -1,6 +1,6 @@
 ---
 title: "dgmcdona"
 description: ""
-url: "https://github.com/dgmcdona"
+external_url: "https://github.com/dgmcdona"
 category: "Miscellaneous"
 ---

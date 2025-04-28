@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://github.com/javascript-obfuscator/javascript-obfuscator#you-can-support-this-project-by-donating"
+external_url: "https://github.com/javascript-obfuscator/javascript-obfuscator#you-can-support-this-project-by-donating"
 category: "Miscellaneous"
 ---

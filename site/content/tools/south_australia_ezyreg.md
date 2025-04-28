@@ -1,6 +1,6 @@
 ---
 title: "South Australia EzyReg"
 description: "Check you're targets vehicle registration here in the state of SA."
-url: "https://www.ecom.transport.sa.gov.au/et/checkRegistrationExpiryDate.do"
+external_url: "https://www.ecom.transport.sa.gov.au/et/checkRegistrationExpiryDate.do"
 category: "Miscellaneous"
 ---

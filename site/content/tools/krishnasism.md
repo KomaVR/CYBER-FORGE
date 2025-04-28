@@ -1,6 +1,6 @@
 ---
 title: "krishnasism"
 description: ""
-url: "https://github.com/krishnasism"
+external_url: "https://github.com/krishnasism"
 category: "Miscellaneous"
 ---

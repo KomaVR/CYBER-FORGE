@@ -6,6 +6,6 @@ UC San Diego course taught by Deian Stefan
 Covers basic pwn and crypto
 
 "
-url: "https://cseweb.ucsd.edu/~dstefan/cse127-fall21/"
+external_url: "https://cseweb.ucsd.edu/~dstefan/cse127-fall21/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "garethfr"
 description: ""
-url: "https://github.com/garethfr"
+external_url: "https://github.com/garethfr"
 category: "Miscellaneous"
 ---

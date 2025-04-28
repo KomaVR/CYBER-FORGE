@@ -1,6 +1,6 @@
 ---
 title: "engn33r"
 description: ""
-url: "https://github.com/engn33r"
+external_url: "https://github.com/engn33r"
 category: "Miscellaneous"
 ---

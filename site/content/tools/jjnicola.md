@@ -1,6 +1,6 @@
 ---
 title: "jjnicola"
 description: ""
-url: "https://github.com/jjnicola"
+external_url: "https://github.com/jjnicola"
 category: "Miscellaneous"
 ---

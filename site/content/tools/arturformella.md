@@ -1,6 +1,6 @@
 ---
 title: "ArturFormella"
 description: ""
-url: "https://github.com/ArturFormella"
+external_url: "https://github.com/ArturFormella"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Moivre"
 description: "+ TwttrToTG_Bot"
-url: "https://moivre.xyz"
+external_url: "https://moivre.xyz"
 category: "Miscellaneous"
 ---

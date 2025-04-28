@@ -1,6 +1,6 @@
 ---
 title: "moshloop"
 description: ""
-url: "https://github.com/moshloop"
+external_url: "https://github.com/moshloop"
 category: "Miscellaneous"
 ---

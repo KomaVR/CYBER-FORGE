@@ -1,6 +1,6 @@
 ---
 title: "smartcheck"
 description: ""
-url: "https://github.com/smartdec/smartcheck"
+external_url: "https://github.com/smartdec/smartcheck"
 category: "Miscellaneous"
 ---

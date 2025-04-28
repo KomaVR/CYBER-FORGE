@@ -1,6 +1,6 @@
 ---
 title: "gds-domingues"
 description: ""
-url: "https://github.com/gds-domingues"
+external_url: "https://github.com/gds-domingues"
 category: "Miscellaneous"
 ---

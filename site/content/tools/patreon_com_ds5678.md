@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://patreon.com/ds5678"
+external_url: "https://patreon.com/ds5678"
 category: "Miscellaneous"
 ---

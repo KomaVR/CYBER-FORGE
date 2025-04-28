@@ -1,6 +1,6 @@
 ---
 title: "BitMEXResearch"
 description: ""
-url: "https://github.com/BitMEXResearch"
+external_url: "https://github.com/BitMEXResearch"
 category: "Miscellaneous"
 ---

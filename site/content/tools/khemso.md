@@ -1,6 +1,6 @@
 ---
 title: "khemso"
 description: ""
-url: "https://github.com/khemso"
+external_url: "https://github.com/khemso"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "dakaneye"
 description: ""
-url: "https://github.com/dakaneye"
+external_url: "https://github.com/dakaneye"
 category: "Miscellaneous"
 ---

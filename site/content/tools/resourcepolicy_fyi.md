@@ -1,6 +1,6 @@
 ---
 title: "resourcepolicy.fyi"
 description: ""
-url: "https://resourcepolicy.fyi/"
+external_url: "https://resourcepolicy.fyi/"
 category: "Miscellaneous"
 ---

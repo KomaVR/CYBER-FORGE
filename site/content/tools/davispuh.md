@@ -1,6 +1,6 @@
 ---
 title: "davispuh"
 description: ""
-url: "https://github.com/davispuh"
+external_url: "https://github.com/davispuh"
 category: "Miscellaneous"
 ---

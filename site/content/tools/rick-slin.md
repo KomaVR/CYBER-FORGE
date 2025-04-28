@@ -1,6 +1,6 @@
 ---
 title: "rick-slin"
 description: ""
-url: "https://github.com/rick-slin"
+external_url: "https://github.com/rick-slin"
 category: "Miscellaneous"
 ---

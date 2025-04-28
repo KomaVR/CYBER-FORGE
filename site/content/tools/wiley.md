@@ -1,6 +1,6 @@
 ---
 title: "Wiley"
 description: ""
-url: "http://eu.wiley.com"
+external_url: "http://eu.wiley.com"
 category: "Miscellaneous"
 ---

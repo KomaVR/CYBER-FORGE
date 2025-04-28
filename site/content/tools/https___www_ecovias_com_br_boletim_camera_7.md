@@ -5,6 +5,6 @@ description: "BALANCA IMIGRANTES BAIXADA
 
 
 "
-url: "https://www.ecovias.com.br/boletim/camera/7"
+external_url: "https://www.ecovias.com.br/boletim/camera/7"
 category: "Miscellaneous"
 ---

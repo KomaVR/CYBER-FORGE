@@ -1,6 +1,6 @@
 ---
 title: "mjbroekman"
 description: ""
-url: "https://github.com/mjbroekman"
+external_url: "https://github.com/mjbroekman"
 category: "Miscellaneous"
 ---

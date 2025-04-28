@@ -1,6 +1,6 @@
 ---
 title: "mattzcarey"
 description: ""
-url: "https://github.com/mattzcarey"
+external_url: "https://github.com/mattzcarey"
 category: "Miscellaneous"
 ---

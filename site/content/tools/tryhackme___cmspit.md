@@ -3,6 +3,6 @@ title: "TryHackMe | CMSpit"
 description: "
  
 "
-url: "https://tryhackme.com/room/cmspit"
+external_url: "https://tryhackme.com/room/cmspit"
 category: "Miscellaneous"
 ---

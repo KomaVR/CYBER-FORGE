@@ -1,6 +1,6 @@
 ---
 title: "app.blockpour.com"
 description: ""
-url: "https://app.blockpour.com"
+external_url: "https://app.blockpour.com"
 category: "Miscellaneous"
 ---

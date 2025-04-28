@@ -7,6 +7,6 @@ Browser
 LibreWolf Browser
 
 "
-url: "https://github.com/Eloston/ungoogled-chromium"
+external_url: "https://github.com/Eloston/ungoogled-chromium"
 category: "Miscellaneous"
 ---

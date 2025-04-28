@@ -1,6 +1,6 @@
 ---
 title: "Twitter Search"
 description: ""
-url: "http://search.twitter.com/"
+external_url: "http://search.twitter.com/"
 category: "Miscellaneous"
 ---

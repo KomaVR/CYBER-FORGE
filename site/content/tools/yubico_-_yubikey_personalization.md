@@ -1,6 +1,6 @@
 ---
 title: "Yubico - Yubikey Personalization"
 description: ""
-url: "https://developers.yubico.com/yubikey-personalization/"
+external_url: "https://developers.yubico.com/yubikey-personalization/"
 category: "Miscellaneous"
 ---

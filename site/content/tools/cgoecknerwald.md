@@ -1,6 +1,6 @@
 ---
 title: "cgoecknerwald"
 description: ""
-url: "https://github.com/cgoecknerwald"
+external_url: "https://github.com/cgoecknerwald"
 category: "Miscellaneous"
 ---

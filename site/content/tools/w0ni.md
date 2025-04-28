@@ -1,6 +1,6 @@
 ---
 title: "W0ni"
 description: ""
-url: "https://github.com/W0ni"
+external_url: "https://github.com/W0ni"
 category: "Miscellaneous"
 ---

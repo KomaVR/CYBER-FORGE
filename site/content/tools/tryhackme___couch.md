@@ -3,6 +3,6 @@ title: "TryHackMe | Couch"
 description: "
  
 "
-url: "https://tryhackme.com/room/couch"
+external_url: "https://tryhackme.com/room/couch"
 category: "Miscellaneous"
 ---

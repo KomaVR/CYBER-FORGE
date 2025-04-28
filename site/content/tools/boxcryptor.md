@@ -1,6 +1,6 @@
 ---
 title: "boxcryptor"
 description: ""
-url: "https://www.boxcryptor.com"
+external_url: "https://www.boxcryptor.com"
 category: "Miscellaneous"
 ---

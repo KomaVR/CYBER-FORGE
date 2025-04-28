@@ -37,6 +37,6 @@ https://andresriancho.github.io/nimbostratus/
 
 
 "
-url: "http://169.254.169.254/latest/meta-data/"
+external_url: "http://169.254.169.254/latest/meta-data/"
 category: "Web Exploitation"
 ---

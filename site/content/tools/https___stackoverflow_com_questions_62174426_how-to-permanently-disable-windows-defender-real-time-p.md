@@ -8,6 +8,6 @@ Non-GPO - Automated: https://github.com/ionuttbara/windows-defender-remover
 Non-GPO - Semi-Automated (User needs to toggle off Tamper Protection): [https://github.com/AveYo/LeanAndMean/blob/main/ToggleDefender.ps1] (https://github.com/AveYo/LeanAndMean/blob/main/ToggleDefender.ps1)
 
 "
-url: "https://superuser.com/a/1757341"
+external_url: "https://superuser.com/a/1757341"
 category: "Malware Analysis"
 ---

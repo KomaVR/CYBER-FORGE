@@ -1,6 +1,6 @@
 ---
 title: "filesloop"
 description: ""
-url: "https://www.filesloop.com"
+external_url: "https://www.filesloop.com"
 category: "Miscellaneous"
 ---

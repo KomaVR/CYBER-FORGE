@@ -3,6 +3,6 @@ title: "TryHackMe | Ra"
 description: "
  
 "
-url: "https://tryhackme.com/room/ra"
+external_url: "https://tryhackme.com/room/ra"
 category: "Miscellaneous"
 ---

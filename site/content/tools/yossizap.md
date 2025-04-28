@@ -1,6 +1,6 @@
 ---
 title: "yossizap"
 description: ""
-url: "https://github.com/yossizap"
+external_url: "https://github.com/yossizap"
 category: "Web Exploitation"
 ---

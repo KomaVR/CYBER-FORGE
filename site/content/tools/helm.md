@@ -1,6 +1,6 @@
 ---
 title: "Helm"
 description: "Deployment:  + Kubernetes"
-url: "https://helm.sh/"
+external_url: "https://helm.sh/"
 category: "Miscellaneous"
 ---

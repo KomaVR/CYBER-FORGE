@@ -1,6 +1,6 @@
 ---
 title: "Free Map Tools"
 description: ""
-url: "https://www.freemaptools.com"
+external_url: "https://www.freemaptools.com"
 category: "Miscellaneous"
 ---

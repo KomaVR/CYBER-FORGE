@@ -1,6 +1,6 @@
 ---
 title: "Virdoexhunter"
 description: ""
-url: "https://github.com/Virdoexhunter"
+external_url: "https://github.com/Virdoexhunter"
 category: "Miscellaneous"
 ---

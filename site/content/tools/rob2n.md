@@ -1,6 +1,6 @@
 ---
 title: "Rob2n"
 description: ""
-url: "https://github.com/Rob2n"
+external_url: "https://github.com/Rob2n"
 category: "Miscellaneous"
 ---

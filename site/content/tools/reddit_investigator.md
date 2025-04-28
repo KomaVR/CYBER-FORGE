@@ -1,6 +1,6 @@
 ---
 title: "Reddit Investigator"
 description: ""
-url: "http://www.redditinvestigator.com/"
+external_url: "http://www.redditinvestigator.com/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "westonsteimel"
 description: ""
-url: "https://github.com/westonsteimel"
+external_url: "https://github.com/westonsteimel"
 category: "Miscellaneous"
 ---

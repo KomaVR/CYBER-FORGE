@@ -1,6 +1,6 @@
 ---
 title: "https://wiki.teamssix.com/"
 description: ""
-url: "https://wiki.teamssix.com/"
+external_url: "https://wiki.teamssix.com/"
 category: "Miscellaneous"
 ---

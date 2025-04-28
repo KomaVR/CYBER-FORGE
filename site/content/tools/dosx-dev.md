@@ -2,6 +2,6 @@
 title: "DosX-dev"
 description: "DosX-dev
 DosX"
-url: "https://github.com/DosX-dev"
+external_url: "https://github.com/DosX-dev"
 category: "Miscellaneous"
 ---

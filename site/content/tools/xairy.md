@@ -1,6 +1,6 @@
 ---
 title: "xairy"
 description: ""
-url: "https://github.com/xairy"
+external_url: "https://github.com/xairy"
 category: "Miscellaneous"
 ---

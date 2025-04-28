@@ -1,6 +1,6 @@
 ---
 title: "SecMobi Wiki"
 description: "A collection of mobile security resources which including articles, blogs, books, groups, projects, tools and conferences. *"
-url: "http://wiki.secmobi.com/"
+external_url: "http://wiki.secmobi.com/"
 category: "Miscellaneous"
 ---

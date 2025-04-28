@@ -1,6 +1,6 @@
 ---
 title: "SnapChat"
 description: ""
-url: "https://www.snapchat.com/"
+external_url: "https://www.snapchat.com/"
 category: "Miscellaneous"
 ---

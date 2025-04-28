@@ -1,6 +1,6 @@
 ---
 title: "buffermet"
 description: ""
-url: "https://github.com/buffermet"
+external_url: "https://github.com/buffermet"
 category: "Miscellaneous"
 ---

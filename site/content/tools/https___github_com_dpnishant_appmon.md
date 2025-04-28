@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/dpnishant/appmon"
 description: ""
-url: "https://github.com/dpnishant/appmon"
+external_url: "https://github.com/dpnishant/appmon"
 category: "Miscellaneous"
 ---

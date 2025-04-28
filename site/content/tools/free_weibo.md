@@ -1,6 +1,6 @@
 ---
 title: "Free Weibo"
 description: ""
-url: "https://freeweibo.com/"
+external_url: "https://freeweibo.com/"
 category: "Miscellaneous"
 ---

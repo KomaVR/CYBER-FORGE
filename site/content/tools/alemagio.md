@@ -1,6 +1,6 @@
 ---
 title: "alemagio"
 description: ""
-url: "https://github.com/alemagio"
+external_url: "https://github.com/alemagio"
 category: "Miscellaneous"
 ---

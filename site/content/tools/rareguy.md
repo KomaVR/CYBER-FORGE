@@ -1,6 +1,6 @@
 ---
 title: "rareguy"
 description: ""
-url: "https://github.com/rareguy"
+external_url: "https://github.com/rareguy"
 category: "Miscellaneous"
 ---

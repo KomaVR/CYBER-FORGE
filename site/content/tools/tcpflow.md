@@ -1,6 +1,6 @@
 ---
 title: "tcpflow"
 description: "is a program that captures data transmitted as part of TCP connections (flows), and stores the data in a way that is convenient for protocol analysis and debugging. Each TCP flow is stored in its own file. Thus, the typical TCP flow will be stored in two files, one for each direction.  can also process stored 'tcpdump' packet flows."
-url: "https://github.com/simsong/tcpflow"
+external_url: "https://github.com/simsong/tcpflow"
 category: "Reverse Engineering"
 ---

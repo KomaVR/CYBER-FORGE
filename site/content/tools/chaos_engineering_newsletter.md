@@ -1,6 +1,6 @@
 ---
 title: "Chaos Engineering Newsletter"
 description: ""
-url: "https://chaosengineering.news/"
+external_url: "https://chaosengineering.news/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Usage"
 description: ""
-url: "https://github.com/stuxnet999/MemLabs#usage"
+external_url: "https://github.com/stuxnet999/MemLabs#usage"
 category: "Miscellaneous"
 ---

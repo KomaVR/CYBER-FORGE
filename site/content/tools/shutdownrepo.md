@@ -1,6 +1,6 @@
 ---
 title: "ShutdownRepo"
 description: ""
-url: "https://github.com/ShutdownRepo"
+external_url: "https://github.com/ShutdownRepo"
 category: "Miscellaneous"
 ---

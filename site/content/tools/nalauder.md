@@ -1,6 +1,6 @@
 ---
 title: "nalauder"
 description: ""
-url: "https://github.com/nalauder"
+external_url: "https://github.com/nalauder"
 category: "Miscellaneous"
 ---

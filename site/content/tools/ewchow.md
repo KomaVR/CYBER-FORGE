@@ -1,6 +1,6 @@
 ---
 title: "ewchow"
 description: ""
-url: "https://github.com/ewchow"
+external_url: "https://github.com/ewchow"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "OpenLayers"
 description: ""
-url: "http://openlayers.org"
+external_url: "http://openlayers.org"
 category: "Miscellaneous"
 ---

@@ -4,6 +4,6 @@ description: "
 People tracer,
  
 "
-url: "http://www.peopletracer.co.uk"
+external_url: "http://www.peopletracer.co.uk"
 category: "Miscellaneous"
 ---

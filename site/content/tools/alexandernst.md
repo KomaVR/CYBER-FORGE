@@ -1,6 +1,6 @@
 ---
 title: "alexandernst"
 description: ""
-url: "https://github.com/alexandernst"
+external_url: "https://github.com/alexandernst"
 category: "Miscellaneous"
 ---

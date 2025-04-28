@@ -1,6 +1,6 @@
 ---
 title: "LandMatrix"
 description: ""
-url: "http://landmatrix.org"
+external_url: "http://landmatrix.org"
 category: "Miscellaneous"
 ---

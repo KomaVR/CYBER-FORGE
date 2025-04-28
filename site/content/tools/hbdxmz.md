@@ -1,6 +1,6 @@
 ---
 title: "hbdxmz"
 description: ""
-url: "https://github.com/hbdxmz"
+external_url: "https://github.com/hbdxmz"
 category: "Miscellaneous"
 ---

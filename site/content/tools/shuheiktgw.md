@@ -1,6 +1,6 @@
 ---
 title: "shuheiktgw"
 description: ""
-url: "https://github.com/shuheiktgw"
+external_url: "https://github.com/shuheiktgw"
 category: "Miscellaneous"
 ---

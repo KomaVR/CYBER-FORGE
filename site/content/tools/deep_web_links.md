@@ -1,6 +1,6 @@
 ---
 title: "Deep Web Links"
 description: ""
-url: "https://thehiddenwiki.org"
+external_url: "https://thehiddenwiki.org"
 category: "Web Exploitation"
 ---

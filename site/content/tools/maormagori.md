@@ -1,6 +1,6 @@
 ---
 title: "maormagori"
 description: ""
-url: "https://github.com/maormagori"
+external_url: "https://github.com/maormagori"
 category: "Miscellaneous"
 ---

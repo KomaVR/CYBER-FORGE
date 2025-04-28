@@ -1,6 +1,6 @@
 ---
 title: "AidData"
 description: ""
-url: "http://aiddata.org"
+external_url: "http://aiddata.org"
 category: "Miscellaneous"
 ---

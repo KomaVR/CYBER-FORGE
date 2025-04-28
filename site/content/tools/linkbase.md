@@ -1,6 +1,6 @@
 ---
 title: "LinkBase"
 description: ""
-url: "https://link-base.org/"
+external_url: "https://link-base.org/"
 category: "Miscellaneous"
 ---

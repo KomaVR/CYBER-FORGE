@@ -1,6 +1,6 @@
 ---
 title: "https://sicg.iphan.gov.br/sicg/pesquisarBem"
 description: ""
-url: "https://sicg.iphan.gov.br/sicg/pesquisarBem"
+external_url: "https://sicg.iphan.gov.br/sicg/pesquisarBem"
 category: "Miscellaneous"
 ---

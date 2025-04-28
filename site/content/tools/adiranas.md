@@ -1,6 +1,6 @@
 ---
 title: "adiranas"
 description: ""
-url: "https://github.com/adiranas"
+external_url: "https://github.com/adiranas"
 category: "Miscellaneous"
 ---

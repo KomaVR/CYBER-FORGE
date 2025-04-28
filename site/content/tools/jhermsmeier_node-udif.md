@@ -7,6 +7,6 @@ nlitsme/encrypteddmg
 darlinghq/darling-dmg
 
 "
-url: "https://github.com/jhermsmeier/node-udif"
+external_url: "https://github.com/jhermsmeier/node-udif"
 category: "Miscellaneous"
 ---

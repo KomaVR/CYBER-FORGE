@@ -1,6 +1,6 @@
 ---
 title: "Chris-Ju"
 description: ""
-url: "https://github.com/Chris-Ju"
+external_url: "https://github.com/Chris-Ju"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "KeywordTool"
 description: ""
-url: "http://keywordtool.io"
+external_url: "http://keywordtool.io"
 category: "Miscellaneous"
 ---

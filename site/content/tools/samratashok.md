@@ -1,6 +1,6 @@
 ---
 title: "samratashok"
 description: ""
-url: "https://github.com/samratashok"
+external_url: "https://github.com/samratashok"
 category: "Miscellaneous"
 ---

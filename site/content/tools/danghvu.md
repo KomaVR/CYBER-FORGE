@@ -1,6 +1,6 @@
 ---
 title: "danghvu"
 description: ""
-url: "https://github.com/danghvu"
+external_url: "https://github.com/danghvu"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "humurabbi"
 description: ""
-url: "https://github.com/humurabbi"
+external_url: "https://github.com/humurabbi"
 category: "Miscellaneous"
 ---

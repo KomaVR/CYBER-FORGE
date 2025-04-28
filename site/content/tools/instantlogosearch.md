@@ -1,6 +1,6 @@
 ---
 title: "InstantLogoSearch"
 description: ""
-url: "http://instantlogosearch.com/"
+external_url: "http://instantlogosearch.com/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "CryptoShine Twitter"
 description: ""
-url: "https://twitter.com/CryptoShine"
+external_url: "https://twitter.com/CryptoShine"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "IgorEisberg"
 description: ""
-url: "https://github.com/IgorEisberg"
+external_url: "https://github.com/IgorEisberg"
 category: "Miscellaneous"
 ---

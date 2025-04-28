@@ -1,6 +1,6 @@
 ---
 title: "Dupli Checker"
 description: "You can search for an image by uploading + with URL or typing the keyword or any word you want to explore related to images."
-url: "https://www.duplichecker.com/reverse-image-search.php"
+external_url: "https://www.duplichecker.com/reverse-image-search.php"
 category: "Miscellaneous"
 ---

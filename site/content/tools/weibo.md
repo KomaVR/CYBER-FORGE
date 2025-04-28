@@ -1,6 +1,6 @@
 ---
 title: "Weibo"
 description: ""
-url: "https://weibo.com/"
+external_url: "https://weibo.com/"
 category: "Miscellaneous"
 ---

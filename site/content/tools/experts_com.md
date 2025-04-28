@@ -1,6 +1,6 @@
 ---
 title: "Experts.com"
 description: ""
-url: "http://www.experts.com"
+external_url: "http://www.experts.com"
 category: "Miscellaneous"
 ---

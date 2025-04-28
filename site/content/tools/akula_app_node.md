@@ -1,6 +1,6 @@
 ---
 title: "akula.app Node"
 description: ""
-url: "https://akula.app"
+external_url: "https://akula.app"
 category: "Miscellaneous"
 ---

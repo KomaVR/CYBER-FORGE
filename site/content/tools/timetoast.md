@@ -1,6 +1,6 @@
 ---
 title: "Timetoast"
 description: ""
-url: "http://www.timetoast.com"
+external_url: "http://www.timetoast.com"
 category: "Miscellaneous"
 ---

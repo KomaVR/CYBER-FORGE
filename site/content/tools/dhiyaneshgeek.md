@@ -1,6 +1,6 @@
 ---
 title: "DhiyaneshGeek"
 description: ""
-url: "https://github.com/DhiyaneshGeek"
+external_url: "https://github.com/DhiyaneshGeek"
 category: "Miscellaneous"
 ---

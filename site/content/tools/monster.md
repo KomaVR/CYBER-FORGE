@@ -1,6 +1,6 @@
 ---
 title: "Monster"
 description: ""
-url: "http://www.monster.com"
+external_url: "http://www.monster.com"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Carbylamine"
 description: ""
-url: "https://code.google.com/p/carbylamine/"
+external_url: "https://code.google.com/p/carbylamine/"
 category: "Miscellaneous"
 ---

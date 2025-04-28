@@ -8,6 +8,6 @@ Copy the value in the Cookie Value field in .env file.
 If you have Plus subscription you can use GPT4. Edit in .env file this line : USE_GPT4 = True
 
 "
-url: "https://chat.openai.com/chat"
+external_url: "https://chat.openai.com/chat"
 category: "Miscellaneous"
 ---

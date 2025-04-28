@@ -1,6 +1,6 @@
 ---
 title: "wand3rlust"
 description: ""
-url: "https://github.com/wand3rlust"
+external_url: "https://github.com/wand3rlust"
 category: "Miscellaneous"
 ---

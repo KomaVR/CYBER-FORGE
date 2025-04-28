@@ -1,6 +1,6 @@
 ---
 title: "Crytome"
 description: ""
-url: "https://cryptome.org/"
+external_url: "https://cryptome.org/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "EnricoMonese"
 description: ""
-url: "https://github.com/EnricoMonese"
+external_url: "https://github.com/EnricoMonese"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Flight Aware"
 description: ""
-url: "http://flightaware.com/"
+external_url: "http://flightaware.com/"
 category: "Miscellaneous"
 ---

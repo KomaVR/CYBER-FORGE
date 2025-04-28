@@ -1,6 +1,6 @@
 ---
 title: "scove"
 description: ""
-url: "https://github.com/scove"
+external_url: "https://github.com/scove"
 category: "Miscellaneous"
 ---

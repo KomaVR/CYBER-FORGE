@@ -1,6 +1,6 @@
 ---
 title: "admin-panel-finder"
 description: "A Python Script to find admin panel of a site."
-url: "https://github.com/bdblackhat/admin-panel-finder"
+external_url: "https://github.com/bdblackhat/admin-panel-finder"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "pwndbg"
 description: ""
-url: "https://github.com/pwndbg/pwndbg"
+external_url: "https://github.com/pwndbg/pwndbg"
 category: "Miscellaneous"
 ---

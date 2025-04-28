@@ -1,6 +1,6 @@
 ---
 title: "Deltafeed"
 description: ""
-url: "http://bitreading.com/deltafeed"
+external_url: "http://bitreading.com/deltafeed"
 category: "Miscellaneous"
 ---

@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://issuehunt.io/r/noraj"
+external_url: "https://issuehunt.io/r/noraj"
 category: "Miscellaneous"
 ---

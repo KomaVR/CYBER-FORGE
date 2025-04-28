@@ -1,6 +1,6 @@
 ---
 title: "https://beginners.re/"
 description: ""
-url: "https://beginners.re/"
+external_url: "https://beginners.re/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "sibrcode"
 description: ""
-url: "https://github.com/sibrcode"
+external_url: "https://github.com/sibrcode"
 category: "Miscellaneous"
 ---

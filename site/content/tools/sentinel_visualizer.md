@@ -1,6 +1,6 @@
 ---
 title: "Sentinel Visualizer"
 description: ""
-url: "http://www.fmsasg.com"
+external_url: "http://www.fmsasg.com"
 category: "Miscellaneous"
 ---

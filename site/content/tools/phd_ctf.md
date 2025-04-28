@@ -1,6 +1,6 @@
 ---
 title: "PHD CTF"
 description: ""
-url: "http://www.phdays.com/"
+external_url: "http://www.phdays.com/"
 category: "Miscellaneous"
 ---

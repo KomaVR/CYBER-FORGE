@@ -1,6 +1,6 @@
 ---
 title: "BarakAharoni"
 description: ""
-url: "https://github.com/BarakAharoni"
+external_url: "https://github.com/BarakAharoni"
 category: "Miscellaneous"
 ---

@@ -2,6 +2,6 @@
 title: "Maldoc templates for the week of Nov 30 - Dec 04"
 description: "2020-12-05: 
 "
-url: "https://github.com/jstrosch/malware-samples/tree/master/maldoc_templates/2020/abuse_ch/week49_Nov30-Dec04"
+external_url: "https://github.com/jstrosch/malware-samples/tree/master/maldoc_templates/2020/abuse_ch/week49_Nov30-Dec04"
 category: "Miscellaneous"
 ---

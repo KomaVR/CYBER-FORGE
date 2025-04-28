@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/mostaphabahadou/postenum"
 description: ""
-url: "https://github.com/mostaphabahadou/postenum"
+external_url: "https://github.com/mostaphabahadou/postenum"
 category: "Miscellaneous"
 ---

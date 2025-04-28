@@ -1,6 +1,6 @@
 ---
 title: "0ssigeno"
 description: ""
-url: "https://github.com/0ssigeno"
+external_url: "https://github.com/0ssigeno"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "zettablock.com"
 description: ""
-url: "https://www.zettablock.com"
+external_url: "https://www.zettablock.com"
 category: "Miscellaneous"
 ---

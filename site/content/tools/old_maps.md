@@ -1,6 +1,6 @@
 ---
 title: "Old Maps"
 description: ""
-url: "http://www.oldmapsonline.org"
+external_url: "http://www.oldmapsonline.org"
 category: "Miscellaneous"
 ---

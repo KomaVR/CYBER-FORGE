@@ -1,6 +1,6 @@
 ---
 title: "Bert-JanP"
 description: ""
-url: "https://github.com/Bert-JanP"
+external_url: "https://github.com/Bert-JanP"
 category: "Miscellaneous"
 ---

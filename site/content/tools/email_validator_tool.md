@@ -1,6 +1,6 @@
 ---
 title: "Email Validator Tool"
 description: ""
-url: "http://e-mailvalidator.com/"
+external_url: "http://e-mailvalidator.com/"
 category: "Miscellaneous"
 ---

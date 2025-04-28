@@ -1,6 +1,6 @@
 ---
 title: "jpleasu"
 description: ""
-url: "https://github.com/jpleasu"
+external_url: "https://github.com/jpleasu"
 category: "Miscellaneous"
 ---

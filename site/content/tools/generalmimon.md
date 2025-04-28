@@ -1,6 +1,6 @@
 ---
 title: "generalmimon"
 description: ""
-url: "https://github.com/generalmimon"
+external_url: "https://github.com/generalmimon"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "jekil"
 description: ""
-url: "https://github.com/jekil"
+external_url: "https://github.com/jekil"
 category: "Miscellaneous"
 ---

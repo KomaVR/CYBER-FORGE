@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://patreon.com/evilsocket"
+external_url: "https://patreon.com/evilsocket"
 category: "Black Hat Tools"
 ---

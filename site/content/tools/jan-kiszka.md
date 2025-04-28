@@ -1,6 +1,6 @@
 ---
 title: "jan-kiszka"
 description: ""
-url: "https://github.com/jan-kiszka"
+external_url: "https://github.com/jan-kiszka"
 category: "Miscellaneous"
 ---

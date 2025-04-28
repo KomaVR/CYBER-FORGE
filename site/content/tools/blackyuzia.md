@@ -1,6 +1,6 @@
 ---
 title: "BlackYuzia"
 description: ""
-url: "https://github.com/BlackYuzia"
+external_url: "https://github.com/BlackYuzia"
 category: "Miscellaneous"
 ---

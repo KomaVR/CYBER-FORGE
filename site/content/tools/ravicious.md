@@ -1,6 +1,6 @@
 ---
 title: "ravicious"
 description: ""
-url: "https://github.com/ravicious"
+external_url: "https://github.com/ravicious"
 category: "Miscellaneous"
 ---

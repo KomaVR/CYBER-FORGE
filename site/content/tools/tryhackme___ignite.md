@@ -3,6 +3,6 @@ title: "TryHackMe | Ignite"
 description: "
  
 "
-url: "https://tryhackme.com/room/ignite"
+external_url: "https://tryhackme.com/room/ignite"
 category: "Miscellaneous"
 ---

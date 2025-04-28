@@ -1,6 +1,6 @@
 ---
 title: "Binary Ninja"
 description: "Binary analysis framework."
-url: "https://binary.ninja/"
+external_url: "https://binary.ninja/"
 category: "Reverse Engineering"
 ---

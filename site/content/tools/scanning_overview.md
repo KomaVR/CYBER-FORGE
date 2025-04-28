@@ -16,6 +16,6 @@ Advanced Usage
 Configuration
 
 "
-url: "https://www.blacklanternsecurity.com/bbot/Stable/scanning/"
+external_url: "https://www.blacklanternsecurity.com/bbot/Stable/scanning/"
 category: "Miscellaneous"
 ---

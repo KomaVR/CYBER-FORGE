@@ -8,7 +8,7 @@ description: "
 
 
 "
-url: "https://afdian.net/@ascotbe"
+external_url: "https://afdian.net/@ascotbe"
 category: "Miscellaneous"
 ---
 

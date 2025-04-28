@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://patreon.com/dragokas"
+external_url: "https://patreon.com/dragokas"
 category: "Miscellaneous"
 ---

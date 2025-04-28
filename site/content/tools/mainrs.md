@@ -1,6 +1,6 @@
 ---
 title: "mainrs"
 description: ""
-url: "https://github.com/mainrs"
+external_url: "https://github.com/mainrs"
 category: "Miscellaneous"
 ---

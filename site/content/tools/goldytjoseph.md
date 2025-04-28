@@ -1,6 +1,6 @@
 ---
 title: "goldytjoseph"
 description: ""
-url: "https://github.com/goldytjoseph"
+external_url: "https://github.com/goldytjoseph"
 category: "Miscellaneous"
 ---

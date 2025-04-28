@@ -1,6 +1,6 @@
 ---
 title: "shirishupadhyay"
 description: ""
-url: "https://github.com/shirishupadhyay"
+external_url: "https://github.com/shirishupadhyay"
 category: "Miscellaneous"
 ---

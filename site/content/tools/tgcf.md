@@ -1,6 +1,6 @@
 ---
 title: "TGCF"
 description: ""
-url: "https://github.com/aahnik/tgcf"
+external_url: "https://github.com/aahnik/tgcf"
 category: "Miscellaneous"
 ---

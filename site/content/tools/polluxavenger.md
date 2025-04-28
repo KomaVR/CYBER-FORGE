@@ -1,6 +1,6 @@
 ---
 title: "PolluxAvenger"
 description: ""
-url: "https://github.com/PolluxAvenger"
+external_url: "https://github.com/PolluxAvenger"
 category: "Miscellaneous"
 ---

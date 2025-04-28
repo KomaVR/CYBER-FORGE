@@ -1,6 +1,6 @@
 ---
 title: "@nikossyr"
 description: "Greek translation"
-url: "https://github.com/nikossyr"
+external_url: "https://github.com/nikossyr"
 category: "Miscellaneous"
 ---

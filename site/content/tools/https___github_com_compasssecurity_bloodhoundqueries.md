@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/CompassSecurity/BloodHoundQueries"
 description: ""
-url: "https://github.com/CompassSecurity/BloodHoundQueries"
+external_url: "https://github.com/CompassSecurity/BloodHoundQueries"
 category: "Miscellaneous"
 ---

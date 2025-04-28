@@ -7,6 +7,6 @@ PHP混淆 / 加密
 http://www.phpjm.net/
 
 "
-url: "http://enphp.djunny.com/"
+external_url: "http://enphp.djunny.com/"
 category: "Miscellaneous"
 ---

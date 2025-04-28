@@ -1,6 +1,6 @@
 ---
 title: "Polygonscan"
 description: ""
-url: "https://polygonscan.com/"
+external_url: "https://polygonscan.com/"
 category: "Miscellaneous"
 ---

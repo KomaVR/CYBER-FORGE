@@ -1,6 +1,6 @@
 ---
 title: "SnoopStation"
 description: ""
-url: "http://snoopstation.com/"
+external_url: "http://snoopstation.com/"
 category: "Miscellaneous"
 ---

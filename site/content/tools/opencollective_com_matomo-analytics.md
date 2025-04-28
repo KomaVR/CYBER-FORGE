@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://opencollective.com/matomo-analytics"
+external_url: "https://opencollective.com/matomo-analytics"
 category: "Miscellaneous"
 ---

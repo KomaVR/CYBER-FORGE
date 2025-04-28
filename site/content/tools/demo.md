@@ -11,6 +11,6 @@ You can then add padding at the start of the code (based on the difference betwe
 
 
 "
-url: "https://www.youtube.com/watch?v=MSy0rdi1vbo&ab_channel=BenGreenberg"
+external_url: "https://www.youtube.com/watch?v=MSy0rdi1vbo&ab_channel=BenGreenberg"
 category: "Reverse Engineering"
 ---

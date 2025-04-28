@@ -1,6 +1,6 @@
 ---
 title: "CLEANLY ESCAPING THE CHROME SANDBOX"
 description: "Written by @tjbecker_."
-url: "https://theori.io/research/escaping-chrome-sandbox"
+external_url: "https://theori.io/research/escaping-chrome-sandbox"
 category: "Malware Analysis"
 ---

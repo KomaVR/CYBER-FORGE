@@ -1,6 +1,6 @@
 ---
 title: "nlachfr"
 description: ""
-url: "https://github.com/nlachfr"
+external_url: "https://github.com/nlachfr"
 category: "Miscellaneous"
 ---

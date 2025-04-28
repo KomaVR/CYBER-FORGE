@@ -1,6 +1,6 @@
 ---
 title: "https://www.qualoperadora.net/"
 description: ""
-url: "https://www.qualoperadora.net/"
+external_url: "https://www.qualoperadora.net/"
 category: "Miscellaneous"
 ---

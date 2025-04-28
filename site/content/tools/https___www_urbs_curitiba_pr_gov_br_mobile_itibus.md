@@ -8,6 +8,6 @@ Linhas, rotas de ônibus, posição de pontos e veículos
 https://urbs.curitiba.pr.gov.br/horario-de-onibus
 
 "
-url: "https://www.urbs.curitiba.pr.gov.br/mobile/itibus"
+external_url: "https://www.urbs.curitiba.pr.gov.br/mobile/itibus"
 category: "Miscellaneous"
 ---

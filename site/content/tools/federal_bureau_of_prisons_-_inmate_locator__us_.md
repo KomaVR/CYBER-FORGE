@@ -1,6 +1,6 @@
 ---
 title: "Federal Bureau of Prisons - Inmate Locator (US)"
 description: ""
-url: "http://www.bop.gov/inmateloc"
+external_url: "http://www.bop.gov/inmateloc"
 category: "Miscellaneous"
 ---

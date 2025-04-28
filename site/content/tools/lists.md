@@ -1,6 +1,6 @@
 ---
 title: "lists"
 description: ""
-url: "https://github.com/jnv/lists"
+external_url: "https://github.com/jnv/lists"
 category: "Miscellaneous"
 ---

@@ -9,6 +9,6 @@ Multi-issuer fallback
 Encrypted ClientHello (ECH) support
 
 "
-url: "https://zerossl.com"
+external_url: "https://zerossl.com"
 category: "Miscellaneous"
 ---

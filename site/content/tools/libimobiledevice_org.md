@@ -8,6 +8,6 @@ hack-different/python-libimobiledevice
 doronz88/pymobiledevice3
 
 "
-url: "https://libimobiledevice.org"
+external_url: "https://libimobiledevice.org"
 category: "Miscellaneous"
 ---

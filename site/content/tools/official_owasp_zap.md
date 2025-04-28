@@ -1,6 +1,6 @@
 ---
 title: "official OWASP ZAP"
 description: "docker pull owasp/zap2docker-stable"
-url: "https://github.com/zaproxy/zaproxy"
+external_url: "https://github.com/zaproxy/zaproxy"
 category: "Web Exploitation"
 ---

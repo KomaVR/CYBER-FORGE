@@ -21,6 +21,6 @@ Timers
 
 
 "
-url: "https://sn0int.readthedocs.io/en/latest/notifications.html"
+external_url: "https://sn0int.readthedocs.io/en/latest/notifications.html"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "EdwardLarson"
 description: ""
-url: "https://github.com/EdwardLarson"
+external_url: "https://github.com/EdwardLarson"
 category: "Miscellaneous"
 ---

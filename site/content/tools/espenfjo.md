@@ -1,6 +1,6 @@
 ---
 title: "espenfjo"
 description: ""
-url: "https://github.com/espenfjo"
+external_url: "https://github.com/espenfjo"
 category: "Miscellaneous"
 ---

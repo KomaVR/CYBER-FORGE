@@ -1,6 +1,6 @@
 ---
 title: "European Business Register"
 description: ""
-url: "http://www.ebr.org"
+external_url: "http://www.ebr.org"
 category: "Miscellaneous"
 ---

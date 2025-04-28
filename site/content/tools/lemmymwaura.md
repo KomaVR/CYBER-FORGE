@@ -1,6 +1,6 @@
 ---
 title: "LemmyMwaura"
 description: ""
-url: "https://github.com/LemmyMwaura"
+external_url: "https://github.com/LemmyMwaura"
 category: "Miscellaneous"
 ---

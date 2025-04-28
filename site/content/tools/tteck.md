@@ -1,6 +1,6 @@
 ---
 title: "tteck"
 description: ""
-url: "https://github.com/tteck"
+external_url: "https://github.com/tteck"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Yahoo Answers"
 description: ""
-url: "http://answers.yahoo.com"
+external_url: "http://answers.yahoo.com"
 category: "Miscellaneous"
 ---

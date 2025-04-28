@@ -5,6 +5,6 @@ description: "PowerShell
  - PowerShell logging deep dive from different perspectives by Mina Hao.
 
 "
-url: "https://nsfocusglobal.com/attack-and-defense-around-powershell-event-logging/"
+external_url: "https://nsfocusglobal.com/attack-and-defense-around-powershell-event-logging/"
 category: "Miscellaneous"
 ---

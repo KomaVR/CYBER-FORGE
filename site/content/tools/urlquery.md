@@ -1,6 +1,6 @@
 ---
 title: "urlQuery"
 description: ""
-url: "http://urlquery.net"
+external_url: "http://urlquery.net"
 category: "Miscellaneous"
 ---

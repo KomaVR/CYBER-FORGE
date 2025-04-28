@@ -5,6 +5,6 @@ description: "
 Flightradar24 — how it works? / Habr
 
 "
-url: "https://www.flightradar24.com/"
+external_url: "https://www.flightradar24.com/"
 category: "Miscellaneous"
 ---

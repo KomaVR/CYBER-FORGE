@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/HadessCS/Red-team-Interview-Questions"
 description: ""
-url: "https://github.com/HadessCS/Red-team-Interview-Questions"
+external_url: "https://github.com/HadessCS/Red-team-Interview-Questions"
 category: "Miscellaneous"
 ---

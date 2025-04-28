@@ -1,6 +1,6 @@
 ---
 title: "hsudhof"
 description: ""
-url: "https://github.com/hsudhof"
+external_url: "https://github.com/hsudhof"
 category: "Miscellaneous"
 ---

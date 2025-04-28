@@ -1,6 +1,6 @@
 ---
 title: "afaal"
 description: ""
-url: "https://github.com/afaal"
+external_url: "https://github.com/afaal"
 category: "Miscellaneous"
 ---

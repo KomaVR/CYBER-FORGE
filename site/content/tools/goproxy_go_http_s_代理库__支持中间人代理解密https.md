@@ -1,6 +1,6 @@
 ---
 title: "goproxy：Go HTTP(S)代理库, 支持中间人代理解密HTTPS"
 description: ""
-url: "https://github.com/ouqiang/goproxy"
+external_url: "https://github.com/ouqiang/goproxy"
 category: "Miscellaneous"
 ---

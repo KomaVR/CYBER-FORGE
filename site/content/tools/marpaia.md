@@ -1,6 +1,6 @@
 ---
 title: "marpaia"
 description: ""
-url: "https://github.com/marpaia"
+external_url: "https://github.com/marpaia"
 category: "Miscellaneous"
 ---

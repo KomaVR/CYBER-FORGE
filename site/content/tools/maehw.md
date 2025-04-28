@@ -1,6 +1,6 @@
 ---
 title: "maehw"
 description: ""
-url: "https://github.com/maehw"
+external_url: "https://github.com/maehw"
 category: "Miscellaneous"
 ---

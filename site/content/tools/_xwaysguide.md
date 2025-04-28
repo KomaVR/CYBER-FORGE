@@ -1,6 +1,6 @@
 ---
 title: "@XWaysGuide"
 description: ""
-url: "https://twitter.com/XWaysGuide"
+external_url: "https://twitter.com/XWaysGuide"
 category: "Miscellaneous"
 ---

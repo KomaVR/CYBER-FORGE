@@ -1,6 +1,6 @@
 ---
 title: "defi-lab.xyz"
 description: ""
-url: "https://defi-lab.xyz"
+external_url: "https://defi-lab.xyz"
 category: "Miscellaneous"
 ---

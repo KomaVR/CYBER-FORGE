@@ -1,6 +1,6 @@
 ---
 title: "honavar-sohan"
 description: ""
-url: "https://github.com/honavar-sohan"
+external_url: "https://github.com/honavar-sohan"
 category: "Miscellaneous"
 ---

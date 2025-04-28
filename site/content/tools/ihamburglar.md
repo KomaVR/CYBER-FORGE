@@ -1,6 +1,6 @@
 ---
 title: "ihamburglar"
 description: ""
-url: "https://github.com/ihamburglar"
+external_url: "https://github.com/ihamburglar"
 category: "Miscellaneous"
 ---

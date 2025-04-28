@@ -1,6 +1,6 @@
 ---
 title: "Enyby"
 description: ""
-url: "https://github.com/Enyby"
+external_url: "https://github.com/Enyby"
 category: "Miscellaneous"
 ---

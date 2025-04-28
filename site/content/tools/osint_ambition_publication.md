@@ -1,6 +1,6 @@
 ---
 title: "OSINT Ambition Publication"
 description: ""
-url: "https://publication.osintambition.org/"
+external_url: "https://publication.osintambition.org/"
 category: "OSINT & Recon"
 ---

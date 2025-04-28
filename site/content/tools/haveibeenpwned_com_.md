@@ -1,6 +1,6 @@
 ---
 title: "haveibeenpwned.com/"
 description: "search for mail in databreach"
-url: "http://haveibeenpwned.com/"
+external_url: "http://haveibeenpwned.com/"
 category: "Miscellaneous"
 ---

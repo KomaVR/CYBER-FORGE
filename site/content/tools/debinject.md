@@ -1,6 +1,6 @@
 ---
 title: "Debinject"
 description: ""
-url: "https://github.com/UndeadSec/Debinject"
+external_url: "https://github.com/UndeadSec/Debinject"
 category: "Miscellaneous"
 ---

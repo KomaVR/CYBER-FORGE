@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/jiansiting/Decryption-Tools"
 description: ""
-url: "https://github.com/jiansiting/Decryption-Tools"
+external_url: "https://github.com/jiansiting/Decryption-Tools"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "besendorf"
 description: ""
-url: "https://github.com/besendorf"
+external_url: "https://github.com/besendorf"
 category: "Miscellaneous"
 ---

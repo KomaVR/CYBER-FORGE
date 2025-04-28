@@ -1,6 +1,6 @@
 ---
 title: "Privazer"
 description: ""
-url: "http://privazer.com"
+external_url: "http://privazer.com"
 category: "Miscellaneous"
 ---

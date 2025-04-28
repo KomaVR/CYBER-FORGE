@@ -1,6 +1,6 @@
 ---
 title: "peret"
 description: ""
-url: "https://github.com/peret"
+external_url: "https://github.com/peret"
 category: "Miscellaneous"
 ---

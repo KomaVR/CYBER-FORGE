@@ -1,6 +1,6 @@
 ---
 title: "tryethernal.com"
 description: ""
-url: "https://tryethernal.com"
+external_url: "https://tryethernal.com"
 category: "Miscellaneous"
 ---

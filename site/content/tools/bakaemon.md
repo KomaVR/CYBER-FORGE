@@ -1,6 +1,6 @@
 ---
 title: "bakaemon"
 description: "bakaemon"
-url: "https://github.com/bakaemon"
+external_url: "https://github.com/bakaemon"
 category: "Miscellaneous"
 ---

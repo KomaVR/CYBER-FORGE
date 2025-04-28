@@ -1,6 +1,6 @@
 ---
 title: "wagonza"
 description: ""
-url: "https://github.com/wagonza"
+external_url: "https://github.com/wagonza"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "ropnop"
 description: "windapsearch, kerbrute"
-url: "https://github.com/ropnop"
+external_url: "https://github.com/ropnop"
 category: "Miscellaneous"
 ---

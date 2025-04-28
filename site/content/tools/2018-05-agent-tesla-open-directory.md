@@ -9,6 +9,6 @@ Agent Tesla Payload 3: EXE
 Web Panel: ZIP
 
 "
-url: "https://inquest.net/2018/05/22/field-notes-agent-tesla-open-directory"
+external_url: "https://inquest.net/2018/05/22/field-notes-agent-tesla-open-directory"
 category: "Black Hat Tools"
 ---

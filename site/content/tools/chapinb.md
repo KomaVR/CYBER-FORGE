@@ -1,6 +1,6 @@
 ---
 title: "chapinb"
 description: ""
-url: "https://github.com/chapinb"
+external_url: "https://github.com/chapinb"
 category: "Miscellaneous"
 ---

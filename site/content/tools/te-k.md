@@ -1,6 +1,6 @@
 ---
 title: "Te-k"
 description: ""
-url: "https://github.com/Te-k"
+external_url: "https://github.com/Te-k"
 category: "Miscellaneous"
 ---

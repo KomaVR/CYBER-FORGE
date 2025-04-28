@@ -1,6 +1,6 @@
 ---
 title: "C0axx"
 description: ""
-url: "https://github.com/C0axx"
+external_url: "https://github.com/C0axx"
 category: "Miscellaneous"
 ---

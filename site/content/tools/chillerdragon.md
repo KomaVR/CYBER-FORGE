@@ -1,6 +1,6 @@
 ---
 title: "ChillerDragon"
 description: ""
-url: "https://github.com/ChillerDragon"
+external_url: "https://github.com/ChillerDragon"
 category: "Miscellaneous"
 ---

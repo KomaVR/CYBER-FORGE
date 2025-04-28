@@ -5,6 +5,6 @@ description: "
 ghostscript RCE
 
 "
-url: "https://ctftime.org/writeup/10912"
+external_url: "https://ctftime.org/writeup/10912"
 category: "Miscellaneous"
 ---

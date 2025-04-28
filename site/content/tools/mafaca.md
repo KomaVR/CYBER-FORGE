@@ -1,6 +1,6 @@
 ---
 title: "mafaca"
 description: ""
-url: "https://github.com/mafaca"
+external_url: "https://github.com/mafaca"
 category: "Miscellaneous"
 ---

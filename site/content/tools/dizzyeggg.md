@@ -1,6 +1,6 @@
 ---
 title: "DizzyEggg"
 description: ""
-url: "https://github.com/DizzyEggg"
+external_url: "https://github.com/DizzyEggg"
 category: "Miscellaneous"
 ---

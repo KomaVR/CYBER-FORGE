@@ -1,6 +1,6 @@
 ---
 title: "NW3C Chanllenges"
 description: ""
-url: "https://nw3.ctfd.io"
+external_url: "https://nw3.ctfd.io"
 category: "Miscellaneous"
 ---

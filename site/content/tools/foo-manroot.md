@@ -1,6 +1,6 @@
 ---
 title: "Foo-Manroot"
 description: ""
-url: "https://github.com/Foo-Manroot"
+external_url: "https://github.com/Foo-Manroot"
 category: "Miscellaneous"
 ---

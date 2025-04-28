@@ -1,6 +1,6 @@
 ---
 title: "GuideStar"
 description: ""
-url: "http://www.guidestar.org"
+external_url: "http://www.guidestar.org"
 category: "Miscellaneous"
 ---

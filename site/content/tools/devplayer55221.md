@@ -1,6 +1,6 @@
 ---
 title: "devplayer55221"
 description: ""
-url: "https://github.com/devplayer55221"
+external_url: "https://github.com/devplayer55221"
 category: "Miscellaneous"
 ---

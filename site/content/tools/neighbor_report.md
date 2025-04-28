@@ -1,6 +1,6 @@
 ---
 title: "Neighbor Report"
 description: ""
-url: "http://neighbor.report/"
+external_url: "http://neighbor.report/"
 category: "Miscellaneous"
 ---

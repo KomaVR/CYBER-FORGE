@@ -1,6 +1,6 @@
 ---
 title: "AdamKobi"
 description: ""
-url: "https://github.com/AdamKobi"
+external_url: "https://github.com/AdamKobi"
 category: "Miscellaneous"
 ---

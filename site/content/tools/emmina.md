@@ -1,6 +1,6 @@
 ---
 title: "emmina"
 description: ""
-url: "https://github.com/emmina"
+external_url: "https://github.com/emmina"
 category: "Miscellaneous"
 ---

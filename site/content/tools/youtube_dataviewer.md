@@ -17,6 +17,6 @@ TagsYouTube
 
 
 "
-url: "https://intelx.io/tools?tab=youtube"
+external_url: "https://intelx.io/tools?tab=youtube"
 category: "Miscellaneous"
 ---

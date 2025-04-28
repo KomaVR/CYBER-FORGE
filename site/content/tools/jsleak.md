@@ -1,6 +1,6 @@
 ---
 title: "JSleak"
 description: ""
-url: "https://github.com/channyein1337/jsleak"
+external_url: "https://github.com/channyein1337/jsleak"
 category: "Miscellaneous"
 ---

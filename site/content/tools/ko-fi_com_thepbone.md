@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://ko-fi.com/thepbone"
+external_url: "https://ko-fi.com/thepbone"
 category: "Miscellaneous"
 ---

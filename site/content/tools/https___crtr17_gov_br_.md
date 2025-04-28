@@ -1,6 +1,6 @@
 ---
 title: "https://crtr17.gov.br/"
 description: "CRTRMA"
-url: "https://crtr17.gov.br/"
+external_url: "https://crtr17.gov.br/"
 category: "Miscellaneous"
 ---

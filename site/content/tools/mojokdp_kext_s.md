@@ -5,6 +5,6 @@ description: "Mojo Serial
 
 
 "
-url: "https://github.com/rickmark/mojo_thor/blob/master/MojoKDP/mojo.kext.S"
+external_url: "https://github.com/rickmark/mojo_thor/blob/master/MojoKDP/mojo.kext.S"
 category: "Miscellaneous"
 ---

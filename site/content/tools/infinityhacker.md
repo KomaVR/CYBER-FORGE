@@ -1,6 +1,6 @@
 ---
 title: "infinityhacker"
 description: ""
-url: "https://github.com/infinityhacker"
+external_url: "https://github.com/infinityhacker"
 category: "Miscellaneous"
 ---

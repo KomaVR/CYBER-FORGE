@@ -1,6 +1,6 @@
 ---
 title: "incognitojam"
 description: ""
-url: "https://github.com/incognitojam"
+external_url: "https://github.com/incognitojam"
 category: "Miscellaneous"
 ---

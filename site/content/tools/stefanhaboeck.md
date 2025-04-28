@@ -1,6 +1,6 @@
 ---
 title: "StefanHaboeck"
 description: ""
-url: "https://github.com/StefanHaboeck"
+external_url: "https://github.com/StefanHaboeck"
 category: "Miscellaneous"
 ---

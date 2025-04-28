@@ -1,6 +1,6 @@
 ---
 title: "file-search.info"
 description: ""
-url: "https://file-search.info"
+external_url: "https://file-search.info"
 category: "Miscellaneous"
 ---

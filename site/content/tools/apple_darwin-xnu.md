@@ -1,6 +1,6 @@
 ---
 title: "apple/darwin-xnu"
 description: ""
-url: "https://github.com/apple/darwin-xnu"
+external_url: "https://github.com/apple/darwin-xnu"
 category: "Miscellaneous"
 ---

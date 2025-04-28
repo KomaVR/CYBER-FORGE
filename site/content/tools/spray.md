@@ -1,6 +1,6 @@
 ---
 title: "Spray"
 description: ""
-url: "https://github.com/Greenwolf/Spray"
+external_url: "https://github.com/Greenwolf/Spray"
 category: "Miscellaneous"
 ---

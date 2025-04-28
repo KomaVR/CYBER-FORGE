@@ -1,6 +1,6 @@
 ---
 title: "netdiscover"
 description: "."
-url: "https://github.com/alexxy/netdiscover"
+external_url: "https://github.com/alexxy/netdiscover"
 category: "Miscellaneous"
 ---

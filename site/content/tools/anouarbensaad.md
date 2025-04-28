@@ -1,6 +1,6 @@
 ---
 title: "anouarbensaad"
 description: ""
-url: "https://github.com/anouarbensaad"
+external_url: "https://github.com/anouarbensaad"
 category: "Miscellaneous"
 ---

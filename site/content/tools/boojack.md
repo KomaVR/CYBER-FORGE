@@ -1,6 +1,6 @@
 ---
 title: "boojack"
 description: ""
-url: "https://github.com/boojack"
+external_url: "https://github.com/boojack"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Cryptocurrency OSINT"
 description: ""
-url: "https://start.me/p/ek4rxK/cryptocurrency"
+external_url: "https://start.me/p/ek4rxK/cryptocurrency"
 category: "OSINT & Recon"
 ---

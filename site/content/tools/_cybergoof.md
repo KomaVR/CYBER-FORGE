@@ -1,6 +1,6 @@
 ---
 title: "@cybergoof"
 description: ""
-url: "https://github.com/cybergoof"
+external_url: "https://github.com/cybergoof"
 category: "Miscellaneous"
 ---

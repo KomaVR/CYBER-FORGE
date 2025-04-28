@@ -1,6 +1,6 @@
 ---
 title: "transifex-integration"
 description: ""
-url: "https://github.com/apps/transifex-integration"
+external_url: "https://github.com/apps/transifex-integration"
 category: "Miscellaneous"
 ---

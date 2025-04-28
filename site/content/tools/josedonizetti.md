@@ -1,6 +1,6 @@
 ---
 title: "josedonizetti"
 description: ""
-url: "https://github.com/josedonizetti"
+external_url: "https://github.com/josedonizetti"
 category: "Miscellaneous"
 ---

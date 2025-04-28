@@ -1,6 +1,6 @@
 ---
 title: "raminfp"
 description: ""
-url: "https://github.com/raminfp"
+external_url: "https://github.com/raminfp"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "WebStorm"
 description: ""
-url: "http://www.jetbrains.com/webstorm/"
+external_url: "http://www.jetbrains.com/webstorm/"
 category: "Web Exploitation"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Have I Been Sold"
 description: ""
-url: "https://haveibeensold.app/"
+external_url: "https://haveibeensold.app/"
 category: "Miscellaneous"
 ---

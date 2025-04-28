@@ -1,6 +1,6 @@
 ---
 title: "tosmolka"
 description: ""
-url: "https://github.com/tosmolka"
+external_url: "https://github.com/tosmolka"
 category: "Miscellaneous"
 ---

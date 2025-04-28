@@ -1,6 +1,6 @@
 ---
 title: "Tehsmash"
 description: ""
-url: "https://github.com/Tehsmash"
+external_url: "https://github.com/Tehsmash"
 category: "Miscellaneous"
 ---

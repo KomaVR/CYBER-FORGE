@@ -1,6 +1,6 @@
 ---
 title: "nightah"
 description: ""
-url: "https://github.com/nightah"
+external_url: "https://github.com/nightah"
 category: "Miscellaneous"
 ---

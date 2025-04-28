@@ -1,6 +1,6 @@
 ---
 title: "CloudScraper"
 description: "Tool to enumerate targets in search of cloud resources. S3 Buckets, Azure Blobs, Digital Ocean Storage Space."
-url: "https://github.com/jordanpotti/CloudScraper"
+external_url: "https://github.com/jordanpotti/CloudScraper"
 category: "Miscellaneous"
 ---

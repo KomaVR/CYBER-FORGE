@@ -1,6 +1,6 @@
 ---
 title: "moonD4rk"
 description: ""
-url: "https://github.com/moonD4rk"
+external_url: "https://github.com/moonD4rk"
 category: "Miscellaneous"
 ---

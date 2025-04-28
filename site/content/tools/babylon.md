@@ -1,6 +1,6 @@
 ---
 title: "Babylon"
 description: ""
-url: "http://translation.babylon.com/"
+external_url: "http://translation.babylon.com/"
 category: "Miscellaneous"
 ---

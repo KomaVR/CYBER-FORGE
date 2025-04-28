@@ -1,6 +1,6 @@
 ---
 title: "Reverse Engineering macOS blog"
 description: ""
-url: "https://reverse.put.as/"
+external_url: "https://reverse.put.as/"
 category: "Miscellaneous"
 ---

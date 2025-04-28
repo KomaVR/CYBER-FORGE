@@ -2,6 +2,6 @@
 title: "socketz"
 description: "socketz
 socketz"
-url: "https://github.com/socketz"
+external_url: "https://github.com/socketz"
 category: "Miscellaneous"
 ---

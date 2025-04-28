@@ -1,6 +1,6 @@
 ---
 title: "fazlearefin"
 description: ""
-url: "https://github.com/fazlearefin"
+external_url: "https://github.com/fazlearefin"
 category: "Miscellaneous"
 ---

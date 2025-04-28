@@ -1,6 +1,6 @@
 ---
 title: "79款 Netgear 路由器遭远程接管0day"
 description: ""
-url: "https://github.com/grimm-co/NotQuite0DayFriday/blob/master/2020.06.15-netgear/exploit.py"
+external_url: "https://github.com/grimm-co/NotQuite0DayFriday/blob/master/2020.06.15-netgear/exploit.py"
 category: "Miscellaneous"
 ---

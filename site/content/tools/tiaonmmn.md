@@ -8,6 +8,6 @@ insomniteaser_2019_phuck2
 asis_2019_unicorn_shop
 
 "
-url: "https://github.com/Tiaonmmn"
+external_url: "https://github.com/Tiaonmmn"
 category: "Miscellaneous"
 ---

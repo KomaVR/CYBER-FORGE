@@ -1,6 +1,6 @@
 ---
 title: "IP Calculator"
 description: ""
-url: "http://jodies.de/ipcalc"
+external_url: "http://jodies.de/ipcalc"
 category: "Miscellaneous"
 ---

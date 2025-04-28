@@ -1,6 +1,6 @@
 ---
 title: "DEF CON"
 description: ""
-url: "https://legitbs.net/"
+external_url: "https://legitbs.net/"
 category: "Miscellaneous"
 ---

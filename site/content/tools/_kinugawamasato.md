@@ -1,6 +1,6 @@
 ---
 title: "@kinugawamasato"
 description: "Japanese web penetrator."
-url: "https://twitter.com/kinugawamasato"
+external_url: "https://twitter.com/kinugawamasato"
 category: "Web Exploitation"
 ---

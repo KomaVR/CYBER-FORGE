@@ -1,6 +1,6 @@
 ---
 title: "morambro"
 description: ""
-url: "https://github.com/morambro"
+external_url: "https://github.com/morambro"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "sk4la"
 description: ""
-url: "https://github.com/sk4la"
+external_url: "https://github.com/sk4la"
 category: "Miscellaneous"
 ---

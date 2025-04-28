@@ -1,6 +1,6 @@
 ---
 title: "esaunders"
 description: ""
-url: "https://github.com/esaunders"
+external_url: "https://github.com/esaunders"
 category: "Miscellaneous"
 ---

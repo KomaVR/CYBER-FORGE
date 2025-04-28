@@ -1,6 +1,6 @@
 ---
 title: "Inca"
 description: ""
-url: "https://inca.digital/products/#data"
+external_url: "https://inca.digital/products/#data"
 category: "Miscellaneous"
 ---

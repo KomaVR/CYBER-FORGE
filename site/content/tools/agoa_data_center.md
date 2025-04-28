@@ -1,6 +1,6 @@
 ---
 title: "AGOA Data Center"
 description: ""
-url: "http://agoa.info"
+external_url: "http://agoa.info"
 category: "Miscellaneous"
 ---

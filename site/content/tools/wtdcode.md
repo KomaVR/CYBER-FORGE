@@ -1,6 +1,6 @@
 ---
 title: "wtdcode"
 description: ""
-url: "https://github.com/wtdcode"
+external_url: "https://github.com/wtdcode"
 category: "Miscellaneous"
 ---

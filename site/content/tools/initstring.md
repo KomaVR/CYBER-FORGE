@@ -1,6 +1,6 @@
 ---
 title: "initstring"
 description: ""
-url: "https://github.com/initstring"
+external_url: "https://github.com/initstring"
 category: "Miscellaneous"
 ---

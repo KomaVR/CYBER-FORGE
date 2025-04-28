@@ -1,6 +1,6 @@
 ---
 title: "prowler-bot"
 description: ""
-url: "https://github.com/prowler-bot"
+external_url: "https://github.com/prowler-bot"
 category: "Miscellaneous"
 ---

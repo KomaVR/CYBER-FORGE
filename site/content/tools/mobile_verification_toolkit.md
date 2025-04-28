@@ -1,6 +1,6 @@
 ---
 title: "Mobile Verification Toolkit"
 description: ""
-url: "https://docs.mvt.re/en/latest/"
+external_url: "https://docs.mvt.re/en/latest/"
 category: "Miscellaneous"
 ---

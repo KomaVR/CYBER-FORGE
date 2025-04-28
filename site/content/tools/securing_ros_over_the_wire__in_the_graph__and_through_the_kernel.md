@@ -56,6 +56,6 @@ A Deep Dive Into The DDS Protocol (to appear), S4x22 Security Conference
 
 
 "
-url: "https://vimeo.com/187705073"
+external_url: "https://vimeo.com/187705073"
 category: "Miscellaneous"
 ---

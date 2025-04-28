@@ -1,6 +1,6 @@
 ---
 title: "App Critique"
 description: ""
-url: "https://appcritique.boozallen.com/"
+external_url: "https://appcritique.boozallen.com/"
 category: "Miscellaneous"
 ---

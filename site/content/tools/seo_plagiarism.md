@@ -1,6 +1,6 @@
 ---
 title: "SEO Plagiarism"
 description: ""
-url: "https://smallseotools.com/plagiarism-checker"
+external_url: "https://smallseotools.com/plagiarism-checker"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "https://www.postman.com/explore/"
 description: "public API"
-url: "https://www.postman.com/explore/"
+external_url: "https://www.postman.com/explore/"
 category: "Miscellaneous"
 ---

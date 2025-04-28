@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://paypal.me/wimbledonfc"
+external_url: "https://paypal.me/wimbledonfc"
 category: "Miscellaneous"
 ---

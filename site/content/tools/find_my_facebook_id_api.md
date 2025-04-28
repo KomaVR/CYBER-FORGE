@@ -1,6 +1,6 @@
 ---
 title: "Find My Facebook ID API"
 description: ""
-url: "https://findmyfbid.in/"
+external_url: "https://findmyfbid.in/"
 category: "Miscellaneous"
 ---

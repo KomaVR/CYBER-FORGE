@@ -1,6 +1,6 @@
 ---
 title: "sebdraven"
 description: ""
-url: "https://github.com/sebdraven"
+external_url: "https://github.com/sebdraven"
 category: "Miscellaneous"
 ---

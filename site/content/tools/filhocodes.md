@@ -1,6 +1,6 @@
 ---
 title: "filhocodes"
 description: ""
-url: "https://github.com/filhocodes"
+external_url: "https://github.com/filhocodes"
 category: "Miscellaneous"
 ---

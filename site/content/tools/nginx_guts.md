@@ -1,6 +1,6 @@
 ---
 title: "Nginx Guts"
 description: ""
-url: "http://www.nginxguts.com/"
+external_url: "http://www.nginxguts.com/"
 category: "Miscellaneous"
 ---

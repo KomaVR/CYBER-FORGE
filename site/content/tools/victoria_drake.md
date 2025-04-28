@@ -1,6 +1,6 @@
 ---
 title: "Victoria Drake"
 description: ""
-url: "https://github.com/victoriadrake"
+external_url: "https://github.com/victoriadrake"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "bitcoinwhoswho.com"
 description: ""
-url: "https://www.bitcoinwhoswho.com"
+external_url: "https://www.bitcoinwhoswho.com"
 category: "Miscellaneous"
 ---

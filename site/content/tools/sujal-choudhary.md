@@ -1,6 +1,6 @@
 ---
 title: "sujal-choudhary"
 description: ""
-url: "https://github.com/sujal-choudhary"
+external_url: "https://github.com/sujal-choudhary"
 category: "Miscellaneous"
 ---

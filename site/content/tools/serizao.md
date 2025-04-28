@@ -1,6 +1,6 @@
 ---
 title: "Serizao"
 description: ""
-url: "https://github.com/Serizao"
+external_url: "https://github.com/Serizao"
 category: "Miscellaneous"
 ---

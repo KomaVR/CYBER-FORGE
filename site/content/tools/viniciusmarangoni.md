@@ -1,6 +1,6 @@
 ---
 title: "viniciusmarangoni"
 description: ""
-url: "https://github.com/viniciusmarangoni"
+external_url: "https://github.com/viniciusmarangoni"
 category: "Miscellaneous"
 ---

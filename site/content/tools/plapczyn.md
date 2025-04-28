@@ -1,6 +1,6 @@
 ---
 title: "plapczyn"
 description: ""
-url: "https://github.com/plapczyn"
+external_url: "https://github.com/plapczyn"
 category: "Miscellaneous"
 ---

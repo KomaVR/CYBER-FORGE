@@ -1,6 +1,6 @@
 ---
 title: "eze-kiel"
 description: ""
-url: "https://github.com/eze-kiel"
+external_url: "https://github.com/eze-kiel"
 category: "Miscellaneous"
 ---

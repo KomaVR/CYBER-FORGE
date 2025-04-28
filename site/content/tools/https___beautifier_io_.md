@@ -1,6 +1,6 @@
 ---
 title: "https://beautifier.io/"
 description: ""
-url: "https://beautifier.io/"
+external_url: "https://beautifier.io/"
 category: "Miscellaneous"
 ---

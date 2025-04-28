@@ -3,6 +3,6 @@ title: "Wazuh Chef"
 description: "
 
 "
-url: "https://github.com/wazuh/wazuh-chef"
+external_url: "https://github.com/wazuh/wazuh-chef"
 category: "Miscellaneous"
 ---

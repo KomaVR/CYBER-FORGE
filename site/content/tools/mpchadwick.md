@@ -1,6 +1,6 @@
 ---
 title: "mpchadwick"
 description: ""
-url: "https://github.com/mpchadwick"
+external_url: "https://github.com/mpchadwick"
 category: "Miscellaneous"
 ---

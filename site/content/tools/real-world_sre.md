@@ -1,6 +1,6 @@
 ---
 title: "Real-World SRE"
 description: "📔"
-url: "https://amzn.to/4hQNhuK"
+external_url: "https://amzn.to/4hQNhuK"
 category: "Miscellaneous"
 ---

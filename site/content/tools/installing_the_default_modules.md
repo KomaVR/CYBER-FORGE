@@ -1,6 +1,6 @@
 ---
 title: "Installing the default modules"
 description: ""
-url: "https://sn0int.readthedocs.io/en/latest/usage.html#installing-the-default-modules"
+external_url: "https://sn0int.readthedocs.io/en/latest/usage.html#installing-the-default-modules"
 category: "Miscellaneous"
 ---

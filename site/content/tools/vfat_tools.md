@@ -1,6 +1,6 @@
 ---
 title: "Vfat.Tools"
 description: ""
-url: "https://vfat.tools"
+external_url: "https://vfat.tools"
 category: "Miscellaneous"
 ---

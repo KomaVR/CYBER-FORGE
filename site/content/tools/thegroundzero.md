@@ -1,6 +1,6 @@
 ---
 title: "TheGroundZero"
 description: ""
-url: "https://github.com/TheGroundZero"
+external_url: "https://github.com/TheGroundZero"
 category: "Miscellaneous"
 ---

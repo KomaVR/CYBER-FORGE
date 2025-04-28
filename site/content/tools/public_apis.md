@@ -1,6 +1,6 @@
 ---
 title: "Public APIs"
 description: ""
-url: "https://github.com/public-apis/public-apis#cryptocurrency"
+external_url: "https://github.com/public-apis/public-apis#cryptocurrency"
 category: "Miscellaneous"
 ---

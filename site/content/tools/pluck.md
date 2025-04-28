@@ -1,6 +1,6 @@
 ---
 title: "Pluck"
 description: ""
-url: "https://www.hackingarticles.in/hack-pluck-vm-ctf-challenge/"
+external_url: "https://www.hackingarticles.in/hack-pluck-vm-ctf-challenge/"
 category: "Miscellaneous"
 ---

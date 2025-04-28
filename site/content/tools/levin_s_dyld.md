@@ -8,6 +8,6 @@ arandomdev/DyldExtractor - Fixes up linking
 dyld_shared_cache_util.cpp
 
 "
-url: "http://www.newosxbook.com/articles/DYLD.html"
+external_url: "http://www.newosxbook.com/articles/DYLD.html"
 category: "Miscellaneous"
 ---

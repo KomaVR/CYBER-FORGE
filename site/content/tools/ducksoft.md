@@ -1,6 +1,6 @@
 ---
 title: "DuckSoft"
 description: ""
-url: "https://github.com/DuckSoft"
+external_url: "https://github.com/DuckSoft"
 category: "Miscellaneous"
 ---

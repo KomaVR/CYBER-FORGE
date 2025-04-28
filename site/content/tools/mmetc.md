@@ -1,6 +1,6 @@
 ---
 title: "mmetc"
 description: ""
-url: "https://github.com/mmetc"
+external_url: "https://github.com/mmetc"
 category: "Miscellaneous"
 ---

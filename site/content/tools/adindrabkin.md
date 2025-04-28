@@ -1,6 +1,6 @@
 ---
 title: "adindrabkin"
 description: ""
-url: "https://github.com/adindrabkin"
+external_url: "https://github.com/adindrabkin"
 category: "Miscellaneous"
 ---

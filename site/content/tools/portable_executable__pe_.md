@@ -1,6 +1,6 @@
 ---
 title: "Portable executable (PE)"
 description: "🌎"
-url: "https://wiki.osdev.org/PE"
+external_url: "https://wiki.osdev.org/PE"
 category: "Miscellaneous"
 ---

@@ -2,6 +2,6 @@
 title: "hur"
 description: "hur
 Atte Niemi"
-url: "https://github.com/hur"
+external_url: "https://github.com/hur"
 category: "Miscellaneous"
 ---

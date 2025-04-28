@@ -1,6 +1,6 @@
 ---
 title: "https://navisec.it/"
 description: ""
-url: "https://navisec.it/"
+external_url: "https://navisec.it/"
 category: "Miscellaneous"
 ---

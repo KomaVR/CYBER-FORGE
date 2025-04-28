@@ -1,6 +1,6 @@
 ---
 title: "Search Systems"
 description: ""
-url: "http://publicrecords.searchsystems.net"
+external_url: "http://publicrecords.searchsystems.net"
 category: "Miscellaneous"
 ---

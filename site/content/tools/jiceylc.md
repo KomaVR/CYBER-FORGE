@@ -1,6 +1,6 @@
 ---
 title: "jiceylc"
 description: ""
-url: "https://github.com/jiceylc"
+external_url: "https://github.com/jiceylc"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "T-Pack"
 description: "Executable COM-FILE  compressor (LZ77) optimized for small files like BBS-Addys or similar files."
-url: "https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/tpack05.zip"
+external_url: "https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/tpack05.zip"
 category: "Miscellaneous"
 ---

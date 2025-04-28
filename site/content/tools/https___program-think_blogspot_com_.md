@@ -1,6 +1,6 @@
 ---
 title: "https://program-think.blogspot.com/"
 description: ""
-url: "https://program-think.blogspot.com/"
+external_url: "https://program-think.blogspot.com/"
 category: "Miscellaneous"
 ---

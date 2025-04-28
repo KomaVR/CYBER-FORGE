@@ -1,6 +1,6 @@
 ---
 title: "ANY.RUN"
 description: ""
-url: "https://any.run/"
+external_url: "https://any.run/"
 category: "Miscellaneous"
 ---

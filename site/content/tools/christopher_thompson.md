@@ -1,6 +1,6 @@
 ---
 title: "Christopher Thompson"
 description: "Theme by"
-url: "https://github.com/breadchris"
+external_url: "https://github.com/breadchris"
 category: "Miscellaneous"
 ---

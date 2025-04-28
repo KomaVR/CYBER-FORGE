@@ -1,6 +1,6 @@
 ---
 title: "Full documentation"
 description: ""
-url: "http://documentation.wazuh.com"
+external_url: "http://documentation.wazuh.com"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Android Studio"
 description: ""
-url: "https://developer.android.com/studio"
+external_url: "https://developer.android.com/studio"
 category: "Miscellaneous"
 ---

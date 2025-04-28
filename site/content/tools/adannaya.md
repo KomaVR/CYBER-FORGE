@@ -1,6 +1,6 @@
 ---
 title: "Adannaya"
 description: ""
-url: "https://github.com/Adannaya"
+external_url: "https://github.com/Adannaya"
 category: "Miscellaneous"
 ---

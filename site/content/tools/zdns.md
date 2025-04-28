@@ -1,6 +1,6 @@
 ---
 title: "ZDNS"
 description: ""
-url: "https://github.com/zmap/zdns"
+external_url: "https://github.com/zmap/zdns"
 category: "Miscellaneous"
 ---

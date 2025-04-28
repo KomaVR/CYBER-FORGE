@@ -1,6 +1,6 @@
 ---
 title: "TovStalin"
 description: ""
-url: "https://github.com/TovStalin"
+external_url: "https://github.com/TovStalin"
 category: "Miscellaneous"
 ---

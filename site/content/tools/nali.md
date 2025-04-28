@@ -3,6 +3,6 @@ title: "nali"
 description: "
 
 "
-url: "https://github.com/zu1k/nali"
+external_url: "https://github.com/zu1k/nali"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Ademking"
 description: ""
-url: "https://github.com/Ademking"
+external_url: "https://github.com/Ademking"
 category: "Miscellaneous"
 ---

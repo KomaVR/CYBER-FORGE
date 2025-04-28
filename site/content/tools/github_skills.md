@@ -2,6 +2,6 @@
 title: "GitHub Skills"
 description: "
 "
-url: "https://skills.github.com"
+external_url: "https://skills.github.com"
 category: "Miscellaneous"
 ---

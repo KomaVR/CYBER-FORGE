@@ -1,6 +1,6 @@
 ---
 title: "Mancy"
 description: ""
-url: "https://github.com/Mancy"
+external_url: "https://github.com/Mancy"
 category: "Miscellaneous"
 ---

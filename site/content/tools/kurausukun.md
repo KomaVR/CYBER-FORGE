@@ -1,6 +1,6 @@
 ---
 title: "Kurausukun"
 description: ""
-url: "https://github.com/Kurausukun"
+external_url: "https://github.com/Kurausukun"
 category: "Miscellaneous"
 ---

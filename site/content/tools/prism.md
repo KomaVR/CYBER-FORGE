@@ -1,6 +1,6 @@
 ---
 title: "Prism"
 description: "Bash & NGINX syntax highlighting"
-url: "https://prismjs.com/"
+external_url: "https://prismjs.com/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "fastjson_payload"
 description: ""
-url: "https://github.com/kezibei/fastjson_payload"
+external_url: "https://github.com/kezibei/fastjson_payload"
 category: "Black Hat Tools"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "https://www.inguardians.com/"
 description: "InGuardians Labs Blog:"
-url: "https://www.inguardians.com/"
+external_url: "https://www.inguardians.com/"
 category: "Miscellaneous"
 ---

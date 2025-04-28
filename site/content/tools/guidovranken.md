@@ -1,6 +1,6 @@
 ---
 title: "guidovranken"
 description: ""
-url: "https://github.com/guidovranken"
+external_url: "https://github.com/guidovranken"
 category: "Miscellaneous"
 ---

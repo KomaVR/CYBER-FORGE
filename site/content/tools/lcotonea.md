@@ -1,6 +1,6 @@
 ---
 title: "lcotonea"
 description: ""
-url: "https://github.com/lcotonea"
+external_url: "https://github.com/lcotonea"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Maperitive"
 description: ""
-url: "http://maperitive.net"
+external_url: "http://maperitive.net"
 category: "Miscellaneous"
 ---

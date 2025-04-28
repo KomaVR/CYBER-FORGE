@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://buymeacoffee.com/soxoj"
+external_url: "https://buymeacoffee.com/soxoj"
 category: "Miscellaneous"
 ---

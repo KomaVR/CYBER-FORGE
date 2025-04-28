@@ -1,6 +1,6 @@
 ---
 title: "Interactsh"
 description: ""
-url: "https://www.blacklanternsecurity.com/bbot/Stable/dev/helpers/interactsh"
+external_url: "https://www.blacklanternsecurity.com/bbot/Stable/dev/helpers/interactsh"
 category: "Miscellaneous"
 ---

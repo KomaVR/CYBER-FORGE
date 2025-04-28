@@ -3,6 +3,6 @@ title: "TryHackMe | Peak Hill"
 description: "
  
 "
-url: "https://tryhackme.com/room/peakhill"
+external_url: "https://tryhackme.com/room/peakhill"
 category: "Miscellaneous"
 ---

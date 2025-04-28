@@ -1,6 +1,6 @@
 ---
 title: "http://www.shiyanbar.com/ctf/practice"
 description: ""
-url: "http://www.shiyanbar.com/ctf/practice"
+external_url: "http://www.shiyanbar.com/ctf/practice"
 category: "Miscellaneous"
 ---

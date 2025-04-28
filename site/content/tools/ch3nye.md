@@ -1,6 +1,6 @@
 ---
 title: "Ch3nYe"
 description: ""
-url: "https://github.com/Ch3nYe"
+external_url: "https://github.com/Ch3nYe"
 category: "Miscellaneous"
 ---

@@ -2,6 +2,6 @@
 title: "Executive Insights"
 description: "
 "
-url: "https://github.com/solutions/executive-insights"
+external_url: "https://github.com/solutions/executive-insights"
 category: "Miscellaneous"
 ---

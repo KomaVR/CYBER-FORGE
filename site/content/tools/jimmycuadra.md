@@ -1,6 +1,6 @@
 ---
 title: "jimmycuadra"
 description: ""
-url: "https://github.com/jimmycuadra"
+external_url: "https://github.com/jimmycuadra"
 category: "Miscellaneous"
 ---

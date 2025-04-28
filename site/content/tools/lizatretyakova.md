@@ -1,6 +1,6 @@
 ---
 title: "LizaTretyakova"
 description: ""
-url: "https://github.com/LizaTretyakova"
+external_url: "https://github.com/LizaTretyakova"
 category: "Miscellaneous"
 ---

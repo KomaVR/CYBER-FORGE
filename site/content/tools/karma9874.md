@@ -1,6 +1,6 @@
 ---
 title: "karma9874"
 description: ""
-url: "https://github.com/karma9874"
+external_url: "https://github.com/karma9874"
 category: "Miscellaneous"
 ---

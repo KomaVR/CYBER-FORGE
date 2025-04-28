@@ -1,6 +1,6 @@
 ---
 title: "LikeAlyzer"
 description: ""
-url: "http://likealyzer.com/"
+external_url: "http://likealyzer.com/"
 category: "Miscellaneous"
 ---

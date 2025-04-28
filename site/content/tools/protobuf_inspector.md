@@ -1,6 +1,6 @@
 ---
 title: "Protobuf inspector"
 description: ""
-url: "https://github.com/jmendeth/protobuf-inspector"
+external_url: "https://github.com/jmendeth/protobuf-inspector"
 category: "Miscellaneous"
 ---

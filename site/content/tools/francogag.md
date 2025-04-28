@@ -1,6 +1,6 @@
 ---
 title: "FrancoGag"
 description: ""
-url: "https://github.com/FrancoGag"
+external_url: "https://github.com/FrancoGag"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Slack’s Incident on 2-22-22"
 description: ""
-url: "https://slack.engineering/slacks-incident-on-2-22-22/"
+external_url: "https://slack.engineering/slacks-incident-on-2-22-22/"
 category: "Miscellaneous"
 ---

@@ -3,6 +3,6 @@ title: "TryHackMe | Windows Fundamentals 1"
 description: "
  
 "
-url: "https://tryhackme.com/room/windowsfundamentals1xbx"
+external_url: "https://tryhackme.com/room/windowsfundamentals1xbx"
 category: "Miscellaneous"
 ---

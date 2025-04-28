@@ -1,6 +1,6 @@
 ---
 title: "@patrickolsen"
 description: ""
-url: "https://twitter.com/patrickolsen"
+external_url: "https://twitter.com/patrickolsen"
 category: "Miscellaneous"
 ---

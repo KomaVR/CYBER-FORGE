@@ -1,6 +1,6 @@
 ---
 title: "rsyncvd: 对rsync服务进行弱口令爆破，包括匿名登录检测和登录验证检测"
 description: ""
-url: "https://github.com/Zoq1An/rsyncvd"
+external_url: "https://github.com/Zoq1An/rsyncvd"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Escapingbug"
 description: ""
-url: "https://github.com/Escapingbug"
+external_url: "https://github.com/Escapingbug"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "@danigargu"
 description: "Daniel García Gutiérrez ()"
-url: "https://twitter.com/danigargu"
+external_url: "https://twitter.com/danigargu"
 category: "Miscellaneous"
 ---

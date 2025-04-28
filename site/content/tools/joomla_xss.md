@@ -16,6 +16,6 @@ Example: mb_substr(\"\xf0\x9fAAA<BB\", 0, 4) -> \"\xf0\x9fAAA<B\"
 ref: 
 
 "
-url: "https://www.sonarsource.com/blog/joomla-multiple-xss-vulnerabilities/"
+external_url: "https://www.sonarsource.com/blog/joomla-multiple-xss-vulnerabilities/"
 category: "Web Exploitation"
 ---

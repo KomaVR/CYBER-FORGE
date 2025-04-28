@@ -1,6 +1,6 @@
 ---
 title: "nbehrnd"
 description: ""
-url: "https://github.com/nbehrnd"
+external_url: "https://github.com/nbehrnd"
 category: "Miscellaneous"
 ---

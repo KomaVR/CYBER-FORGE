@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/zhzyker/dismap"
 description: ""
-url: "https://github.com/zhzyker/dismap"
+external_url: "https://github.com/zhzyker/dismap"
 category: "Miscellaneous"
 ---

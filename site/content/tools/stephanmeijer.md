@@ -1,6 +1,6 @@
 ---
 title: "StephanMeijer"
 description: ""
-url: "https://github.com/StephanMeijer"
+external_url: "https://github.com/StephanMeijer"
 category: "Miscellaneous"
 ---

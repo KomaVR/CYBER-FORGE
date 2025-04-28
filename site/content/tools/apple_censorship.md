@@ -1,6 +1,6 @@
 ---
 title: "Apple Censorship"
 description: ""
-url: "https://applecensorship.com/"
+external_url: "https://applecensorship.com/"
 category: "Miscellaneous"
 ---

@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://opencollective.com/docker-slim"
+external_url: "https://opencollective.com/docker-slim"
 category: "Miscellaneous"
 ---

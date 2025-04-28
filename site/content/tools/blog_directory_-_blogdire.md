@@ -1,6 +1,6 @@
 ---
 title: "Blog Directory - BlogDire"
 description: ""
-url: "http://www.blogdire.com/"
+external_url: "http://www.blogdire.com/"
 category: "Miscellaneous"
 ---

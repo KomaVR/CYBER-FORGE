@@ -1,6 +1,6 @@
 ---
 title: "mevatron"
 description: ""
-url: "https://github.com/mevatron"
+external_url: "https://github.com/mevatron"
 category: "Miscellaneous"
 ---

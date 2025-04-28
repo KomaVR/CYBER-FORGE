@@ -1,6 +1,6 @@
 ---
 title: "netlas"
 description: ""
-url: "https://app.netlas.io/"
+external_url: "https://app.netlas.io/"
 category: "Miscellaneous"
 ---

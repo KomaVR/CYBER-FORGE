@@ -1,6 +1,6 @@
 ---
 title: "k-nut"
 description: ""
-url: "https://github.com/k-nut"
+external_url: "https://github.com/k-nut"
 category: "Miscellaneous"
 ---

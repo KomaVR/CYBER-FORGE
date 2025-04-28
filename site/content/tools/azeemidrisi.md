@@ -2,6 +2,6 @@
 title: "AzeemIdrisi"
 description: "AzeemIdrisi
 Azeem Idrisi"
-url: "https://github.com/AzeemIdrisi"
+external_url: "https://github.com/AzeemIdrisi"
 category: "Miscellaneous"
 ---

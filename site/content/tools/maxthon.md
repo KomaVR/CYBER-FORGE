@@ -1,6 +1,6 @@
 ---
 title: "Maxthon"
 description: ""
-url: "http://www.maxthon.com"
+external_url: "http://www.maxthon.com"
 category: "Miscellaneous"
 ---

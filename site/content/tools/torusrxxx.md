@@ -1,6 +1,6 @@
 ---
 title: "torusrxxx"
 description: ""
-url: "https://github.com/torusrxxx"
+external_url: "https://github.com/torusrxxx"
 category: "Miscellaneous"
 ---

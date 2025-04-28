@@ -1,6 +1,6 @@
 ---
 title: "pavhl"
 description: ""
-url: "https://github.com/pavhl"
+external_url: "https://github.com/pavhl"
 category: "Miscellaneous"
 ---

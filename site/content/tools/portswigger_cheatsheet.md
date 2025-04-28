@@ -22,6 +22,6 @@ data:
 
 
 "
-url: "https://portswigger-labs.net/xss/xss.php?x=%3Cscript%3Elocation.protocol=%27javascript%27;%3C/script%3E#%0aalert(1)//&context=html"
+external_url: "https://portswigger-labs.net/xss/xss.php?x=%3Cscript%3Elocation.protocol=%27javascript%27;%3C/script%3E#%0aalert(1)//&context=html"
 category: "Web Exploitation"
 ---

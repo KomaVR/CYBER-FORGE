@@ -1,6 +1,6 @@
 ---
 title: "mathew-fleisch"
 description: ""
-url: "https://github.com/mathew-fleisch"
+external_url: "https://github.com/mathew-fleisch"
 category: "Miscellaneous"
 ---

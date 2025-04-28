@@ -4,6 +4,6 @@ description: "Open guide called “Itrace” by Conflict Armament Research, lots
 information on different kinds of munitions and weapons presented
 graphically on a map format,
  "
-url: "http://itrace.conflictarm.com/Home/Login"
+external_url: "http://itrace.conflictarm.com/Home/Login"
 category: "Miscellaneous"
 ---

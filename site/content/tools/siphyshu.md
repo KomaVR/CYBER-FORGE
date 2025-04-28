@@ -1,6 +1,6 @@
 ---
 title: "siphyshu"
 description: ""
-url: "https://github.com/siphyshu"
+external_url: "https://github.com/siphyshu"
 category: "Miscellaneous"
 ---

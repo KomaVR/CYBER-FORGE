@@ -1,6 +1,6 @@
 ---
 title: "https://dnsdb.io/zh-cn"
 description: ""
-url: "https://dnsdb.io/zh-cn"
+external_url: "https://dnsdb.io/zh-cn"
 category: "Miscellaneous"
 ---

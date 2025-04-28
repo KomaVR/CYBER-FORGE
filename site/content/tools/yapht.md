@@ -1,6 +1,6 @@
 ---
 title: "yapht"
 description: ""
-url: "https://github.com/yapht"
+external_url: "https://github.com/yapht"
 category: "Miscellaneous"
 ---

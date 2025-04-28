@@ -2,6 +2,6 @@
 title: "mayor-cruz"
 description: "mayor-cruz
 Mayowa Ajilore"
-url: "https://github.com/mayor-cruz"
+external_url: "https://github.com/mayor-cruz"
 category: "Miscellaneous"
 ---

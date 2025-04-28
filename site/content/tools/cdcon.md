@@ -6,6 +6,6 @@ description: "
  2020 Playlist
 
 "
-url: "https://events.linuxfoundation.org/cdcon/"
+external_url: "https://events.linuxfoundation.org/cdcon/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "mhgholamrezaei"
 description: ""
-url: "https://github.com/mhgholamrezaei"
+external_url: "https://github.com/mhgholamrezaei"
 category: "Miscellaneous"
 ---

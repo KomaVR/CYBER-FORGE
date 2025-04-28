@@ -1,6 +1,6 @@
 ---
 title: "QResear.ch"
 description: ""
-url: "https://qresear.ch/"
+external_url: "https://qresear.ch/"
 category: "Miscellaneous"
 ---

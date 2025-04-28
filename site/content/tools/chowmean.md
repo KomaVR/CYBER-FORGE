@@ -1,6 +1,6 @@
 ---
 title: "chowmean"
 description: ""
-url: "https://github.com/chowmean"
+external_url: "https://github.com/chowmean"
 category: "Miscellaneous"
 ---

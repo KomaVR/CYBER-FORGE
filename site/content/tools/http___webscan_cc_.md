@@ -3,6 +3,6 @@ title: "http://webscan.cc/"
 description: "
 
 "
-url: "http://webscan.cc/"
+external_url: "http://webscan.cc/"
 category: "Web Exploitation"
 ---

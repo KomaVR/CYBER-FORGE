@@ -3,6 +3,6 @@ title: "https://portswigger.net/web-security/ssrf"
 description: "
 
 "
-url: "https://portswigger.net/web-security/ssrf"
+external_url: "https://portswigger.net/web-security/ssrf"
 category: "Web Exploitation"
 ---

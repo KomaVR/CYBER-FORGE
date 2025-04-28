@@ -1,6 +1,6 @@
 ---
 title: "How to write an Incident Report/Postmortem"
 description: ""
-url: "https://sysadmincasts.com/episodes/20-how-to-write-an-incident-report-postmortem"
+external_url: "https://sysadmincasts.com/episodes/20-how-to-write-an-incident-report-postmortem"
 category: "Miscellaneous"
 ---

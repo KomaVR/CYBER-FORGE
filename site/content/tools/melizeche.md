@@ -1,6 +1,6 @@
 ---
 title: "melizeche"
 description: ""
-url: "https://github.com/melizeche"
+external_url: "https://github.com/melizeche"
 category: "Miscellaneous"
 ---

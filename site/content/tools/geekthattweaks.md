@@ -1,6 +1,6 @@
 ---
 title: "geekthattweaks"
 description: ""
-url: "https://github.com/geekthattweaks"
+external_url: "https://github.com/geekthattweaks"
 category: "Miscellaneous"
 ---

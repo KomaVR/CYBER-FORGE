@@ -1,6 +1,6 @@
 ---
 title: "GabhenDM"
 description: ""
-url: "https://github.com/GabhenDM"
+external_url: "https://github.com/GabhenDM"
 category: "Miscellaneous"
 ---

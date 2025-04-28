@@ -1,6 +1,6 @@
 ---
 title: "icpantsparti"
 description: ""
-url: "https://github.com/icpantsparti"
+external_url: "https://github.com/icpantsparti"
 category: "Miscellaneous"
 ---

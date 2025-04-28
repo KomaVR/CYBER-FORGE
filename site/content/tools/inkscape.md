@@ -1,6 +1,6 @@
 ---
 title: "Inkscape"
 description: ""
-url: "https://inkscape.org"
+external_url: "https://inkscape.org"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "@BonusPlay"
 description: "Adam Kliś ()"
-url: "https://github.com/BonusPlay"
+external_url: "https://github.com/BonusPlay"
 category: "Miscellaneous"
 ---

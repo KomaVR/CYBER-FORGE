@@ -1,6 +1,6 @@
 ---
 title: "HexChaos"
 description: ""
-url: "https://github.com/HexChaos"
+external_url: "https://github.com/HexChaos"
 category: "Miscellaneous"
 ---

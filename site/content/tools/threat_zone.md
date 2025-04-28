@@ -1,6 +1,6 @@
 ---
 title: "Threat.Zone"
 description: ""
-url: "https://threat.zone"
+external_url: "https://threat.zone"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "mihaimaruseac"
 description: ""
-url: "https://github.com/mihaimaruseac"
+external_url: "https://github.com/mihaimaruseac"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "robiot"
 description: ""
-url: "https://github.com/robiot"
+external_url: "https://github.com/robiot"
 category: "Miscellaneous"
 ---

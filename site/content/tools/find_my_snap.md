@@ -1,6 +1,6 @@
 ---
 title: "Find my snap"
 description: ""
-url: "http://findmysnap.com/"
+external_url: "http://findmysnap.com/"
 category: "Miscellaneous"
 ---

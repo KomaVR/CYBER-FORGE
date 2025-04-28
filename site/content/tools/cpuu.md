@@ -2,6 +2,6 @@
 title: "cpuu"
 description: "cpuu
 Jaeyou PARK"
-url: "https://github.com/cpuu"
+external_url: "https://github.com/cpuu"
 category: "Miscellaneous"
 ---

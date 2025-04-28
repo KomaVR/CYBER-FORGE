@@ -1,6 +1,6 @@
 ---
 title: "APKiD"
 description: "Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android."
-url: "https://github.com/rednaga/APKiD"
+external_url: "https://github.com/rednaga/APKiD"
 category: "Miscellaneous"
 ---

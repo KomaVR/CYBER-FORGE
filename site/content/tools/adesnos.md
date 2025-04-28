@@ -1,6 +1,6 @@
 ---
 title: "adesnos"
 description: ""
-url: "https://github.com/adesnos"
+external_url: "https://github.com/adesnos"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "tgdfool2"
 description: ""
-url: "https://github.com/tgdfool2"
+external_url: "https://github.com/tgdfool2"
 category: "Miscellaneous"
 ---

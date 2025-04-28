@@ -1,6 +1,6 @@
 ---
 title: "Netresec"
 description: ""
-url: "https://www.netresec.com/index.ashx?page=Blog"
+external_url: "https://www.netresec.com/index.ashx?page=Blog"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "serpilliere"
 description: ""
-url: "https://github.com/serpilliere"
+external_url: "https://github.com/serpilliere"
 category: "Miscellaneous"
 ---

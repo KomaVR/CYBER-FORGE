@@ -1,6 +1,6 @@
 ---
 title: "FinnWilkinson"
 description: ""
-url: "https://github.com/FinnWilkinson"
+external_url: "https://github.com/FinnWilkinson"
 category: "Miscellaneous"
 ---

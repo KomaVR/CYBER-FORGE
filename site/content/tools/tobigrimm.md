@@ -1,6 +1,6 @@
 ---
 title: "tobigrimm"
 description: ""
-url: "https://github.com/tobigrimm"
+external_url: "https://github.com/tobigrimm"
 category: "Miscellaneous"
 ---

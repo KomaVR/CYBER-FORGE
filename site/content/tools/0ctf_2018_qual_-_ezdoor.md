@@ -6,6 +6,6 @@ Example
 
 
 "
-url: "https://github.com/w181496/CTF/tree/master/0ctf2018_qual/EzDoor"
+external_url: "https://github.com/w181496/CTF/tree/master/0ctf2018_qual/EzDoor"
 category: "Miscellaneous"
 ---

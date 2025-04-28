@@ -3,6 +3,6 @@ title: "TryHackMe | Blueprint"
 description: "
  
 "
-url: "https://tryhackme.com/room/blueprint"
+external_url: "https://tryhackme.com/room/blueprint"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "duthils"
 description: ""
-url: "https://github.com/duthils"
+external_url: "https://github.com/duthils"
 category: "Miscellaneous"
 ---

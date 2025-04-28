@@ -1,6 +1,6 @@
 ---
 title: "Bitcoin Investigations"
 description: ""
-url: "https://research.oxt.me"
+external_url: "https://research.oxt.me"
 category: "Miscellaneous"
 ---

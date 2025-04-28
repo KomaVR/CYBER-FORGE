@@ -1,6 +1,6 @@
 ---
 title: "open-appsec"
 description: "is an open source machine-learning security engine that preemptively and automatically prevents threats against Web Application & APIs."
-url: "https://github.com/openappsec/openappsec"
+external_url: "https://github.com/openappsec/openappsec"
 category: "Web Exploitation"
 ---

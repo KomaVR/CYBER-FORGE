@@ -1,6 +1,6 @@
 ---
 title: "On-chain Analytics Archives"
 description: ""
-url: "https://collectiveshift.io/on-chain-analytics"
+external_url: "https://collectiveshift.io/on-chain-analytics"
 category: "Miscellaneous"
 ---

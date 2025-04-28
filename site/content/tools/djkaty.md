@@ -1,6 +1,6 @@
 ---
 title: "djkaty"
 description: ""
-url: "https://github.com/djkaty"
+external_url: "https://github.com/djkaty"
 category: "Miscellaneous"
 ---

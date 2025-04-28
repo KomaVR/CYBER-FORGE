@@ -1,6 +1,6 @@
 ---
 title: "enum4linux"
 description: "enum4Linux is a Linux alternative to enum.exe for enumerating data from Windows and Samba hosts.."
-url: "https://github.com/portcullislabs/enum4linux"
+external_url: "https://github.com/portcullislabs/enum4linux"
 category: "Miscellaneous"
 ---

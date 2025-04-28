@@ -1,6 +1,6 @@
 ---
 title: "nikoshell"
 description: ""
-url: "https://github.com/nikoshell"
+external_url: "https://github.com/nikoshell"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "iggykrajci"
 description: ""
-url: "https://github.com/iggykrajci"
+external_url: "https://github.com/iggykrajci"
 category: "Miscellaneous"
 ---

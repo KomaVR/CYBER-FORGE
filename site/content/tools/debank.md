@@ -1,6 +1,6 @@
 ---
 title: "DeBank"
 description: ""
-url: "https://debank.com/"
+external_url: "https://debank.com/"
 category: "Miscellaneous"
 ---

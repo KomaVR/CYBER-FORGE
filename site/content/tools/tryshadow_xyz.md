@@ -1,6 +1,6 @@
 ---
 title: "tryshadow.xyz"
 description: ""
-url: "https://tryshadow.xyz"
+external_url: "https://tryshadow.xyz"
 category: "Miscellaneous"
 ---

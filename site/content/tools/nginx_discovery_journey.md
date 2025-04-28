@@ -1,6 +1,6 @@
 ---
 title: "Nginx discovery journey"
 description: ""
-url: "http://www.nginx-discovery.com/"
+external_url: "http://www.nginx-discovery.com/"
 category: "Miscellaneous"
 ---

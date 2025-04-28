@@ -1,6 +1,6 @@
 ---
 title: "ReaderGRAM"
 description: ""
-url: "https://readergram.com/"
+external_url: "https://readergram.com/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "anthraxx"
 description: ""
-url: "https://github.com/anthraxx"
+external_url: "https://github.com/anthraxx"
 category: "Miscellaneous"
 ---

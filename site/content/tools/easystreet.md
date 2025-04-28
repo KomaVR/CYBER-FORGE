@@ -1,6 +1,6 @@
 ---
 title: "EasyStreet"
 description: ""
-url: "http://streeteasy.com"
+external_url: "http://streeteasy.com"
 category: "Miscellaneous"
 ---

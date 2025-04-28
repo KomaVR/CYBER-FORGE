@@ -6,6 +6,6 @@ description: "
 jpeg steganography solver
 
 "
-url: "https://github.com/lukechampine/jsteg"
+external_url: "https://github.com/lukechampine/jsteg"
 category: "Miscellaneous"
 ---

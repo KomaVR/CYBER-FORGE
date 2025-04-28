@@ -1,6 +1,6 @@
 ---
 title: "TrueSkrillor"
 description: ""
-url: "https://github.com/TrueSkrillor"
+external_url: "https://github.com/TrueSkrillor"
 category: "Miscellaneous"
 ---

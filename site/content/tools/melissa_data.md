@@ -1,6 +1,6 @@
 ---
 title: "Melissa Data"
 description: ""
-url: "http://www.melissadata.com/lookups/index.htm"
+external_url: "http://www.melissadata.com/lookups/index.htm"
 category: "Miscellaneous"
 ---

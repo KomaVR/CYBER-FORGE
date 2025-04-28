@@ -1,6 +1,6 @@
 ---
 title: "toXXSin"
 description: ""
-url: "https://github.com/toXXSin"
+external_url: "https://github.com/toXXSin"
 category: "Miscellaneous"
 ---

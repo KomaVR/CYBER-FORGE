@@ -1,6 +1,6 @@
 ---
 title: "FLIGHTVIEW FLIGHT TRACKER"
 description: ""
-url: "https://www.flightview.com/flighttracker/"
+external_url: "https://www.flightview.com/flighttracker/"
 category: "Miscellaneous"
 ---

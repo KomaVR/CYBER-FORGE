@@ -1,6 +1,6 @@
 ---
 title: "AugustoL"
 description: ""
-url: "https://github.com/AugustoL"
+external_url: "https://github.com/AugustoL"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "【免杀】nim_shellloader：nim 免杀，支持远程、本地、命令行加载 shellcode"
 description: ""
-url: "https://github.com/sh3d0ww01f/nim_shellloader"
+external_url: "https://github.com/sh3d0ww01f/nim_shellloader"
 category: "Miscellaneous"
 ---

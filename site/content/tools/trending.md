@@ -2,6 +2,6 @@
 title: "Trending"
 description: "
 "
-url: "https://github.com/trending"
+external_url: "https://github.com/trending"
 category: "Miscellaneous"
 ---

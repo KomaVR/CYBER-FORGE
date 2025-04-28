@@ -1,6 +1,6 @@
 ---
 title: "kubectx"
 description: "Using"
-url: "https://github.com/ahmetb/kubectx"
+external_url: "https://github.com/ahmetb/kubectx"
 category: "Miscellaneous"
 ---

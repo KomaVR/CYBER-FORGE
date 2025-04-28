@@ -1,6 +1,6 @@
 ---
 title: "Null Byte"
 description: ""
-url: "https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g"
+external_url: "https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g"
 category: "Miscellaneous"
 ---

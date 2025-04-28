@@ -1,6 +1,6 @@
 ---
 title: "Security Checklist"
 description: ""
-url: "https://securitycheckli.st/"
+external_url: "https://securitycheckli.st/"
 category: "Miscellaneous"
 ---

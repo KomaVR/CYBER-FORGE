@@ -1,6 +1,6 @@
 ---
 title: "https://learn.duffandphelps.com/kape"
 description: ""
-url: "https://learn.duffandphelps.com/kape"
+external_url: "https://learn.duffandphelps.com/kape"
 category: "Miscellaneous"
 ---

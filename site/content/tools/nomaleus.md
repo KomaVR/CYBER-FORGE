@@ -1,6 +1,6 @@
 ---
 title: "Nomaleus"
 description: ""
-url: "https://github.com/Nomaleus"
+external_url: "https://github.com/Nomaleus"
 category: "Miscellaneous"
 ---

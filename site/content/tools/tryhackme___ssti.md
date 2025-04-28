@@ -3,6 +3,6 @@ title: "TryHackMe | SSTI"
 description: "
  
 "
-url: "https://tryhackme.com/room/learnssti"
+external_url: "https://tryhackme.com/room/learnssti"
 category: "Miscellaneous"
 ---

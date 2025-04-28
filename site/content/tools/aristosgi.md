@@ -1,6 +1,6 @@
 ---
 title: "aristosgi"
 description: ""
-url: "https://github.com/aristosgi"
+external_url: "https://github.com/aristosgi"
 category: "Miscellaneous"
 ---

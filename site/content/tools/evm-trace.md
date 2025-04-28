@@ -1,6 +1,6 @@
 ---
 title: "evm-trace"
 description: ""
-url: "https://github.com/ApeWorX/evm-trace"
+external_url: "https://github.com/ApeWorX/evm-trace"
 category: "Miscellaneous"
 ---

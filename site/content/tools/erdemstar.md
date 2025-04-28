@@ -1,6 +1,6 @@
 ---
 title: "Erdemstar"
 description: ""
-url: "https://github.com/Erdemstar"
+external_url: "https://github.com/Erdemstar"
 category: "Miscellaneous"
 ---

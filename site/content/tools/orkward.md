@@ -1,6 +1,6 @@
 ---
 title: "OrkWard"
 description: ""
-url: "https://github.com/OrkWard"
+external_url: "https://github.com/OrkWard"
 category: "Miscellaneous"
 ---

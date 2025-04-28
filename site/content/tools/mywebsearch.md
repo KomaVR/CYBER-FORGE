@@ -1,6 +1,6 @@
 ---
 title: "MyWebSearch"
 description: ""
-url: "http://home.mywebsearch.com/"
+external_url: "http://home.mywebsearch.com/"
 category: "Web Exploitation"
 ---

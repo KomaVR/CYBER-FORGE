@@ -1,6 +1,6 @@
 ---
 title: "invidio"
 description: ""
-url: "https://invidio.site"
+external_url: "https://invidio.site"
 category: "Miscellaneous"
 ---

@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://www.spreadshirt.de/shop/user/emba+firmware+analyzer/#?affiliateId=1257693"
+external_url: "https://www.spreadshirt.de/shop/user/emba+firmware+analyzer/#?affiliateId=1257693"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "aeneasr"
 description: ""
-url: "https://github.com/aeneasr"
+external_url: "https://github.com/aeneasr"
 category: "Miscellaneous"
 ---

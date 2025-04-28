@@ -1,6 +1,6 @@
 ---
 title: "Kubernetes External Secrets"
 description: ""
-url: "https://www.godaddy.com/engineering/2019/04/16/kubernetes-external-secrets/"
+external_url: "https://www.godaddy.com/engineering/2019/04/16/kubernetes-external-secrets/"
 category: "Miscellaneous"
 ---

@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://opencollective.com/energizedprotection"
+external_url: "https://opencollective.com/energizedprotection"
 category: "Miscellaneous"
 ---

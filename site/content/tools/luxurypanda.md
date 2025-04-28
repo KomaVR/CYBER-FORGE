@@ -1,6 +1,6 @@
 ---
 title: "LuxuryPanda"
 description: ""
-url: "https://github.com/LuxuryPanda"
+external_url: "https://github.com/LuxuryPanda"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "SangramChavan"
 description: ""
-url: "https://github.com/SangramChavan"
+external_url: "https://github.com/SangramChavan"
 category: "Miscellaneous"
 ---

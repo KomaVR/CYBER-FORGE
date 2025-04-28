@@ -1,6 +1,6 @@
 ---
 title: "sidneyp"
 description: ""
-url: "https://github.com/sidneyp"
+external_url: "https://github.com/sidneyp"
 category: "Miscellaneous"
 ---

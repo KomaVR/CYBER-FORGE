@@ -1,6 +1,6 @@
 ---
 title: "nasbench"
 description: ""
-url: "https://github.com/nasbench"
+external_url: "https://github.com/nasbench"
 category: "Miscellaneous"
 ---

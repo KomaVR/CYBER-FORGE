@@ -1,6 +1,6 @@
 ---
 title: "CommandLineParser"
 description: ""
-url: "https://github.com/commandlineparser/commandline"
+external_url: "https://github.com/commandlineparser/commandline"
 category: "Miscellaneous"
 ---

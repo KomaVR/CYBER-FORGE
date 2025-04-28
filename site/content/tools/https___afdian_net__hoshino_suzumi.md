@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://afdian.net/@hoshino_suzumi"
+external_url: "https://afdian.net/@hoshino_suzumi"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Transmission Control Protocol ( rfc793 )"
 description: ""
-url: "https://tools.ietf.org/rfc/rfc793.txt"
+external_url: "https://tools.ietf.org/rfc/rfc793.txt"
 category: "Miscellaneous"
 ---

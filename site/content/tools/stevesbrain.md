@@ -1,6 +1,6 @@
 ---
 title: "stevesbrain"
 description: ""
-url: "https://github.com/stevesbrain"
+external_url: "https://github.com/stevesbrain"
 category: "Miscellaneous"
 ---

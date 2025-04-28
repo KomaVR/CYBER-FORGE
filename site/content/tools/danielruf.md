@@ -1,6 +1,6 @@
 ---
 title: "DanielRuf"
 description: ""
-url: "https://github.com/DanielRuf"
+external_url: "https://github.com/DanielRuf"
 category: "Miscellaneous"
 ---

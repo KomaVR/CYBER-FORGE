@@ -1,6 +1,6 @@
 ---
 title: "pguizeline"
 description: ""
-url: "https://github.com/pguizeline"
+external_url: "https://github.com/pguizeline"
 category: "Miscellaneous"
 ---

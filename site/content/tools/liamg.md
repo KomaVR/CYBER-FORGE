@@ -1,6 +1,6 @@
 ---
 title: "liamg"
 description: ""
-url: "https://github.com/liamg"
+external_url: "https://github.com/liamg"
 category: "Miscellaneous"
 ---

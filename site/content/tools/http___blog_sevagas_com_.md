@@ -1,6 +1,6 @@
 ---
 title: "http://blog.sevagas.com/?Hacking-around-HTA-files"
 description: "(run hta code in non-hta files and hta polyglots)"
-url: "http://blog.sevagas.com/?Hacking-around-HTA-files"
+external_url: "http://blog.sevagas.com/?Hacking-around-HTA-files"
 category: "Miscellaneous"
 ---

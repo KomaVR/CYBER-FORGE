@@ -9,6 +9,6 @@ ActiveDirectory BloodHound - Medium
 ActiveDirectory Enumeration & Attacks - Medium
 
 "
-url: "https://academy.hackthebox.com/module/details/74"
+external_url: "https://academy.hackthebox.com/module/details/74"
 category: "Miscellaneous"
 ---

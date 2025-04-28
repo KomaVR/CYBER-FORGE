@@ -1,6 +1,6 @@
 ---
 title: "theflakes/ultimate-forensics-vm"
 description: "[115星][1y] [Shell]  Evolving directions on building the best Open Source Forensics VM"
-url: "https://github.com/theflakes/ultimate-forensics-vm"
+external_url: "https://github.com/theflakes/ultimate-forensics-vm"
 category: "Malware Analysis"
 ---

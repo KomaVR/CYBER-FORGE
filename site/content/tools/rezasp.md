@@ -1,6 +1,6 @@
 ---
 title: "rezasp"
 description: ""
-url: "https://github.com/rezasp"
+external_url: "https://github.com/rezasp"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Barkov.net"
 description: ""
-url: "http://vk.barkov.net"
+external_url: "http://vk.barkov.net"
 category: "Miscellaneous"
 ---

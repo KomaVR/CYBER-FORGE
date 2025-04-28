@@ -1,6 +1,6 @@
 ---
 title: "kasutu"
 description: ""
-url: "https://github.com/kasutu"
+external_url: "https://github.com/kasutu"
 category: "Miscellaneous"
 ---

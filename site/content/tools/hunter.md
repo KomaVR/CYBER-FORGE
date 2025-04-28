@@ -1,6 +1,6 @@
 ---
 title: "Hunter"
 description: ""
-url: "https://hunter.qianxin.com"
+external_url: "https://hunter.qianxin.com"
 category: "Miscellaneous"
 ---

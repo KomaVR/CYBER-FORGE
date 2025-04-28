@@ -1,6 +1,6 @@
 ---
 title: "BoynChan"
 description: ""
-url: "https://github.com/BoynChan"
+external_url: "https://github.com/BoynChan"
 category: "Miscellaneous"
 ---

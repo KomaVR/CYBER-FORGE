@@ -1,6 +1,6 @@
 ---
 title: "AngelKitty"
 description: ""
-url: "https://github.com/AngelKitty"
+external_url: "https://github.com/AngelKitty"
 category: "Miscellaneous"
 ---

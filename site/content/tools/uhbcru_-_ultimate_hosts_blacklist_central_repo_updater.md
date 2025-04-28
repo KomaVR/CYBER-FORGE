@@ -5,6 +5,6 @@ description: "
 The tool to update this repository.
 
 "
-url: "https://pypi.org/project/ultimate-hosts-blacklist-central-repo-updater/"
+external_url: "https://pypi.org/project/ultimate-hosts-blacklist-central-repo-updater/"
 category: "Miscellaneous"
 ---

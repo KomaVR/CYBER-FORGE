@@ -1,6 +1,6 @@
 ---
 title: "jtool2"
 description: ""
-url: "https://www.newosxbook.com/tools/jtool.html"
+external_url: "https://www.newosxbook.com/tools/jtool.html"
 category: "Miscellaneous"
 ---

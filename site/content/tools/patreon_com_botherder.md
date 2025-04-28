@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://patreon.com/botherder"
+external_url: "https://patreon.com/botherder"
 category: "Miscellaneous"
 ---

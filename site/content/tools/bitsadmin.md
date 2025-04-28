@@ -1,6 +1,6 @@
 ---
 title: "bitsadmin"
 description: ""
-url: "https://github.com/bitsadmin"
+external_url: "https://github.com/bitsadmin"
 category: "Miscellaneous"
 ---

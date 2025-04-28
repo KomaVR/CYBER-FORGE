@@ -6,6 +6,6 @@ description: "
 php eval
 
 "
-url: "https://3v4l.org/"
+external_url: "https://3v4l.org/"
 category: "Miscellaneous"
 ---

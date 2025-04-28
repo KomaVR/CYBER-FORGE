@@ -1,6 +1,6 @@
 ---
 title: "SimilarPages"
 description: ""
-url: "http://www.similarpages.com/"
+external_url: "http://www.similarpages.com/"
 category: "Miscellaneous"
 ---

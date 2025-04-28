@@ -1,6 +1,6 @@
 ---
 title: "vixentael"
 description: ""
-url: "https://github.com/vixentael"
+external_url: "https://github.com/vixentael"
 category: "Miscellaneous"
 ---

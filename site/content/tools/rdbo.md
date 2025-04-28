@@ -1,6 +1,6 @@
 ---
 title: "rdbo"
 description: ""
-url: "https://github.com/rdbo"
+external_url: "https://github.com/rdbo"
 category: "Miscellaneous"
 ---

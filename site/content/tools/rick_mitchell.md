@@ -1,6 +1,6 @@
 ---
 title: "Rick Mitchell"
 description: ""
-url: "https://github.com/kingthorin"
+external_url: "https://github.com/kingthorin"
 category: "Miscellaneous"
 ---

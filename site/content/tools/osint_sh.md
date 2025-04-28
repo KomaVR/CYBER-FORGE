@@ -1,6 +1,6 @@
 ---
 title: "osint.sh"
 description: ""
-url: "https://osint.sh"
+external_url: "https://osint.sh"
 category: "OSINT & Recon"
 ---

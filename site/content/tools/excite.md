@@ -1,6 +1,6 @@
 ---
 title: "Excite"
 description: ""
-url: "http://msxml.excite.com/"
+external_url: "http://msxml.excite.com/"
 category: "Miscellaneous"
 ---

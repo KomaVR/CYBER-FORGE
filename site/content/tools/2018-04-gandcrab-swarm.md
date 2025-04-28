@@ -8,6 +8,6 @@ Additional Extracted Macros: VBAs
 Obfuscated JavaScript payloads: JS
 
 "
-url: "http://blog.inquest.net/blog/2018/04/17/gandcrab-swarm/"
+external_url: "http://blog.inquest.net/blog/2018/04/17/gandcrab-swarm/"
 category: "Black Hat Tools"
 ---

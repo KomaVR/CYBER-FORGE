@@ -1,6 +1,6 @@
 ---
 title: "charts.cointrader.pro"
 description: ""
-url: "https://charts.cointrader.pro"
+external_url: "https://charts.cointrader.pro"
 category: "Miscellaneous"
 ---

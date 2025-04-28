@@ -1,6 +1,6 @@
 ---
 title: "syzzer"
 description: ""
-url: "https://github.com/syzzer"
+external_url: "https://github.com/syzzer"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "APriestman"
 description: ""
-url: "https://github.com/APriestman"
+external_url: "https://github.com/APriestman"
 category: "Miscellaneous"
 ---

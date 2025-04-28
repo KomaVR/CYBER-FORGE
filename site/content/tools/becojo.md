@@ -1,6 +1,6 @@
 ---
 title: "becojo"
 description: ""
-url: "https://github.com/becojo"
+external_url: "https://github.com/becojo"
 category: "Miscellaneous"
 ---

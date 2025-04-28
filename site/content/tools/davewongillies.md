@@ -1,6 +1,6 @@
 ---
 title: "davewongillies"
 description: ""
-url: "https://github.com/davewongillies"
+external_url: "https://github.com/davewongillies"
 category: "Miscellaneous"
 ---

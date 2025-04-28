@@ -1,6 +1,6 @@
 ---
 title: "outime"
 description: ""
-url: "https://github.com/outime"
+external_url: "https://github.com/outime"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "SamboyCoding"
 description: ""
-url: "https://github.com/SamboyCoding"
+external_url: "https://github.com/SamboyCoding"
 category: "Miscellaneous"
 ---

@@ -17,6 +17,6 @@ Most of the prerequisite packages listed above for Debian 10 / Ubuntu 20.04 (or 
 
 
 "
-url: "https://docs.microsoft.com/en-us/windows/wsl/about"
+external_url: "https://docs.microsoft.com/en-us/windows/wsl/about"
 category: "Reverse Engineering"
 ---

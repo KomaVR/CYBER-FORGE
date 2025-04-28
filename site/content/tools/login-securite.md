@@ -1,6 +1,6 @@
 ---
 title: "login-securite"
 description: "DonPAPI"
-url: "https://github.com/login-securite"
+external_url: "https://github.com/login-securite"
 category: "Miscellaneous"
 ---

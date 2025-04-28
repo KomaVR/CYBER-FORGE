@@ -1,6 +1,6 @@
 ---
 title: "RistBS"
 description: ""
-url: "https://github.com/RistBS"
+external_url: "https://github.com/RistBS"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "ens.vision"
 description: ""
-url: "https://ens.vision"
+external_url: "https://ens.vision"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "AaronOpfer"
 description: ""
-url: "https://github.com/AaronOpfer"
+external_url: "https://github.com/AaronOpfer"
 category: "Miscellaneous"
 ---

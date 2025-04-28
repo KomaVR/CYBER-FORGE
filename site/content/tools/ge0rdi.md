@@ -1,6 +1,6 @@
 ---
 title: "ge0rdi"
 description: ""
-url: "https://github.com/ge0rdi"
+external_url: "https://github.com/ge0rdi"
 category: "Miscellaneous"
 ---

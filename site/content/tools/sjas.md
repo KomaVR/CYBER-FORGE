@@ -1,6 +1,6 @@
 ---
 title: "sjas"
 description: ""
-url: "https://github.com/sjas"
+external_url: "https://github.com/sjas"
 category: "Miscellaneous"
 ---

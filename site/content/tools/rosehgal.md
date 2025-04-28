@@ -1,6 +1,6 @@
 ---
 title: "rosehgal"
 description: ""
-url: "https://github.com/rosehgal"
+external_url: "https://github.com/rosehgal"
 category: "Miscellaneous"
 ---

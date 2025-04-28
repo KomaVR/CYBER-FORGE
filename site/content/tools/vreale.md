@@ -1,6 +1,6 @@
 ---
 title: "vreale"
 description: ""
-url: "http://vreale.net"
+external_url: "http://vreale.net"
 category: "Miscellaneous"
 ---

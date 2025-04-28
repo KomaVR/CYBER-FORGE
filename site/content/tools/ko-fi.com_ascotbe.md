@@ -8,7 +8,7 @@ description: "
 
 
 "
-url: "https://ko-fi.com/ascotbe"
+external_url: "https://ko-fi.com/ascotbe"
 category: "Miscellaneous"
 ---
 

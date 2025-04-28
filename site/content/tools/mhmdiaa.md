@@ -1,6 +1,6 @@
 ---
 title: "mhmdiaa"
 description: ""
-url: "https://github.com/mhmdiaa"
+external_url: "https://github.com/mhmdiaa"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Journal Seek"
 description: ""
-url: "http://journalseek.net"
+external_url: "http://journalseek.net"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "pedrokiefer"
 description: ""
-url: "https://github.com/pedrokiefer"
+external_url: "https://github.com/pedrokiefer"
 category: "Miscellaneous"
 ---

@@ -4,6 +4,6 @@ description: "
 CREATOR
 --- Jose Pino -  - (Security Researcher)
 "
-url: "https://twitter.com/jofpin"
+external_url: "https://twitter.com/jofpin"
 category: "Miscellaneous"
 ---

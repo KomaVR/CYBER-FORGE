@@ -1,6 +1,6 @@
 ---
 title: "llazzaro"
 description: ""
-url: "https://github.com/llazzaro"
+external_url: "https://github.com/llazzaro"
 category: "Miscellaneous"
 ---

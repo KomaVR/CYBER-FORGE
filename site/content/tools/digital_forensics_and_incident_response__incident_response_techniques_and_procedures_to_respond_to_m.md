@@ -3,6 +3,6 @@ title: "Digital Forensics and Incident Response: Incident response techniques an
 description: "
  - by Gerard Johansen.
 "
-url: "https://www.amazon.com/Digital-Forensics-Incident-Response-techniques/dp/183864900X"
+external_url: "https://www.amazon.com/Digital-Forensics-Incident-Response-techniques/dp/183864900X"
 category: "Malware Analysis"
 ---

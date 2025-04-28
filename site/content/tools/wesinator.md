@@ -1,6 +1,6 @@
 ---
 title: "wesinator"
 description: ""
-url: "https://github.com/wesinator"
+external_url: "https://github.com/wesinator"
 category: "Miscellaneous"
 ---

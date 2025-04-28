@@ -19,6 +19,6 @@ and check to make sure that only the key(s) you wanted were added.
 
 
 "
-url: "https://en.wikipedia.org/wiki/Man-in-the-middle_attack"
+external_url: "https://en.wikipedia.org/wiki/Man-in-the-middle_attack"
 category: "Miscellaneous"
 ---

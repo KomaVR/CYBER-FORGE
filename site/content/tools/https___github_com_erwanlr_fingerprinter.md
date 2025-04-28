@@ -3,6 +3,6 @@ title: "https://github.com/erwanlr/Fingerprinter"
 description: "
 
 "
-url: "https://github.com/erwanlr/Fingerprinter"
+external_url: "https://github.com/erwanlr/Fingerprinter"
 category: "Miscellaneous"
 ---

@@ -5,6 +5,6 @@ description: "SHA-256 Hash of Signing Certificate: B3:53:60:1F:6A:1D:5F:D6:60:3A
 Note: The above signature is also valid for the F-Droid flavour of Obtainium, thanks to .
 
 "
-url: "https://f-droid.org/docs/Reproducible_Builds/"
+external_url: "https://f-droid.org/docs/Reproducible_Builds/"
 category: "Password Cracking"
 ---

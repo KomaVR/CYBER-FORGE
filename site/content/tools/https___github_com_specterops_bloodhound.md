@@ -12,6 +12,6 @@ https://github.com/NH-RED-TEAM/RustHound
 https://github.com/FalconForceTeam/SOAPHound
 
 "
-url: "https://github.com/SpecterOps/BloodHound"
+external_url: "https://github.com/SpecterOps/BloodHound"
 category: "Miscellaneous"
 ---

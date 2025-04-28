@@ -1,6 +1,6 @@
 ---
 title: "Redective"
 description: ""
-url: "http://www.redective.com/"
+external_url: "http://www.redective.com/"
 category: "Miscellaneous"
 ---

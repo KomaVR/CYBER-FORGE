@@ -12,6 +12,6 @@ CVSS
 WASC
 
 "
-url: "http://cve.mitre.org"
+external_url: "http://cve.mitre.org"
 category: "Miscellaneous"
 ---

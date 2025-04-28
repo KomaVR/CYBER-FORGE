@@ -1,6 +1,6 @@
 ---
 title: "Medium"
 description: ""
-url: "https://medium.com/"
+external_url: "https://medium.com/"
 category: "Miscellaneous"
 ---

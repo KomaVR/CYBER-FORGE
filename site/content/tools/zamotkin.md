@@ -1,6 +1,6 @@
 ---
 title: "zamotkin"
 description: ""
-url: "https://github.com/zamotkin"
+external_url: "https://github.com/zamotkin"
 category: "Miscellaneous"
 ---

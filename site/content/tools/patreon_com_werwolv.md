@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://patreon.com/werwolv"
+external_url: "https://patreon.com/werwolv"
 category: "Miscellaneous"
 ---

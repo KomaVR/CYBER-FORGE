@@ -1,6 +1,6 @@
 ---
 title: "dannye"
 description: ""
-url: "https://github.com/dannye"
+external_url: "https://github.com/dannye"
 category: "Miscellaneous"
 ---

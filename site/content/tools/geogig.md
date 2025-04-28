@@ -1,6 +1,6 @@
 ---
 title: "GeoGig"
 description: ""
-url: "http://geogig.org"
+external_url: "http://geogig.org"
 category: "Miscellaneous"
 ---

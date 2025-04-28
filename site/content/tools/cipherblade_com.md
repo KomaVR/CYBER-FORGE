@@ -1,6 +1,6 @@
 ---
 title: "cipherblade.com"
 description: ""
-url: "https://cipherblade.com"
+external_url: "https://cipherblade.com"
 category: "Miscellaneous"
 ---

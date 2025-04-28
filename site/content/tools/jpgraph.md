@@ -1,6 +1,6 @@
 ---
 title: "JpGraph"
 description: ""
-url: "http://jpgraph.net"
+external_url: "http://jpgraph.net"
 category: "Miscellaneous"
 ---

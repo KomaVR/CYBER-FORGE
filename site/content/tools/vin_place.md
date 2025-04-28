@@ -1,6 +1,6 @@
 ---
 title: "Vin Place"
 description: ""
-url: "http://vin.place"
+external_url: "http://vin.place"
 category: "Miscellaneous"
 ---

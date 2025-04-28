@@ -1,6 +1,6 @@
 ---
 title: "weitieda"
 description: ""
-url: "https://github.com/weitieda"
+external_url: "https://github.com/weitieda"
 category: "Miscellaneous"
 ---

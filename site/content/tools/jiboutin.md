@@ -1,6 +1,6 @@
 ---
 title: "jiboutin"
 description: ""
-url: "https://github.com/jiboutin"
+external_url: "https://github.com/jiboutin"
 category: "Miscellaneous"
 ---

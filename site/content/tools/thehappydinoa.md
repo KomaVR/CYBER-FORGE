@@ -1,6 +1,6 @@
 ---
 title: "thehappydinoa"
 description: ""
-url: "https://github.com/thehappydinoa"
+external_url: "https://github.com/thehappydinoa"
 category: "Miscellaneous"
 ---

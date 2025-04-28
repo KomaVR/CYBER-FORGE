@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://yoomoney.ru/to/4100111364257544"
+external_url: "https://yoomoney.ru/to/4100111364257544"
 category: "Miscellaneous"
 ---

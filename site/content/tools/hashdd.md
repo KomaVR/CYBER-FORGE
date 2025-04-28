@@ -1,6 +1,6 @@
 ---
 title: "Hashdd"
 description: "Known Good Cryptographic Hashes"
-url: "https://hashdd.com/"
+external_url: "https://hashdd.com/"
 category: "Password Cracking"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Pingroupie"
 description: ""
-url: "http://pingroupie.com"
+external_url: "http://pingroupie.com"
 category: "Miscellaneous"
 ---

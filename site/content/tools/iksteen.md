@@ -1,6 +1,6 @@
 ---
 title: "iksteen"
 description: ""
-url: "https://github.com/iksteen"
+external_url: "https://github.com/iksteen"
 category: "Miscellaneous"
 ---

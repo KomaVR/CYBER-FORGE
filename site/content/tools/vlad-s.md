@@ -1,6 +1,6 @@
 ---
 title: "vlad-s"
 description: ""
-url: "https://github.com/vlad-s"
+external_url: "https://github.com/vlad-s"
 category: "Miscellaneous"
 ---

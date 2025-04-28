@@ -1,6 +1,6 @@
 ---
 title: "dnspython"
 description: ""
-url: "http://www.dnspython.org/"
+external_url: "http://www.dnspython.org/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "tracktx.io"
 description: ""
-url: "http://tracktx.io"
+external_url: "http://tracktx.io"
 category: "Miscellaneous"
 ---

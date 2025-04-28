@@ -1,6 +1,6 @@
 ---
 title: "arnasab"
 description: ""
-url: "https://github.com/arnasab"
+external_url: "https://github.com/arnasab"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "StegoIntelligence"
 description: ""
-url: "https://github.com/CScorza/StegoIntelligence"
+external_url: "https://github.com/CScorza/StegoIntelligence"
 category: "Miscellaneous"
 ---

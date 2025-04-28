@@ -1,6 +1,6 @@
 ---
 title: "http://zerodayinitiative.com/advisories/published/"
 description: ""
-url: "http://zerodayinitiative.com/advisories/published/"
+external_url: "http://zerodayinitiative.com/advisories/published/"
 category: "Miscellaneous"
 ---

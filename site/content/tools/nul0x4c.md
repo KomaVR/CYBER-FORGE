@@ -1,6 +1,6 @@
 ---
 title: "NUL0x4C"
 description: ""
-url: "https://github.com/NUL0x4C"
+external_url: "https://github.com/NUL0x4C"
 category: "Miscellaneous"
 ---

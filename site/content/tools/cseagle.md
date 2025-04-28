@@ -1,6 +1,6 @@
 ---
 title: "cseagle"
 description: ""
-url: "https://github.com/cseagle"
+external_url: "https://github.com/cseagle"
 category: "Miscellaneous"
 ---

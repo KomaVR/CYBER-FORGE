@@ -1,6 +1,6 @@
 ---
 title: "Yahoo Groups"
 description: ""
-url: "https://groups.yahoo.com"
+external_url: "https://groups.yahoo.com"
 category: "Miscellaneous"
 ---

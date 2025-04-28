@@ -1,6 +1,6 @@
 ---
 title: "midomi"
 description: ""
-url: "https://www.midomi.com/"
+external_url: "https://www.midomi.com/"
 category: "Miscellaneous"
 ---

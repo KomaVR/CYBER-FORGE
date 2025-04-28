@@ -1,6 +1,6 @@
 ---
 title: "Stealing Rembrandts: The Untold Stories of Notorious Art Heists"
 description: ""
-url: "https://www.amazon.com/Stealing-Rembrandts-Untold-Stories-Notorious/dp/0230339905"
+external_url: "https://www.amazon.com/Stealing-Rembrandts-Untold-Stories-Notorious/dp/0230339905"
 category: "Miscellaneous"
 ---

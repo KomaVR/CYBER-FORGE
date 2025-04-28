@@ -1,6 +1,6 @@
 ---
 title: "bee-san"
 description: ""
-url: "https://github.com/bee-san"
+external_url: "https://github.com/bee-san"
 category: "Miscellaneous"
 ---

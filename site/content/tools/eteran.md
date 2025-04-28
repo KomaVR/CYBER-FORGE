@@ -1,6 +1,6 @@
 ---
 title: "eteran"
 description: ""
-url: "https://github.com/eteran"
+external_url: "https://github.com/eteran"
 category: "Miscellaneous"
 ---

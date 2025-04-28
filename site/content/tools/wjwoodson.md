@@ -1,6 +1,6 @@
 ---
 title: "wjwoodson"
 description: ""
-url: "https://github.com/wjwoodson"
+external_url: "https://github.com/wjwoodson"
 category: "Miscellaneous"
 ---

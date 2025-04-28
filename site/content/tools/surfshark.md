@@ -1,6 +1,6 @@
 ---
 title: "SurfShark"
 description: ""
-url: "https://surfshark.com/"
+external_url: "https://surfshark.com/"
 category: "Miscellaneous"
 ---

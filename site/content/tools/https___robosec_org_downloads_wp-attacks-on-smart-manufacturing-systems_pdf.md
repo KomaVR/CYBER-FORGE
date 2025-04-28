@@ -3,6 +3,6 @@ title: "https://robosec.org/downloads/wp-attacks-on-smart-manufacturing-systems.
 description: "
 Attacks on Smart Manufacturing Systems A Forward-looking Security Analysis  ↩ ↩2
 "
-url: "https://robosec.org/downloads/wp-attacks-on-smart-manufacturing-systems.pdf"
+external_url: "https://robosec.org/downloads/wp-attacks-on-smart-manufacturing-systems.pdf"
 category: "Miscellaneous"
 ---

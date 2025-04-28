@@ -1,6 +1,6 @@
 ---
 title: "warptangent"
 description: ""
-url: "https://github.com/warptangent"
+external_url: "https://github.com/warptangent"
 category: "Miscellaneous"
 ---

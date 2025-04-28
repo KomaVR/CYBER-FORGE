@@ -1,6 +1,6 @@
 ---
 title: "bplaxco"
 description: ""
-url: "https://github.com/bplaxco"
+external_url: "https://github.com/bplaxco"
 category: "Miscellaneous"
 ---

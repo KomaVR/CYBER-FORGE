@@ -3,6 +3,6 @@ title: "TryHackMe | GoldenEye"
 description: "
  
 "
-url: "https://tryhackme.com/room/goldeneye"
+external_url: "https://tryhackme.com/room/goldeneye"
 category: "Miscellaneous"
 ---

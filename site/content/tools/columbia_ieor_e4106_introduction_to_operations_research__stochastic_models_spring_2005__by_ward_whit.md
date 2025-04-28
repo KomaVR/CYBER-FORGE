@@ -1,6 +1,6 @@
 ---
 title: "Columbia IEOR E4106 Introduction to Operations Research: Stochastic Models spring 2005, by Ward Whitt"
 description: ""
-url: "https://www.youtube.com/playlist?list=PLIygTcviGPKDJMIOWQcnSSzKDFOG_dF4r"
+external_url: "https://www.youtube.com/playlist?list=PLIygTcviGPKDJMIOWQcnSSzKDFOG_dF4r"
 category: "Miscellaneous"
 ---

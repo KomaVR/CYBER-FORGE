@@ -1,6 +1,6 @@
 ---
 title: "adrianherrera"
 description: ""
-url: "https://github.com/adrianherrera"
+external_url: "https://github.com/adrianherrera"
 category: "Miscellaneous"
 ---

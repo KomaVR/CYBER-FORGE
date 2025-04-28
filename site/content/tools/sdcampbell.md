@@ -1,6 +1,6 @@
 ---
 title: "sdcampbell"
 description: ""
-url: "https://github.com/sdcampbell"
+external_url: "https://github.com/sdcampbell"
 category: "Miscellaneous"
 ---

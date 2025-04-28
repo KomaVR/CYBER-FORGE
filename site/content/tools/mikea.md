@@ -1,6 +1,6 @@
 ---
 title: "mikea"
 description: ""
-url: "https://github.com/mikea"
+external_url: "https://github.com/mikea"
 category: "Miscellaneous"
 ---

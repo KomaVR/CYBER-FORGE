@@ -1,6 +1,6 @@
 ---
 title: "ranlo"
 description: ""
-url: "https://github.com/ranlo"
+external_url: "https://github.com/ranlo"
 category: "Miscellaneous"
 ---

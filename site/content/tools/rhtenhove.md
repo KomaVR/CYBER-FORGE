@@ -1,6 +1,6 @@
 ---
 title: "rhtenhove"
 description: ""
-url: "https://github.com/rhtenhove"
+external_url: "https://github.com/rhtenhove"
 category: "Miscellaneous"
 ---

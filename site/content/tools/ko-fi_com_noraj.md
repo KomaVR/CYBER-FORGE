@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://ko-fi.com/noraj"
+external_url: "https://ko-fi.com/noraj"
 category: "Miscellaneous"
 ---

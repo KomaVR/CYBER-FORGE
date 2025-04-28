@@ -1,6 +1,6 @@
 ---
 title: "nathants"
 description: ""
-url: "https://github.com/nathants"
+external_url: "https://github.com/nathants"
 category: "Miscellaneous"
 ---

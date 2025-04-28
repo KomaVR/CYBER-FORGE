@@ -9,6 +9,6 @@ Tool:
 e.g. CTFZone 2019 qual - Catcontrol
 
 "
-url: "https://github.com/pimps/gopher-tomcat-deployer"
+external_url: "https://github.com/pimps/gopher-tomcat-deployer"
 category: "Miscellaneous"
 ---

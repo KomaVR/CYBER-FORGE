@@ -1,6 +1,6 @@
 ---
 title: "EvanHahn"
 description: ""
-url: "https://github.com/EvanHahn"
+external_url: "https://github.com/EvanHahn"
 category: "Miscellaneous"
 ---

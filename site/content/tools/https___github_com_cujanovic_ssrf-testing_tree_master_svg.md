@@ -8,6 +8,6 @@ More payload:
 Bug Bounty Example: https://hackerone.com/reports/223203
 
 "
-url: "https://github.com/cujanovic/SSRF-Testing/tree/master/svg"
+external_url: "https://github.com/cujanovic/SSRF-Testing/tree/master/svg"
 category: "Black Hat Tools"
 ---

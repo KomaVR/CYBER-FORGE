@@ -1,6 +1,6 @@
 ---
 title: "Security Economics"
 description: "here's the transcript"
-url: "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/lecture-23-security-economics/"
+external_url: "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/lecture-23-security-economics/"
 category: "Miscellaneous"
 ---

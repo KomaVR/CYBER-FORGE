@@ -1,6 +1,6 @@
 ---
 title: "Intro to Quantum Computing - Nathan Wiebe"
 description: ""
-url: "https://www.youtube.com/channel/UCYpyuTbBhQ2FvTmVLL6b3zA/videos"
+external_url: "https://www.youtube.com/channel/UCYpyuTbBhQ2FvTmVLL6b3zA/videos"
 category: "Miscellaneous"
 ---

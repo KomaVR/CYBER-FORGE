@@ -13,6 +13,6 @@ e.g. DCTF 2018 final,
 Example Payload: Link
 
 "
-url: "https://github.com/w181496/CTF/blob/master/fbctf2019/pdfme/README_en.md"
+external_url: "https://github.com/w181496/CTF/blob/master/fbctf2019/pdfme/README_en.md"
 category: "Black Hat Tools"
 ---

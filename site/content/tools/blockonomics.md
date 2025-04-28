@@ -1,6 +1,6 @@
 ---
 title: "Blockonomics"
 description: ""
-url: "https://www.blockonomics.co"
+external_url: "https://www.blockonomics.co"
 category: "Miscellaneous"
 ---

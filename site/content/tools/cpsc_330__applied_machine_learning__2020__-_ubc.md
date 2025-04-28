@@ -1,6 +1,6 @@
 ---
 title: "CPSC 330: Applied Machine Learning (2020) - UBC"
 description: ""
-url: "https://www.youtube.com/playlist?list=PLWmXHcz_53Q2BXsWviGgEqdlSHmfsjSzC"
+external_url: "https://www.youtube.com/playlist?list=PLWmXHcz_53Q2BXsWviGgEqdlSHmfsjSzC"
 category: "Miscellaneous"
 ---

@@ -11,6 +11,6 @@ Raspbian (testing)
 sudo apt update && sudo apt install asn
 
 "
-url: "https://github.com/odaydebian"
+external_url: "https://github.com/odaydebian"
 category: "Miscellaneous"
 ---

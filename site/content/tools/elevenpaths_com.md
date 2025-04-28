@@ -1,6 +1,6 @@
 ---
 title: "elevenpaths.com"
 description: "Foca. Metadata extraction tool"
-url: "https://www.elevenpaths.com/labstools/foca/index.html"
+external_url: "https://www.elevenpaths.com/labstools/foca/index.html"
 category: "Miscellaneous"
 ---

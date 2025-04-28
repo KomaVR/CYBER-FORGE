@@ -1,6 +1,6 @@
 ---
 title: "vicferpoy"
 description: ""
-url: "https://github.com/vicferpoy"
+external_url: "https://github.com/vicferpoy"
 category: "Miscellaneous"
 ---

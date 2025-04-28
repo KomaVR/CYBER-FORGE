@@ -1,6 +1,6 @@
 ---
 title: "Willianvdv"
 description: ""
-url: "https://github.com/Willianvdv"
+external_url: "https://github.com/Willianvdv"
 category: "Miscellaneous"
 ---

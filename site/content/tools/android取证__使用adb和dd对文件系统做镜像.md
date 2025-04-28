@@ -1,6 +1,6 @@
 ---
 title: "Android取证: 使用ADB和DD对文件系统做镜像"
 description: "2018.12 [andreafortuna]"
-url: "https://www.andreafortuna.org/dfir/android-forensics-imaging-android-file-system-using-adb-and-dd/"
+external_url: "https://www.andreafortuna.org/dfir/android-forensics-imaging-android-file-system-using-adb-and-dd/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "That’sThem"
 description: ""
-url: "https://thatsthem.com/"
+external_url: "https://thatsthem.com/"
 category: "Miscellaneous"
 ---

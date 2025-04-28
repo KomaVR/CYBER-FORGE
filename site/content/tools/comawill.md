@@ -1,6 +1,6 @@
 ---
 title: "comawill"
 description: ""
-url: "https://github.com/comawill"
+external_url: "https://github.com/comawill"
 category: "Miscellaneous"
 ---

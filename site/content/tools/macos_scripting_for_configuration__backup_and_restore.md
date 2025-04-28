@@ -10,6 +10,6 @@ it updates the hosts file every x days (default is 4). To install both,
 download the GitHub repo and run the
 install script
 from the directory one level up."
-url: "https://github.com/tiiiecherle/osx_install_config"
+external_url: "https://github.com/tiiiecherle/osx_install_config"
 category: "Miscellaneous"
 ---

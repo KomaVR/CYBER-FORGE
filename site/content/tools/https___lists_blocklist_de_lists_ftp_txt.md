@@ -1,6 +1,6 @@
 ---
 title: "https://lists.blocklist.de/lists/ftp.txt"
 description: ""
-url: "https://lists.blocklist.de/lists/ftp.txt"
+external_url: "https://lists.blocklist.de/lists/ftp.txt"
 category: "Miscellaneous"
 ---

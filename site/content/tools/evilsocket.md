@@ -1,6 +1,6 @@
 ---
 title: "evilsocket"
 description: ""
-url: "https://github.com/evilsocket"
+external_url: "https://github.com/evilsocket"
 category: "Black Hat Tools"
 ---

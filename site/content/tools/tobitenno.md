@@ -1,6 +1,6 @@
 ---
 title: "TobiTenno"
 description: ""
-url: "https://github.com/TobiTenno"
+external_url: "https://github.com/TobiTenno"
 category: "Miscellaneous"
 ---

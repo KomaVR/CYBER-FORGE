@@ -1,6 +1,6 @@
 ---
 title: "ViewDNS"
 description: ""
-url: "http://viewdns.info/"
+external_url: "http://viewdns.info/"
 category: "Miscellaneous"
 ---

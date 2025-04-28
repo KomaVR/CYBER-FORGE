@@ -1,6 +1,6 @@
 ---
 title: "Telegram Region"
 description: ""
-url: "https://telegram-region.com/"
+external_url: "https://telegram-region.com/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Filip Chyla @fchyla"
 description: ""
-url: "https://www.github.com/fchyla"
+external_url: "https://www.github.com/fchyla"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "@Hexacorn"
 description: "DFIR+Malware"
-url: "https://twitter.com/Hexacorn"
+external_url: "https://twitter.com/Hexacorn"
 category: "Malware Analysis"
 ---

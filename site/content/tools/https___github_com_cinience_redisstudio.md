@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/cinience/RedisStudio"
 description: ""
-url: "https://github.com/cinience/RedisStudio"
+external_url: "https://github.com/cinience/RedisStudio"
 category: "Miscellaneous"
 ---

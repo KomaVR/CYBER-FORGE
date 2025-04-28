@@ -1,6 +1,6 @@
 ---
 title: "glensc"
 description: ""
-url: "https://github.com/glensc"
+external_url: "https://github.com/glensc"
 category: "Miscellaneous"
 ---

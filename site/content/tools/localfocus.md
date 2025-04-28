@@ -1,6 +1,6 @@
 ---
 title: "LocalFocus"
 description: ""
-url: "https://www.localfocus.nl"
+external_url: "https://www.localfocus.nl"
 category: "Miscellaneous"
 ---

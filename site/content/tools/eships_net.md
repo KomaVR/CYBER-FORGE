@@ -1,6 +1,6 @@
 ---
 title: "eships.net"
 description: ""
-url: "http://eships.net"
+external_url: "http://eships.net"
 category: "Miscellaneous"
 ---

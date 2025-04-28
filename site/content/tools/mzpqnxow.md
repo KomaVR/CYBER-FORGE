@@ -1,6 +1,6 @@
 ---
 title: "mzpqnxow"
 description: ""
-url: "https://github.com/mzpqnxow"
+external_url: "https://github.com/mzpqnxow"
 category: "Miscellaneous"
 ---

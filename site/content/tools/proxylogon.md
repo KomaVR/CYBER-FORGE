@@ -1,6 +1,6 @@
 ---
 title: "proxylogon"
 description: ""
-url: "https://www.praetorian.com/blog/reproducing-proxylogon-exploit/"
+external_url: "https://www.praetorian.com/blog/reproducing-proxylogon-exploit/"
 category: "Miscellaneous"
 ---

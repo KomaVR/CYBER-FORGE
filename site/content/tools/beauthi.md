@@ -1,6 +1,6 @@
 ---
 title: "beauthi"
 description: ""
-url: "https://github.com/beauthi"
+external_url: "https://github.com/beauthi"
 category: "Miscellaneous"
 ---

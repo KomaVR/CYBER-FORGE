@@ -1,6 +1,6 @@
 ---
 title: "sync me"
 description: ""
-url: "https://sync.me/"
+external_url: "https://sync.me/"
 category: "Miscellaneous"
 ---

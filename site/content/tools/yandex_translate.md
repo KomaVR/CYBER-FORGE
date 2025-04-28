@@ -1,6 +1,6 @@
 ---
 title: "Yandex Translate"
 description: ""
-url: "https://translate.yandex.ru/"
+external_url: "https://translate.yandex.ru/"
 category: "Miscellaneous"
 ---

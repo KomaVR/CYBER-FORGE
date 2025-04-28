@@ -1,6 +1,6 @@
 ---
 title: "dochne"
 description: ""
-url: "https://github.com/dochne"
+external_url: "https://github.com/dochne"
 category: "Miscellaneous"
 ---

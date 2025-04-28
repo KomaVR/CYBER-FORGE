@@ -1,6 +1,6 @@
 ---
 title: "ChrisCarini"
 description: ""
-url: "https://github.com/ChrisCarini"
+external_url: "https://github.com/ChrisCarini"
 category: "Miscellaneous"
 ---

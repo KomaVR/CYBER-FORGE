@@ -1,6 +1,6 @@
 ---
 title: "Europages"
 description: ""
-url: "http://www.europages.co.uk"
+external_url: "http://www.europages.co.uk"
 category: "Miscellaneous"
 ---

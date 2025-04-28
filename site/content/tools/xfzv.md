@@ -1,6 +1,6 @@
 ---
 title: "xfzv"
 description: ""
-url: "https://github.com/xfzv"
+external_url: "https://github.com/xfzv"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "AllYouCanRead"
 description: ""
-url: "http://www.allyoucanread.com"
+external_url: "http://www.allyoucanread.com"
 category: "Miscellaneous"
 ---

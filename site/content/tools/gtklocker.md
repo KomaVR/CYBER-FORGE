@@ -1,6 +1,6 @@
 ---
 title: "gtklocker"
 description: ""
-url: "https://github.com/gtklocker"
+external_url: "https://github.com/gtklocker"
 category: "Miscellaneous"
 ---

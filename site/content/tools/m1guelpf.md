@@ -1,6 +1,6 @@
 ---
 title: "m1guelpf"
 description: ""
-url: "https://github.com/m1guelpf"
+external_url: "https://github.com/m1guelpf"
 category: "Miscellaneous"
 ---

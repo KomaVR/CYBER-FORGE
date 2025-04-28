@@ -1,6 +1,6 @@
 ---
 title: "Spyder Sec"
 description: ""
-url: "https://www.hackingarticles.in/hack-spydersec-vm-ctf-challenge/"
+external_url: "https://www.hackingarticles.in/hack-spydersec-vm-ctf-challenge/"
 category: "Miscellaneous"
 ---

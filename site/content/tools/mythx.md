@@ -1,6 +1,6 @@
 ---
 title: "MythX"
 description: ""
-url: "https://mythx.io/"
+external_url: "https://mythx.io/"
 category: "Miscellaneous"
 ---

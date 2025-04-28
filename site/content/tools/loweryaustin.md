@@ -1,6 +1,6 @@
 ---
 title: "loweryaustin"
 description: ""
-url: "https://github.com/loweryaustin"
+external_url: "https://github.com/loweryaustin"
 category: "Miscellaneous"
 ---

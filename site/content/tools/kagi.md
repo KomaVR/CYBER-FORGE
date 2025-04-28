@@ -1,6 +1,6 @@
 ---
 title: "Kagi"
 description: ""
-url: "https://kagi.com/"
+external_url: "https://kagi.com/"
 category: "Miscellaneous"
 ---

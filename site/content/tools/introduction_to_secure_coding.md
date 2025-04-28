@@ -4,6 +4,6 @@ description: "
 
 This course provides a look at some of the most prevalent security related coding mistakes made in industry today.  Each type of issue is explained in depth including how a malicious user may attack the code, and strategies for avoiding the issues are then reviewed.
 "
-url: "http://opensecuritytraining.info/IntroSecureCoding.html"
+external_url: "http://opensecuritytraining.info/IntroSecureCoding.html"
 category: "Miscellaneous"
 ---

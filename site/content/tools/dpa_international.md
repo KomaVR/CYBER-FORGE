@@ -1,6 +1,6 @@
 ---
 title: "DPA International"
 description: ""
-url: "http://www.dpa-international.com"
+external_url: "http://www.dpa-international.com"
 category: "Miscellaneous"
 ---

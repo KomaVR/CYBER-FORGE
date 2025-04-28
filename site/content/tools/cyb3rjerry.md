@@ -1,6 +1,6 @@
 ---
 title: "cyb3rjerry"
 description: ""
-url: "https://github.com/cyb3rjerry"
+external_url: "https://github.com/cyb3rjerry"
 category: "Miscellaneous"
 ---

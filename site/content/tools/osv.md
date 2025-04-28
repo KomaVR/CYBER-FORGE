@@ -1,6 +1,6 @@
 ---
 title: "OSV"
 description: ""
-url: "https://osv.dev/"
+external_url: "https://osv.dev/"
 category: "Miscellaneous"
 ---

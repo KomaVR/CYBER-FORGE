@@ -1,6 +1,6 @@
 ---
 title: "http://cxsecurity.com/"
 description: ""
-url: "http://cxsecurity.com/"
+external_url: "http://cxsecurity.com/"
 category: "Miscellaneous"
 ---

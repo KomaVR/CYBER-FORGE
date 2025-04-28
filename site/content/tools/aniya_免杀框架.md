@@ -1,6 +1,6 @@
 ---
 title: "AniYa：免杀框架"
 description: ""
-url: "https://github.com/piiperxyz/AniYa"
+external_url: "https://github.com/piiperxyz/AniYa"
 category: "Miscellaneous"
 ---

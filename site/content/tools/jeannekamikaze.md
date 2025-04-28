@@ -1,6 +1,6 @@
 ---
 title: "jeannekamikaze"
 description: ""
-url: "https://github.com/jeannekamikaze"
+external_url: "https://github.com/jeannekamikaze"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "@Buashei"
 description: "Polish translation"
-url: "https://github.com/Buashei"
+external_url: "https://github.com/Buashei"
 category: "Miscellaneous"
 ---

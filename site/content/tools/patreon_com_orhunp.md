@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://patreon.com/orhunp"
+external_url: "https://patreon.com/orhunp"
 category: "Miscellaneous"
 ---

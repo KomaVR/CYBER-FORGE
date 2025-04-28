@@ -1,6 +1,6 @@
 ---
 title: "TinyEye"
 description: ""
-url: "https://tineye.com/"
+external_url: "https://tineye.com/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "theinfosecguy"
 description: ""
-url: "https://github.com/theinfosecguy"
+external_url: "https://github.com/theinfosecguy"
 category: "Miscellaneous"
 ---

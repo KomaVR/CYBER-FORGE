@@ -1,6 +1,6 @@
 ---
 title: "fakepepsilol"
 description: ""
-url: "https://github.com/fakepepsilol"
+external_url: "https://github.com/fakepepsilol"
 category: "Miscellaneous"
 ---

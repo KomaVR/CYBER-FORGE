@@ -6,6 +6,6 @@ Testing for Cookies attributes
 
 
 "
-url: "https://github.com/Voorivex/pentest-guide/tree/master/Cookies-Attributes"
+external_url: "https://github.com/Voorivex/pentest-guide/tree/master/Cookies-Attributes"
 category: "Miscellaneous"
 ---

@@ -11,6 +11,6 @@ local-http-rustls - Support HTTPS with rustls
 
 
 "
-url: "https://crates.io/crates/native-tls"
+external_url: "https://crates.io/crates/native-tls"
 category: "Miscellaneous"
 ---

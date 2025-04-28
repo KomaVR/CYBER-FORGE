@@ -1,6 +1,6 @@
 ---
 title: "Zebra"
 description: ""
-url: "https://getzbra.com/"
+external_url: "https://getzbra.com/"
 category: "Miscellaneous"
 ---

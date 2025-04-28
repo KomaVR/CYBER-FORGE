@@ -1,6 +1,6 @@
 ---
 title: "Storiesig"
 description: ""
-url: "https://storiesig.com/"
+external_url: "https://storiesig.com/"
 category: "Miscellaneous"
 ---

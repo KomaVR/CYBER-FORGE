@@ -1,6 +1,6 @@
 ---
 title: "zclaiqcc"
 description: ""
-url: "https://github.com/zclaiqcc"
+external_url: "https://github.com/zclaiqcc"
 category: "Miscellaneous"
 ---

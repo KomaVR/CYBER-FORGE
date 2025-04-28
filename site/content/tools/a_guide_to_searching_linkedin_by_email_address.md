@@ -29,6 +29,6 @@ LinkedIn X-Ray Search Tool
 
 
 "
-url: "https://www.intelligencewithsteve.com/post/a-guide-to-searching-linkedin-by-email-address"
+external_url: "https://www.intelligencewithsteve.com/post/a-guide-to-searching-linkedin-by-email-address"
 category: "OSINT & Recon"
 ---

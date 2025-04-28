@@ -1,6 +1,6 @@
 ---
 title: "Quixxi"
 description: ""
-url: "https://quixxisecurity.com/"
+external_url: "https://quixxisecurity.com/"
 category: "Miscellaneous"
 ---

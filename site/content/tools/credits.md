@@ -1,6 +1,6 @@
 ---
 title: "Credits"
 description: ""
-url: "https://github.com/v-byte-cpu/sx#-credits"
+external_url: "https://github.com/v-byte-cpu/sx#-credits"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "How We Upgrade Kubernetes on GKE"
 description: ""
-url: "https://blog.gojek.io/how-we-upgrade-kubernetes-on-gke/"
+external_url: "https://blog.gojek.io/how-we-upgrade-kubernetes-on-gke/"
 category: "Miscellaneous"
 ---

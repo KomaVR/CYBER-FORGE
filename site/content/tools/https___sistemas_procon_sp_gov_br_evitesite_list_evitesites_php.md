@@ -1,6 +1,6 @@
 ---
 title: "https://sistemas.procon.sp.gov.br/evitesite/list/evitesites.php"
 description: ""
-url: "https://sistemas.procon.sp.gov.br/evitesite/list/evitesites.php"
+external_url: "https://sistemas.procon.sp.gov.br/evitesite/list/evitesites.php"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "ropr"
 description: ""
-url: "https://github.com/Ben-Lichtman/ropr"
+external_url: "https://github.com/Ben-Lichtman/ropr"
 category: "Miscellaneous"
 ---

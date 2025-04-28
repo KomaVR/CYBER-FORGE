@@ -1,6 +1,6 @@
 ---
 title: "Systran"
 description: ""
-url: "http://www.systransoft.com/"
+external_url: "http://www.systransoft.com/"
 category: "Miscellaneous"
 ---

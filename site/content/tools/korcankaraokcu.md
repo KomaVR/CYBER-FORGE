@@ -1,6 +1,6 @@
 ---
 title: "korcankaraokcu"
 description: ""
-url: "https://github.com/korcankaraokcu"
+external_url: "https://github.com/korcankaraokcu"
 category: "Miscellaneous"
 ---

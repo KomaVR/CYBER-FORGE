@@ -1,6 +1,6 @@
 ---
 title: "christophetd"
 description: ""
-url: "https://github.com/christophetd"
+external_url: "https://github.com/christophetd"
 category: "Miscellaneous"
 ---

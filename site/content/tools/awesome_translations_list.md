@@ -1,6 +1,6 @@
 ---
 title: "Awesome Translations list"
 description: "see the"
-url: "https://github.com/mbiesiad/awesome-translations#tools"
+external_url: "https://github.com/mbiesiad/awesome-translations#tools"
 category: "Miscellaneous"
 ---

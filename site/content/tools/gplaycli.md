@@ -1,6 +1,6 @@
 ---
 title: "gplaycli"
 description: ""
-url: "https://github.com/matlink/gplaycli"
+external_url: "https://github.com/matlink/gplaycli"
 category: "Miscellaneous"
 ---

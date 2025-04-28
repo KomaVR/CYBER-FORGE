@@ -1,6 +1,6 @@
 ---
 title: "Keydroid"
 description: ""
-url: "https://github.com/F4dl0/keydroid"
+external_url: "https://github.com/F4dl0/keydroid"
 category: "Miscellaneous"
 ---

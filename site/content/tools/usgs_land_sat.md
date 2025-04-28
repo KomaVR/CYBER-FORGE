@@ -1,6 +1,6 @@
 ---
 title: "USGS Land Sat"
 description: ""
-url: "https://landsatlook.usgs.gov/"
+external_url: "https://landsatlook.usgs.gov/"
 category: "Miscellaneous"
 ---

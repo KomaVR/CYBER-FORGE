@@ -1,6 +1,6 @@
 ---
 title: "noraj"
 description: ""
-url: "https://github.com/noraj"
+external_url: "https://github.com/noraj"
 category: "Miscellaneous"
 ---

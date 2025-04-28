@@ -1,6 +1,6 @@
 ---
 title: "pip-audit"
 description: ""
-url: "https://github.com/pypa/pip-audit"
+external_url: "https://github.com/pypa/pip-audit"
 category: "Miscellaneous"
 ---

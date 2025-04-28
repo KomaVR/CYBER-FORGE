@@ -1,6 +1,6 @@
 ---
 title: "hpiedcoq"
 description: ""
-url: "https://github.com/hpiedcoq"
+external_url: "https://github.com/hpiedcoq"
 category: "Miscellaneous"
 ---

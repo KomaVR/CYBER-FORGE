@@ -1,6 +1,6 @@
 ---
 title: "Building executable"
 description: ""
-url: "https://github.com/mategol/PySilon-malware#building-standalone-executable"
+external_url: "https://github.com/mategol/PySilon-malware#building-standalone-executable"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Insomni’hack"
 description: ""
-url: "https://insomnihack.ch/"
+external_url: "https://insomnihack.ch/"
 category: "Miscellaneous"
 ---

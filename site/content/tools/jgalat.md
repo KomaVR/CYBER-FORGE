@@ -1,6 +1,6 @@
 ---
 title: "jgalat"
 description: ""
-url: "https://github.com/jgalat"
+external_url: "https://github.com/jgalat"
 category: "Miscellaneous"
 ---

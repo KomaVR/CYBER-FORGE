@@ -1,6 +1,6 @@
 ---
 title: "DailyMotion"
 description: ""
-url: "http://www.dailymotion.com"
+external_url: "http://www.dailymotion.com"
 category: "Miscellaneous"
 ---

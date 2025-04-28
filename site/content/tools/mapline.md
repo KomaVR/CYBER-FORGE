@@ -1,6 +1,6 @@
 ---
 title: "Mapline"
 description: ""
-url: "https://mapline.com"
+external_url: "https://mapline.com"
 category: "Miscellaneous"
 ---

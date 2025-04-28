@@ -1,6 +1,6 @@
 ---
 title: "yallxe"
 description: ""
-url: "https://github.com/yallxe"
+external_url: "https://github.com/yallxe"
 category: "Miscellaneous"
 ---

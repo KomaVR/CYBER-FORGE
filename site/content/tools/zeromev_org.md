@@ -1,6 +1,6 @@
 ---
 title: "zeromev.org"
 description: ""
-url: "https://zeromev.org"
+external_url: "https://zeromev.org"
 category: "Miscellaneous"
 ---

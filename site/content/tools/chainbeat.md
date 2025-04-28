@@ -1,6 +1,6 @@
 ---
 title: "ChainBeat"
 description: ""
-url: "https://chainbeat.io"
+external_url: "https://chainbeat.io"
 category: "Miscellaneous"
 ---

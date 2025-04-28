@@ -1,6 +1,6 @@
 ---
 title: "ajdumanhug"
 description: ""
-url: "https://github.com/ajdumanhug"
+external_url: "https://github.com/ajdumanhug"
 category: "Miscellaneous"
 ---

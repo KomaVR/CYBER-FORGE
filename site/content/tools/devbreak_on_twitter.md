@@ -1,6 +1,6 @@
 ---
 title: "Devbreak on Twitter"
 description: ""
-url: "https://twitter.com/DevbreakFR"
+external_url: "https://twitter.com/DevbreakFR"
 category: "Miscellaneous"
 ---

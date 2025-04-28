@@ -1,6 +1,6 @@
 ---
 title: "kjacks"
 description: ""
-url: "https://github.com/kjacks"
+external_url: "https://github.com/kjacks"
 category: "Miscellaneous"
 ---

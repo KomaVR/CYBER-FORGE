@@ -1,6 +1,6 @@
 ---
 title: "PPTHunter"
 description: ""
-url: "http://www.ppthunter.com/"
+external_url: "http://www.ppthunter.com/"
 category: "Miscellaneous"
 ---

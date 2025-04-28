@@ -1,6 +1,6 @@
 ---
 title: "IppSec"
 description: ""
-url: "https://www.youtube.com/@ippsec/videos"
+external_url: "https://www.youtube.com/@ippsec/videos"
 category: "Miscellaneous"
 ---

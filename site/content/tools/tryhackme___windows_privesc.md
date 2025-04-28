@@ -3,6 +3,6 @@ title: "TryHackMe | Windows PrivEsc"
 description: "
  
 "
-url: "https://tryhackme.com/room/windows10privesc"
+external_url: "https://tryhackme.com/room/windows10privesc"
 category: "Miscellaneous"
 ---

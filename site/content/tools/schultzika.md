@@ -1,6 +1,6 @@
 ---
 title: "schultzika"
 description: ""
-url: "https://github.com/schultzika"
+external_url: "https://github.com/schultzika"
 category: "Miscellaneous"
 ---

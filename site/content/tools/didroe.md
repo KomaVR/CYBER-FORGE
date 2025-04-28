@@ -1,6 +1,6 @@
 ---
 title: "didroe"
 description: ""
-url: "https://github.com/didroe"
+external_url: "https://github.com/didroe"
 category: "Miscellaneous"
 ---

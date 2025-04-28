@@ -1,6 +1,6 @@
 ---
 title: "ArtificialImmunity"
 description: ""
-url: "https://github.com/ArtificialImmunity"
+external_url: "https://github.com/ArtificialImmunity"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Tweetreach"
 description: ""
-url: "http://tweetreach.com/"
+external_url: "http://tweetreach.com/"
 category: "Miscellaneous"
 ---

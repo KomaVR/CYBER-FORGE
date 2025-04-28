@@ -1,6 +1,6 @@
 ---
 title: "rolinh"
 description: ""
-url: "https://github.com/rolinh"
+external_url: "https://github.com/rolinh"
 category: "Miscellaneous"
 ---

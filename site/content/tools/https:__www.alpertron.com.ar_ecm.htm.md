@@ -5,7 +5,7 @@ description: "Website that gives factors and euler's totient (phi)
 
 
 "
-url: "https://www.alpertron.com.ar/ECM.HTM"
+external_url: "https://www.alpertron.com.ar/ECM.HTM"
 category: "Web Exploitation"
 ---
 

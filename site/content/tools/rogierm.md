@@ -1,6 +1,6 @@
 ---
 title: "rogierm"
 description: ""
-url: "https://github.com/rogierm"
+external_url: "https://github.com/rogierm"
 category: "Miscellaneous"
 ---

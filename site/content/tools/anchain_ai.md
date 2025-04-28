@@ -1,6 +1,6 @@
 ---
 title: "anchain.ai"
 description: ""
-url: "https://twitter.com/anchainai"
+external_url: "https://twitter.com/anchainai"
 category: "Miscellaneous"
 ---

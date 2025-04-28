@@ -1,6 +1,6 @@
 ---
 title: "GetCyber"
 description: ""
-url: "https://www.youtube.com/@GetCyber/videos"
+external_url: "https://www.youtube.com/@GetCyber/videos"
 category: "Miscellaneous"
 ---

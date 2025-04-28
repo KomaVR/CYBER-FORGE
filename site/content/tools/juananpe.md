@@ -1,6 +1,6 @@
 ---
 title: "juananpe"
 description: ""
-url: "https://github.com/juananpe"
+external_url: "https://github.com/juananpe"
 category: "Miscellaneous"
 ---

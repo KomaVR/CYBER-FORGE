@@ -1,6 +1,6 @@
 ---
 title: "Uniscan"
 description: ""
-url: "https://github.com/uni-arts-chain/uniscan"
+external_url: "https://github.com/uni-arts-chain/uniscan"
 category: "Miscellaneous"
 ---

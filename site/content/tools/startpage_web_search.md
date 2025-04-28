@@ -1,6 +1,6 @@
 ---
 title: "StartPage Web Search"
 description: ""
-url: "https://www.startpage.com/"
+external_url: "https://www.startpage.com/"
 category: "Web Exploitation"
 ---

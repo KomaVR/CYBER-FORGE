@@ -1,6 +1,6 @@
 ---
 title: "Lin-jun-xiang"
 description: ""
-url: "https://github.com/Lin-jun-xiang"
+external_url: "https://github.com/Lin-jun-xiang"
 category: "Miscellaneous"
 ---

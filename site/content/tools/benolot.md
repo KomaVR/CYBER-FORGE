@@ -1,6 +1,6 @@
 ---
 title: "benolot"
 description: ""
-url: "https://github.com/benolot"
+external_url: "https://github.com/benolot"
 category: "Miscellaneous"
 ---

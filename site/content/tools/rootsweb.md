@@ -1,6 +1,6 @@
 ---
 title: "Rootsweb"
 description: ""
-url: "http://home.rootsweb.ancestry.com/"
+external_url: "http://home.rootsweb.ancestry.com/"
 category: "Web Exploitation"
 ---

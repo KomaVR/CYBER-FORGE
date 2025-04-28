@@ -1,6 +1,6 @@
 ---
 title: "PurpleAir"
 description: ""
-url: "https://www2.purpleair.com/"
+external_url: "https://www2.purpleair.com/"
 category: "Miscellaneous"
 ---

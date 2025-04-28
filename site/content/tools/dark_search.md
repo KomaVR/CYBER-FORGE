@@ -1,6 +1,6 @@
 ---
 title: "Dark Search"
 description: ""
-url: "https://darksearch.io/"
+external_url: "https://darksearch.io/"
 category: "Miscellaneous"
 ---

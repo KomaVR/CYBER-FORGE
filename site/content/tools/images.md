@@ -1,6 +1,6 @@
 ---
 title: "Images"
 description: ""
-url: "https://sn0int.readthedocs.io/en/latest/structs.html#images"
+external_url: "https://sn0int.readthedocs.io/en/latest/structs.html#images"
 category: "Miscellaneous"
 ---

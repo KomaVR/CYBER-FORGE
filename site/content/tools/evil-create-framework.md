@@ -1,6 +1,6 @@
 ---
 title: "Evil-create-framework"
 description: "No description provided"
-url: "https://github.com/LOoLzeC/Evil-create-framework"
+external_url: "https://github.com/LOoLzeC/Evil-create-framework"
 category: "Black Hat Tools"
 ---

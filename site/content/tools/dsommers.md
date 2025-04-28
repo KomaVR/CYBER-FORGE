@@ -1,6 +1,6 @@
 ---
 title: "dsommers"
 description: ""
-url: "https://github.com/dsommers"
+external_url: "https://github.com/dsommers"
 category: "Miscellaneous"
 ---

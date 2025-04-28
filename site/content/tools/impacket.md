@@ -1,6 +1,6 @@
 ---
 title: "Impacket"
 description: ""
-url: "https://github.com/SecureAuthCorp/impacket"
+external_url: "https://github.com/SecureAuthCorp/impacket"
 category: "Miscellaneous"
 ---

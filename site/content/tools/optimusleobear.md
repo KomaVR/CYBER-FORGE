@@ -1,6 +1,6 @@
 ---
 title: "optimusleobear"
 description: ""
-url: "https://github.com/optimusleobear"
+external_url: "https://github.com/optimusleobear"
 category: "Miscellaneous"
 ---

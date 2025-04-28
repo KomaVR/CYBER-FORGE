@@ -1,6 +1,6 @@
 ---
 title: "tzi"
 description: ""
-url: "https://github.com/tzi"
+external_url: "https://github.com/tzi"
 category: "Miscellaneous"
 ---

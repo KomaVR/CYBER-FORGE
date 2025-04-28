@@ -1,6 +1,6 @@
 ---
 title: "guliashvili"
 description: ""
-url: "https://github.com/guliashvili"
+external_url: "https://github.com/guliashvili"
 category: "Miscellaneous"
 ---

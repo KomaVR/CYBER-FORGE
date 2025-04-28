@@ -1,6 +1,6 @@
 ---
 title: "rozmansi"
 description: ""
-url: "https://github.com/rozmansi"
+external_url: "https://github.com/rozmansi"
 category: "Miscellaneous"
 ---

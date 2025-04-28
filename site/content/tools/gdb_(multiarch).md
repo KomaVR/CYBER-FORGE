@@ -11,7 +11,7 @@ pwndbg
 Allow users to specify GDB script in io/scripts/gdb_script to allow a scenario-tailored debugging experience
 
 "
-url: "https://sourceware.org/gdb/"
+external_url: "https://sourceware.org/gdb/"
 category: "Reverse Engineering"
 ---
 

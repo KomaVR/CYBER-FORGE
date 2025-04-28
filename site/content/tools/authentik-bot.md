@@ -1,6 +1,6 @@
 ---
 title: "authentik-bot"
 description: ""
-url: "https://github.com/authentik-bot"
+external_url: "https://github.com/authentik-bot"
 category: "Miscellaneous"
 ---

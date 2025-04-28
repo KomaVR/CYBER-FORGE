@@ -7,6 +7,6 @@ Change pitch, speed, direction...
 Reverse
 
 "
-url: "https://29a.ch/timestretch/"
+external_url: "https://29a.ch/timestretch/"
 category: "Miscellaneous"
 ---

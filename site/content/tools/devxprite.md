@@ -1,6 +1,6 @@
 ---
 title: "devxprite"
 description: ""
-url: "https://github.com/devxprite"
+external_url: "https://github.com/devxprite"
 category: "Miscellaneous"
 ---

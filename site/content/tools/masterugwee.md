@@ -1,6 +1,6 @@
 ---
 title: "masterugwee"
 description: ""
-url: "https://github.com/masterugwee"
+external_url: "https://github.com/masterugwee"
 category: "Miscellaneous"
 ---

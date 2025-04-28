@@ -1,6 +1,6 @@
 ---
 title: "Shaunwei"
 description: ""
-url: "https://github.com/Shaunwei"
+external_url: "https://github.com/Shaunwei"
 category: "Miscellaneous"
 ---

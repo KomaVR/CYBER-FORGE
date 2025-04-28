@@ -1,6 +1,6 @@
 ---
 title: "crystalblockchain.com"
 description: ""
-url: "https://crystalblockchain.com"
+external_url: "https://crystalblockchain.com"
 category: "Miscellaneous"
 ---

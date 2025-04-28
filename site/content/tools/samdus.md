@@ -1,6 +1,6 @@
 ---
 title: "samdus"
 description: ""
-url: "https://github.com/samdus"
+external_url: "https://github.com/samdus"
 category: "Miscellaneous"
 ---

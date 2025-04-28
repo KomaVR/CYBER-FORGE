@@ -1,6 +1,6 @@
 ---
 title: "https://ctflearn.com/"
 description: ""
-url: "https://ctflearn.com/"
+external_url: "https://ctflearn.com/"
 category: "Miscellaneous"
 ---

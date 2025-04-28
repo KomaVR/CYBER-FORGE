@@ -5,7 +5,7 @@ description: "
 Free challenges that involve finding secrets in S3, EC2, and Lambda
 
 "
-url: "https://flaws.cloud"
+external_url: "https://flaws.cloud"
 category: "Miscellaneous"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Vessel Tracker"
 description: ""
-url: "http://www.vesseltracker.com"
+external_url: "http://www.vesseltracker.com"
 category: "Miscellaneous"
 ---

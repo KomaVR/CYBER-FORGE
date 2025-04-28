@@ -1,6 +1,6 @@
 ---
 title: "lndrtrbn"
 description: ""
-url: "https://github.com/lndrtrbn"
+external_url: "https://github.com/lndrtrbn"
 category: "Miscellaneous"
 ---

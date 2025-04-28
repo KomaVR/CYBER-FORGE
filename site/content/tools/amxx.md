@@ -1,6 +1,6 @@
 ---
 title: "Amxx"
 description: ""
-url: "https://github.com/Amxx"
+external_url: "https://github.com/Amxx"
 category: "Miscellaneous"
 ---

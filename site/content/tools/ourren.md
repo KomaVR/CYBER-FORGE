@@ -1,6 +1,6 @@
 ---
 title: "ourren"
 description: ""
-url: "https://github.com/ourren"
+external_url: "https://github.com/ourren"
 category: "Miscellaneous"
 ---

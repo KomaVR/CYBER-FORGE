@@ -5,6 +5,6 @@ description: "libcurl development library ()
 For apt users: apt install libcurl4-openssl-dev
 
 "
-url: "https://github.com/Ullaakut/cameradar/issues/247"
+external_url: "https://github.com/Ullaakut/cameradar/issues/247"
 category: "Miscellaneous"
 ---

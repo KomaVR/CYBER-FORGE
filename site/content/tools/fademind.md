@@ -1,6 +1,6 @@
 ---
 title: "FadeMind"
 description: ""
-url: "https://github.com/FadeMind"
+external_url: "https://github.com/FadeMind"
 category: "Miscellaneous"
 ---

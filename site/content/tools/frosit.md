@@ -1,6 +1,6 @@
 ---
 title: "frosit"
 description: ""
-url: "https://github.com/frosit"
+external_url: "https://github.com/frosit"
 category: "Miscellaneous"
 ---

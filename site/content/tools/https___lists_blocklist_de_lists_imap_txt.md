@@ -1,6 +1,6 @@
 ---
 title: "https://lists.blocklist.de/lists/imap.txt"
 description: ""
-url: "https://lists.blocklist.de/lists/imap.txt"
+external_url: "https://lists.blocklist.de/lists/imap.txt"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "JustasMasiulis"
 description: ""
-url: "https://github.com/JustasMasiulis"
+external_url: "https://github.com/JustasMasiulis"
 category: "Miscellaneous"
 ---

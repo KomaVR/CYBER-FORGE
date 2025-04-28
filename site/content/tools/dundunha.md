@@ -1,6 +1,6 @@
 ---
 title: "dundunHa"
 description: ""
-url: "https://github.com/dundunHa"
+external_url: "https://github.com/dundunHa"
 category: "Miscellaneous"
 ---

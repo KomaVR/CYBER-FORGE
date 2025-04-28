@@ -1,6 +1,6 @@
 ---
 title: "derdanu"
 description: ""
-url: "https://github.com/derdanu"
+external_url: "https://github.com/derdanu"
 category: "Miscellaneous"
 ---

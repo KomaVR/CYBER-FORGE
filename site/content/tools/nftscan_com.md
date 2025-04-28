@@ -1,6 +1,6 @@
 ---
 title: "nftscan.com"
 description: ""
-url: "https://www.nftscan.com"
+external_url: "https://www.nftscan.com"
 category: "Miscellaneous"
 ---

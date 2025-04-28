@@ -1,6 +1,6 @@
 ---
 title: "requires"
 description: ""
-url: "https://github.com/requires"
+external_url: "https://github.com/requires"
 category: "Miscellaneous"
 ---

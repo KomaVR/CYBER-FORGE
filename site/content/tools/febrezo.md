@@ -1,6 +1,6 @@
 ---
 title: "febrezo"
 description: ""
-url: "https://github.com/febrezo"
+external_url: "https://github.com/febrezo"
 category: "Miscellaneous"
 ---

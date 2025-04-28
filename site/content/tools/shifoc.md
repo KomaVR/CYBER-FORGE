@@ -1,6 +1,6 @@
 ---
 title: "shifoc"
 description: ""
-url: "https://github.com/shifoc"
+external_url: "https://github.com/shifoc"
 category: "Miscellaneous"
 ---

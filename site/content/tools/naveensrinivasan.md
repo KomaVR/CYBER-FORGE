@@ -1,6 +1,6 @@
 ---
 title: "naveensrinivasan"
 description: ""
-url: "https://github.com/naveensrinivasan"
+external_url: "https://github.com/naveensrinivasan"
 category: "Miscellaneous"
 ---

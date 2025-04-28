@@ -1,6 +1,6 @@
 ---
 title: "Core"
 description: ""
-url: "https://core.ac.uk/search"
+external_url: "https://core.ac.uk/search"
 category: "Miscellaneous"
 ---

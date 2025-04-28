@@ -1,6 +1,6 @@
 ---
 title: "phoerious"
 description: ""
-url: "https://github.com/phoerious"
+external_url: "https://github.com/phoerious"
 category: "Miscellaneous"
 ---

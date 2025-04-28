@@ -1,6 +1,6 @@
 ---
 title: "Announcing OSS-Fuzz: Continuous fuzzing for open source software"
 description: "2016-12-01"
-url: "https://opensource.googleblog.com/2016/12/announcing-oss-fuzz-continuous-fuzzing.html"
+external_url: "https://opensource.googleblog.com/2016/12/announcing-oss-fuzz-continuous-fuzzing.html"
 category: "Miscellaneous"
 ---

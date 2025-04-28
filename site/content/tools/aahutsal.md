@@ -1,6 +1,6 @@
 ---
 title: "aahutsal"
 description: ""
-url: "https://github.com/aahutsal"
+external_url: "https://github.com/aahutsal"
 category: "Miscellaneous"
 ---

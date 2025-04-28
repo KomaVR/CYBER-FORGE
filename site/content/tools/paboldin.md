@@ -1,6 +1,6 @@
 ---
 title: "paboldin"
 description: ""
-url: "https://github.com/paboldin"
+external_url: "https://github.com/paboldin"
 category: "Miscellaneous"
 ---

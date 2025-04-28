@@ -1,6 +1,6 @@
 ---
 title: "CallumBaston"
 description: ""
-url: "https://github.com/CallumBaston"
+external_url: "https://github.com/CallumBaston"
 category: "Miscellaneous"
 ---

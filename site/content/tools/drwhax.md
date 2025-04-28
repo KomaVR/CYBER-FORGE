@@ -1,6 +1,6 @@
 ---
 title: "DrWhax"
 description: ""
-url: "https://github.com/DrWhax"
+external_url: "https://github.com/DrWhax"
 category: "Miscellaneous"
 ---

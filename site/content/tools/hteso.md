@@ -1,6 +1,6 @@
 ---
 title: "hteso"
 description: ""
-url: "https://github.com/hteso"
+external_url: "https://github.com/hteso"
 category: "Miscellaneous"
 ---

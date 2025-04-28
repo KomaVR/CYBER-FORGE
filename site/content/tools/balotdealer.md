@@ -1,6 +1,6 @@
 ---
 title: "balotdealer"
 description: ""
-url: "https://github.com/balotdealer"
+external_url: "https://github.com/balotdealer"
 category: "Miscellaneous"
 ---

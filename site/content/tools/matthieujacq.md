@@ -1,6 +1,6 @@
 ---
 title: "matthieujacq"
 description: ""
-url: "https://github.com/matthieujacq"
+external_url: "https://github.com/matthieujacq"
 category: "Miscellaneous"
 ---

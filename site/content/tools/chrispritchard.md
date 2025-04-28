@@ -1,6 +1,6 @@
 ---
 title: "ChrisPritchard"
 description: ""
-url: "https://github.com/ChrisPritchard"
+external_url: "https://github.com/ChrisPritchard"
 category: "Miscellaneous"
 ---

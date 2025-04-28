@@ -1,6 +1,6 @@
 ---
 title: "Image Identification Project"
 description: ""
-url: "https://www.imageidentify.com"
+external_url: "https://www.imageidentify.com"
 category: "Miscellaneous"
 ---

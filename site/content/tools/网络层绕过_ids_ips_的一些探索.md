@@ -1,6 +1,6 @@
 ---
 title: "网络层绕过 IDS/IPS 的一些探索"
 description: ""
-url: "https://paper.seebug.org/1173/"
+external_url: "https://paper.seebug.org/1173/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "RuCTFe"
 description: ""
-url: "http://ructf.org/e/"
+external_url: "http://ructf.org/e/"
 category: "Miscellaneous"
 ---

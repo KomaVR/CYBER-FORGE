@@ -1,6 +1,6 @@
 ---
 title: "cl1p"
 description: ""
-url: "https://Cl1p.net"
+external_url: "https://Cl1p.net"
 category: "Miscellaneous"
 ---

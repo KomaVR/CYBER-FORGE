@@ -6,6 +6,6 @@ description: "Other - App-Specific:
 Neutron Code
 
 "
-url: "https://telegram.org/"
+external_url: "https://telegram.org/"
 category: "Miscellaneous"
 ---

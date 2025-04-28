@@ -3,6 +3,6 @@ title: "Wazuh Kubernetes"
 description: "
 
 "
-url: "https://github.com/wazuh/wazuh-kubernetes"
+external_url: "https://github.com/wazuh/wazuh-kubernetes"
 category: "Miscellaneous"
 ---

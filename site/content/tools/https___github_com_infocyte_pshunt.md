@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/Infocyte/PSHunt"
 description: ""
-url: "https://github.com/Infocyte/PSHunt"
+external_url: "https://github.com/Infocyte/PSHunt"
 category: "Miscellaneous"
 ---

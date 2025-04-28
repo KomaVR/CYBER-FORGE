@@ -1,6 +1,6 @@
 ---
 title: "paralax"
 description: ""
-url: "https://github.com/paralax"
+external_url: "https://github.com/paralax"
 category: "Miscellaneous"
 ---

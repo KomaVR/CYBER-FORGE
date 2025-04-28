@@ -14,6 +14,6 @@ Holo - Hard
 Throwback - Easy
 
 "
-url: "https://tryhackme.com/room/activedirectorybasics"
+external_url: "https://tryhackme.com/room/activedirectorybasics"
 category: "Black Hat Tools"
 ---

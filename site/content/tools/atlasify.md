@@ -1,6 +1,6 @@
 ---
 title: "Atlasify"
 description: ""
-url: "http://www.atlasify.com"
+external_url: "http://www.atlasify.com"
 category: "Miscellaneous"
 ---

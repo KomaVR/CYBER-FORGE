@@ -8,7 +8,7 @@ description: "
 
 
 "
-url: "https://sponsors.github.red/"
+external_url: "https://sponsors.github.red/"
 category: "Miscellaneous"
 ---
 

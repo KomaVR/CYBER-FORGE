@@ -1,6 +1,6 @@
 ---
 title: "Dor1s"
 description: ""
-url: "https://github.com/Dor1s"
+external_url: "https://github.com/Dor1s"
 category: "Miscellaneous"
 ---

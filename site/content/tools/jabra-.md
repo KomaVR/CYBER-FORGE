@@ -1,6 +1,6 @@
 ---
 title: "jabra-"
 description: ""
-url: "https://github.com/jabra-"
+external_url: "https://github.com/jabra-"
 category: "Miscellaneous"
 ---

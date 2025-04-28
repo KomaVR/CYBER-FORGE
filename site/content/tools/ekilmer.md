@@ -1,6 +1,6 @@
 ---
 title: "ekilmer"
 description: ""
-url: "https://github.com/ekilmer"
+external_url: "https://github.com/ekilmer"
 category: "Miscellaneous"
 ---

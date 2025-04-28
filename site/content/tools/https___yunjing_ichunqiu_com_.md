@@ -1,6 +1,6 @@
 ---
 title: "https://yunjing.ichunqiu.com/"
 description: "ichunqiu:"
-url: "https://yunjing.ichunqiu.com/"
+external_url: "https://yunjing.ichunqiu.com/"
 category: "Miscellaneous"
 ---

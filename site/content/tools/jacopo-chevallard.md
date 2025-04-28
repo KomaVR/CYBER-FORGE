@@ -1,6 +1,6 @@
 ---
 title: "jacopo-chevallard"
 description: ""
-url: "https://github.com/jacopo-chevallard"
+external_url: "https://github.com/jacopo-chevallard"
 category: "Miscellaneous"
 ---

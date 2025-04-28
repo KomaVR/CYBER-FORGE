@@ -1,6 +1,6 @@
 ---
 title: "mitprasoon"
 description: ""
-url: "https://github.com/mitprasoon"
+external_url: "https://github.com/mitprasoon"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Signed SSH Certificates"
 description: ": Issue ephemeral SSH credentials for secure, short-lived, and centralized access to infrastructure."
-url: "https://infisical.com/docs/documentation/platform/ssh"
+external_url: "https://infisical.com/docs/documentation/platform/ssh"
 category: "Miscellaneous"
 ---

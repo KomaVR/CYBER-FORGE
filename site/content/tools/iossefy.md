@@ -1,6 +1,6 @@
 ---
 title: "iossefy"
 description: ""
-url: "https://github.com/iossefy"
+external_url: "https://github.com/iossefy"
 category: "Miscellaneous"
 ---

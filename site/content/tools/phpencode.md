@@ -1,6 +1,6 @@
 ---
 title: "phpencode"
 description: ""
-url: "http://phpencode.org"
+external_url: "http://phpencode.org"
 category: "Miscellaneous"
 ---

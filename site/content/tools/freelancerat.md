@@ -1,6 +1,6 @@
 ---
 title: "freelancerat"
 description: ""
-url: "https://github.com/freelancerat"
+external_url: "https://github.com/freelancerat"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "christianboyle"
 description: ""
-url: "https://github.com/christianboyle"
+external_url: "https://github.com/christianboyle"
 category: "Miscellaneous"
 ---

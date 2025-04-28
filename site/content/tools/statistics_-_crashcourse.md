@@ -54,6 +54,6 @@ METU EE 531 Probability and Stochastic Processes, by Elif Uysal
 STAT240 - Robust Statistics - UC Berkeley
 
 "
-url: "https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr"
+external_url: "https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr"
 category: "Miscellaneous"
 ---

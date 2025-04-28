@@ -1,6 +1,6 @@
 ---
 title: "goproslowyo"
 description: ""
-url: "https://github.com/goproslowyo"
+external_url: "https://github.com/goproslowyo"
 category: "Miscellaneous"
 ---

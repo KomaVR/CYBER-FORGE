@@ -1,6 +1,6 @@
 ---
 title: "loader plugins"
 description: "For other supported obfuscated titles, see the list of"
-url: "https://github.com/djkaty/Il2CppInspectorPlugins/tree/master/Loaders"
+external_url: "https://github.com/djkaty/Il2CppInspectorPlugins/tree/master/Loaders"
 category: "Miscellaneous"
 ---

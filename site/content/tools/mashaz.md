@@ -1,6 +1,6 @@
 ---
 title: "mashaz"
 description: ""
-url: "https://github.com/mashaz"
+external_url: "https://github.com/mashaz"
 category: "Miscellaneous"
 ---

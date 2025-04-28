@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/decred/gominer"
 description: ""
-url: "https://github.com/decred/gominer"
+external_url: "https://github.com/decred/gominer"
 category: "Miscellaneous"
 ---

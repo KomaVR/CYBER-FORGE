@@ -1,6 +1,6 @@
 ---
 title: "jsbin"
 description: ""
-url: "https://Jsbin.com"
+external_url: "https://Jsbin.com"
 category: "Miscellaneous"
 ---

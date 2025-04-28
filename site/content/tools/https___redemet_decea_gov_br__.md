@@ -1,6 +1,6 @@
 ---
 title: "https://redemet.decea.gov.br/#"
 description: ""
-url: "https://redemet.decea.gov.br/#"
+external_url: "https://redemet.decea.gov.br/#"
 category: "Miscellaneous"
 ---

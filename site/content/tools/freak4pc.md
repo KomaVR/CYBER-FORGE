@@ -1,6 +1,6 @@
 ---
 title: "freak4pc"
 description: ""
-url: "https://github.com/freak4pc"
+external_url: "https://github.com/freak4pc"
 category: "Miscellaneous"
 ---

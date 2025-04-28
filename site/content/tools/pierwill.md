@@ -1,6 +1,6 @@
 ---
 title: "pierwill"
 description: ""
-url: "https://github.com/pierwill"
+external_url: "https://github.com/pierwill"
 category: "Miscellaneous"
 ---

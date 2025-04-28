@@ -1,6 +1,6 @@
 ---
 title: "Username Check"
 description: ""
-url: "http://www.usernamecheck.com/"
+external_url: "http://www.usernamecheck.com/"
 category: "Miscellaneous"
 ---

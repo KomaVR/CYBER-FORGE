@@ -1,6 +1,6 @@
 ---
 title: "NetNTLMtoSilverTicket"
 description: ""
-url: "https://github.com/NotMedic/NetNTLMtoSilverTicket"
+external_url: "https://github.com/NotMedic/NetNTLMtoSilverTicket"
 category: "Miscellaneous"
 ---

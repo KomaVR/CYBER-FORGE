@@ -1,6 +1,6 @@
 ---
 title: "@Sigarya"
 description: "Hebrew translation"
-url: "https://github.com/Sigarya"
+external_url: "https://github.com/Sigarya"
 category: "Miscellaneous"
 ---

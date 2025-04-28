@@ -1,6 +1,6 @@
 ---
 title: "dependabot"
 description: ""
-url: "https://github.com/apps/dependabot"
+external_url: "https://github.com/apps/dependabot"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "SparkyTD"
 description: ""
-url: "https://github.com/SparkyTD"
+external_url: "https://github.com/SparkyTD"
 category: "Miscellaneous"
 ---

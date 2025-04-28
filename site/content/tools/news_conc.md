@@ -1,6 +1,6 @@
 ---
 title: "News Conc"
 description: ""
-url: "http://en.newsconc.com/"
+external_url: "http://en.newsconc.com/"
 category: "Miscellaneous"
 ---

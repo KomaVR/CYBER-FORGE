@@ -1,6 +1,6 @@
 ---
 title: "kevgo"
 description: ""
-url: "https://github.com/kevgo"
+external_url: "https://github.com/kevgo"
 category: "Miscellaneous"
 ---

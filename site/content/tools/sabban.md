@@ -1,6 +1,6 @@
 ---
 title: "sabban"
 description: ""
-url: "https://github.com/sabban"
+external_url: "https://github.com/sabban"
 category: "Miscellaneous"
 ---

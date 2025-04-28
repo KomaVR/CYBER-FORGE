@@ -8,6 +8,6 @@ openSUSE: OBS
 REMnux: Malware analysis distribution
 
 "
-url: "https://aur.archlinux.org/packages/detect-it-easy-git/"
+external_url: "https://aur.archlinux.org/packages/detect-it-easy-git/"
 category: "Malware Analysis"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Open Source at Apple Wesbite"
 description: ""
-url: "https://opensource.apple.com"
+external_url: "https://opensource.apple.com"
 category: "Miscellaneous"
 ---

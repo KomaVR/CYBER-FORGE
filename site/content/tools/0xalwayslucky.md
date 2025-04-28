@@ -1,6 +1,6 @@
 ---
 title: "0xalwayslucky"
 description: ""
-url: "https://github.com/0xalwayslucky"
+external_url: "https://github.com/0xalwayslucky"
 category: "Miscellaneous"
 ---

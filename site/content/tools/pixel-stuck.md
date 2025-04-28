@@ -1,6 +1,6 @@
 ---
 title: "pixel-stuck"
 description: ""
-url: "https://github.com/pixel-stuck"
+external_url: "https://github.com/pixel-stuck"
 category: "Miscellaneous"
 ---

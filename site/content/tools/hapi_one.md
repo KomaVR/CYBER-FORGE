@@ -1,6 +1,6 @@
 ---
 title: "hapi.one"
 description: ""
-url: "https://hapi.one/"
+external_url: "https://hapi.one/"
 category: "Miscellaneous"
 ---

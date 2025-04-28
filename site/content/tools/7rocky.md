@@ -1,6 +1,6 @@
 ---
 title: "7Rocky"
 description: ""
-url: "https://github.com/7Rocky"
+external_url: "https://github.com/7Rocky"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "rgerman"
 description: ""
-url: "https://github.com/rgerman"
+external_url: "https://github.com/rgerman"
 category: "Miscellaneous"
 ---

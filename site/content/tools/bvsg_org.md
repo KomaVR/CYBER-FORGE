@@ -1,6 +1,6 @@
 ---
 title: "bvsg.org"
 description: ""
-url: "http://bvsg.org"
+external_url: "http://bvsg.org"
 category: "Miscellaneous"
 ---

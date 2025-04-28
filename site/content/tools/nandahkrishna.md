@@ -1,6 +1,6 @@
 ---
 title: "nandahkrishna"
 description: ""
-url: "https://github.com/nandahkrishna"
+external_url: "https://github.com/nandahkrishna"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "xRuffKez"
 description: ""
-url: "https://github.com/xRuffKez"
+external_url: "https://github.com/xRuffKez"
 category: "Miscellaneous"
 ---

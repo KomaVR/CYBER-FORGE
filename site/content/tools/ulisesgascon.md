@@ -1,6 +1,6 @@
 ---
 title: "UlisesGascon"
 description: ""
-url: "https://github.com/UlisesGascon"
+external_url: "https://github.com/UlisesGascon"
 category: "Miscellaneous"
 ---

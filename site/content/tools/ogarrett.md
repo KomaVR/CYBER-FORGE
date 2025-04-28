@@ -1,6 +1,6 @@
 ---
 title: "ogarrett"
 description: ""
-url: "https://github.com/ogarrett"
+external_url: "https://github.com/ogarrett"
 category: "Miscellaneous"
 ---

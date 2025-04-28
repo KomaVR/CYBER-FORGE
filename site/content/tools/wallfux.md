@@ -1,6 +1,6 @@
 ---
 title: "Wallfux"
 description: ""
-url: "https://www.wallflux.com/"
+external_url: "https://www.wallflux.com/"
 category: "Miscellaneous"
 ---

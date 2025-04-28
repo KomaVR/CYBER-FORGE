@@ -1,6 +1,6 @@
 ---
 title: "frohoff"
 description: ""
-url: "https://github.com/frohoff"
+external_url: "https://github.com/frohoff"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "otanim"
 description: ""
-url: "https://github.com/otanim"
+external_url: "https://github.com/otanim"
 category: "Miscellaneous"
 ---

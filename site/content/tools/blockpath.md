@@ -1,6 +1,6 @@
 ---
 title: "Blockpath"
 description: ""
-url: "https://blockpath.com/"
+external_url: "https://blockpath.com/"
 category: "Miscellaneous"
 ---

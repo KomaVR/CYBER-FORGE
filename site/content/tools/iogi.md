@@ -1,6 +1,6 @@
 ---
 title: "iogi"
 description: ""
-url: "https://github.com/iogi"
+external_url: "https://github.com/iogi"
 category: "Miscellaneous"
 ---

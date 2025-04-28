@@ -1,6 +1,6 @@
 ---
 title: "TELEGRAM CATALOG"
 description: ""
-url: "https://katalogtelegram.ru/"
+external_url: "https://katalogtelegram.ru/"
 category: "Miscellaneous"
 ---

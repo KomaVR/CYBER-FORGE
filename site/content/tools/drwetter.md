@@ -1,6 +1,6 @@
 ---
 title: "drwetter"
 description: ""
-url: "https://github.com/drwetter"
+external_url: "https://github.com/drwetter"
 category: "Miscellaneous"
 ---

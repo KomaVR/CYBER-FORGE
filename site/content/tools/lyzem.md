@@ -1,6 +1,6 @@
 ---
 title: "Lyzem"
 description: ""
-url: "https://lyzem.com/"
+external_url: "https://lyzem.com/"
 category: "Miscellaneous"
 ---

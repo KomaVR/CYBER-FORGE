@@ -1,6 +1,6 @@
 ---
 title: "asolino"
 description: ""
-url: "https://github.com/asolino"
+external_url: "https://github.com/asolino"
 category: "Miscellaneous"
 ---

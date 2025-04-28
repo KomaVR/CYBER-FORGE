@@ -1,6 +1,6 @@
 ---
 title: "nidamanx"
 description: ""
-url: "https://github.com/nidamanx"
+external_url: "https://github.com/nidamanx"
 category: "Miscellaneous"
 ---

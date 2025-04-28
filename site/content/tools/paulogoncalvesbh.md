@@ -1,6 +1,6 @@
 ---
 title: "PauloGoncalvesBH"
 description: ""
-url: "https://github.com/PauloGoncalvesBH"
+external_url: "https://github.com/PauloGoncalvesBH"
 category: "Miscellaneous"
 ---

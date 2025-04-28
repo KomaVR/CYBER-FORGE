@@ -18,6 +18,6 @@ MIT 18.S096 Matrix Calculus For Machine Learning And Beyond
 Cornell MATH 2940 Linear Algebra for Engineers spring 2009, by Andy Ruina
 
 "
-url: "https://willett.psd.uchicago.edu/teaching/mathematical-foundations-of-machine-learning-fall-2021/"
+external_url: "https://willett.psd.uchicago.edu/teaching/mathematical-foundations-of-machine-learning-fall-2021/"
 category: "Miscellaneous"
 ---

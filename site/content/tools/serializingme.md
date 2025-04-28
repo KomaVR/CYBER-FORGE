@@ -1,6 +1,6 @@
 ---
 title: "serializingme"
 description: ""
-url: "https://github.com/serializingme"
+external_url: "https://github.com/serializingme"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "maxgrok"
 description: ""
-url: "https://github.com/maxgrok"
+external_url: "https://github.com/maxgrok"
 category: "Miscellaneous"
 ---

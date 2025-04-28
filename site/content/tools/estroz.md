@@ -1,6 +1,6 @@
 ---
 title: "estroz"
 description: ""
-url: "https://github.com/estroz"
+external_url: "https://github.com/estroz"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "kazuminn"
 description: ""
-url: "https://github.com/kazuminn"
+external_url: "https://github.com/kazuminn"
 category: "Miscellaneous"
 ---

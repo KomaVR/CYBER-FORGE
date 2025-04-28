@@ -1,6 +1,6 @@
 ---
 title: "Offensive AI"
 description: ""
-url: "https://github.com/jiep/offensive-ai-compilation"
+external_url: "https://github.com/jiep/offensive-ai-compilation"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Wikimapia"
 description: ""
-url: "http://wikimapia.org"
+external_url: "http://wikimapia.org"
 category: "Miscellaneous"
 ---

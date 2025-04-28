@@ -1,6 +1,6 @@
 ---
 title: "williballenthin"
 description: ""
-url: "https://github.com/williballenthin"
+external_url: "https://github.com/williballenthin"
 category: "Miscellaneous"
 ---

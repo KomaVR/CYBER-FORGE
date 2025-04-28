@@ -1,6 +1,6 @@
 ---
 title: "blockchain-etl"
 description: ""
-url: "https://github.com/blockchain-etl/ethereum-etl"
+external_url: "https://github.com/blockchain-etl/ethereum-etl"
 category: "Miscellaneous"
 ---

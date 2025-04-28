@@ -1,6 +1,6 @@
 ---
 title: "OverTheWire - Drifter"
 description: ""
-url: "http://overthewire.org/wargames/drifter/"
+external_url: "http://overthewire.org/wargames/drifter/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "eoto88"
 description: ""
-url: "https://github.com/eoto88"
+external_url: "https://github.com/eoto88"
 category: "Miscellaneous"
 ---

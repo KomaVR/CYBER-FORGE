@@ -1,6 +1,6 @@
 ---
 title: "nikpivkin"
 description: ""
-url: "https://github.com/nikpivkin"
+external_url: "https://github.com/nikpivkin"
 category: "Miscellaneous"
 ---

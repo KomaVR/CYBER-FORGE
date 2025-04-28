@@ -1,6 +1,6 @@
 ---
 title: "Capture the Ether"
 description: ""
-url: "https://capturetheether.com/"
+external_url: "https://capturetheether.com/"
 category: "Miscellaneous"
 ---

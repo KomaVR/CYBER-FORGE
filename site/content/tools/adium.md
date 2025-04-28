@@ -1,6 +1,6 @@
 ---
 title: "Adium"
 description: ""
-url: "https://adium.im"
+external_url: "https://adium.im"
 category: "Miscellaneous"
 ---

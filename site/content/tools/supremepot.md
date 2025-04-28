@@ -1,6 +1,6 @@
 ---
 title: "supremepot"
 description: ""
-url: "https://github.com/supremepot"
+external_url: "https://github.com/supremepot"
 category: "Miscellaneous"
 ---

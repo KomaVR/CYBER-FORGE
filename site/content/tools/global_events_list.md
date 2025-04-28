@@ -1,6 +1,6 @@
 ---
 title: "Global Events List"
 description: ""
-url: "http://www.globaleventslist.elsevier.com/"
+external_url: "http://www.globaleventslist.elsevier.com/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Archive.fo"
 description: ""
-url: "https://archive.fo/"
+external_url: "https://archive.fo/"
 category: "Miscellaneous"
 ---

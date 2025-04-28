@@ -1,6 +1,6 @@
 ---
 title: "MapHub"
 description: ""
-url: "https://maphub.net"
+external_url: "https://maphub.net"
 category: "Miscellaneous"
 ---

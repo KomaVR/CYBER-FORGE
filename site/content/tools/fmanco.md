@@ -1,6 +1,6 @@
 ---
 title: "fmanco"
 description: ""
-url: "https://github.com/fmanco"
+external_url: "https://github.com/fmanco"
 category: "Miscellaneous"
 ---

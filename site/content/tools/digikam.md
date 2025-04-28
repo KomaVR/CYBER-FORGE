@@ -1,6 +1,6 @@
 ---
 title: "digiKam"
 description: ""
-url: "https://www.digikam.org/"
+external_url: "https://www.digikam.org/"
 category: "Miscellaneous"
 ---

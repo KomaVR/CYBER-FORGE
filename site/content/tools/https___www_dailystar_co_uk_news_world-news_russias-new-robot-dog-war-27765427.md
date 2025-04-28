@@ -3,6 +3,6 @@ title: "https://www.dailystar.co.uk/news/world-news/russias-new-robot-dog-war-27
 description: "
 Russia's new 'robot dog war machine' is just Chinese household 'toy' with gun taped on  ↩
 "
-url: "https://www.dailystar.co.uk/news/world-news/russias-new-robot-dog-war-27765427"
+external_url: "https://www.dailystar.co.uk/news/world-news/russias-new-robot-dog-war-27765427"
 category: "Miscellaneous"
 ---

@@ -18,6 +18,6 @@ ACSC CTF 2023 - easyssti
 
 
 "
-url: "https://github.com/labstack/echo"
+external_url: "https://github.com/labstack/echo"
 category: "Miscellaneous"
 ---

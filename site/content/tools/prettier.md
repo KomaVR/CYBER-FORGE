@@ -1,6 +1,6 @@
 ---
 title: "Prettier"
 description: "+ Solidity Plugin"
-url: "https://prettier.io/"
+external_url: "https://prettier.io/"
 category: "Miscellaneous"
 ---

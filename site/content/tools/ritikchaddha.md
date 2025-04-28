@@ -1,6 +1,6 @@
 ---
 title: "ritikchaddha"
 description: ""
-url: "https://github.com/ritikchaddha"
+external_url: "https://github.com/ritikchaddha"
 category: "Miscellaneous"
 ---

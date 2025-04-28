@@ -1,6 +1,6 @@
 ---
 title: "Irma"
 description: "IRMA is an asynchronous & customizable analysis system for suspicious files."
-url: "https://github.com/quarkslab/irma"
+external_url: "https://github.com/quarkslab/irma"
 category: "Miscellaneous"
 ---

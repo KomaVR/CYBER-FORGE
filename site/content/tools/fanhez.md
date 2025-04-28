@@ -1,6 +1,6 @@
 ---
 title: "Fanhez"
 description: ""
-url: "https://github.com/Fanhez"
+external_url: "https://github.com/Fanhez"
 category: "Miscellaneous"
 ---

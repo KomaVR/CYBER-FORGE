@@ -3,6 +3,6 @@ title: "TryHackMe | Poster"
 description: "
  
 "
-url: "https://tryhackme.com/room/poster"
+external_url: "https://tryhackme.com/room/poster"
 category: "Miscellaneous"
 ---

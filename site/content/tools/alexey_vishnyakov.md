@@ -1,6 +1,6 @@
 ---
 title: "Alexey Vishnyakov"
 description: "ISP RAS"
-url: "https://vishnya.xyz/"
+external_url: "https://vishnya.xyz/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "RahoolKumar"
 description: ""
-url: "https://github.com/RahoolKumar"
+external_url: "https://github.com/RahoolKumar"
 category: "Miscellaneous"
 ---

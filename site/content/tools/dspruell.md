@@ -1,6 +1,6 @@
 ---
 title: "dspruell"
 description: ""
-url: "https://github.com/dspruell"
+external_url: "https://github.com/dspruell"
 category: "Miscellaneous"
 ---

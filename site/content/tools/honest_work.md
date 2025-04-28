@@ -1,6 +1,6 @@
 ---
 title: "Honest Work"
 description: ""
-url: "https://honest.work/"
+external_url: "https://honest.work/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "audibleblink"
 description: ""
-url: "https://github.com/audibleblink"
+external_url: "https://github.com/audibleblink"
 category: "Miscellaneous"
 ---

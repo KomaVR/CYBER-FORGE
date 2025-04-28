@@ -1,6 +1,6 @@
 ---
 title: "nventuro"
 description: ""
-url: "https://github.com/nventuro"
+external_url: "https://github.com/nventuro"
 category: "Miscellaneous"
 ---

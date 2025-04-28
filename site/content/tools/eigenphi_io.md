@@ -1,6 +1,6 @@
 ---
 title: "eigenphi.io"
 description: ""
-url: "https://eigenphi.io/"
+external_url: "https://eigenphi.io/"
 category: "Miscellaneous"
 ---

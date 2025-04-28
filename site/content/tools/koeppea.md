@@ -1,6 +1,6 @@
 ---
 title: "koeppea"
 description: ""
-url: "https://github.com/koeppea"
+external_url: "https://github.com/koeppea"
 category: "Miscellaneous"
 ---

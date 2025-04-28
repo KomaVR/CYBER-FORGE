@@ -7,6 +7,6 @@ description: "
 sowdust/tafferugli: Tafferugli is a Twitter Analysis Framework
 
 "
-url: "https://github.com/twintproject/twint"
+external_url: "https://github.com/twintproject/twint"
 category: "Miscellaneous"
 ---

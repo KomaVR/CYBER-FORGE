@@ -1,6 +1,6 @@
 ---
 title: "Reverse Engineering iOS Applications"
 description: ""
-url: "https://github.com/ivRodriguezCA/RE-iOS-Apps"
+external_url: "https://github.com/ivRodriguezCA/RE-iOS-Apps"
 category: "Miscellaneous"
 ---

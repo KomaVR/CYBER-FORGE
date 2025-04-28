@@ -16,6 +16,6 @@ CRLF Injection 蓋掉 S3 Bucket 的 Host header，控 Response 內容做 XSS
 
 
 "
-url: "https://github.com/w181496/CTF/tree/master/volgactf2021_quals/Static_Site"
+external_url: "https://github.com/w181496/CTF/tree/master/volgactf2021_quals/Static_Site"
 category: "Web Exploitation"
 ---

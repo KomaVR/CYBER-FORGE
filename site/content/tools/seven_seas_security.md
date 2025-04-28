@@ -1,6 +1,6 @@
 ---
 title: "Seven Seas Security"
 description: ""
-url: "https://www.youtube.com/@7SeasSecurity/videos"
+external_url: "https://www.youtube.com/@7SeasSecurity/videos"
 category: "Miscellaneous"
 ---

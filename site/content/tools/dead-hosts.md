@@ -1,6 +1,6 @@
 ---
 title: "Dead-Hosts"
 description: ""
-url: "https://github.com/dead-hosts"
+external_url: "https://github.com/dead-hosts"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "luckytyphlosion"
 description: ""
-url: "https://github.com/luckytyphlosion"
+external_url: "https://github.com/luckytyphlosion"
 category: "Miscellaneous"
 ---

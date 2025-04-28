@@ -30,6 +30,6 @@ Fedora
 
 
 "
-url: "https://github.com/psf/black"
+external_url: "https://github.com/psf/black"
 category: "Black Hat Tools"
 ---

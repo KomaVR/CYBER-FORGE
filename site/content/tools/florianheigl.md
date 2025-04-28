@@ -1,6 +1,6 @@
 ---
 title: "FlorianHeigl"
 description: ""
-url: "https://github.com/FlorianHeigl"
+external_url: "https://github.com/FlorianHeigl"
 category: "Miscellaneous"
 ---

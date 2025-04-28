@@ -1,6 +1,6 @@
 ---
 title: "Statista"
 description: ""
-url: "http://www.statista.com"
+external_url: "http://www.statista.com"
 category: "Miscellaneous"
 ---

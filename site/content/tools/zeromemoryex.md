@@ -1,6 +1,6 @@
 ---
 title: "ZeroMemoryEx"
 description: ""
-url: "https://github.com/ZeroMemoryEx"
+external_url: "https://github.com/ZeroMemoryEx"
 category: "Miscellaneous"
 ---

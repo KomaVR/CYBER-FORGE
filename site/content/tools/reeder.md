@@ -1,6 +1,6 @@
 ---
 title: "Reeder"
 description: ""
-url: "http://reederapp.com"
+external_url: "http://reederapp.com"
 category: "Miscellaneous"
 ---

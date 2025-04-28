@@ -1,6 +1,6 @@
 ---
 title: "rodrigondec"
 description: ""
-url: "https://github.com/rodrigondec"
+external_url: "https://github.com/rodrigondec"
 category: "Miscellaneous"
 ---

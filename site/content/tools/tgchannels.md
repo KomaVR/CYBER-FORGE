@@ -1,6 +1,6 @@
 ---
 title: "TgChannels"
 description: ""
-url: "https://en.tgchannels.org/"
+external_url: "https://en.tgchannels.org/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "SRE Teams #8: Loggi"
 description: ""
-url: "https://sreteams.substack.com/p/loggi"
+external_url: "https://sreteams.substack.com/p/loggi"
 category: "Miscellaneous"
 ---

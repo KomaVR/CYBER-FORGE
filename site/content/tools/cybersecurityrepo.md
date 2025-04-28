@@ -1,6 +1,6 @@
 ---
 title: "CyberSecurityRepo"
 description: ""
-url: "https://github.com/CyberSecurityRepo"
+external_url: "https://github.com/CyberSecurityRepo"
 category: "Miscellaneous"
 ---

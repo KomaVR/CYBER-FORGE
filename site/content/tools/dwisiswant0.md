@@ -1,6 +1,6 @@
 ---
 title: "dwisiswant0"
 description: ""
-url: "https://github.com/dwisiswant0"
+external_url: "https://github.com/dwisiswant0"
 category: "Miscellaneous"
 ---

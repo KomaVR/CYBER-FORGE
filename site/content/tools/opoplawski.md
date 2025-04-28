@@ -1,6 +1,6 @@
 ---
 title: "opoplawski"
 description: ""
-url: "https://github.com/opoplawski"
+external_url: "https://github.com/opoplawski"
 category: "Miscellaneous"
 ---

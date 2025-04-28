@@ -1,6 +1,6 @@
 ---
 title: "explorer.bitquery.io"
 description: ""
-url: "https://explorer.bitquery.io"
+external_url: "https://explorer.bitquery.io"
 category: "Miscellaneous"
 ---

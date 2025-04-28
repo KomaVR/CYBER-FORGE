@@ -1,6 +1,6 @@
 ---
 title: "richwrightnyc"
 description: ""
-url: "https://github.com/richwrightnyc"
+external_url: "https://github.com/richwrightnyc"
 category: "Miscellaneous"
 ---

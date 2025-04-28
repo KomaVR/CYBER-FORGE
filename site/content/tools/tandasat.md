@@ -1,6 +1,6 @@
 ---
 title: "tandasat"
 description: ""
-url: "https://github.com/tandasat"
+external_url: "https://github.com/tandasat"
 category: "Miscellaneous"
 ---

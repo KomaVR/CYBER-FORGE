@@ -1,6 +1,6 @@
 ---
 title: "diversenok"
 description: ""
-url: "https://github.com/diversenok"
+external_url: "https://github.com/diversenok"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "lostcontrol"
 description: ""
-url: "https://github.com/lostcontrol"
+external_url: "https://github.com/lostcontrol"
 category: "Miscellaneous"
 ---

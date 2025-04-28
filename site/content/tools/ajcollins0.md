@@ -1,6 +1,6 @@
 ---
 title: "ajcollins0"
 description: ""
-url: "https://github.com/ajcollins0"
+external_url: "https://github.com/ajcollins0"
 category: "Miscellaneous"
 ---

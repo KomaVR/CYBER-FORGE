@@ -1,6 +1,6 @@
 ---
 title: "MewtR"
 description: ""
-url: "https://github.com/MewtR"
+external_url: "https://github.com/MewtR"
 category: "Miscellaneous"
 ---

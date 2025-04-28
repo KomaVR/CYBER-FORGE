@@ -1,6 +1,6 @@
 ---
 title: "ilkka"
 description: ""
-url: "https://github.com/ilkka"
+external_url: "https://github.com/ilkka"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "SOC Multi-tool"
 description: ""
-url: "https://github.com/zdhenard42/SOC-Multitool"
+external_url: "https://github.com/zdhenard42/SOC-Multitool"
 category: "Miscellaneous"
 ---

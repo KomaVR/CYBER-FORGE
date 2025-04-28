@@ -1,6 +1,6 @@
 ---
 title: "mbharanya"
 description: ""
-url: "https://github.com/mbharanya"
+external_url: "https://github.com/mbharanya"
 category: "Miscellaneous"
 ---

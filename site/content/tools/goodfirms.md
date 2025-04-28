@@ -1,6 +1,6 @@
 ---
 title: "GoodFirms"
 description: ""
-url: "https://www.goodfirms.co/"
+external_url: "https://www.goodfirms.co/"
 category: "Miscellaneous"
 ---

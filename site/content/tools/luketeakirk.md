@@ -2,6 +2,6 @@
 title: "LukeTeaKirk"
 description: "LukeTeaKirk
 Manan Gupta"
-url: "https://github.com/LukeTeaKirk"
+external_url: "https://github.com/LukeTeaKirk"
 category: "Miscellaneous"
 ---

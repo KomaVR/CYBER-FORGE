@@ -1,6 +1,6 @@
 ---
 title: "noisy"
 description: "Simple random DNS, HTTP/S internet traffic noise generator."
-url: "https://github.com/1tayH/noisy"
+external_url: "https://github.com/1tayH/noisy"
 category: "Miscellaneous"
 ---

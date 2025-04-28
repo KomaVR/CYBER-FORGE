@@ -1,6 +1,6 @@
 ---
 title: "JusticeRage"
 description: ""
-url: "https://github.com/JusticeRage"
+external_url: "https://github.com/JusticeRage"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "rotemreiss"
 description: ""
-url: "https://github.com/rotemreiss"
+external_url: "https://github.com/rotemreiss"
 category: "Miscellaneous"
 ---

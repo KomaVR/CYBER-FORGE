@@ -1,6 +1,6 @@
 ---
 title: "y-mehta"
 description: ""
-url: "https://github.com/y-mehta"
+external_url: "https://github.com/y-mehta"
 category: "Miscellaneous"
 ---

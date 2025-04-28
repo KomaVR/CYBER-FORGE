@@ -1,6 +1,6 @@
 ---
 title: "Manisso"
 description: ""
-url: "https://github.com/Manisso"
+external_url: "https://github.com/Manisso"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "chlbc"
 description: ""
-url: "https://github.com/chlbc"
+external_url: "https://github.com/chlbc"
 category: "Miscellaneous"
 ---

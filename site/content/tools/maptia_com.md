@@ -2,6 +2,6 @@
 title: "maptia.com"
 description: "Maptia,
  "
-url: "https://maptia.com"
+external_url: "https://maptia.com"
 category: "Miscellaneous"
 ---

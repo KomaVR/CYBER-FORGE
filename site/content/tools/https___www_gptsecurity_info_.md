@@ -1,6 +1,6 @@
 ---
 title: "https://www.gptsecurity.info/"
 description: "GPTSecurity:"
-url: "https://www.gptsecurity.info/"
+external_url: "https://www.gptsecurity.info/"
 category: "Miscellaneous"
 ---

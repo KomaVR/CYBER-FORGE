@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://opencollective.com/trimstray"
+external_url: "https://opencollective.com/trimstray"
 category: "Miscellaneous"
 ---

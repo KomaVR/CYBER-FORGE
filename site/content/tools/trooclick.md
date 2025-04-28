@@ -1,6 +1,6 @@
 ---
 title: "Trooclick"
 description: ""
-url: "http://trooclick.com"
+external_url: "http://trooclick.com"
 category: "Miscellaneous"
 ---

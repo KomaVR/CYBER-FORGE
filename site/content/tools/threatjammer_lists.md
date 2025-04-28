@@ -1,6 +1,6 @@
 ---
 title: "ThreatJammer Lists"
 description: ""
-url: "https://threatjammer.com/osint-lists"
+external_url: "https://threatjammer.com/osint-lists"
 category: "Miscellaneous"
 ---

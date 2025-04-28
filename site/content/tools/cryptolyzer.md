@@ -1,6 +1,6 @@
 ---
 title: "CryptoLyzer"
 description: "Fast, flexible and comprehensive server cryptographic protocol (TLS, SSL, SSH, DNSSEC) and related setting (HTTP headers, DNS records) analyzer and fingerprint (JA3, HASSH tag) generator with Python API and CLI."
-url: "https://gitlab.com/coroner/cryptolyzer"
+external_url: "https://gitlab.com/coroner/cryptolyzer"
 category: "Miscellaneous"
 ---

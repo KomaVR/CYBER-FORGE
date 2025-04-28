@@ -1,6 +1,6 @@
 ---
 title: "Installation"
 description: ""
-url: "https://pwndoc.github.io/pwndoc/#/installation"
+external_url: "https://pwndoc.github.io/pwndoc/#/installation"
 category: "Miscellaneous"
 ---

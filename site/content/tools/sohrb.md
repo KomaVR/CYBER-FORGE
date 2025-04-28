@@ -1,6 +1,6 @@
 ---
 title: "sohrb"
 description: ""
-url: "https://github.com/sohrb"
+external_url: "https://github.com/sohrb"
 category: "Miscellaneous"
 ---

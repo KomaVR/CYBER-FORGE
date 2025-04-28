@@ -1,6 +1,6 @@
 ---
 title: "http://www.securityfocus.com/"
 description: ""
-url: "http://www.securityfocus.com/"
+external_url: "http://www.securityfocus.com/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "l3yx"
 description: ""
-url: "https://github.com/l3yx"
+external_url: "https://github.com/l3yx"
 category: "Miscellaneous"
 ---

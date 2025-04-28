@@ -1,6 +1,6 @@
 ---
 title: "Polymaps"
 description: ""
-url: "http://polymaps.org"
+external_url: "http://polymaps.org"
 category: "Miscellaneous"
 ---

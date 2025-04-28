@@ -1,6 +1,6 @@
 ---
 title: "各种姿势jsp webshell"
 description: ""
-url: "https://xz.aliyun.com/t/7798"
+external_url: "https://xz.aliyun.com/t/7798"
 category: "Web Exploitation"
 ---

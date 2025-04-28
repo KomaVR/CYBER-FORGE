@@ -3,6 +3,6 @@ title: "TryHackMe | Meltdown Explained"
 description: "
  
 "
-url: "https://tryhackme.com/room/meltdownexplained"
+external_url: "https://tryhackme.com/room/meltdownexplained"
 category: "Miscellaneous"
 ---

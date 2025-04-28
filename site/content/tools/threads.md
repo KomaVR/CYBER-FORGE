@@ -1,6 +1,6 @@
 ---
 title: "Threads"
 description: ""
-url: "https://www.threads.net/"
+external_url: "https://www.threads.net/"
 category: "Miscellaneous"
 ---

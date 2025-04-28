@@ -1,6 +1,6 @@
 ---
 title: "Php Obfuscator Encode"
 description: ""
-url: "http://w3webtools.com/encode-php-online/"
+external_url: "http://w3webtools.com/encode-php-online/"
 category: "Miscellaneous"
 ---

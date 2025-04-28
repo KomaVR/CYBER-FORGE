@@ -1,6 +1,6 @@
 ---
 title: "exploide"
 description: ""
-url: "https://github.com/exploide"
+external_url: "https://github.com/exploide"
 category: "Miscellaneous"
 ---

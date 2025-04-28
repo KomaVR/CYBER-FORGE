@@ -1,6 +1,6 @@
 ---
 title: "GUAC"
 description: ""
-url: "https://github.com/guacsec/guac"
+external_url: "https://github.com/guacsec/guac"
 category: "Miscellaneous"
 ---

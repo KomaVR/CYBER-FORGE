@@ -1,6 +1,6 @@
 ---
 title: "@domroaft"
 description: "Hungarian translation"
-url: "https://github.com/domroaft"
+external_url: "https://github.com/domroaft"
 category: "Miscellaneous"
 ---

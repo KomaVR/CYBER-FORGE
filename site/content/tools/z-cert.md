@@ -3,6 +3,6 @@ title: "Z-CERT"
 description: "
 
 "
-url: "https://www.z-cert.nl/"
+external_url: "https://www.z-cert.nl/"
 category: "Miscellaneous"
 ---

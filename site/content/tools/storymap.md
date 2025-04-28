@@ -1,6 +1,6 @@
 ---
 title: "StoryMap"
 description: ""
-url: "https://storymap.knightlab.com"
+external_url: "https://storymap.knightlab.com"
 category: "Miscellaneous"
 ---

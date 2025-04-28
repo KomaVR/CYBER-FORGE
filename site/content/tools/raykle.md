@@ -1,6 +1,6 @@
 ---
 title: "raykle"
 description: ""
-url: "https://github.com/raykle"
+external_url: "https://github.com/raykle"
 category: "Miscellaneous"
 ---

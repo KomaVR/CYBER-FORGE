@@ -1,6 +1,6 @@
 ---
 title: "rstoikos"
 description: ""
-url: "https://github.com/rstoikos"
+external_url: "https://github.com/rstoikos"
 category: "Miscellaneous"
 ---

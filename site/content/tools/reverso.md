@@ -1,6 +1,6 @@
 ---
 title: "Reverso"
 description: ""
-url: "http://www.reverso.net/"
+external_url: "http://www.reverso.net/"
 category: "Miscellaneous"
 ---

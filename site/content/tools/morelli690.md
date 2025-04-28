@@ -1,6 +1,6 @@
 ---
 title: "morelli690"
 description: ""
-url: "https://github.com/morelli690"
+external_url: "https://github.com/morelli690"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Captin Fact"
 description: ""
-url: "https://captainfact.io/"
+external_url: "https://captainfact.io/"
 category: "Miscellaneous"
 ---

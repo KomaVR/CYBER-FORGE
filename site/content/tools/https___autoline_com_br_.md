@@ -1,6 +1,6 @@
 ---
 title: "https://autoline.com.br/"
 description: ""
-url: "https://autoline.com.br/"
+external_url: "https://autoline.com.br/"
 category: "Miscellaneous"
 ---

@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://buymeacoffee.com/iBotPeaches"
+external_url: "https://buymeacoffee.com/iBotPeaches"
 category: "Miscellaneous"
 ---

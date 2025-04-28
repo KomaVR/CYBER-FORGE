@@ -1,6 +1,6 @@
 ---
 title: "Unactived"
 description: ""
-url: "https://github.com/Unactived"
+external_url: "https://github.com/Unactived"
 category: "Miscellaneous"
 ---

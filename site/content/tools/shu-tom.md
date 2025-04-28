@@ -1,6 +1,6 @@
 ---
 title: "shu-tom"
 description: ""
-url: "https://github.com/shu-tom"
+external_url: "https://github.com/shu-tom"
 category: "Miscellaneous"
 ---

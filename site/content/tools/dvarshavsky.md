@@ -1,6 +1,6 @@
 ---
 title: "dvarshavsky"
 description: ""
-url: "https://github.com/dvarshavsky"
+external_url: "https://github.com/dvarshavsky"
 category: "Miscellaneous"
 ---

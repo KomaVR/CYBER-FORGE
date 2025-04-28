@@ -1,6 +1,6 @@
 ---
 title: "WAIT: What Anime Is This?"
 description: ""
-url: "https://trace.moe/"
+external_url: "https://trace.moe/"
 category: "Miscellaneous"
 ---

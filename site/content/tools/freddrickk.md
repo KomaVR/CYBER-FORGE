@@ -1,6 +1,6 @@
 ---
 title: "Freddrickk"
 description: ""
-url: "https://github.com/Freddrickk"
+external_url: "https://github.com/Freddrickk"
 category: "Miscellaneous"
 ---

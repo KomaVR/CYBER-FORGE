@@ -1,6 +1,6 @@
 ---
 title: "giomke"
 description: ""
-url: "https://github.com/giomke"
+external_url: "https://github.com/giomke"
 category: "Miscellaneous"
 ---

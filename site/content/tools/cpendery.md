@@ -1,6 +1,6 @@
 ---
 title: "cpendery"
 description: ""
-url: "https://github.com/cpendery"
+external_url: "https://github.com/cpendery"
 category: "Miscellaneous"
 ---

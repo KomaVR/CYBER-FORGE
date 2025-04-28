@@ -9,6 +9,6 @@ Playbooks
 YouTube Tutorials
 
 "
-url: "https://github.com/mikeroyal/Digital-Forensics-Guide#getting-started-with-digital-forensics"
+external_url: "https://github.com/mikeroyal/Digital-Forensics-Guide#getting-started-with-digital-forensics"
 category: "Malware Analysis"
 ---

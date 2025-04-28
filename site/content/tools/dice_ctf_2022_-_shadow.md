@@ -6,6 +6,6 @@ description: "Example
 HITCON CTF 2022 - Self Destruct Message
 
 "
-url: "https://github.com/Super-Guesser/ctf/blob/master/2022/dicectf/shadow.md"
+external_url: "https://github.com/Super-Guesser/ctf/blob/master/2022/dicectf/shadow.md"
 category: "Miscellaneous"
 ---

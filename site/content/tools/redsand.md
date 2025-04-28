@@ -1,6 +1,6 @@
 ---
 title: "redsand"
 description: ""
-url: "https://github.com/redsand"
+external_url: "https://github.com/redsand"
 category: "Miscellaneous"
 ---

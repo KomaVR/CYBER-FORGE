@@ -1,6 +1,6 @@
 ---
 title: "briskets"
 description: ""
-url: "https://github.com/briskets"
+external_url: "https://github.com/briskets"
 category: "Miscellaneous"
 ---

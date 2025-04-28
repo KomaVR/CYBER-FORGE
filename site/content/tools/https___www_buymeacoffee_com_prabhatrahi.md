@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://www.buymeacoffee.com/prabhatrahi"
+external_url: "https://www.buymeacoffee.com/prabhatrahi"
 category: "Miscellaneous"
 ---

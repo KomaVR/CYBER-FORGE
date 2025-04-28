@@ -1,6 +1,6 @@
 ---
 title: "anishathalye"
 description: ""
-url: "https://github.com/anishathalye"
+external_url: "https://github.com/anishathalye"
 category: "Miscellaneous"
 ---

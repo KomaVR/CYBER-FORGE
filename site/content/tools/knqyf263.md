@@ -1,6 +1,6 @@
 ---
 title: "knqyf263"
 description: ""
-url: "https://github.com/knqyf263"
+external_url: "https://github.com/knqyf263"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "RiteTag"
 description: ""
-url: "https://ritetag.com"
+external_url: "https://ritetag.com"
 category: "Miscellaneous"
 ---

@@ -4,6 +4,6 @@ description: "
 
 This is a mainly lecture based class giving an introduction to common network monitoring and forensic techniques.
 "
-url: "http://opensecuritytraining.info/NetworkForensics.html"
+external_url: "http://opensecuritytraining.info/NetworkForensics.html"
 category: "White Hat Tools"
 ---

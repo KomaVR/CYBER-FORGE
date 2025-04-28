@@ -1,6 +1,6 @@
 ---
 title: "edumco"
 description: ""
-url: "https://github.com/edumco"
+external_url: "https://github.com/edumco"
 category: "Miscellaneous"
 ---

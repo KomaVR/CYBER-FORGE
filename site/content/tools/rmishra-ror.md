@@ -1,6 +1,6 @@
 ---
 title: "rmishra-ror"
 description: ""
-url: "https://github.com/rmishra-ror"
+external_url: "https://github.com/rmishra-ror"
 category: "Miscellaneous"
 ---

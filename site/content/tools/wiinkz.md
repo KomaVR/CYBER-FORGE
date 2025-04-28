@@ -1,6 +1,6 @@
 ---
 title: "WiinkZ"
 description: ""
-url: "http://www.wiinkz.com/"
+external_url: "http://www.wiinkz.com/"
 category: "Miscellaneous"
 ---

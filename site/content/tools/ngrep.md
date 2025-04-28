@@ -1,6 +1,6 @@
 ---
 title: "ngrep"
 description: "strives to provide most of GNU grep's common features, applying them to the network layer.  is a pcap-aware tool that will allow you to specify extended regular or hexadecimal expressions to match against data payloads of packets. It currently recognizes IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw across Ethernet, PPP, SLIP, FDDI, Token Ring and null interfaces, and understands BPF filter logic in the same fashion as more common packet sniffing tools, such as tcpdump and snoop."
-url: "http://ngrep.sourceforge.net/"
+external_url: "http://ngrep.sourceforge.net/"
 category: "Black Hat Tools"
 ---

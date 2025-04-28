@@ -1,6 +1,6 @@
 ---
 title: "nenadzaric"
 description: ""
-url: "https://github.com/nenadzaric"
+external_url: "https://github.com/nenadzaric"
 category: "Miscellaneous"
 ---

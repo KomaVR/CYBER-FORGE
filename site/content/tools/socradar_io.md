@@ -1,6 +1,6 @@
 ---
 title: "socradar.io"
 description: "Extension to your SOC team"
-url: "https://socradar.io/"
+external_url: "https://socradar.io/"
 category: "Miscellaneous"
 ---

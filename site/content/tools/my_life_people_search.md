@@ -1,6 +1,6 @@
 ---
 title: "My Life People Search"
 description: ""
-url: "https://www.mylife.com/people-search"
+external_url: "https://www.mylife.com/people-search"
 category: "Miscellaneous"
 ---

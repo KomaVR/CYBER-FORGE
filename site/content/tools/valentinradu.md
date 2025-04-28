@@ -1,6 +1,6 @@
 ---
 title: "valentinradu"
 description: ""
-url: "https://github.com/valentinradu"
+external_url: "https://github.com/valentinradu"
 category: "Miscellaneous"
 ---

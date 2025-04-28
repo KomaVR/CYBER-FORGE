@@ -28,6 +28,6 @@ CSS 語法容錯率很高
 
 
 "
-url: "http://example.com/a%2findex.php"
+external_url: "http://example.com/a%2findex.php"
 category: "Web Exploitation"
 ---

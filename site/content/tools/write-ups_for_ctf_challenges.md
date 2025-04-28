@@ -1,6 +1,6 @@
 ---
 title: "Write-Ups for CTF challenges"
 description: ""
-url: "https://ctftime.org/writeups"
+external_url: "https://ctftime.org/writeups"
 category: "Miscellaneous"
 ---

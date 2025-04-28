@@ -1,6 +1,6 @@
 ---
 title: "Proteas/apple-cve"
 description: ""
-url: "https://github.com/Proteas/apple-cve"
+external_url: "https://github.com/Proteas/apple-cve"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "lonnywong"
 description: ""
-url: "https://github.com/lonnywong"
+external_url: "https://github.com/lonnywong"
 category: "Miscellaneous"
 ---

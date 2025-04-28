@@ -1,6 +1,6 @@
 ---
 title: "Ehliman"
 description: ""
-url: "https://github.com/Ehliman"
+external_url: "https://github.com/Ehliman"
 category: "Miscellaneous"
 ---

@@ -2,6 +2,6 @@
 title: "lckjosh"
 description: "lckjosh
 Joshua Lim"
-url: "https://github.com/lckjosh"
+external_url: "https://github.com/lckjosh"
 category: "Miscellaneous"
 ---

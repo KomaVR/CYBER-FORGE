@@ -1,6 +1,6 @@
 ---
 title: "remonsec"
 description: ""
-url: "https://github.com/remonsec"
+external_url: "https://github.com/remonsec"
 category: "Miscellaneous"
 ---

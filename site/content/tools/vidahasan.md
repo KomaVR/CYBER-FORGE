@@ -1,6 +1,6 @@
 ---
 title: "VidaHasan"
 description: ""
-url: "https://github.com/VidaHasan"
+external_url: "https://github.com/VidaHasan"
 category: "Miscellaneous"
 ---

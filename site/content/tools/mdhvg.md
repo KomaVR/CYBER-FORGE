@@ -1,6 +1,6 @@
 ---
 title: "mdhvg"
 description: ""
-url: "https://github.com/mdhvg"
+external_url: "https://github.com/mdhvg"
 category: "Miscellaneous"
 ---

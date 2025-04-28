@@ -1,6 +1,6 @@
 ---
 title: "Mart"
 description: "| Was Previously Sr Dev"
-url: "https://github.com/marvhus"
+external_url: "https://github.com/marvhus"
 category: "Miscellaneous"
 ---

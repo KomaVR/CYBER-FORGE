@@ -1,6 +1,6 @@
 ---
 title: "ream88"
 description: ""
-url: "https://github.com/ream88"
+external_url: "https://github.com/ream88"
 category: "Miscellaneous"
 ---

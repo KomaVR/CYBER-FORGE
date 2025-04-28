@@ -1,6 +1,6 @@
 ---
 title: "vtnerd"
 description: ""
-url: "https://github.com/vtnerd"
+external_url: "https://github.com/vtnerd"
 category: "Miscellaneous"
 ---

@@ -9,6 +9,6 @@ gpt-4-turbo
 gpt-4-turbo-2024-0409-gs
 
 "
-url: "https://ai.azure.com/"
+external_url: "https://ai.azure.com/"
 category: "Miscellaneous"
 ---

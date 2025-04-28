@@ -1,6 +1,6 @@
 ---
 title: "Dfte"
 description: ""
-url: "https://github.com/Dfte"
+external_url: "https://github.com/Dfte"
 category: "Miscellaneous"
 ---

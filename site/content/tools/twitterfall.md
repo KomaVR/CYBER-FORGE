@@ -1,6 +1,6 @@
 ---
 title: "Twitterfall"
 description: ""
-url: "http://twitterfall.com/"
+external_url: "http://twitterfall.com/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "AndroPyTool"
 description: ""
-url: "https://github.com/alexMyG/AndroPyTool"
+external_url: "https://github.com/alexMyG/AndroPyTool"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Fuse"
 description: "Medium"
-url: "https://app.hackthebox.com/machines/235"
+external_url: "https://app.hackthebox.com/machines/235"
 category: "Miscellaneous"
 ---

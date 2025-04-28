@@ -1,6 +1,6 @@
 ---
 title: "adiantek"
 description: ""
-url: "https://github.com/adiantek"
+external_url: "https://github.com/adiantek"
 category: "Miscellaneous"
 ---

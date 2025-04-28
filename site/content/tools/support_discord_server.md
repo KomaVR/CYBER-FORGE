@@ -1,6 +1,6 @@
 ---
 title: "Support Discord Server"
 description: ""
-url: "https://discord.gg/tgSacvyHqV"
+external_url: "https://discord.gg/tgSacvyHqV"
 category: "Miscellaneous"
 ---

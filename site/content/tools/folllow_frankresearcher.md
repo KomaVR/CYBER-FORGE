@@ -1,6 +1,6 @@
 ---
 title: "Folllow Frankresearcher"
 description: ""
-url: "https://twitter.com/frankresearcher"
+external_url: "https://twitter.com/frankresearcher"
 category: "Miscellaneous"
 ---

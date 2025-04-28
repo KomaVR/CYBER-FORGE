@@ -1,6 +1,6 @@
 ---
 title: "dsasmblr"
 description: ""
-url: "https://github.com/dsasmblr"
+external_url: "https://github.com/dsasmblr"
 category: "Miscellaneous"
 ---

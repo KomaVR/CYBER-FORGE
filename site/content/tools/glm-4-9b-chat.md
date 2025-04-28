@@ -1,6 +1,6 @@
 ---
 title: "glm-4-9b-chat"
 description: "🔥🔥🔥"
-url: "https://huggingface.co/THUDM/glm-4-9b-chat"
+external_url: "https://huggingface.co/THUDM/glm-4-9b-chat"
 category: "Miscellaneous"
 ---

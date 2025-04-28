@@ -1,6 +1,6 @@
 ---
 title: "The Auditors Book"
 description: ""
-url: "https://theauditorbook.com/"
+external_url: "https://theauditorbook.com/"
 category: "Miscellaneous"
 ---

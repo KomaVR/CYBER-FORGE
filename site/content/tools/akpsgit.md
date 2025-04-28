@@ -1,6 +1,6 @@
 ---
 title: "akpsgit"
 description: ""
-url: "https://github.com/akpsgit"
+external_url: "https://github.com/akpsgit"
 category: "Miscellaneous"
 ---

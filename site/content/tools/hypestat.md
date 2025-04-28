@@ -1,6 +1,6 @@
 ---
 title: "HypeStat"
 description: ""
-url: "https://www.hypestat.com"
+external_url: "https://www.hypestat.com"
 category: "Miscellaneous"
 ---

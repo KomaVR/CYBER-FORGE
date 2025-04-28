@@ -1,6 +1,6 @@
 ---
 title: "fastjson反序列化利用"
 description: ""
-url: "https://lazydog.me/post/fastjson-JdbcRowSetImpl-rce-exploit.html"
+external_url: "https://lazydog.me/post/fastjson-JdbcRowSetImpl-rce-exploit.html"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "TheEvilSkeleton"
 description: ""
-url: "https://github.com/TheEvilSkeleton"
+external_url: "https://github.com/TheEvilSkeleton"
 category: "Black Hat Tools"
 ---

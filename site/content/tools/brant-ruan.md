@@ -1,6 +1,6 @@
 ---
 title: "brant-ruan"
 description: ""
-url: "https://github.com/brant-ruan"
+external_url: "https://github.com/brant-ruan"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "angelystor"
 description: ""
-url: "https://github.com/angelystor"
+external_url: "https://github.com/angelystor"
 category: "Miscellaneous"
 ---

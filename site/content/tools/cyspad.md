@@ -2,6 +2,6 @@
 title: "cyspad"
 description: "cyspad
 Amir Hossein Vafifar"
-url: "https://github.com/cyspad"
+external_url: "https://github.com/cyspad"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "NaxnN"
 description: ""
-url: "https://github.com/NaxnN"
+external_url: "https://github.com/NaxnN"
 category: "Miscellaneous"
 ---

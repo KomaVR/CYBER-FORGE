@@ -1,6 +1,6 @@
 ---
 title: "EONRaider"
 description: ""
-url: "https://github.com/EONRaider"
+external_url: "https://github.com/EONRaider"
 category: "Miscellaneous"
 ---

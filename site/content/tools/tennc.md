@@ -1,6 +1,6 @@
 ---
 title: "tennc"
 description: ""
-url: "http://tennc.github.io/webshell/"
+external_url: "http://tennc.github.io/webshell/"
 category: "Miscellaneous"
 ---

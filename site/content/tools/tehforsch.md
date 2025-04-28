@@ -1,6 +1,6 @@
 ---
 title: "Tehforsch"
 description: ""
-url: "https://github.com/Tehforsch"
+external_url: "https://github.com/Tehforsch"
 category: "Miscellaneous"
 ---

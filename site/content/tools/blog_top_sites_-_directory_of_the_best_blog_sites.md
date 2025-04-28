@@ -1,6 +1,6 @@
 ---
 title: "Blog Top Sites - Directory of the Best Blog Sites"
 description: ""
-url: "http://blogtopsites.com/"
+external_url: "http://blogtopsites.com/"
 category: "Miscellaneous"
 ---

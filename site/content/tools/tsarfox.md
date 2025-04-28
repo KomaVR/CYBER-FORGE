@@ -1,6 +1,6 @@
 ---
 title: "TsarFox"
 description: ""
-url: "https://github.com/TsarFox"
+external_url: "https://github.com/TsarFox"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/RhinoSecurityLabs/cloudgoat"
 description: "CloudGoat:"
-url: "https://github.com/RhinoSecurityLabs/cloudgoat"
+external_url: "https://github.com/RhinoSecurityLabs/cloudgoat"
 category: "Miscellaneous"
 ---

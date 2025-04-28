@@ -1,6 +1,6 @@
 ---
 title: "sandy"
 description: ""
-url: "https://github.com/hobochild/sandy"
+external_url: "https://github.com/hobochild/sandy"
 category: "Miscellaneous"
 ---

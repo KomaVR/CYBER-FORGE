@@ -1,6 +1,6 @@
 ---
 title: "Christian Burkard (@phantinuss)"
 description: ""
-url: "https://twitter.com/phantinuss"
+external_url: "https://twitter.com/phantinuss"
 category: "Miscellaneous"
 ---

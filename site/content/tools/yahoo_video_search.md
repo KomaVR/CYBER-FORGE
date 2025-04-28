@@ -1,6 +1,6 @@
 ---
 title: "Yahoo Video Search"
 description: ""
-url: "http://video.search.yahoo.com"
+external_url: "http://video.search.yahoo.com"
 category: "Miscellaneous"
 ---

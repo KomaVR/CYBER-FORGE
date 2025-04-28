@@ -1,6 +1,6 @@
 ---
 title: "crondaemon"
 description: ""
-url: "https://github.com/crondaemon"
+external_url: "https://github.com/crondaemon"
 category: "Miscellaneous"
 ---

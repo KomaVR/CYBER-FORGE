@@ -9,6 +9,6 @@ HITCON 2019 - GoGoPowerSQL
 VolgaCTF 2018 - Corp Monitoring
 
 "
-url: "https://xz.aliyun.com/t/6300"
+external_url: "https://xz.aliyun.com/t/6300"
 category: "Web Exploitation"
 ---

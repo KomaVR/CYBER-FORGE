@@ -1,6 +1,6 @@
 ---
 title: "Seeking SRE"
 description: "📔"
-url: "https://amzn.to/3WSmSVu"
+external_url: "https://amzn.to/3WSmSVu"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "h3xstream"
 description: ""
-url: "https://github.com/h3xstream"
+external_url: "https://github.com/h3xstream"
 category: "Miscellaneous"
 ---

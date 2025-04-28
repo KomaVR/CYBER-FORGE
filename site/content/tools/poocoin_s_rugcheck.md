@@ -1,6 +1,6 @@
 ---
 title: "poocoin’s rugcheck"
 description: ""
-url: "https://poocoin.app/rugcheck"
+external_url: "https://poocoin.app/rugcheck"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "pchaigno"
 description: ""
-url: "https://github.com/pchaigno"
+external_url: "https://github.com/pchaigno"
 category: "Miscellaneous"
 ---

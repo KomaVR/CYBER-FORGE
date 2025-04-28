@@ -6,6 +6,6 @@ Great collection of boxes
 Has some CTF stuff
 
 "
-url: "https://www.cyberseclabs.co.uk/"
+external_url: "https://www.cyberseclabs.co.uk/"
 category: "Miscellaneous"
 ---

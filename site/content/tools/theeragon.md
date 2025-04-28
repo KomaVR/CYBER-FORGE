@@ -1,6 +1,6 @@
 ---
 title: "TheEragon"
 description: ""
-url: "https://github.com/TheEragon"
+external_url: "https://github.com/TheEragon"
 category: "Miscellaneous"
 ---

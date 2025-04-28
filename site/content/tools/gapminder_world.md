@@ -1,6 +1,6 @@
 ---
 title: "Gapminder World"
 description: ""
-url: "http://www.gapminder.org/data"
+external_url: "http://www.gapminder.org/data"
 category: "Miscellaneous"
 ---

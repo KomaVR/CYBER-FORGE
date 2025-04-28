@@ -1,6 +1,6 @@
 ---
 title: "Felon Spy"
 description: ""
-url: "http://www.felonspy.com"
+external_url: "http://www.felonspy.com"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Enigma"
 description: ""
-url: "https://enigma.com/"
+external_url: "https://enigma.com/"
 category: "Miscellaneous"
 ---

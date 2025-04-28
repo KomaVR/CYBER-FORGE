@@ -1,6 +1,6 @@
 ---
 title: "SkeletalDemise"
 description: ""
-url: "https://github.com/SkeletalDemise"
+external_url: "https://github.com/SkeletalDemise"
 category: "Miscellaneous"
 ---

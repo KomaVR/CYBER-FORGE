@@ -1,6 +1,6 @@
 ---
 title: "isclayton"
 description: ""
-url: "https://github.com/isclayton"
+external_url: "https://github.com/isclayton"
 category: "Miscellaneous"
 ---

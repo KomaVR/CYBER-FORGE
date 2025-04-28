@@ -1,6 +1,6 @@
 ---
 title: "https://doc.traefik.io/traefik/https/acme/#providers"
 description: ""
-url: "https://doc.traefik.io/traefik/https/acme/#providers"
+external_url: "https://doc.traefik.io/traefik/https/acme/#providers"
 category: "Miscellaneous"
 ---

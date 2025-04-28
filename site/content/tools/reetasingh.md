@@ -1,6 +1,6 @@
 ---
 title: "reetasingh"
 description: ""
-url: "https://github.com/reetasingh"
+external_url: "https://github.com/reetasingh"
 category: "Miscellaneous"
 ---

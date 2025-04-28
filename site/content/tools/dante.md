@@ -1,6 +1,6 @@
 ---
 title: "Dante"
 description: "Beginner"
-url: "https://app.hackthebox.com/prolabs/overview/dante"
+external_url: "https://app.hackthebox.com/prolabs/overview/dante"
 category: "Miscellaneous"
 ---

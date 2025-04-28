@@ -1,6 +1,6 @@
 ---
 title: "rsstdd"
 description: ""
-url: "https://github.com/rsstdd"
+external_url: "https://github.com/rsstdd"
 category: "Miscellaneous"
 ---

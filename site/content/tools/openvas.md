@@ -1,6 +1,6 @@
 ---
 title: "openvas"
 description: "Open Vulnerability Assessment Scanner."
-url: "https://github.com/greenbone/openvas"
+external_url: "https://github.com/greenbone/openvas"
 category: "White Hat Tools"
 ---

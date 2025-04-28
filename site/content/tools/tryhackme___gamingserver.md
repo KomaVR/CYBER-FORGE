@@ -3,6 +3,6 @@ title: "TryHackMe | GamingServer"
 description: "
  
 "
-url: "https://tryhackme.com/room/gamingserver"
+external_url: "https://tryhackme.com/room/gamingserver"
 category: "Miscellaneous"
 ---

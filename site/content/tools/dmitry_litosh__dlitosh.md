@@ -1,6 +1,6 @@
 ---
 title: "Dmitry Litosh @Dlitosh"
 description: ""
-url: "https://www.github.com/Dlitosh"
+external_url: "https://www.github.com/Dlitosh"
 category: "Miscellaneous"
 ---

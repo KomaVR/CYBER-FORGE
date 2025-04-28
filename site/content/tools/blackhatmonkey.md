@@ -1,6 +1,6 @@
 ---
 title: "blackHatMonkey"
 description: ""
-url: "https://github.com/blackHatMonkey"
+external_url: "https://github.com/blackHatMonkey"
 category: "Miscellaneous"
 ---

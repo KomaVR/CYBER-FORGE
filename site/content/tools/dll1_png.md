@@ -68,6 +68,6 @@ BOOL WINAPI DllMain(
 
 
 "
-url: "https://github.com/chriskaliX/AD-Pentest-Notes/raw/master/imgs/dll1.png"
+external_url: "https://github.com/chriskaliX/AD-Pentest-Notes/raw/master/imgs/dll1.png"
 category: "Miscellaneous"
 ---

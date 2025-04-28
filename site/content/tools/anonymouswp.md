@@ -1,6 +1,6 @@
 ---
 title: "AnonymousWP"
 description: ""
-url: "https://github.com/AnonymousWP"
+external_url: "https://github.com/AnonymousWP"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "kabeor"
 description: ""
-url: "https://github.com/kabeor"
+external_url: "https://github.com/kabeor"
 category: "Miscellaneous"
 ---

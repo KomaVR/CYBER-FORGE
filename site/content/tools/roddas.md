@@ -1,6 +1,6 @@
 ---
 title: "roddas"
 description: ""
-url: "https://github.com/roddas"
+external_url: "https://github.com/roddas"
 category: "Miscellaneous"
 ---

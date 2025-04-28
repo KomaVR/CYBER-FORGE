@@ -11,6 +11,6 @@ e.g.
 $ffi = FFI::cdef(\"int system (const char* command);\");
 $ffi->system(\"id\");
 "
-url: "https://github.com/zsxsoft/my-ctf-challenges/tree/master/rctf2019/nextphp"
+external_url: "https://github.com/zsxsoft/my-ctf-challenges/tree/master/rctf2019/nextphp"
 category: "Miscellaneous"
 ---

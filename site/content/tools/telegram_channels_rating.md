@@ -1,6 +1,6 @@
 ---
 title: "Telegram channels rating"
 description: ""
-url: "https://telemetr.io/"
+external_url: "https://telemetr.io/"
 category: "Miscellaneous"
 ---

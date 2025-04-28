@@ -1,6 +1,6 @@
 ---
 title: "IP Locator"
 description: ""
-url: "https://geobytes.com/iplocator/"
+external_url: "https://geobytes.com/iplocator/"
 category: "Miscellaneous"
 ---

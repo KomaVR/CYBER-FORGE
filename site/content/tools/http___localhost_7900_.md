@@ -4,6 +4,6 @@ description: "
 (Optional) Provider Login:
 If required, you can access the container's desktop here:  for provider login purposes.
 "
-url: "http://localhost:7900/?autoconnect=1&resize=scale&password=secret"
+external_url: "http://localhost:7900/?autoconnect=1&resize=scale&password=secret"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Command2API：将执行命令的结果返回到Web API上"
 description: ""
-url: "https://github.com/gh0stkey/Command2API"
+external_url: "https://github.com/gh0stkey/Command2API"
 category: "Web Exploitation"
 ---

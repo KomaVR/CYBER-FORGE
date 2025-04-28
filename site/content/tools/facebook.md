@@ -1,6 +1,6 @@
 ---
 title: "Facebook"
 description: ""
-url: "https://www.facebook.com/redhunt.labs"
+external_url: "https://www.facebook.com/redhunt.labs"
 category: "Miscellaneous"
 ---

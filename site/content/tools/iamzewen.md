@@ -1,6 +1,6 @@
 ---
 title: "iamzewen"
 description: ""
-url: "https://github.com/iamzewen"
+external_url: "https://github.com/iamzewen"
 category: "Miscellaneous"
 ---

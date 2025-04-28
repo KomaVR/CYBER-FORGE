@@ -1,6 +1,6 @@
 ---
 title: "pes-soft"
 description: ""
-url: "https://github.com/pes-soft"
+external_url: "https://github.com/pes-soft"
 category: "Miscellaneous"
 ---

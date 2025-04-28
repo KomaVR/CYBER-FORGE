@@ -1,6 +1,6 @@
 ---
 title: "snowflake.com"
 description: ""
-url: "https://www.snowflake.com/en"
+external_url: "https://www.snowflake.com/en"
 category: "Miscellaneous"
 ---

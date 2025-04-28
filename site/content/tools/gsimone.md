@@ -1,6 +1,6 @@
 ---
 title: "gsimone"
 description: ""
-url: "https://github.com/gsimone"
+external_url: "https://github.com/gsimone"
 category: "Miscellaneous"
 ---

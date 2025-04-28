@@ -3,6 +3,6 @@ title: "https://robosec.org/downloads/wp-rogue-automation-vulnerable-and-malicio
 description: "
 Rogue Automation: Vulnerable and Malicious Code in Industrial Programming  ↩ ↩2 ↩3
 "
-url: "https://robosec.org/downloads/wp-rogue-automation-vulnerable-and-malicious-code-in-industrial-programming.pdf"
+external_url: "https://robosec.org/downloads/wp-rogue-automation-vulnerable-and-malicious-code-in-industrial-programming.pdf"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Unix-User"
 description: ""
-url: "https://github.com/Unix-User"
+external_url: "https://github.com/Unix-User"
 category: "Miscellaneous"
 ---

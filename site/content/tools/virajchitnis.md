@@ -1,6 +1,6 @@
 ---
 title: "virajchitnis"
 description: ""
-url: "https://github.com/virajchitnis"
+external_url: "https://github.com/virajchitnis"
 category: "Miscellaneous"
 ---

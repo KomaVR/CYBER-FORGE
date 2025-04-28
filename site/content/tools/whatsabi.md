@@ -1,6 +1,6 @@
 ---
 title: "whatsABI"
 description: ""
-url: "https://github.com/shazow/whatsabi"
+external_url: "https://github.com/shazow/whatsabi"
 category: "Miscellaneous"
 ---

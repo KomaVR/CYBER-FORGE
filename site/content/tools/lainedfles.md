@@ -1,6 +1,6 @@
 ---
 title: "lainedfles"
 description: ""
-url: "https://github.com/lainedfles"
+external_url: "https://github.com/lainedfles"
 category: "Miscellaneous"
 ---

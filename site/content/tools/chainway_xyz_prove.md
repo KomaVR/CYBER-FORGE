@@ -1,6 +1,6 @@
 ---
 title: "chainway.xyz/prove"
 description: ""
-url: "https://poi.chainway.xyz/prove"
+external_url: "https://poi.chainway.xyz/prove"
 category: "Miscellaneous"
 ---

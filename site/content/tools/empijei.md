@@ -1,6 +1,6 @@
 ---
 title: "empijei"
 description: ""
-url: "https://github.com/empijei"
+external_url: "https://github.com/empijei"
 category: "Miscellaneous"
 ---

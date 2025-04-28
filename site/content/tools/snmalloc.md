@@ -1,6 +1,6 @@
 ---
 title: "snmalloc"
 description: "Uses  as global memory allocator"
-url: "https://github.com/microsoft/snmalloc"
+external_url: "https://github.com/microsoft/snmalloc"
 category: "Miscellaneous"
 ---

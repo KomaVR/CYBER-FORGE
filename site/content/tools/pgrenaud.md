@@ -1,6 +1,6 @@
 ---
 title: "pgrenaud"
 description: ""
-url: "https://github.com/pgrenaud"
+external_url: "https://github.com/pgrenaud"
 category: "Miscellaneous"
 ---

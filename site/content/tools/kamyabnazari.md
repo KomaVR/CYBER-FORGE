@@ -1,6 +1,6 @@
 ---
 title: "kamyabnazari"
 description: ""
-url: "https://github.com/kamyabnazari"
+external_url: "https://github.com/kamyabnazari"
 category: "Miscellaneous"
 ---

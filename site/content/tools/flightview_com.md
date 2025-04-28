@@ -1,6 +1,6 @@
 ---
 title: "flightview.com"
 description: "FlightView,"
-url: "https://www.flightview.com/"
+external_url: "https://www.flightview.com/"
 category: "Miscellaneous"
 ---

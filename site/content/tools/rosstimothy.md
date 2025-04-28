@@ -1,6 +1,6 @@
 ---
 title: "rosstimothy"
 description: ""
-url: "https://github.com/rosstimothy"
+external_url: "https://github.com/rosstimothy"
 category: "Miscellaneous"
 ---

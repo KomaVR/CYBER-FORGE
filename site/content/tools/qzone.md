@@ -1,6 +1,6 @@
 ---
 title: "Qzone"
 description: "(CN)"
-url: "http://qzone.qq.com/"
+external_url: "http://qzone.qq.com/"
 category: "Miscellaneous"
 ---

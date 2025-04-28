@@ -1,6 +1,6 @@
 ---
 title: "Bots for Telegram"
 description: ""
-url: "https://botsfortelegram.com/"
+external_url: "https://botsfortelegram.com/"
 category: "Miscellaneous"
 ---

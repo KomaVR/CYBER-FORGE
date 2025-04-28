@@ -1,6 +1,6 @@
 ---
 title: "cruise.supremacy.team"
 description: "& their main page"
-url: "https://cruise.supremacy.team"
+external_url: "https://cruise.supremacy.team"
 category: "Miscellaneous"
 ---

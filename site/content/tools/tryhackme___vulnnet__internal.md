@@ -3,6 +3,6 @@ title: "TryHackMe | VulnNet: Internal"
 description: "
  
 "
-url: "https://tryhackme.com/room/vulnnetinternal"
+external_url: "https://tryhackme.com/room/vulnnetinternal"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "yqcs/fingerscan"
 description: "Port fingerprint recognition framework:"
-url: "https://github.com/yqcs/fingerscan"
+external_url: "https://github.com/yqcs/fingerscan"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "danielpacak"
 description: ""
-url: "https://github.com/danielpacak"
+external_url: "https://github.com/danielpacak"
 category: "Miscellaneous"
 ---

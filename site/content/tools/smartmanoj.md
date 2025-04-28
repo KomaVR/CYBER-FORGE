@@ -1,6 +1,6 @@
 ---
 title: "SmartManoj"
 description: ""
-url: "https://github.com/SmartManoj"
+external_url: "https://github.com/SmartManoj"
 category: "Miscellaneous"
 ---

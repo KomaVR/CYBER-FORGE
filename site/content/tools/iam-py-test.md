@@ -1,6 +1,6 @@
 ---
 title: "iam-py-test"
 description: ""
-url: "https://github.com/iam-py-test"
+external_url: "https://github.com/iam-py-test"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "PeekYou"
 description: "Fast People Search Made Easy"
-url: "https://www.peekyou.com/"
+external_url: "https://www.peekyou.com/"
 category: "Miscellaneous"
 ---

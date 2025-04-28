@@ -11,6 +11,6 @@ Example:
 
 
 "
-url: "https://github.com/w181496/CTF/tree/master/volgactf2021_quals/JWT"
+external_url: "https://github.com/w181496/CTF/tree/master/volgactf2021_quals/JWT"
 category: "Miscellaneous"
 ---

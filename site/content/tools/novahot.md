@@ -1,6 +1,6 @@
 ---
 title: "novahot"
 description: ""
-url: "https://github.com/chrisallenlane/novahot"
+external_url: "https://github.com/chrisallenlane/novahot"
 category: "Miscellaneous"
 ---

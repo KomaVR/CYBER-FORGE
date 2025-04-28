@@ -1,6 +1,6 @@
 ---
 title: "salihmarangoz"
 description: ""
-url: "https://github.com/salihmarangoz"
+external_url: "https://github.com/salihmarangoz"
 category: "Miscellaneous"
 ---

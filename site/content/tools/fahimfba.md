@@ -1,6 +1,6 @@
 ---
 title: "FahimFBA"
 description: ""
-url: "https://github.com/FahimFBA"
+external_url: "https://github.com/FahimFBA"
 category: "Miscellaneous"
 ---

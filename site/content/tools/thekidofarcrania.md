@@ -1,6 +1,6 @@
 ---
 title: "theKidOfArcrania"
 description: ""
-url: "https://github.com/theKidOfArcrania"
+external_url: "https://github.com/theKidOfArcrania"
 category: "Miscellaneous"
 ---

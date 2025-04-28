@@ -1,6 +1,6 @@
 ---
 title: "pvdl"
 description: ""
-url: "https://github.com/pvdl"
+external_url: "https://github.com/pvdl"
 category: "Miscellaneous"
 ---

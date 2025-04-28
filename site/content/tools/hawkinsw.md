@@ -1,6 +1,6 @@
 ---
 title: "hawkinsw"
 description: ""
-url: "https://github.com/hawkinsw"
+external_url: "https://github.com/hawkinsw"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "BloodHound"
 description: ""
-url: "https://github.com/BloodHoundAD/BloodHound"
+external_url: "https://github.com/BloodHoundAD/BloodHound"
 category: "Miscellaneous"
 ---

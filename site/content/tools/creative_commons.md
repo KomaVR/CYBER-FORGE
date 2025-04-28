@@ -1,6 +1,6 @@
 ---
 title: "Creative Commons"
 description: ""
-url: "https://ccsearch.creativecommons.org/"
+external_url: "https://ccsearch.creativecommons.org/"
 category: "Miscellaneous"
 ---

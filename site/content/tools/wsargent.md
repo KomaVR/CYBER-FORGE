@@ -1,6 +1,6 @@
 ---
 title: "wsargent"
 description: ""
-url: "https://github.com/wsargent"
+external_url: "https://github.com/wsargent"
 category: "Miscellaneous"
 ---

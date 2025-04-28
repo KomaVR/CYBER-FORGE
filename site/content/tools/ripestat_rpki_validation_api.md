@@ -7,6 +7,6 @@ Read more about BGP hijacking here.
 Read more about RPKI here, here, or here.
 
 "
-url: "https://stat.ripe.net/docs/data_api#rpki-validation"
+external_url: "https://stat.ripe.net/docs/data_api#rpki-validation"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "gergosimonyi"
 description: ""
-url: "https://github.com/gergosimonyi"
+external_url: "https://github.com/gergosimonyi"
 category: "Miscellaneous"
 ---

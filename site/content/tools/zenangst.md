@@ -1,6 +1,6 @@
 ---
 title: "zenangst"
 description: ""
-url: "https://github.com/zenangst"
+external_url: "https://github.com/zenangst"
 category: "Miscellaneous"
 ---

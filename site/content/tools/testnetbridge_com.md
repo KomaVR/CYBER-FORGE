@@ -1,6 +1,6 @@
 ---
 title: "testnetbridge.com"
 description: ""
-url: "https://testnetbridge.com/"
+external_url: "https://testnetbridge.com/"
 category: "Miscellaneous"
 ---

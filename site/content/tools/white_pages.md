@@ -1,6 +1,6 @@
 ---
 title: "White Pages"
 description: ""
-url: "http://www.whitepages.com/"
+external_url: "http://www.whitepages.com/"
 category: "Miscellaneous"
 ---

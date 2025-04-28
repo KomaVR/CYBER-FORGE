@@ -1,6 +1,6 @@
 ---
 title: "ptalmeida"
 description: ""
-url: "https://github.com/ptalmeida"
+external_url: "https://github.com/ptalmeida"
 category: "Miscellaneous"
 ---

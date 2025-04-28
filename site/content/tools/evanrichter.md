@@ -1,6 +1,6 @@
 ---
 title: "evanrichter"
 description: ""
-url: "https://github.com/evanrichter"
+external_url: "https://github.com/evanrichter"
 category: "Miscellaneous"
 ---

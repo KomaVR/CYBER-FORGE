@@ -6,6 +6,6 @@ SDK:
 Python Wheels: https://lief.s3-website.fr-par.scw.cloud/latest/lief
 
 "
-url: "https://lief.s3-website.fr-par.scw.cloud/latest/sdk"
+external_url: "https://lief.s3-website.fr-par.scw.cloud/latest/sdk"
 category: "Web Exploitation"
 ---

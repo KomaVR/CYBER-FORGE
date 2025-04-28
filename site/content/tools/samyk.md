@@ -1,6 +1,6 @@
 ---
 title: "samyk"
 description: ""
-url: "https://github.com/samyk"
+external_url: "https://github.com/samyk"
 category: "Miscellaneous"
 ---

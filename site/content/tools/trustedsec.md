@@ -1,6 +1,6 @@
 ---
 title: "TrustedSec"
 description: "orpheus"
-url: "https://github.com/trustedsec"
+external_url: "https://github.com/trustedsec"
 category: "Miscellaneous"
 ---

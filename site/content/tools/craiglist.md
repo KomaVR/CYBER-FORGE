@@ -1,6 +1,6 @@
 ---
 title: "Craiglist"
 description: ""
-url: "http://losangeles.craigslist.org"
+external_url: "http://losangeles.craigslist.org"
 category: "Miscellaneous"
 ---

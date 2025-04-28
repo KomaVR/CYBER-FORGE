@@ -1,6 +1,6 @@
 ---
 title: "pkalnai"
 description: ""
-url: "https://github.com/pkalnai"
+external_url: "https://github.com/pkalnai"
 category: "Miscellaneous"
 ---

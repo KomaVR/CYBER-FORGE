@@ -1,6 +1,6 @@
 ---
 title: "paralta"
 description: ""
-url: "https://github.com/paralta"
+external_url: "https://github.com/paralta"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "SamyGhannad"
 description: ""
-url: "https://github.com/SamyGhannad"
+external_url: "https://github.com/SamyGhannad"
 category: "Miscellaneous"
 ---

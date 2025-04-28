@@ -1,6 +1,6 @@
 ---
 title: "FatELF: Universal binaries for Linux (HALTED)"
 description: "🌎"
-url: "https://icculus.org/fatelf"
+external_url: "https://icculus.org/fatelf"
 category: "Miscellaneous"
 ---

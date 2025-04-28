@@ -1,6 +1,6 @@
 ---
 title: "garakmon"
 description: ""
-url: "https://github.com/garakmon"
+external_url: "https://github.com/garakmon"
 category: "Miscellaneous"
 ---

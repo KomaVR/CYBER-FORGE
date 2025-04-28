@@ -1,6 +1,6 @@
 ---
 title: "TuxSH"
 description: ""
-url: "https://github.com/TuxSH"
+external_url: "https://github.com/TuxSH"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "What are capabilities?"
 description: ""
-url: "http://habitatchronicles.com/2017/05/what-are-capabilities/"
+external_url: "http://habitatchronicles.com/2017/05/what-are-capabilities/"
 category: "Miscellaneous"
 ---

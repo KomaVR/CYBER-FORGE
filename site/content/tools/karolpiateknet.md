@@ -1,6 +1,6 @@
 ---
 title: "karolpiateknet"
 description: ""
-url: "https://github.com/karolpiateknet"
+external_url: "https://github.com/karolpiateknet"
 category: "Miscellaneous"
 ---

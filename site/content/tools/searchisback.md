@@ -1,6 +1,6 @@
 ---
 title: "SearchIsBack"
 description: ""
-url: "https://searchisback.com"
+external_url: "https://searchisback.com"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "YouTube Geofind"
 description: ""
-url: "https://mattw.io/youtube-geofind/"
+external_url: "https://mattw.io/youtube-geofind/"
 category: "Miscellaneous"
 ---

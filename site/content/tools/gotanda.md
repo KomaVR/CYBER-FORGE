@@ -1,6 +1,6 @@
 ---
 title: "Gotanda"
 description: ""
-url: "https://github.com/HASH1da1/Gotanda"
+external_url: "https://github.com/HASH1da1/Gotanda"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Dune: Token Holders"
 description: ""
-url: "https://dune.com/dcfpascal/token-holders"
+external_url: "https://dune.com/dcfpascal/token-holders"
 category: "Miscellaneous"
 ---

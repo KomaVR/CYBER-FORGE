@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/BeichenDream/BadPotato/"
 description: ""
-url: "https://github.com/BeichenDream/BadPotato/"
+external_url: "https://github.com/BeichenDream/BadPotato/"
 category: "Miscellaneous"
 ---

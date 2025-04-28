@@ -1,6 +1,6 @@
 ---
 title: "securitum-mb"
 description: ""
-url: "https://github.com/securitum-mb"
+external_url: "https://github.com/securitum-mb"
 category: "Miscellaneous"
 ---

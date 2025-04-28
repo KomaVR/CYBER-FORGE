@@ -1,6 +1,6 @@
 ---
 title: "Vortyne"
 description: ""
-url: "https://github.com/Vortyne"
+external_url: "https://github.com/Vortyne"
 category: "Miscellaneous"
 ---

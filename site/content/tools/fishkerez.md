@@ -1,6 +1,6 @@
 ---
 title: "fishkerez"
 description: ""
-url: "https://github.com/fishkerez"
+external_url: "https://github.com/fishkerez"
 category: "Miscellaneous"
 ---

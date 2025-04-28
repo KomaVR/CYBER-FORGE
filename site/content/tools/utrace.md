@@ -1,6 +1,6 @@
 ---
 title: "Utrace"
 description: ""
-url: "http://en.utrace.de/"
+external_url: "http://en.utrace.de/"
 category: "Miscellaneous"
 ---

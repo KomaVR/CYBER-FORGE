@@ -8,6 +8,6 @@ GraphQLmap
 ...
 
 "
-url: "https://github.com/dolevf/graphw00f"
+external_url: "https://github.com/dolevf/graphw00f"
 category: "Miscellaneous"
 ---

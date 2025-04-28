@@ -1,6 +1,6 @@
 ---
 title: "Next Door"
 description: ""
-url: "https://nextdoor.com/"
+external_url: "https://nextdoor.com/"
 category: "Miscellaneous"
 ---

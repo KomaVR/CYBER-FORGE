@@ -1,6 +1,6 @@
 ---
 title: "Bridge.Suumitsu"
 description: ""
-url: "https://bridge.suumitsu.eu"
+external_url: "https://bridge.suumitsu.eu"
 category: "Miscellaneous"
 ---

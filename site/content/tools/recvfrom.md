@@ -1,6 +1,6 @@
 ---
 title: "recvfrom"
 description: ""
-url: "https://github.com/recvfrom"
+external_url: "https://github.com/recvfrom"
 category: "Miscellaneous"
 ---

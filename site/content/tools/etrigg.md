@@ -1,6 +1,6 @@
 ---
 title: "Etrigg"
 description: "(FR)"
-url: "https://etrigg.com/"
+external_url: "https://etrigg.com/"
 category: "Miscellaneous"
 ---

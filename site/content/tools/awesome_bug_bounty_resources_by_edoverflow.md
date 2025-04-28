@@ -1,6 +1,6 @@
 ---
 title: "Awesome bug bounty resources by EdOverflow"
 description: ""
-url: "https://github.com/EdOverflow/bugbounty-cheatsheet"
+external_url: "https://github.com/EdOverflow/bugbounty-cheatsheet"
 category: "Miscellaneous"
 ---

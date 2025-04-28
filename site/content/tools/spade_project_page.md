@@ -1,6 +1,6 @@
 ---
 title: "SPADE Project Page"
 description: ""
-url: "https://nvlabs.github.io/SPADE/"
+external_url: "https://nvlabs.github.io/SPADE/"
 category: "Miscellaneous"
 ---

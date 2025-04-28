@@ -1,6 +1,6 @@
 ---
 title: "BradlySharpe"
 description: ""
-url: "https://github.com/BradlySharpe"
+external_url: "https://github.com/BradlySharpe"
 category: "Miscellaneous"
 ---

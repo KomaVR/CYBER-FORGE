@@ -1,6 +1,6 @@
 ---
 title: "Bing Webmaster Tools"
 description: ""
-url: "http://www.bing.com/toolbox/webmaster"
+external_url: "http://www.bing.com/toolbox/webmaster"
 category: "Web Exploitation"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "hoke-t"
 description: ""
-url: "https://github.com/hoke-t"
+external_url: "https://github.com/hoke-t"
 category: "Miscellaneous"
 ---

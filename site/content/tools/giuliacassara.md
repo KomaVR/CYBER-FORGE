@@ -1,6 +1,6 @@
 ---
 title: "giuliacassara"
 description: ""
-url: "https://github.com/giuliacassara"
+external_url: "https://github.com/giuliacassara"
 category: "Miscellaneous"
 ---

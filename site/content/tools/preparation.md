@@ -1,6 +1,6 @@
 ---
 title: "Preparation"
 description: ""
-url: "https://github.com/mategol/PySilon-malware#preparation"
+external_url: "https://github.com/mategol/PySilon-malware#preparation"
 category: "Miscellaneous"
 ---

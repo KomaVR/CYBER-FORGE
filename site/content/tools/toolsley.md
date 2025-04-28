@@ -1,6 +1,6 @@
 ---
 title: "Toolsley"
 description: ""
-url: "https://www.toolsley.com/"
+external_url: "https://www.toolsley.com/"
 category: "Miscellaneous"
 ---

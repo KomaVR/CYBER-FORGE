@@ -1,6 +1,6 @@
 ---
 title: "rcutmore"
 description: ""
-url: "https://github.com/rcutmore"
+external_url: "https://github.com/rcutmore"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "notaila"
 description: ""
-url: "https://github.com/notaila"
+external_url: "https://github.com/notaila"
 category: "Miscellaneous"
 ---

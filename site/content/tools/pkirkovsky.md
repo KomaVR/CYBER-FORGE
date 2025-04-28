@@ -1,6 +1,6 @@
 ---
 title: "pkirkovsky"
 description: ""
-url: "https://github.com/pkirkovsky"
+external_url: "https://github.com/pkirkovsky"
 category: "Miscellaneous"
 ---

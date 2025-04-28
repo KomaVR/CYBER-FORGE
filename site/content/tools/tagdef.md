@@ -1,6 +1,6 @@
 ---
 title: "Tagdef"
 description: ""
-url: "https://tagdef.com"
+external_url: "https://tagdef.com"
 category: "Miscellaneous"
 ---

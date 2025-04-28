@@ -1,6 +1,6 @@
 ---
 title: "mlinton"
 description: ""
-url: "https://github.com/mlinton"
+external_url: "https://github.com/mlinton"
 category: "Miscellaneous"
 ---

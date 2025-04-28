@@ -1,6 +1,6 @@
 ---
 title: "jhsmith"
 description: ""
-url: "https://github.com/jhsmith"
+external_url: "https://github.com/jhsmith"
 category: "Miscellaneous"
 ---

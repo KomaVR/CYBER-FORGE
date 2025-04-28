@@ -1,6 +1,6 @@
 ---
 title: "Search Bug"
 description: ""
-url: "https://www.searchbug.com"
+external_url: "https://www.searchbug.com"
 category: "Miscellaneous"
 ---

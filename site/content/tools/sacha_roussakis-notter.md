@@ -1,6 +1,6 @@
 ---
 title: "Sacha Roussakis-Notter"
 description: ""
-url: "https://github.com/DFW1N"
+external_url: "https://github.com/DFW1N"
 category: "Miscellaneous"
 ---

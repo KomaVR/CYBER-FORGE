@@ -3,6 +3,6 @@ title: "TryHackMe | ConvertMyVideo"
 description: "
  
 "
-url: "https://tryhackme.com/room/convertmyvideo"
+external_url: "https://tryhackme.com/room/convertmyvideo"
 category: "Miscellaneous"
 ---

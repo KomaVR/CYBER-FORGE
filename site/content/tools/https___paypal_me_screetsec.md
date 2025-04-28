@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://paypal.me/screetsec"
+external_url: "https://paypal.me/screetsec"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "WagnerSariolli"
 description: ""
-url: "https://github.com/WagnerSariolli"
+external_url: "https://github.com/WagnerSariolli"
 category: "Miscellaneous"
 ---

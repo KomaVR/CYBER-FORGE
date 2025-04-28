@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://patreon.com/kpcyrd"
+external_url: "https://patreon.com/kpcyrd"
 category: "Miscellaneous"
 ---

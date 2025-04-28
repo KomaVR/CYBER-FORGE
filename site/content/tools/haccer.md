@@ -1,6 +1,6 @@
 ---
 title: "haccer"
 description: ""
-url: "https://github.com/haccer"
+external_url: "https://github.com/haccer"
 category: "Miscellaneous"
 ---

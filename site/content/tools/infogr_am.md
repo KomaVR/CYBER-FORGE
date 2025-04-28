@@ -1,6 +1,6 @@
 ---
 title: "Infogr.am"
 description: ""
-url: "https://infogr.am"
+external_url: "https://infogr.am"
 category: "Miscellaneous"
 ---

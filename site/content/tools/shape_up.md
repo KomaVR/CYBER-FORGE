@@ -1,6 +1,6 @@
 ---
 title: "Shape Up"
 description: ""
-url: "https://basecamp.com/shapeup/webbook"
+external_url: "https://basecamp.com/shapeup/webbook"
 category: "Miscellaneous"
 ---

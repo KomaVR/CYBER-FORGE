@@ -1,6 +1,6 @@
 ---
 title: "KarmaDecay"
 description: ""
-url: "http://karmadecay.com/"
+external_url: "http://karmadecay.com/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "http://opensecuritytraining.info/"
 description: "Open Security Training"
-url: "http://opensecuritytraining.info/"
+external_url: "http://opensecuritytraining.info/"
 category: "Miscellaneous"
 ---

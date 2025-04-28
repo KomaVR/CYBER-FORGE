@@ -1,6 +1,6 @@
 ---
 title: "secret club"
 description: ""
-url: "https://secret.club"
+external_url: "https://secret.club"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "introduce"
 description: ""
-url: "http://www.introduceapp.me/"
+external_url: "http://www.introduceapp.me/"
 category: "Miscellaneous"
 ---

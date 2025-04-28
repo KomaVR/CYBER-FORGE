@@ -1,6 +1,6 @@
 ---
 title: "SCIRP"
 description: ""
-url: "http://www.scirp.org"
+external_url: "http://www.scirp.org"
 category: "Miscellaneous"
 ---

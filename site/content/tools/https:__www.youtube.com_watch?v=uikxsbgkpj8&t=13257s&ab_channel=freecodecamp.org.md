@@ -7,7 +7,7 @@ Good example (go to 3:22:44):
 https://www.youtube.com/watch?v=NCLUm8geskU&ab_channel=BenGreenberg
 
 "
-url: "https://www.youtube.com/watch?v=uIkxsBgkpj8&t=13257s&ab_channel=freeCodeCamp.org"
+external_url: "https://www.youtube.com/watch?v=uIkxsBgkpj8&t=13257s&ab_channel=freeCodeCamp.org"
 category: "Miscellaneous"
 ---
 

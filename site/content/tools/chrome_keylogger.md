@@ -1,6 +1,6 @@
 ---
 title: "Chrome Keylogger"
 description: ""
-url: "https://github.com/UndeadSec/HeraKeylogger"
+external_url: "https://github.com/UndeadSec/HeraKeylogger"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Zamanry"
 description: ""
-url: "https://github.com/Zamanry"
+external_url: "https://github.com/Zamanry"
 category: "Miscellaneous"
 ---

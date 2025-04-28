@@ -1,6 +1,6 @@
 ---
 title: "energee"
 description: ""
-url: "https://github.com/energee"
+external_url: "https://github.com/energee"
 category: "Miscellaneous"
 ---

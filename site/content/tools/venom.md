@@ -1,6 +1,6 @@
 ---
 title: "Venom"
 description: ""
-url: "https://github.com/Dliv3/Venom"
+external_url: "https://github.com/Dliv3/Venom"
 category: "Miscellaneous"
 ---

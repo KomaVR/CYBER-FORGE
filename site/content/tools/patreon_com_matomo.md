@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://patreon.com/matomo"
+external_url: "https://patreon.com/matomo"
 category: "Miscellaneous"
 ---

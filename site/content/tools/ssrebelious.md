@@ -1,6 +1,6 @@
 ---
 title: "ssrebelious"
 description: ""
-url: "https://github.com/ssrebelious"
+external_url: "https://github.com/ssrebelious"
 category: "Miscellaneous"
 ---

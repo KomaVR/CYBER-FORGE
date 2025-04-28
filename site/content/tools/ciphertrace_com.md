@@ -1,6 +1,6 @@
 ---
 title: "ciphertrace.com"
 description: ""
-url: "https://ciphertrace.com/solutions"
+external_url: "https://ciphertrace.com/solutions"
 category: "Miscellaneous"
 ---

@@ -5,6 +5,6 @@ description: "
 iphonelinux
 
 "
-url: "https://github.com/corellium/projectsandcastle"
+external_url: "https://github.com/corellium/projectsandcastle"
 category: "Miscellaneous"
 ---

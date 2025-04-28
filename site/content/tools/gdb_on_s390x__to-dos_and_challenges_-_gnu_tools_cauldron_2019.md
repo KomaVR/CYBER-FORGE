@@ -1,6 +1,6 @@
 ---
 title: "GDB on s390x: To-dos and Challenges - GNU Tools Cauldron 2019"
 description: "2019.09 [GNUToolsCauldron]"
-url: "https://www.youtube.com/watch?v=iQAd5Atlz1s"
+external_url: "https://www.youtube.com/watch?v=iQAd5Atlz1s"
 category: "Miscellaneous"
 ---

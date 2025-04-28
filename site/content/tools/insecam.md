@@ -1,6 +1,6 @@
 ---
 title: "Insecam"
 description: "Live cameras directory"
-url: "http://insecam.org/"
+external_url: "http://insecam.org/"
 category: "Miscellaneous"
 ---

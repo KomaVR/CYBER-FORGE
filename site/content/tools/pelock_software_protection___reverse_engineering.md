@@ -1,6 +1,6 @@
 ---
 title: "PELock Software Protection & Reverse Engineering"
 description: ""
-url: "https://www.pelock.com"
+external_url: "https://www.pelock.com"
 category: "Miscellaneous"
 ---

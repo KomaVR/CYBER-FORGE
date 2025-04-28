@@ -1,6 +1,6 @@
 ---
 title: "EmbraceAn"
 description: ""
-url: "https://github.com/EmbraceAn"
+external_url: "https://github.com/EmbraceAn"
 category: "Miscellaneous"
 ---

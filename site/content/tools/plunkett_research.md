@@ -1,6 +1,6 @@
 ---
 title: "Plunkett Research"
 description: ""
-url: "http://www.plunkettresearchonline.com"
+external_url: "http://www.plunkettresearchonline.com"
 category: "Miscellaneous"
 ---

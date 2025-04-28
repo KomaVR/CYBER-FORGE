@@ -1,6 +1,6 @@
 ---
 title: "Yomi"
 description: ""
-url: "https://yomi.yoroi.company"
+external_url: "https://yomi.yoroi.company"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Solana FM"
 description: ""
-url: "https://solana.fm"
+external_url: "https://solana.fm"
 category: "Miscellaneous"
 ---

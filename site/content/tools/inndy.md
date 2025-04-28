@@ -1,6 +1,6 @@
 ---
 title: "Inndy"
 description: ""
-url: "https://github.com/Inndy"
+external_url: "https://github.com/Inndy"
 category: "Miscellaneous"
 ---

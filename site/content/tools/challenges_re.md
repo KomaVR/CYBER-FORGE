@@ -6,6 +6,6 @@ So many challenges 0_0
 Tons of diversity
 
 "
-url: "https://challenges.re/"
+external_url: "https://challenges.re/"
 category: "Miscellaneous"
 ---

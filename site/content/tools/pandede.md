@@ -1,6 +1,6 @@
 ---
 title: "Pandede"
 description: ""
-url: "https://github.com/Pandede"
+external_url: "https://github.com/Pandede"
 category: "Miscellaneous"
 ---

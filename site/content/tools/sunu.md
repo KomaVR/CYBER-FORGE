@@ -1,6 +1,6 @@
 ---
 title: "sunu"
 description: ""
-url: "https://github.com/sunu"
+external_url: "https://github.com/sunu"
 category: "Miscellaneous"
 ---

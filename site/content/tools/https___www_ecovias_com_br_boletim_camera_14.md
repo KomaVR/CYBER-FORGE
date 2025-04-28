@@ -5,6 +5,6 @@ description: "PEDAGIO ANCHIETA
 
 
 "
-url: "https://www.ecovias.com.br/boletim/camera/14"
+external_url: "https://www.ecovias.com.br/boletim/camera/14"
 category: "Miscellaneous"
 ---

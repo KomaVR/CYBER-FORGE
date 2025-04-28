@@ -1,6 +1,6 @@
 ---
 title: "Vortex"
 description: ""
-url: "http://www.dotmatics.com/products/vortex"
+external_url: "http://www.dotmatics.com/products/vortex"
 category: "Miscellaneous"
 ---

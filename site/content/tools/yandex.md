@@ -1,6 +1,6 @@
 ---
 title: "Yandex"
 description: ""
-url: "https://yandex.com/"
+external_url: "https://yandex.com/"
 category: "Miscellaneous"
 ---

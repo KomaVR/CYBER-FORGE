@@ -1,6 +1,6 @@
 ---
 title: "Proof of concept"
 description: ""
-url: "https://github.com/gkaindl/meltdown-poc"
+external_url: "https://github.com/gkaindl/meltdown-poc"
 category: "Miscellaneous"
 ---

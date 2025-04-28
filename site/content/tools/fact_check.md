@@ -1,6 +1,6 @@
 ---
 title: "Fact Check"
 description: ""
-url: "http://www.factcheck.org"
+external_url: "http://www.factcheck.org"
 category: "Miscellaneous"
 ---

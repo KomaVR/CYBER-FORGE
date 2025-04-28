@@ -17,6 +17,6 @@ Balsn CTF 2020 - L5D
 
 
 "
-url: "https://github.com/ambionics/phpggc#fast-destruct"
+external_url: "https://github.com/ambionics/phpggc#fast-destruct"
 category: "Miscellaneous"
 ---

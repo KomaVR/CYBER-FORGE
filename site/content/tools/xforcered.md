@@ -1,6 +1,6 @@
 ---
 title: "xforcered"
 description: "SoaPy"
-url: "https://github.com/xforcered/"
+external_url: "https://github.com/xforcered/"
 category: "Miscellaneous"
 ---

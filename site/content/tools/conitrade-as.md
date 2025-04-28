@@ -1,6 +1,6 @@
 ---
 title: "conitrade-as"
 description: ""
-url: "https://github.com/conitrade-as"
+external_url: "https://github.com/conitrade-as"
 category: "Miscellaneous"
 ---

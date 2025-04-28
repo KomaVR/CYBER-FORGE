@@ -1,6 +1,6 @@
 ---
 title: "louib"
 description: ""
-url: "https://github.com/louib"
+external_url: "https://github.com/louib"
 category: "Miscellaneous"
 ---

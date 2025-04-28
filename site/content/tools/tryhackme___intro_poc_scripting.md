@@ -3,6 +3,6 @@ title: "TryHackMe | Intro PoC Scripting"
 description: "
  
 "
-url: "https://tryhackme.com/room/intropocscripting"
+external_url: "https://tryhackme.com/room/intropocscripting"
 category: "Miscellaneous"
 ---

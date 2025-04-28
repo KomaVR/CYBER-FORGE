@@ -1,6 +1,6 @@
 ---
 title: "mistersandman"
 description: ""
-url: "https://github.com/mistersandman"
+external_url: "https://github.com/mistersandman"
 category: "Miscellaneous"
 ---

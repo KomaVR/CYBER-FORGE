@@ -1,6 +1,6 @@
 ---
 title: "CheckUsernames"
 description: ""
-url: "https://checkusernames.com/"
+external_url: "https://checkusernames.com/"
 category: "Miscellaneous"
 ---

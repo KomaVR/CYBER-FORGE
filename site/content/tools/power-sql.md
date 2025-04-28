@@ -48,6 +48,6 @@ Powershell
 
 
 "
-url: "https://github.com/No-Github/1earn/blob/master/1earn/Integrated/%E6%95%B0%E6%8D%AE%E5%BA%93/Power-SQL.md"
+external_url: "https://github.com/No-Github/1earn/blob/master/1earn/Integrated/%E6%95%B0%E6%8D%AE%E5%BA%93/Power-SQL.md"
 category: "White Hat Tools"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "JavierFlores09"
 description: ""
-url: "https://github.com/JavierFlores09"
+external_url: "https://github.com/JavierFlores09"
 category: "Miscellaneous"
 ---

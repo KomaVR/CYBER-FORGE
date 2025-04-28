@@ -1,6 +1,6 @@
 ---
 title: "Reach the root! How to gain privileges in Linux?"
 description: ""
-url: "https://hackmag.com/security/reach-the-root/"
+external_url: "https://hackmag.com/security/reach-the-root/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "poddav"
 description: ""
-url: "https://github.com/poddav"
+external_url: "https://github.com/poddav"
 category: "Miscellaneous"
 ---

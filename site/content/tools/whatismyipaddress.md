@@ -1,6 +1,6 @@
 ---
 title: "WhatIsMyIPAddress"
 description: ""
-url: "http://whatismyipaddress.com"
+external_url: "http://whatismyipaddress.com"
 category: "Miscellaneous"
 ---

@@ -6,6 +6,6 @@ Security firm that makes a ton of educational content
 Always doing free courses and webcasts about security topics
 
 "
-url: "https://www.youtube.com/@BlackHillsInformationSecurity"
+external_url: "https://www.youtube.com/@BlackHillsInformationSecurity"
 category: "Web Exploitation"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "mrled"
 description: ""
-url: "https://github.com/mrled"
+external_url: "https://github.com/mrled"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "mrmacete"
 description: ""
-url: "https://github.com/mrmacete"
+external_url: "https://github.com/mrmacete"
 category: "Miscellaneous"
 ---

@@ -3,6 +3,6 @@ title: "TryHackMe | hackerNote"
 description: "
  
 "
-url: "https://tryhackme.com/room/hackernote"
+external_url: "https://tryhackme.com/room/hackernote"
 category: "Miscellaneous"
 ---

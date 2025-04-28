@@ -1,6 +1,6 @@
 ---
 title: "https://attack.mitre.org/matrices/enterprise/cloud/"
 description: ""
-url: "https://attack.mitre.org/matrices/enterprise/cloud/"
+external_url: "https://attack.mitre.org/matrices/enterprise/cloud/"
 category: "Miscellaneous"
 ---

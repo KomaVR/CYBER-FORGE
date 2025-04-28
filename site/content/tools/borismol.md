@@ -1,6 +1,6 @@
 ---
 title: "borismol"
 description: ""
-url: "https://github.com/borismol"
+external_url: "https://github.com/borismol"
 category: "Miscellaneous"
 ---

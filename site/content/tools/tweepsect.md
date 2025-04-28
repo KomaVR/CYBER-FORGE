@@ -1,6 +1,6 @@
 ---
 title: "tweepsect"
 description: ""
-url: "http://tweepsect.com/"
+external_url: "http://tweepsect.com/"
 category: "Miscellaneous"
 ---

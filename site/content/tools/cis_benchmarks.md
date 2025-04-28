@@ -5,6 +5,6 @@ description: "Build secure Docker images
 Checkpoints includes 
 
 "
-url: "https://www.cisecurity.org/cis-benchmarks/"
+external_url: "https://www.cisecurity.org/cis-benchmarks/"
 category: "Miscellaneous"
 ---

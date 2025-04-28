@@ -1,6 +1,6 @@
 ---
 title: "VbScrub"
 description: ""
-url: "https://github.com/VbScrub"
+external_url: "https://github.com/VbScrub"
 category: "Miscellaneous"
 ---

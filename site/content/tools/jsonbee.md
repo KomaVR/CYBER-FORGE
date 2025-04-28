@@ -12,6 +12,6 @@ https://www.google.com/complete/search?client=chrome&q=hello&callback=alert#1
 
 
 "
-url: "https://github.com/zigoo0/JSONBee/blob/master/jsonp.txt"
+external_url: "https://github.com/zigoo0/JSONBee/blob/master/jsonp.txt"
 category: "Miscellaneous"
 ---

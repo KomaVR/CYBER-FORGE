@@ -1,6 +1,6 @@
 ---
 title: "xmaple555"
 description: ""
-url: "https://github.com/xmaple555"
+external_url: "https://github.com/xmaple555"
 category: "Miscellaneous"
 ---

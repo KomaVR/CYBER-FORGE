@@ -1,6 +1,6 @@
 ---
 title: "kelvinBen"
 description: "kelvinBen"
-url: "https://github.com/kelvinBen"
+external_url: "https://github.com/kelvinBen"
 category: "Miscellaneous"
 ---

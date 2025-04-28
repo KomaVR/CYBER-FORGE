@@ -1,6 +1,6 @@
 ---
 title: "bnugent"
 description: ""
-url: "https://github.com/bnugent"
+external_url: "https://github.com/bnugent"
 category: "Miscellaneous"
 ---

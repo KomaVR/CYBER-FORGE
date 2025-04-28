@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/stamparm/identYwaf"
 description: ""
-url: "https://github.com/stamparm/identYwaf"
+external_url: "https://github.com/stamparm/identYwaf"
 category: "Miscellaneous"
 ---

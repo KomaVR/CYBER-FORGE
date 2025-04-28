@@ -6,6 +6,6 @@ description: "
 Disassembler 可以把 Byte code 轉成 Pseudo code
 
 "
-url: "https://github.com/GoSecure/php7-opcache-override"
+external_url: "https://github.com/GoSecure/php7-opcache-override"
 category: "Reverse Engineering"
 ---

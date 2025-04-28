@@ -1,6 +1,6 @@
 ---
 title: "Seznam(Czech Republic)"
 description: ""
-url: "https://seznam.cz"
+external_url: "https://seznam.cz"
 category: "Miscellaneous"
 ---

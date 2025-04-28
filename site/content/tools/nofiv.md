@@ -1,6 +1,6 @@
 ---
 title: "nofiv"
 description: ""
-url: "https://github.com/nofiv"
+external_url: "https://github.com/nofiv"
 category: "Miscellaneous"
 ---

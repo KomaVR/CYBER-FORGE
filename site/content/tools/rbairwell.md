@@ -1,6 +1,6 @@
 ---
 title: "rbairwell"
 description: ""
-url: "https://github.com/rbairwell"
+external_url: "https://github.com/rbairwell"
 category: "Miscellaneous"
 ---

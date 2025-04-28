@@ -1,6 +1,6 @@
 ---
 title: "Miaoou"
 description: ""
-url: "https://github.com/Miaoou"
+external_url: "https://github.com/Miaoou"
 category: "Miscellaneous"
 ---

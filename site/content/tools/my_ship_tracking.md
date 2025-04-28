@@ -1,6 +1,6 @@
 ---
 title: "My Ship Tracking"
 description: ""
-url: "http://www.myshiptracking.com"
+external_url: "http://www.myshiptracking.com"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "sslcaudit"
 description: "No description provided"
-url: "https://github.com/abbbe/sslcaudit"
+external_url: "https://github.com/abbbe/sslcaudit"
 category: "Miscellaneous"
 ---

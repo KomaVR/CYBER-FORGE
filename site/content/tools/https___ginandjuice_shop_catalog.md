@@ -1,6 +1,6 @@
 ---
 title: "https://ginandjuice.shop/catalog"
 description: ""
-url: "https://ginandjuice.shop/catalog"
+external_url: "https://ginandjuice.shop/catalog"
 category: "Miscellaneous"
 ---

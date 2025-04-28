@@ -1,6 +1,6 @@
 ---
 title: "Sockstress"
 description: "(TCP DoS) implementation."
-url: "https://github.com/defuse/sockstress"
+external_url: "https://github.com/defuse/sockstress"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "jsoref"
 description: ""
-url: "https://github.com/jsoref"
+external_url: "https://github.com/jsoref"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "dexterlab.com"
 description: ""
-url: "https://dexterlab.com"
+external_url: "https://dexterlab.com"
 category: "Miscellaneous"
 ---

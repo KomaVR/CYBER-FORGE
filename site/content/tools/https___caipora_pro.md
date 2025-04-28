@@ -1,6 +1,6 @@
 ---
 title: "https://caipora.pro"
 description: ""
-url: "https://caipora.pro"
+external_url: "https://caipora.pro"
 category: "Miscellaneous"
 ---

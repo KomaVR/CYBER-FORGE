@@ -1,6 +1,6 @@
 ---
 title: "Host.io"
 description: ""
-url: "https://host.io"
+external_url: "https://host.io"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "VKontakte"
 description: ""
-url: "https://vk.com"
+external_url: "https://vk.com"
 category: "Miscellaneous"
 ---

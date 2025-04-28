@@ -1,6 +1,6 @@
 ---
 title: "JosiahRaySmith"
 description: ""
-url: "https://github.com/JosiahRaySmith"
+external_url: "https://github.com/JosiahRaySmith"
 category: "Miscellaneous"
 ---

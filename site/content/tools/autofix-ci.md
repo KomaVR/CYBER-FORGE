@@ -1,6 +1,6 @@
 ---
 title: "autofix-ci"
 description: ""
-url: "https://github.com/apps/autofix-ci"
+external_url: "https://github.com/apps/autofix-ci"
 category: "Miscellaneous"
 ---

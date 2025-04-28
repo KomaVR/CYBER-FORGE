@@ -1,6 +1,6 @@
 ---
 title: "Hyperlapse"
 description: ""
-url: "https://github.com/TeehanLax/Hyperlapse.js"
+external_url: "https://github.com/TeehanLax/Hyperlapse.js"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "juliourena"
 description: ""
-url: "https://github.com/juliourena"
+external_url: "https://github.com/juliourena"
 category: "Miscellaneous"
 ---

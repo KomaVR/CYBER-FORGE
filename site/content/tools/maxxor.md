@@ -1,6 +1,6 @@
 ---
 title: "MaxXor"
 description: ""
-url: "https://github.com/MaxXor"
+external_url: "https://github.com/MaxXor"
 category: "Miscellaneous"
 ---

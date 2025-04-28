@@ -1,6 +1,6 @@
 ---
 title: "Manta"
 description: ""
-url: "https://www.manta.com/"
+external_url: "https://www.manta.com/"
 category: "Miscellaneous"
 ---

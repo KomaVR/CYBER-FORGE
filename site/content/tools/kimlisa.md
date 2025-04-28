@@ -1,6 +1,6 @@
 ---
 title: "kimlisa"
 description: ""
-url: "https://github.com/kimlisa"
+external_url: "https://github.com/kimlisa"
 category: "Miscellaneous"
 ---

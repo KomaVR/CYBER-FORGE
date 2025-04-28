@@ -1,6 +1,6 @@
 ---
 title: "henriporto"
 description: ""
-url: "https://github.com/henriporto"
+external_url: "https://github.com/henriporto"
 category: "Miscellaneous"
 ---

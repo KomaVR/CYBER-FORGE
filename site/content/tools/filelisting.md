@@ -3,6 +3,6 @@ title: "FileListing"
 description: "
 
 "
-url: "https://filelisting.com/"
+external_url: "https://filelisting.com/"
 category: "Miscellaneous"
 ---

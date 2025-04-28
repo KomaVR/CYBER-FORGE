@@ -1,6 +1,6 @@
 ---
 title: "Archive.org"
 description: ""
-url: "https://archive.org/"
+external_url: "https://archive.org/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "HyperDbgBot"
 description: ""
-url: "https://github.com/HyperDbgBot"
+external_url: "https://github.com/HyperDbgBot"
 category: "Miscellaneous"
 ---

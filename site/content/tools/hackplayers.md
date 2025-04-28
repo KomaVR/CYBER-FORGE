@@ -1,6 +1,6 @@
 ---
 title: "Hackplayers"
 description: ""
-url: "https://github.com/Hackplayers"
+external_url: "https://github.com/Hackplayers"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Queryfeed"
 description: ""
-url: "https://queryfeed.net/"
+external_url: "https://queryfeed.net/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "solidityscan.com"
 description: ""
-url: "https://solidityscan.com/"
+external_url: "https://solidityscan.com/"
 category: "Miscellaneous"
 ---

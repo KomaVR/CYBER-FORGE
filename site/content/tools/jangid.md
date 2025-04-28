@@ -1,6 +1,6 @@
 ---
 title: "jangid"
 description: ""
-url: "https://github.com/jangid"
+external_url: "https://github.com/jangid"
 category: "Miscellaneous"
 ---

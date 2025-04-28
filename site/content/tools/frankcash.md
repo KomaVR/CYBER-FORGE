@@ -1,6 +1,6 @@
 ---
 title: "frankcash"
 description: ""
-url: "https://github.com/frankcash"
+external_url: "https://github.com/frankcash"
 category: "Miscellaneous"
 ---

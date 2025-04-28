@@ -1,6 +1,6 @@
 ---
 title: "How to disable most push advertisement on MIUI China Version"
 description: ""
-url: "https://telegra.ph/How-to-disable-most-push-advertisement-on-MIUI-China-Version-02-01"
+external_url: "https://telegra.ph/How-to-disable-most-push-advertisement-on-MIUI-China-Version-02-01"
 category: "Miscellaneous"
 ---

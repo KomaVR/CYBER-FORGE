@@ -1,6 +1,6 @@
 ---
 title: "Free Public Records"
 description: ""
-url: "http://publicrecords.onlinesearches.com"
+external_url: "http://publicrecords.onlinesearches.com"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "trizin"
 description: ""
-url: "https://github.com/trizin"
+external_url: "https://github.com/trizin"
 category: "Miscellaneous"
 ---

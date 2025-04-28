@@ -1,6 +1,6 @@
 ---
 title: "Fisjkars"
 description: ""
-url: "https://github.com/Fisjkars"
+external_url: "https://github.com/Fisjkars"
 category: "Miscellaneous"
 ---

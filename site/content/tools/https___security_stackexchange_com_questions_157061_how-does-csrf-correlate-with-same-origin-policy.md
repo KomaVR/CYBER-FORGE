@@ -3,6 +3,6 @@ title: "https://security.stackexchange.com/questions/157061/how-does-csrf-correl
 description: "
 
 "
-url: "https://security.stackexchange.com/questions/157061/how-does-csrf-correlate-with-same-origin-policy"
+external_url: "https://security.stackexchange.com/questions/157061/how-does-csrf-correlate-with-same-origin-policy"
 category: "Web Exploitation"
 ---

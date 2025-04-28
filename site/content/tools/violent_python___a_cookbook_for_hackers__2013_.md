@@ -5,6 +5,6 @@ description: "Python
 
 
 "
-url: "https://github.com/reconSF/python/blob/master/Syngress.Violent.Python.a.Cookbook.for.Hackers.2013.pdf"
+external_url: "https://github.com/reconSF/python/blob/master/Syngress.Violent.Python.a.Cookbook.for.Hackers.2013.pdf"
 category: "Miscellaneous"
 ---

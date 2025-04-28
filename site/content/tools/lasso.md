@@ -1,6 +1,6 @@
 ---
 title: "Lasso"
 description: ""
-url: "https://lasso.gg"
+external_url: "https://lasso.gg"
 category: "Miscellaneous"
 ---

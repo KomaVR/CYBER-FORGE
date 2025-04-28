@@ -1,6 +1,6 @@
 ---
 title: "PhDuck"
 description: ""
-url: "https://github.com/PhDuck"
+external_url: "https://github.com/PhDuck"
 category: "Miscellaneous"
 ---

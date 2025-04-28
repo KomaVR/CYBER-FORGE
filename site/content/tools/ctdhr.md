@@ -1,6 +1,6 @@
 ---
 title: "ctdhr"
 description: ""
-url: "https://github.com/ctdhr"
+external_url: "https://github.com/ctdhr"
 category: "Miscellaneous"
 ---

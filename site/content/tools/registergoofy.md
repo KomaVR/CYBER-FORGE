@@ -1,6 +1,6 @@
 ---
 title: "registergoofy"
 description: ""
-url: "https://github.com/registergoofy"
+external_url: "https://github.com/registergoofy"
 category: "Miscellaneous"
 ---

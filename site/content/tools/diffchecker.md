@@ -1,6 +1,6 @@
 ---
 title: "DiffChecker"
 description: ""
-url: "https://www.diffchecker.com/image-diff/"
+external_url: "https://www.diffchecker.com/image-diff/"
 category: "Miscellaneous"
 ---

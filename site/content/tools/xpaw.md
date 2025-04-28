@@ -1,6 +1,6 @@
 ---
 title: "xPaw"
 description: ""
-url: "https://github.com/xPaw"
+external_url: "https://github.com/xPaw"
 category: "Miscellaneous"
 ---

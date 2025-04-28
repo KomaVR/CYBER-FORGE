@@ -1,6 +1,6 @@
 ---
 title: "withshubh"
 description: ""
-url: "https://github.com/withshubh"
+external_url: "https://github.com/withshubh"
 category: "Miscellaneous"
 ---

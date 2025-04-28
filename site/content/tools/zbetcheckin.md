@@ -1,6 +1,6 @@
 ---
 title: "zbetcheckin"
 description: ""
-url: "https://github.com/zbetcheckin"
+external_url: "https://github.com/zbetcheckin"
 category: "Miscellaneous"
 ---

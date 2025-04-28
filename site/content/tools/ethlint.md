@@ -1,6 +1,6 @@
 ---
 title: "EthLint"
 description: ""
-url: "https://github.com/duaraghav8/Ethlint"
+external_url: "https://github.com/duaraghav8/Ethlint"
 category: "Miscellaneous"
 ---

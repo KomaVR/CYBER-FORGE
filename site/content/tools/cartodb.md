@@ -1,6 +1,6 @@
 ---
 title: "CartoDB"
 description: ""
-url: "https://cartodb.com"
+external_url: "https://cartodb.com"
 category: "Miscellaneous"
 ---

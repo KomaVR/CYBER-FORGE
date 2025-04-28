@@ -1,6 +1,6 @@
 ---
 title: "Telegrator"
 description: ""
-url: "https://telegrator.ru/channels/"
+external_url: "https://telegrator.ru/channels/"
 category: "Miscellaneous"
 ---

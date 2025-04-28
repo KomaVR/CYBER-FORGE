@@ -1,6 +1,6 @@
 ---
 title: "https://receive-sms.cc/#google_vignette"
 description: ""
-url: "https://receive-sms.cc/#google_vignette"
+external_url: "https://receive-sms.cc/#google_vignette"
 category: "Miscellaneous"
 ---

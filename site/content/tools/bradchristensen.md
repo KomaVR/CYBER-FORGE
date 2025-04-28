@@ -1,6 +1,6 @@
 ---
 title: "bradchristensen"
 description: ""
-url: "https://github.com/bradchristensen"
+external_url: "https://github.com/bradchristensen"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Solhint"
 description: ""
-url: "https://github.com/protofire/solhint"
+external_url: "https://github.com/protofire/solhint"
 category: "Miscellaneous"
 ---

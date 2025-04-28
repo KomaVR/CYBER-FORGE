@@ -1,6 +1,6 @@
 ---
 title: "osy/AMFIExemption"
 description: ""
-url: "https://github.com/osy/AMFIExemption"
+external_url: "https://github.com/osy/AMFIExemption"
 category: "Miscellaneous"
 ---

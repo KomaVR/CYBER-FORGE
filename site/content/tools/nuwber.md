@@ -1,6 +1,6 @@
 ---
 title: "Nuwber"
 description: ""
-url: "https://nuwber.com/"
+external_url: "https://nuwber.com/"
 category: "Miscellaneous"
 ---

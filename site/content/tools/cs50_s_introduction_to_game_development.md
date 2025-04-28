@@ -7,6 +7,6 @@ MIT CMS.611J Creating Video Games, Fall 2014
 MOOC - Beginning Game Programming with C# - Coursera
 
 "
-url: "https://www.edx.org/course/cs50s-introduction-to-game-development"
+external_url: "https://www.edx.org/course/cs50s-introduction-to-game-development"
 category: "Miscellaneous"
 ---

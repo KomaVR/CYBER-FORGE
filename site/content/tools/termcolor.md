@@ -1,6 +1,6 @@
 ---
 title: "termcolor"
 description: ""
-url: "https://pypi.org/project/termcolor"
+external_url: "https://pypi.org/project/termcolor"
 category: "Miscellaneous"
 ---

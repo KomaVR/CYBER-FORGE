@@ -62,6 +62,6 @@ $img = new Imagick('/tmp/mydir/1.ept');
 
 
 "
-url: "https://www.exploit-db.com/exploits/39766"
+external_url: "https://www.exploit-db.com/exploits/39766"
 category: "Miscellaneous"
 ---

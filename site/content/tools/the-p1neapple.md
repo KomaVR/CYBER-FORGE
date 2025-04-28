@@ -1,6 +1,6 @@
 ---
 title: "the-P1neapple"
 description: ""
-url: "https://github.com/the-P1neapple"
+external_url: "https://github.com/the-P1neapple"
 category: "Miscellaneous"
 ---

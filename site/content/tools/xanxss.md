@@ -1,6 +1,6 @@
 ---
 title: "XanXSS"
 description: ""
-url: "https://github.com/Ekultek/XanXSS"
+external_url: "https://github.com/Ekultek/XanXSS"
 category: "Web Exploitation"
 ---

@@ -2,6 +2,6 @@
 title: "irfanview.com"
 description: "Irfanview,
 "
-url: "https://irfanview.com"
+external_url: "https://irfanview.com"
 category: "Miscellaneous"
 ---

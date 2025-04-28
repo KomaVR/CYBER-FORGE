@@ -1,6 +1,6 @@
 ---
 title: "Quetzal Search"
 description: ""
-url: "https://www.quetzal-search.info"
+external_url: "https://www.quetzal-search.info"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "LaloHao"
 description: ""
-url: "https://github.com/LaloHao"
+external_url: "https://github.com/LaloHao"
 category: "Miscellaneous"
 ---

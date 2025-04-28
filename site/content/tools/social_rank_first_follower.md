@@ -1,6 +1,6 @@
 ---
 title: "Social Rank First Follower"
 description: ""
-url: "http://socialrank.com/firstfollower"
+external_url: "http://socialrank.com/firstfollower"
 category: "Miscellaneous"
 ---

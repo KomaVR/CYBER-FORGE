@@ -7,6 +7,6 @@ IDA插件
 kam1n0
 
 "
-url: "https://github.com/McGill-DMaS/Kam1n0-Community"
+external_url: "https://github.com/McGill-DMaS/Kam1n0-Community"
 category: "Miscellaneous"
 ---

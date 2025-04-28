@@ -1,6 +1,6 @@
 ---
 title: "IridiumXOR"
 description: ""
-url: "https://github.com/IridiumXOR"
+external_url: "https://github.com/IridiumXOR"
 category: "Miscellaneous"
 ---

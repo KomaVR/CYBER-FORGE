@@ -1,6 +1,6 @@
 ---
 title: "hamarituc"
 description: ""
-url: "https://github.com/hamarituc"
+external_url: "https://github.com/hamarituc"
 category: "Miscellaneous"
 ---

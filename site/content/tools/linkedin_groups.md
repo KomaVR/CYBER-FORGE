@@ -1,6 +1,6 @@
 ---
 title: "Linkedin Groups"
 description: ""
-url: "http://www.linkedin.com"
+external_url: "http://www.linkedin.com"
 category: "Miscellaneous"
 ---

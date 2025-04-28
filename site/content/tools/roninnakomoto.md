@@ -1,6 +1,6 @@
 ---
 title: "RoninNakomoto"
 description: ""
-url: "https://github.com/RoninNakomoto"
+external_url: "https://github.com/RoninNakomoto"
 category: "Miscellaneous"
 ---

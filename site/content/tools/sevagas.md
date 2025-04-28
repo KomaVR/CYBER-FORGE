@@ -1,6 +1,6 @@
 ---
 title: "sevagas"
 description: ""
-url: "https://github.com/sevagas"
+external_url: "https://github.com/sevagas"
 category: "Miscellaneous"
 ---

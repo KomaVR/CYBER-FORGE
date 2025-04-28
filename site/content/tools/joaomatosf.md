@@ -1,6 +1,6 @@
 ---
 title: "joaomatosf"
 description: ""
-url: "https://github.com/joaomatosf"
+external_url: "https://github.com/joaomatosf"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "https://www.ollydbg.de/"
 description: "Ollydbg:"
-url: "https://www.ollydbg.de/"
+external_url: "https://www.ollydbg.de/"
 category: "Miscellaneous"
 ---

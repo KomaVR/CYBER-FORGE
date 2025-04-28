@@ -1,6 +1,6 @@
 ---
 title: "Telegoo"
 description: ""
-url: "https://telegoo.net/"
+external_url: "https://telegoo.net/"
 category: "Miscellaneous"
 ---

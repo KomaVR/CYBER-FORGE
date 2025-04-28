@@ -1,6 +1,6 @@
 ---
 title: "rumpelsepp"
 description: ""
-url: "https://github.com/rumpelsepp"
+external_url: "https://github.com/rumpelsepp"
 category: "Miscellaneous"
 ---

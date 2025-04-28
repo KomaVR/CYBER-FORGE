@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://patreon.com/firefart"
+external_url: "https://patreon.com/firefart"
 category: "Miscellaneous"
 ---

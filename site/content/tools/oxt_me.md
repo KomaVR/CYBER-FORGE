@@ -1,6 +1,6 @@
 ---
 title: "oxt.me"
 description: ""
-url: "https://oxt.me"
+external_url: "https://oxt.me"
 category: "Miscellaneous"
 ---

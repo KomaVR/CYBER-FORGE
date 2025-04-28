@@ -1,6 +1,6 @@
 ---
 title: "andylizi"
 description: ""
-url: "https://github.com/andylizi"
+external_url: "https://github.com/andylizi"
 category: "Miscellaneous"
 ---

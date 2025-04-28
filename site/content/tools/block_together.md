@@ -1,6 +1,6 @@
 ---
 title: "Block Together"
 description: ""
-url: "http://blocktogether.org"
+external_url: "http://blocktogether.org"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "tewinget"
 description: ""
-url: "https://github.com/tewinget"
+external_url: "https://github.com/tewinget"
 category: "Miscellaneous"
 ---

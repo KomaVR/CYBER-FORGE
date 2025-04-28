@@ -1,6 +1,6 @@
 ---
 title: "UPX"
 description: "Ultimate Packer for eXecutables."
-url: "https://upx.github.io/"
+external_url: "https://upx.github.io/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Jok3r"
 description: "Network and Web Pentest Framework."
-url: "https://github.com/koutto/jok3r"
+external_url: "https://github.com/koutto/jok3r"
 category: "White Hat Tools"
 ---

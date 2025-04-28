@@ -6,6 +6,6 @@ description: "var
 預設安裝 Apache 包含 mod_negotiation 模組，可以設置 Response 中的 Content-* 屬性
 
 "
-url: "https://github.com/orangetw/My-CTF-Web-Challenges#oStyle"
+external_url: "https://github.com/orangetw/My-CTF-Web-Challenges#oStyle"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "WorldNews"
 description: ""
-url: "http://wn.com"
+external_url: "http://wn.com"
 category: "Miscellaneous"
 ---

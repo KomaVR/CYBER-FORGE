@@ -1,6 +1,6 @@
 ---
 title: "fdfalcon"
 description: ""
-url: "https://github.com/fdfalcon"
+external_url: "https://github.com/fdfalcon"
 category: "Miscellaneous"
 ---

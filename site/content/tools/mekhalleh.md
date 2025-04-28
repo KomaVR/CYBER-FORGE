@@ -1,6 +1,6 @@
 ---
 title: "mekhalleh"
 description: ""
-url: "https://github.com/mekhalleh"
+external_url: "https://github.com/mekhalleh"
 category: "Miscellaneous"
 ---

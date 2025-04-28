@@ -1,6 +1,6 @@
 ---
 title: "mnapoli"
 description: ""
-url: "https://github.com/mnapoli"
+external_url: "https://github.com/mnapoli"
 category: "Miscellaneous"
 ---

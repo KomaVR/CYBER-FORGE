@@ -1,6 +1,6 @@
 ---
 title: "dimorphic"
 description: ""
-url: "https://github.com/dimorphic"
+external_url: "https://github.com/dimorphic"
 category: "Miscellaneous"
 ---

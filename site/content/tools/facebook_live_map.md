@@ -1,6 +1,6 @@
 ---
 title: "Facebook Live Map"
 description: ""
-url: "https://www.facebook.com/livemap#"
+external_url: "https://www.facebook.com/livemap#"
 category: "Miscellaneous"
 ---

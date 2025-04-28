@@ -5,6 +5,6 @@ description: "[931星][25d] [OCaml]  二进制代码静态分析工具。值分�
 重复区段: IDA->插件->污点分析 |
 
 "
-url: "https://github.com/airbus-seclab/bincat"
+external_url: "https://github.com/airbus-seclab/bincat"
 category: "Miscellaneous"
 ---

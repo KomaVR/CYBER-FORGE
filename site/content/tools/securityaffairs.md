@@ -1,6 +1,6 @@
 ---
 title: "SecurityAffairs"
 description: "blog by Pierluigi Paganini"
-url: "https://securityaffairs.co/wordpress/"
+external_url: "https://securityaffairs.co/wordpress/"
 category: "Miscellaneous"
 ---

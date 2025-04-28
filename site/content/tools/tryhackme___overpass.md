@@ -3,6 +3,6 @@ title: "TryHackMe | Overpass"
 description: "
  
 "
-url: "https://tryhackme.com/room/overpass"
+external_url: "https://tryhackme.com/room/overpass"
 category: "Miscellaneous"
 ---

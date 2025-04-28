@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://patreon.com/dedsec_inside_research"
+external_url: "https://patreon.com/dedsec_inside_research"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "deepweblinks.net"
 description: "Onion Links"
-url: "https://deepweblinks.net/"
+external_url: "https://deepweblinks.net/"
 category: "Web Exploitation"
 ---

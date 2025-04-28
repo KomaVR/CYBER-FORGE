@@ -1,6 +1,6 @@
 ---
 title: "Meme Center"
 description: ""
-url: "https://www.memecenter.com"
+external_url: "https://www.memecenter.com"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "zedifen"
 description: ""
-url: "https://github.com/zedifen"
+external_url: "https://github.com/zedifen"
 category: "Miscellaneous"
 ---

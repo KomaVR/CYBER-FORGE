@@ -1,6 +1,6 @@
 ---
 title: "atezet"
 description: ""
-url: "https://github.com/atezet"
+external_url: "https://github.com/atezet"
 category: "Miscellaneous"
 ---

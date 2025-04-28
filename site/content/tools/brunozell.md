@@ -1,6 +1,6 @@
 ---
 title: "BrunoZell"
 description: ""
-url: "https://github.com/BrunoZell"
+external_url: "https://github.com/BrunoZell"
 category: "Miscellaneous"
 ---

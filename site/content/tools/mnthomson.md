@@ -1,6 +1,6 @@
 ---
 title: "MNThomson"
 description: ""
-url: "https://github.com/MNThomson"
+external_url: "https://github.com/MNThomson"
 category: "Miscellaneous"
 ---

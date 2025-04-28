@@ -1,6 +1,6 @@
 ---
 title: "VulnDroid"
 description: ""
-url: "https://github.com/shahenshah99/VulnDroid"
+external_url: "https://github.com/shahenshah99/VulnDroid"
 category: "Miscellaneous"
 ---

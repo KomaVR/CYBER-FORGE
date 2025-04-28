@@ -1,6 +1,6 @@
 ---
 title: "How to Build"
 description: ""
-url: "https://ibotpeaches.github.io/Apktool/build/"
+external_url: "https://ibotpeaches.github.io/Apktool/build/"
 category: "Miscellaneous"
 ---

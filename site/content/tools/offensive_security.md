@@ -1,6 +1,6 @@
 ---
 title: "Offensive Security"
 description: ""
-url: "https://www.offensive-security.com/"
+external_url: "https://www.offensive-security.com/"
 category: "Miscellaneous"
 ---

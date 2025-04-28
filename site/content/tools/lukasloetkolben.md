@@ -1,6 +1,6 @@
 ---
 title: "lukasloetkolben"
 description: ""
-url: "https://github.com/lukasloetkolben"
+external_url: "https://github.com/lukasloetkolben"
 category: "Miscellaneous"
 ---

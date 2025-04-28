@@ -1,6 +1,6 @@
 ---
 title: "coinalyze.net"
 description: ""
-url: "https://coinalyze.net"
+external_url: "https://coinalyze.net"
 category: "Miscellaneous"
 ---

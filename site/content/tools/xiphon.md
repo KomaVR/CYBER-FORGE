@@ -1,6 +1,6 @@
 ---
 title: "xiphon"
 description: ""
-url: "https://github.com/xiphon"
+external_url: "https://github.com/xiphon"
 category: "Miscellaneous"
 ---

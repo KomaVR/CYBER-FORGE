@@ -1,6 +1,6 @@
 ---
 title: "meitinger"
 description: ""
-url: "https://github.com/meitinger"
+external_url: "https://github.com/meitinger"
 category: "Miscellaneous"
 ---

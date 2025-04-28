@@ -1,6 +1,6 @@
 ---
 title: "akhilmhdh"
 description: ""
-url: "https://github.com/akhilmhdh"
+external_url: "https://github.com/akhilmhdh"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "erdnaxe"
 description: ""
-url: "https://github.com/erdnaxe"
+external_url: "https://github.com/erdnaxe"
 category: "Miscellaneous"
 ---

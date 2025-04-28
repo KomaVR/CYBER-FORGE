@@ -9,6 +9,6 @@ PDF
 
 
 "
-url: "https://github.com/BuffaloWill/oxml_xxe"
+external_url: "https://github.com/BuffaloWill/oxml_xxe"
 category: "Miscellaneous"
 ---

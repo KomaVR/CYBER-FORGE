@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://paypal.me/cipheydevs"
+external_url: "https://paypal.me/cipheydevs"
 category: "Miscellaneous"
 ---

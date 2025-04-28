@@ -1,6 +1,6 @@
 ---
 title: "OMSmolina"
 description: ""
-url: "https://github.com/OMSmolina"
+external_url: "https://github.com/OMSmolina"
 category: "Miscellaneous"
 ---

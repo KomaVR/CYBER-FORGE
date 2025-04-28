@@ -3,6 +3,6 @@ title: "https://github.com/wvit/web-document"
 description: "web document - Browser extension for saving web documents locally, allowing
 you to access them offline and quickly search for webpage:
 "
-url: "https://github.com/wvit/web-document"
+external_url: "https://github.com/wvit/web-document"
 category: "Web Exploitation"
 ---

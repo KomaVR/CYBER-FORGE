@@ -1,6 +1,6 @@
 ---
 title: "qlue.io"
 description: ""
-url: "https://qlue.io"
+external_url: "https://qlue.io"
 category: "Miscellaneous"
 ---

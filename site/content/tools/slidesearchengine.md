@@ -1,6 +1,6 @@
 ---
 title: "SlideSearchEngine"
 description: ""
-url: "http://www.slidesearchengine.com/"
+external_url: "http://www.slidesearchengine.com/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Geofeedia"
 description: ""
-url: "https://geofeedia.com/"
+external_url: "https://geofeedia.com/"
 category: "Miscellaneous"
 ---

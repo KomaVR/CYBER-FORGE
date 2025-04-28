@@ -1,6 +1,6 @@
 ---
 title: "MyEventlog.com"
 description: "Database"
-url: "https://www.myeventlog.com/"
+external_url: "https://www.myeventlog.com/"
 category: "Miscellaneous"
 ---

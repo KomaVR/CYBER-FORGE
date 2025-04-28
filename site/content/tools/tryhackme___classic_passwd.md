@@ -3,6 +3,6 @@ title: "TryHackMe | Classic Passwd"
 description: "
  
 "
-url: "https://tryhackme.com/room/classicpasswd"
+external_url: "https://tryhackme.com/room/classicpasswd"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Netcraft Site Report"
 description: "is an online database that will provide you a report with detail information about a particular website and the history associated with it."
-url: "http://toolbar.netcraft.com/site_report?url=undefined#last_reboot"
+external_url: "http://toolbar.netcraft.com/site_report?url=undefined#last_reboot"
 category: "Web Exploitation"
 ---

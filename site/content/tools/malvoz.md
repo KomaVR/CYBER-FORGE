@@ -1,6 +1,6 @@
 ---
 title: "Malvoz"
 description: ""
-url: "https://github.com/Malvoz"
+external_url: "https://github.com/Malvoz"
 category: "Miscellaneous"
 ---

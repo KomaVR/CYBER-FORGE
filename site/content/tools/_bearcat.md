@@ -1,6 +1,6 @@
 ---
 title: "@Bearcat"
 description: "Bearcat(github )"
-url: "https://github.com/iBearcat"
+external_url: "https://github.com/iBearcat"
 category: "Miscellaneous"
 ---

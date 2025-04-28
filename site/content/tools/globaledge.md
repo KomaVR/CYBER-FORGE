@@ -1,6 +1,6 @@
 ---
 title: "globalEdge"
 description: ""
-url: "http://globaledge.msu.edu"
+external_url: "http://globaledge.msu.edu"
 category: "Miscellaneous"
 ---

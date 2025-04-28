@@ -1,6 +1,6 @@
 ---
 title: "evyatarguardicore"
 description: ""
-url: "https://github.com/evyatarguardicore"
+external_url: "https://github.com/evyatarguardicore"
 category: "Miscellaneous"
 ---

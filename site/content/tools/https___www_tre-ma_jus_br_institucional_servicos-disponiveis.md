@@ -14,6 +14,6 @@ FAM | Maranhão - https://famem.org.br/
 Serviços disponíveis GOV| Maranhão - https://www.ma.gov.br/servicos/
 
 "
-url: "https://www.tre-ma.jus.br/institucional/servicos-disponiveis"
+external_url: "https://www.tre-ma.jus.br/institucional/servicos-disponiveis"
 category: "Miscellaneous"
 ---

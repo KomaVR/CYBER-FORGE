@@ -1,6 +1,6 @@
 ---
 title: "Nod"
 description: ""
-url: "http://get-nod.com"
+external_url: "http://get-nod.com"
 category: "Miscellaneous"
 ---

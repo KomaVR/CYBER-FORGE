@@ -1,6 +1,6 @@
 ---
 title: "Superdesk"
 description: ""
-url: "https://www.superdesk.org"
+external_url: "https://www.superdesk.org"
 category: "Miscellaneous"
 ---

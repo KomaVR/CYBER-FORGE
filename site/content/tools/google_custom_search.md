@@ -1,6 +1,6 @@
 ---
 title: "Google Custom Search"
 description: ""
-url: "http://www.google.com/cse"
+external_url: "http://www.google.com/cse"
 category: "Miscellaneous"
 ---

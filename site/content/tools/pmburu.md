@@ -1,6 +1,6 @@
 ---
 title: "pmburu"
 description: ""
-url: "https://github.com/pmburu"
+external_url: "https://github.com/pmburu"
 category: "Miscellaneous"
 ---

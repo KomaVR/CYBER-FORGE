@@ -1,6 +1,6 @@
 ---
 title: "Fierce"
 description: ""
-url: "https://www.aldeid.com/wiki/Fierce"
+external_url: "https://www.aldeid.com/wiki/Fierce"
 category: "Miscellaneous"
 ---

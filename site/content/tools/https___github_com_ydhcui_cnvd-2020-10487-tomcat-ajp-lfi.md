@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/YDHCUI/CNVD-2020-10487-Tomcat-Ajp-lfi"
 description: "CVE-2020-1938:"
-url: "https://github.com/YDHCUI/CNVD-2020-10487-Tomcat-Ajp-lfi"
+external_url: "https://github.com/YDHCUI/CNVD-2020-10487-Tomcat-Ajp-lfi"
 category: "Miscellaneous"
 ---

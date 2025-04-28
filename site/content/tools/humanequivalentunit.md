@@ -1,6 +1,6 @@
 ---
 title: "HumanEquivalentUnit"
 description: ""
-url: "https://github.com/HumanEquivalentUnit"
+external_url: "https://github.com/HumanEquivalentUnit"
 category: "Miscellaneous"
 ---

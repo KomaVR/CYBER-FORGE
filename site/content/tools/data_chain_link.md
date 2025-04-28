@@ -1,6 +1,6 @@
 ---
 title: "data.chain.link"
 description: ""
-url: "https://data.chain.link"
+external_url: "https://data.chain.link"
 category: "Miscellaneous"
 ---

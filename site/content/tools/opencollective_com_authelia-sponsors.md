@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://opencollective.com/authelia-sponsors"
+external_url: "https://opencollective.com/authelia-sponsors"
 category: "Miscellaneous"
 ---

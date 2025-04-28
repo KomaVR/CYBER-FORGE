@@ -7,6 +7,6 @@ description: "
 [network]
 
 "
-url: "https://sn0int.readthedocs.io/en/latest/config.html"
+external_url: "https://sn0int.readthedocs.io/en/latest/config.html"
 category: "White Hat Tools"
 ---

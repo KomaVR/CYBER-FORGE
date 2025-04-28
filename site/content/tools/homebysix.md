@@ -1,6 +1,6 @@
 ---
 title: "homebysix"
 description: ""
-url: "https://github.com/homebysix"
+external_url: "https://github.com/homebysix"
 category: "Miscellaneous"
 ---

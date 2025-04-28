@@ -1,6 +1,6 @@
 ---
 title: "visualping"
 description: ""
-url: "https://visualping.io"
+external_url: "https://visualping.io"
 category: "Miscellaneous"
 ---

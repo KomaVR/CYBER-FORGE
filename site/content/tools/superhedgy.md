@@ -1,6 +1,6 @@
 ---
 title: "superhedgy"
 description: ""
-url: "https://github.com/superhedgy"
+external_url: "https://github.com/superhedgy"
 category: "Miscellaneous"
 ---

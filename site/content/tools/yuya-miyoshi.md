@@ -1,6 +1,6 @@
 ---
 title: "Yuya-Miyoshi"
 description: ""
-url: "https://github.com/Yuya-Miyoshi"
+external_url: "https://github.com/Yuya-Miyoshi"
 category: "Miscellaneous"
 ---

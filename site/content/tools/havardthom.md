@@ -1,6 +1,6 @@
 ---
 title: "havardthom"
 description: ""
-url: "https://github.com/havardthom"
+external_url: "https://github.com/havardthom"
 category: "Miscellaneous"
 ---

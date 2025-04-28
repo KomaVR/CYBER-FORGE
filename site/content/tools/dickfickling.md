@@ -1,6 +1,6 @@
 ---
 title: "dickfickling"
 description: ""
-url: "https://github.com/dickfickling"
+external_url: "https://github.com/dickfickling"
 category: "Miscellaneous"
 ---

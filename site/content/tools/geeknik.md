@@ -1,6 +1,6 @@
 ---
 title: "geeknik"
 description: ""
-url: "https://github.com/geeknik"
+external_url: "https://github.com/geeknik"
 category: "Miscellaneous"
 ---

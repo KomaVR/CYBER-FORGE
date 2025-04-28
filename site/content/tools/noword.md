@@ -1,6 +1,6 @@
 ---
 title: "noword"
 description: ""
-url: "https://github.com/noword"
+external_url: "https://github.com/noword"
 category: "Miscellaneous"
 ---

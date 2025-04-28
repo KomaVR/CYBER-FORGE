@@ -1,6 +1,6 @@
 ---
 title: "Johns Hopkins Unsupervised Learning spring 2017, by Rene Vidal"
 description: ""
-url: "https://www.youtube.com/playlist?list=PLaBAmmD3yH4Nta9Y6g9hOV4dcnpTzeW4q"
+external_url: "https://www.youtube.com/playlist?list=PLaBAmmD3yH4Nta9Y6g9hOV4dcnpTzeW4q"
 category: "Password Cracking"
 ---

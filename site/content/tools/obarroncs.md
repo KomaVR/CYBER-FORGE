@@ -1,6 +1,6 @@
 ---
 title: "OBarronCS"
 description: ""
-url: "https://github.com/OBarronCS"
+external_url: "https://github.com/OBarronCS"
 category: "Miscellaneous"
 ---

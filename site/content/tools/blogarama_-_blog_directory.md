@@ -1,6 +1,6 @@
 ---
 title: "Blogarama - Blog directory"
 description: ""
-url: "https://www.blogarama.com/"
+external_url: "https://www.blogarama.com/"
 category: "Miscellaneous"
 ---

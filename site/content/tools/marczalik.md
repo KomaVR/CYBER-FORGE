@@ -1,6 +1,6 @@
 ---
 title: "marczalik"
 description: ""
-url: "https://github.com/marczalik"
+external_url: "https://github.com/marczalik"
 category: "Miscellaneous"
 ---

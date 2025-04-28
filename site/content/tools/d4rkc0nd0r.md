@@ -1,6 +1,6 @@
 ---
 title: "d4rkc0nd0r"
 description: ""
-url: "https://github.com/d4rkc0nd0r"
+external_url: "https://github.com/d4rkc0nd0r"
 category: "Miscellaneous"
 ---

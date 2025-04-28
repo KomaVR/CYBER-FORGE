@@ -1,6 +1,6 @@
 ---
 title: "Corrective Services Western Australia"
 description: ""
-url: "https://www.correctiveservices.wa.gov.au/"
+external_url: "https://www.correctiveservices.wa.gov.au/"
 category: "Miscellaneous"
 ---

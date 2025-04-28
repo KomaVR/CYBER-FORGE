@@ -1,6 +1,6 @@
 ---
 title: "tokenanalyst.io"
 description: ""
-url: "https://www.tokenanalyst.io"
+external_url: "https://www.tokenanalyst.io"
 category: "Miscellaneous"
 ---

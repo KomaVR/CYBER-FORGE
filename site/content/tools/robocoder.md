@@ -1,6 +1,6 @@
 ---
 title: "robocoder"
 description: ""
-url: "https://github.com/robocoder"
+external_url: "https://github.com/robocoder"
 category: "Miscellaneous"
 ---

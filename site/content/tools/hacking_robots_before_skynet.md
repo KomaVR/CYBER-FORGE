@@ -8,6 +8,6 @@ SROS: Current Progress and Developments, ROSCon 2017
 Breaking the Laws of Robotics: Attacking Industrial Robots, Black Hat USA 2017
 
 "
-url: "https://www.youtube.com/watch?v=LK43J-p1H3o"
+external_url: "https://www.youtube.com/watch?v=LK43J-p1H3o"
 category: "Miscellaneous"
 ---

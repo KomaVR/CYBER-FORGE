@@ -1,6 +1,6 @@
 ---
 title: "Marmelatze"
 description: ""
-url: "https://github.com/Marmelatze"
+external_url: "https://github.com/Marmelatze"
 category: "Miscellaneous"
 ---

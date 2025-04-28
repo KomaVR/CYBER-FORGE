@@ -1,6 +1,6 @@
 ---
 title: "lunaray.co"
 description: ""
-url: "https://lunaray.co/contract"
+external_url: "https://lunaray.co/contract"
 category: "Miscellaneous"
 ---

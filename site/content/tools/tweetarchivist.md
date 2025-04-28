@@ -1,6 +1,6 @@
 ---
 title: "TweetArchivist"
 description: ""
-url: "http://www.tweetarchivist.com/"
+external_url: "http://www.tweetarchivist.com/"
 category: "Miscellaneous"
 ---

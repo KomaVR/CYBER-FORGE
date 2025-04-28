@@ -1,6 +1,6 @@
 ---
 title: "cybernobie"
 description: ""
-url: "https://github.com/cybernobie"
+external_url: "https://github.com/cybernobie"
 category: "Miscellaneous"
 ---

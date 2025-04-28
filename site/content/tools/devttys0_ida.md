@@ -14,6 +14,6 @@ mipsrop 在MIPS可执行代码中搜寻ROP。查找常见的ROP
 rizzo 对2个或多个IDB之间的函数进行识别和重命名，基于：函数签名、对唯一字符串/常量的引用、模糊签名、调用图
 
 "
-url: "https://github.com/devttys0/ida"
+external_url: "https://github.com/devttys0/ida"
 category: "Password Cracking"
 ---

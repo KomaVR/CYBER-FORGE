@@ -1,6 +1,6 @@
 ---
 title: "Visme"
 description: ""
-url: "http://www.visme.co"
+external_url: "http://www.visme.co"
 category: "Miscellaneous"
 ---

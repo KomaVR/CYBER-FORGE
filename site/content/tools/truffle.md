@@ -1,6 +1,6 @@
 ---
 title: "Truffle"
 description: ""
-url: "https://trufflesuite.com/"
+external_url: "https://trufflesuite.com/"
 category: "Miscellaneous"
 ---

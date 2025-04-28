@@ -1,6 +1,6 @@
 ---
 title: "Ben-grmbl"
 description: ""
-url: "https://github.com/Ben-grmbl"
+external_url: "https://github.com/Ben-grmbl"
 category: "Miscellaneous"
 ---

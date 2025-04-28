@@ -1,6 +1,6 @@
 ---
 title: "Fedora Pagure"
 description: "Open Source software code hosting system"
-url: "https://pagure.io/browse/projects/"
+external_url: "https://pagure.io/browse/projects/"
 category: "Miscellaneous"
 ---

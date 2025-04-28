@@ -1,6 +1,6 @@
 ---
 title: "cointool.app"
 description: ""
-url: "https://cointool.app"
+external_url: "https://cointool.app"
 category: "Miscellaneous"
 ---

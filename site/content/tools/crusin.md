@@ -1,6 +1,6 @@
 ---
 title: "Crusin"
 description: ""
-url: "http://www.cruisin.me"
+external_url: "http://www.cruisin.me"
 category: "Miscellaneous"
 ---

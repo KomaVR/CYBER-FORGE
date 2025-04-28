@@ -1,6 +1,6 @@
 ---
 title: "TangyWrecker"
 description: ""
-url: "https://github.com/TangyWrecker"
+external_url: "https://github.com/TangyWrecker"
 category: "Miscellaneous"
 ---

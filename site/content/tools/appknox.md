@@ -1,6 +1,6 @@
 ---
 title: "AppKnox"
 description: ""
-url: "http://appknox.com"
+external_url: "http://appknox.com"
 category: "Miscellaneous"
 ---

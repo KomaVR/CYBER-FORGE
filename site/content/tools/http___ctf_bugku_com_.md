@@ -1,6 +1,6 @@
 ---
 title: "http://ctf.bugku.com/"
 description: ""
-url: "http://ctf.bugku.com/"
+external_url: "http://ctf.bugku.com/"
 category: "Miscellaneous"
 ---

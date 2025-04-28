@@ -1,6 +1,6 @@
 ---
 title: "tiaghoalves"
 description: ""
-url: "https://github.com/tiaghoalves"
+external_url: "https://github.com/tiaghoalves"
 category: "Miscellaneous"
 ---

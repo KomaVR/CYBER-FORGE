@@ -1,6 +1,6 @@
 ---
 title: "Cloning RSA tokens with Frida"
 description: "2019.12 [xakcop]"
-url: "https://xakcop.com/post/cloning-rsa/"
+external_url: "https://xakcop.com/post/cloning-rsa/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "aphtrinh"
 description: ""
-url: "https://github.com/aphtrinh"
+external_url: "https://github.com/aphtrinh"
 category: "Miscellaneous"
 ---

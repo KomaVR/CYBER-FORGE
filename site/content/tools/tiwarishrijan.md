@@ -1,6 +1,6 @@
 ---
 title: "tiwarishrijan"
 description: ""
-url: "https://github.com/tiwarishrijan"
+external_url: "https://github.com/tiwarishrijan"
 category: "Miscellaneous"
 ---

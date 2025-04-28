@@ -10,6 +10,6 @@ Netflix
 
 
 "
-url: "https://cn.engadget.com/2019/08/01/netflix-physical-activity-android-test/"
+external_url: "https://cn.engadget.com/2019/08/01/netflix-physical-activity-android-test/"
 category: "Miscellaneous"
 ---

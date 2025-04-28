@@ -1,6 +1,6 @@
 ---
 title: "aaslamin"
 description: ""
-url: "https://github.com/aaslamin"
+external_url: "https://github.com/aaslamin"
 category: "Miscellaneous"
 ---

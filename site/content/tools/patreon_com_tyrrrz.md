@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://patreon.com/Tyrrrz"
+external_url: "https://patreon.com/Tyrrrz"
 category: "Miscellaneous"
 ---

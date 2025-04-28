@@ -1,6 +1,6 @@
 ---
 title: "scop"
 description: ""
-url: "https://github.com/scop"
+external_url: "https://github.com/scop"
 category: "Miscellaneous"
 ---

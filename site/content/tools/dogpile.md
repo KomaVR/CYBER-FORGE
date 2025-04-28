@@ -1,6 +1,6 @@
 ---
 title: "Dogpile"
 description: ""
-url: "http://www.dogpile.com/"
+external_url: "http://www.dogpile.com/"
 category: "Miscellaneous"
 ---

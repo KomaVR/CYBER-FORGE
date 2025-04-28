@@ -1,6 +1,6 @@
 ---
 title: "NFT Mind Analysis Tool"
 description: ""
-url: "https://github.com/brianleect/nft-manual-mint-analysis"
+external_url: "https://github.com/brianleect/nft-manual-mint-analysis"
 category: "Miscellaneous"
 ---

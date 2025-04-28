@@ -1,6 +1,6 @@
 ---
 title: "msm-code"
 description: ""
-url: "https://github.com/msm-code"
+external_url: "https://github.com/msm-code"
 category: "Miscellaneous"
 ---

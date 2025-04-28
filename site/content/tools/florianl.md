@@ -1,6 +1,6 @@
 ---
 title: "florianl"
 description: ""
-url: "https://github.com/florianl"
+external_url: "https://github.com/florianl"
 category: "Miscellaneous"
 ---

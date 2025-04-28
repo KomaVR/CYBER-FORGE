@@ -1,6 +1,6 @@
 ---
 title: "IJEMIN"
 description: ""
-url: "https://github.com/IJEMIN"
+external_url: "https://github.com/IJEMIN"
 category: "Miscellaneous"
 ---

@@ -32,6 +32,6 @@ SELECT sys_eval(\"id\");
 
 
 "
-url: "https://github.com/sqlmapproject/sqlmap/tree/master/data/udf/postgresql"
+external_url: "https://github.com/sqlmapproject/sqlmap/tree/master/data/udf/postgresql"
 category: "Web Exploitation"
 ---

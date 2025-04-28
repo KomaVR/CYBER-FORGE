@@ -1,6 +1,6 @@
 ---
 title: "rookieBC"
 description: ""
-url: "https://github.com/rookieBC"
+external_url: "https://github.com/rookieBC"
 category: "Miscellaneous"
 ---

@@ -3,6 +3,6 @@ title: "TryHackMe | Introduction to Django"
 description: "
  
 "
-url: "https://tryhackme.com/room/django"
+external_url: "https://tryhackme.com/room/django"
 category: "Miscellaneous"
 ---

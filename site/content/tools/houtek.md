@@ -1,6 +1,6 @@
 ---
 title: "Houtek"
 description: ""
-url: "https://github.com/Houtek"
+external_url: "https://github.com/Houtek"
 category: "Miscellaneous"
 ---

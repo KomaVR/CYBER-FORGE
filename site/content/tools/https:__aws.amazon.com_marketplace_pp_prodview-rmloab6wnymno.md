@@ -1,7 +1,7 @@
 ---
 title: "https://aws.amazon.com/marketplace/pp/prodview-rmloab6wnymno"
 description: "Go to  and click the “Continue to Subscribe” button"
-url: "https://aws.amazon.com/marketplace/pp/prodview-rmloab6wnymno"
+external_url: "https://aws.amazon.com/marketplace/pp/prodview-rmloab6wnymno"
 category: "Miscellaneous"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Lycos Image Search"
 description: ""
-url: "https://search.lycos.com"
+external_url: "https://search.lycos.com"
 category: "Miscellaneous"
 ---

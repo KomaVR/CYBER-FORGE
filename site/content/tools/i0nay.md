@@ -1,6 +1,6 @@
 ---
 title: "i0nAy"
 description: ""
-url: "https://github.com/i0nAy"
+external_url: "https://github.com/i0nAy"
 category: "Miscellaneous"
 ---

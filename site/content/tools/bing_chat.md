@@ -10,6 +10,6 @@ Click \"Export\" on the bottom right, then \"Export as JSON\" (This saves your c
 Paste your cookies into a file cookiesBing.json
 
 "
-url: "https://chrome.google.com/webstore/detail/bing-chat-for-all-browser/jofbglonpbndadajbafmmaklbfbkggpo"
+external_url: "https://chrome.google.com/webstore/detail/bing-chat-for-all-browser/jofbglonpbndadajbafmmaklbfbkggpo"
 category: "Miscellaneous"
 ---

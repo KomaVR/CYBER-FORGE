@@ -5,6 +5,6 @@ description: "UTDM - USB Target Disk Mode
 
 
 "
-url: "https://github.com/rickmark/apple_utdm"
+external_url: "https://github.com/rickmark/apple_utdm"
 category: "Miscellaneous"
 ---

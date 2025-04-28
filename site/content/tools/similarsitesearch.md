@@ -1,6 +1,6 @@
 ---
 title: "SimilarSiteSearch"
 description: ""
-url: "http://www.similarsitesearch.com/"
+external_url: "http://www.similarsitesearch.com/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "stevenlele"
 description: ""
-url: "https://github.com/stevenlele"
+external_url: "https://github.com/stevenlele"
 category: "Miscellaneous"
 ---

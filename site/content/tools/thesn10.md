@@ -1,6 +1,6 @@
 ---
 title: "thesn10"
 description: ""
-url: "https://github.com/thesn10"
+external_url: "https://github.com/thesn10"
 category: "Miscellaneous"
 ---

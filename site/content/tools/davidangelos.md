@@ -1,6 +1,6 @@
 ---
 title: "DavidAngelos"
 description: ""
-url: "https://github.com/DavidAngelos"
+external_url: "https://github.com/DavidAngelos"
 category: "Miscellaneous"
 ---

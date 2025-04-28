@@ -1,6 +1,6 @@
 ---
 title: "oppsec"
 description: "breads"
-url: "https://github.com/oppsec"
+external_url: "https://github.com/oppsec"
 category: "Miscellaneous"
 ---

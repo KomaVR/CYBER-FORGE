@@ -1,6 +1,6 @@
 ---
 title: "fariss"
 description: ""
-url: "https://github.com/fariss"
+external_url: "https://github.com/fariss"
 category: "Miscellaneous"
 ---

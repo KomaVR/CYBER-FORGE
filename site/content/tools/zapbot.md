@@ -1,6 +1,6 @@
 ---
 title: "zapbot"
 description: ""
-url: "https://github.com/zapbot"
+external_url: "https://github.com/zapbot"
 category: "Web Exploitation"
 ---

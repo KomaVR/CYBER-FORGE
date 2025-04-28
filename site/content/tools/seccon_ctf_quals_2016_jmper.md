@@ -8,6 +8,6 @@ pwnable
 E.g. 
 
 "
-url: "https://github.com/ctfs/write-ups-2016/tree/master/seccon-ctf-quals-2016/exploit/jmper-300"
+external_url: "https://github.com/ctfs/write-ups-2016/tree/master/seccon-ctf-quals-2016/exploit/jmper-300"
 category: "Miscellaneous"
 ---

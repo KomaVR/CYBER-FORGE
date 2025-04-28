@@ -1,6 +1,6 @@
 ---
 title: "swanandx"
 description: ""
-url: "https://github.com/swanandx"
+external_url: "https://github.com/swanandx"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Odnoklassniki"
 description: "(.ru)"
-url: "http://ok.ru/"
+external_url: "http://ok.ru/"
 category: "Miscellaneous"
 ---

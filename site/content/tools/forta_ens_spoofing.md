@@ -1,6 +1,6 @@
 ---
 title: "forta ENS spoofing"
 description: ""
-url: "https://github.com/kovart/forta-ens-spoofing"
+external_url: "https://github.com/kovart/forta-ens-spoofing"
 category: "Social Engineering"
 ---

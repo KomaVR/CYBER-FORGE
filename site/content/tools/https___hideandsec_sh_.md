@@ -1,6 +1,6 @@
 ---
 title: "https://hideandsec.sh/"
 description: ""
-url: "https://hideandsec.sh/"
+external_url: "https://hideandsec.sh/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "SocialBakers"
 description: ""
-url: "http://www.socialbakers.com"
+external_url: "http://www.socialbakers.com"
 category: "Miscellaneous"
 ---

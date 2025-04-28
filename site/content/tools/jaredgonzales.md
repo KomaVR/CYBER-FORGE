@@ -1,6 +1,6 @@
 ---
 title: "jaredgonzales"
 description: ""
-url: "https://github.com/jaredgonzales"
+external_url: "https://github.com/jaredgonzales"
 category: "Miscellaneous"
 ---

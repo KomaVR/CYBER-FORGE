@@ -1,6 +1,6 @@
 ---
 title: "agustingianni"
 description: ""
-url: "https://github.com/agustingianni"
+external_url: "https://github.com/agustingianni"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "oSumAtrIX"
 description: ""
-url: "https://github.com/oSumAtrIX"
+external_url: "https://github.com/oSumAtrIX"
 category: "Miscellaneous"
 ---

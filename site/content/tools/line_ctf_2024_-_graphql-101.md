@@ -19,6 +19,6 @@ corCTF 2023 - force
 
 
 "
-url: "https://adragos.ro/line-ctf-2024/#graphql-101"
+external_url: "https://adragos.ro/line-ctf-2024/#graphql-101"
 category: "Grey Hat Tools"
 ---

@@ -2,6 +2,6 @@
 title: "AnonCatalyst"
 description: "AnonCatalyst
 Istoleyourbutter"
-url: "https://github.com/AnonCatalyst"
+external_url: "https://github.com/AnonCatalyst"
 category: "Miscellaneous"
 ---

@@ -8,6 +8,6 @@ https://webassembly.studio/
 https://github.com/WebAssembly/wabt
 
 "
-url: "https://wasdk.github.io/WasmFiddle/"
+external_url: "https://wasdk.github.io/WasmFiddle/"
 category: "Web Exploitation"
 ---

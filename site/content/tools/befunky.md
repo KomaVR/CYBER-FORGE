@@ -1,6 +1,6 @@
 ---
 title: "Befunky"
 description: ""
-url: "https://www.befunky.com"
+external_url: "https://www.befunky.com"
 category: "Miscellaneous"
 ---

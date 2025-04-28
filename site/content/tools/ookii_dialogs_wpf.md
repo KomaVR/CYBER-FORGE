@@ -1,6 +1,6 @@
 ---
 title: "Ookii.Dialogs.Wpf"
 description: ""
-url: "https://github.com/augustoproiete/ookii-dialogs-wpf"
+external_url: "https://github.com/augustoproiete/ookii-dialogs-wpf"
 category: "Miscellaneous"
 ---

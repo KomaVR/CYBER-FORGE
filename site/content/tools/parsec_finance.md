@@ -1,6 +1,6 @@
 ---
 title: "parsec.finance"
 description: ""
-url: "https://parsec.finance"
+external_url: "https://parsec.finance"
 category: "Miscellaneous"
 ---

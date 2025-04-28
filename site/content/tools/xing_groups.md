@@ -1,6 +1,6 @@
 ---
 title: "Xing Groups"
 description: ""
-url: "https://www.xing.com/communities"
+external_url: "https://www.xing.com/communities"
 category: "Miscellaneous"
 ---

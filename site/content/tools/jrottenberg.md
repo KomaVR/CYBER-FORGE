@@ -1,6 +1,6 @@
 ---
 title: "jrottenberg"
 description: ""
-url: "https://github.com/jrottenberg"
+external_url: "https://github.com/jrottenberg"
 category: "Miscellaneous"
 ---

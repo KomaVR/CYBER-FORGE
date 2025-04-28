@@ -1,6 +1,6 @@
 ---
 title: "Awesome Analytics"
 description: ""
-url: "https://github.com/0xnr/awesome-analytics"
+external_url: "https://github.com/0xnr/awesome-analytics"
 category: "Miscellaneous"
 ---

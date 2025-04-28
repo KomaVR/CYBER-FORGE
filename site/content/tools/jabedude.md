@@ -1,6 +1,6 @@
 ---
 title: "jabedude"
 description: ""
-url: "https://github.com/jabedude"
+external_url: "https://github.com/jabedude"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "footprint.network"
 description: ""
-url: "https://footprint.network"
+external_url: "https://footprint.network"
 category: "White Hat Tools"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "orangecms"
 description: ""
-url: "https://github.com/orangecms"
+external_url: "https://github.com/orangecms"
 category: "Miscellaneous"
 ---

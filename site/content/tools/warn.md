@@ -1,6 +1,6 @@
 ---
 title: "warn"
 description: ""
-url: "https://sn0int.readthedocs.io/en/latest/reference.html#warn"
+external_url: "https://sn0int.readthedocs.io/en/latest/reference.html#warn"
 category: "Miscellaneous"
 ---

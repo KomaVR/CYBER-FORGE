@@ -1,6 +1,6 @@
 ---
 title: "Jaap"
 description: "(NL)"
-url: "https://www.jaap.nl/"
+external_url: "https://www.jaap.nl/"
 category: "Miscellaneous"
 ---

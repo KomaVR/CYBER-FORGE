@@ -1,6 +1,6 @@
 ---
 title: "congon4tor"
 description: ""
-url: "https://github.com/congon4tor"
+external_url: "https://github.com/congon4tor"
 category: "Miscellaneous"
 ---

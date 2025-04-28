@@ -1,6 +1,6 @@
 ---
 title: "Kermalis"
 description: ""
-url: "https://github.com/Kermalis"
+external_url: "https://github.com/Kermalis"
 category: "Miscellaneous"
 ---

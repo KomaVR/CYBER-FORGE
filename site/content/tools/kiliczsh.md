@@ -1,6 +1,6 @@
 ---
 title: "kiliczsh"
 description: ""
-url: "https://github.com/kiliczsh"
+external_url: "https://github.com/kiliczsh"
 category: "Miscellaneous"
 ---

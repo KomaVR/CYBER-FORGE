@@ -1,6 +1,6 @@
 ---
 title: "ImgBotApp"
 description: ""
-url: "https://github.com/ImgBotApp"
+external_url: "https://github.com/ImgBotApp"
 category: "Miscellaneous"
 ---

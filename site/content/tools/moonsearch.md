@@ -1,6 +1,6 @@
 ---
 title: "MoonSearch"
 description: "Backlinks checker & SEO Report"
-url: "http://moonsearch.com/"
+external_url: "http://moonsearch.com/"
 category: "Miscellaneous"
 ---

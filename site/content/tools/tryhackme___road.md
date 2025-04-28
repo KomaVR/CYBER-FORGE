@@ -3,6 +3,6 @@ title: "TryHackMe | Road"
 description: "
  
 "
-url: "https://tryhackme.com/room/road"
+external_url: "https://tryhackme.com/room/road"
 category: "Miscellaneous"
 ---

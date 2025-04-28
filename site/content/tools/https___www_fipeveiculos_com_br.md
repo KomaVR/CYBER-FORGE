@@ -1,6 +1,6 @@
 ---
 title: "https://www.fipeveiculos.com.br"
 description: ""
-url: "https://www.fipeveiculos.com.br"
+external_url: "https://www.fipeveiculos.com.br"
 category: "Miscellaneous"
 ---

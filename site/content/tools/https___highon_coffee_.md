@@ -1,6 +1,6 @@
 ---
 title: "https://highon.coffee/"
 description: ""
-url: "https://highon.coffee/"
+external_url: "https://highon.coffee/"
 category: "Miscellaneous"
 ---

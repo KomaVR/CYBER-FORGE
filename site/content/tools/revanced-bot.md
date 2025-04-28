@@ -1,6 +1,6 @@
 ---
 title: "revanced-bot"
 description: ""
-url: "https://github.com/revanced-bot"
+external_url: "https://github.com/revanced-bot"
 category: "Miscellaneous"
 ---

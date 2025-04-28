@@ -1,6 +1,6 @@
 ---
 title: "https://secdb.alpinelinux.org/"
 description: "Alpine Linux SecDB:"
-url: "https://secdb.alpinelinux.org/"
+external_url: "https://secdb.alpinelinux.org/"
 category: "Miscellaneous"
 ---

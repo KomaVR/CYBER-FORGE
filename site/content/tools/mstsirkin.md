@@ -1,6 +1,6 @@
 ---
 title: "mstsirkin"
 description: ""
-url: "https://github.com/mstsirkin"
+external_url: "https://github.com/mstsirkin"
 category: "Miscellaneous"
 ---

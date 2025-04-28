@@ -1,6 +1,6 @@
 ---
 title: "garanews"
 description: ""
-url: "https://github.com/garanews"
+external_url: "https://github.com/garanews"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "natevw"
 description: ""
-url: "https://github.com/natevw"
+external_url: "https://github.com/natevw"
 category: "Miscellaneous"
 ---

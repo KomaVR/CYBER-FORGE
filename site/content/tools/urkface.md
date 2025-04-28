@@ -1,6 +1,6 @@
 ---
 title: "UrkFace"
 description: "(UA)"
-url: "http://ukrface.com.ua"
+external_url: "http://ukrface.com.ua"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "dickeylth"
 description: ""
-url: "https://github.com/dickeylth"
+external_url: "https://github.com/dickeylth"
 category: "Miscellaneous"
 ---

@@ -4,6 +4,6 @@ description: "
 
 Launching the cross-site request forgery attack on a vulnerable web application. Conducting experiments with several countermeasures.
 "
-url: "http://www.cis.syr.edu/~wedu/seed/Labs/Attacks_CSRF"
+external_url: "http://www.cis.syr.edu/~wedu/seed/Labs/Attacks_CSRF"
 category: "Web Exploitation"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Mapchart.net"
 description: ""
-url: "https://mapchart.net"
+external_url: "https://mapchart.net"
 category: "Miscellaneous"
 ---

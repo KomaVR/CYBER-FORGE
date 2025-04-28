@@ -1,6 +1,6 @@
 ---
 title: "MarMarIV"
 description: ""
-url: "https://github.com/MarMarIV"
+external_url: "https://github.com/MarMarIV"
 category: "Miscellaneous"
 ---

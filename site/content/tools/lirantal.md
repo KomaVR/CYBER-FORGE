@@ -1,6 +1,6 @@
 ---
 title: "lirantal"
 description: ""
-url: "https://github.com/lirantal"
+external_url: "https://github.com/lirantal"
 category: "Miscellaneous"
 ---

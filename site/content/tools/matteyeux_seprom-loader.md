@@ -1,6 +1,6 @@
 ---
 title: "matteyeux/seprom-loader"
 description: ""
-url: "https://github.com/matteyeux/seprom-loader/"
+external_url: "https://github.com/matteyeux/seprom-loader/"
 category: "Miscellaneous"
 ---

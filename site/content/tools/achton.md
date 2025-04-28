@@ -1,6 +1,6 @@
 ---
 title: "achton"
 description: ""
-url: "https://github.com/achton"
+external_url: "https://github.com/achton"
 category: "Miscellaneous"
 ---

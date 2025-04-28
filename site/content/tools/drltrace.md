@@ -1,6 +1,6 @@
 ---
 title: "drltrace"
 description: "shared library calls tracing."
-url: "https://github.com/mxmssh/drltrace"
+external_url: "https://github.com/mxmssh/drltrace"
 category: "Miscellaneous"
 ---

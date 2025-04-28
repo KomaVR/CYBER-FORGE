@@ -1,6 +1,6 @@
 ---
 title: "henrypp/simplewall"
 description: "[863星][14d] [C++]  为Windows 过滤平台提供的配置界面"
-url: "https://github.com/henrypp/simplewall"
+external_url: "https://github.com/henrypp/simplewall"
 category: "Miscellaneous"
 ---

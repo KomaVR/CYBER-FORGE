@@ -3,6 +3,6 @@ title: "TryHackMe | Binary Heaven"
 description: "
  
 "
-url: "https://tryhackme.com/room/binaryheaven"
+external_url: "https://tryhackme.com/room/binaryheaven"
 category: "Reverse Engineering"
 ---

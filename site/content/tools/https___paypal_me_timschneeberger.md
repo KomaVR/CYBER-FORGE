@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://paypal.me/timschneeberger"
+external_url: "https://paypal.me/timschneeberger"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "https://app.snov.io"
 description: "Snov.io:"
-url: "https://app.snov.io"
+external_url: "https://app.snov.io"
 category: "Miscellaneous"
 ---

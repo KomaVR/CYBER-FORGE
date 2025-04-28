@@ -1,6 +1,6 @@
 ---
 title: "Sierraffinity"
 description: ""
-url: "https://github.com/Sierraffinity"
+external_url: "https://github.com/Sierraffinity"
 category: "Miscellaneous"
 ---

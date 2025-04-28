@@ -1,6 +1,6 @@
 ---
 title: "crowell"
 description: ""
-url: "https://github.com/crowell"
+external_url: "https://github.com/crowell"
 category: "Miscellaneous"
 ---

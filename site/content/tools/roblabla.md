@@ -1,6 +1,6 @@
 ---
 title: "roblabla"
 description: ""
-url: "https://github.com/roblabla"
+external_url: "https://github.com/roblabla"
 category: "Miscellaneous"
 ---

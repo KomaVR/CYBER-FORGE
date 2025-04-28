@@ -1,6 +1,6 @@
 ---
 title: "hslatman"
 description: ""
-url: "https://github.com/hslatman"
+external_url: "https://github.com/hslatman"
 category: "Miscellaneous"
 ---

@@ -12,6 +12,6 @@ Plaid CTF 2020 - Catalog
 
 
 "
-url: "https://developer.chrome.com/blog/new-in-chrome-80/#more"
+external_url: "https://developer.chrome.com/blog/new-in-chrome-80/#more"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "mbrla0"
 description: ""
-url: "https://github.com/mbrla0"
+external_url: "https://github.com/mbrla0"
 category: "Miscellaneous"
 ---

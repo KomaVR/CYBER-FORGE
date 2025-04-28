@@ -1,6 +1,6 @@
 ---
 title: "seekamoon"
 description: ""
-url: "https://github.com/seekamoon"
+external_url: "https://github.com/seekamoon"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "jamchamb"
 description: ""
-url: "https://github.com/jamchamb"
+external_url: "https://github.com/jamchamb"
 category: "Miscellaneous"
 ---

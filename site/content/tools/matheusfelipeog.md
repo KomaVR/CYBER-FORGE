@@ -1,6 +1,6 @@
 ---
 title: "matheusfelipeog"
 description: ""
-url: "https://github.com/matheusfelipeog"
+external_url: "https://github.com/matheusfelipeog"
 category: "Miscellaneous"
 ---

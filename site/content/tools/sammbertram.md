@@ -1,6 +1,6 @@
 ---
 title: "sammbertram"
 description: ""
-url: "https://github.com/sammbertram"
+external_url: "https://github.com/sammbertram"
 category: "Miscellaneous"
 ---

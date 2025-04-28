@@ -1,6 +1,6 @@
 ---
 title: "dhsifss"
 description: ""
-url: "https://github.com/dhsifss"
+external_url: "https://github.com/dhsifss"
 category: "Miscellaneous"
 ---

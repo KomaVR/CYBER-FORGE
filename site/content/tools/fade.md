@@ -1,6 +1,6 @@
 ---
 title: "FaDe"
 description: "Fake Deface."
-url: "https://github.com/Gameye98/FaDe"
+external_url: "https://github.com/Gameye98/FaDe"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "xiangchen96"
 description: ""
-url: "https://github.com/xiangchen96"
+external_url: "https://github.com/xiangchen96"
 category: "Miscellaneous"
 ---

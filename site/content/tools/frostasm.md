@@ -1,6 +1,6 @@
 ---
 title: "frostasm"
 description: ""
-url: "https://github.com/frostasm"
+external_url: "https://github.com/frostasm"
 category: "Miscellaneous"
 ---

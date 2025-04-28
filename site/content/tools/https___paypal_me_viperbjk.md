@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://paypal.me/viperbjk"
+external_url: "https://paypal.me/viperbjk"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "vogelsgesang"
 description: ""
-url: "https://github.com/vogelsgesang"
+external_url: "https://github.com/vogelsgesang"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "mind-ar"
 description: ""
-url: "https://github.com/mind-ar"
+external_url: "https://github.com/mind-ar"
 category: "Miscellaneous"
 ---

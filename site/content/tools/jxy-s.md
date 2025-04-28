@@ -2,6 +2,6 @@
 title: "jxy-s"
 description: "jxy-s
 Johnny Shaw"
-url: "https://github.com/jxy-s"
+external_url: "https://github.com/jxy-s"
 category: "Password Cracking"
 ---

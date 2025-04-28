@@ -1,6 +1,6 @@
 ---
 title: "jfcg"
 description: ""
-url: "https://github.com/jfcg"
+external_url: "https://github.com/jfcg"
 category: "Miscellaneous"
 ---

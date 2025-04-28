@@ -1,6 +1,6 @@
 ---
 title: "My Top Tweet"
 description: ""
-url: "https://mytoptweet.com/"
+external_url: "https://mytoptweet.com/"
 category: "Miscellaneous"
 ---

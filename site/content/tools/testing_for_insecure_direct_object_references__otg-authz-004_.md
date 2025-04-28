@@ -6,6 +6,6 @@ Insecure Direct Object References
 
 
 "
-url: "https://github.com/Voorivex/pentest-guide/tree/master/Insecure-Direct-Object-References"
+external_url: "https://github.com/Voorivex/pentest-guide/tree/master/Insecure-Direct-Object-References"
 category: "Miscellaneous"
 ---

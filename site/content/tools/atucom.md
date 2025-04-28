@@ -1,6 +1,6 @@
 ---
 title: "atucom"
 description: ""
-url: "https://github.com/atucom"
+external_url: "https://github.com/atucom"
 category: "Miscellaneous"
 ---

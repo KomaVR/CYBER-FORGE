@@ -1,6 +1,6 @@
 ---
 title: "Impersonal.me"
 description: ""
-url: "http://www.impersonal.me"
+external_url: "http://www.impersonal.me"
 category: "Miscellaneous"
 ---

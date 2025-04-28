@@ -1,6 +1,6 @@
 ---
 title: "Barcode Generator"
 description: "Read barcodes and generate your own barcodes."
-url: "https://www.barcodesinc.com/generator/index.php"
+external_url: "https://www.barcodesinc.com/generator/index.php"
 category: "Miscellaneous"
 ---

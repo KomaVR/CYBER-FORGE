@@ -1,6 +1,6 @@
 ---
 title: "HugoPBrito"
 description: ""
-url: "https://github.com/HugoPBrito"
+external_url: "https://github.com/HugoPBrito"
 category: "Miscellaneous"
 ---

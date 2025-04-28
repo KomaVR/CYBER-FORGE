@@ -1,6 +1,6 @@
 ---
 title: "discoverscripts"
 description: "Lee Baird @discoverscripts"
-url: "https://twitter.com/discoverscripts"
+external_url: "https://twitter.com/discoverscripts"
 category: "Miscellaneous"
 ---

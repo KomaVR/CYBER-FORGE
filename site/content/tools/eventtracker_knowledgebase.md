@@ -1,6 +1,6 @@
 ---
 title: "EventTracker Knowledgebase"
 description: "Database"
-url: "https://kb.eventtracker.com/"
+external_url: "https://kb.eventtracker.com/"
 category: "Miscellaneous"
 ---

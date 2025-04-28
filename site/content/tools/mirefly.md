@@ -1,6 +1,6 @@
 ---
 title: "mirefly"
 description: ""
-url: "https://github.com/mirefly"
+external_url: "https://github.com/mirefly"
 category: "Miscellaneous"
 ---

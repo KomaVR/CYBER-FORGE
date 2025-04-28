@@ -1,6 +1,6 @@
 ---
 title: "MaxGranzow"
 description: ""
-url: "https://github.com/MaxGranzow"
+external_url: "https://github.com/MaxGranzow"
 category: "Miscellaneous"
 ---

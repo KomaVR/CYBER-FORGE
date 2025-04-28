@@ -1,6 +1,6 @@
 ---
 title: "qidanrui"
 description: ""
-url: "https://github.com/qidanrui"
+external_url: "https://github.com/qidanrui"
 category: "Miscellaneous"
 ---

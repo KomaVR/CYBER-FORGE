@@ -1,6 +1,6 @@
 ---
 title: "nishanths"
 description: ""
-url: "https://github.com/nishanths"
+external_url: "https://github.com/nishanths"
 category: "Miscellaneous"
 ---

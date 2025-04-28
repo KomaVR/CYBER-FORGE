@@ -1,6 +1,6 @@
 ---
 title: "https://www.owasp.org/index.php/JBroFuzz"
 description: "JBroFuzz"
-url: "https://www.owasp.org/index.php/JBroFuzz"
+external_url: "https://www.owasp.org/index.php/JBroFuzz"
 category: "Miscellaneous"
 ---

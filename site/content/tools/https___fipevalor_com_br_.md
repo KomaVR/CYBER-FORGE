@@ -1,6 +1,6 @@
 ---
 title: "https://fipevalor.com.br/"
 description: ""
-url: "https://fipevalor.com.br/"
+external_url: "https://fipevalor.com.br/"
 category: "Miscellaneous"
 ---

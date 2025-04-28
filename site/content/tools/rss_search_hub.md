@@ -1,6 +1,6 @@
 ---
 title: "RSS Search Hub"
 description: ""
-url: "http://www.rsssearchhub.com"
+external_url: "http://www.rsssearchhub.com"
 category: "Miscellaneous"
 ---

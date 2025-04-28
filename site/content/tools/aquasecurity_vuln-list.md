@@ -6,6 +6,6 @@ Libraries
 
 
 "
-url: "https://github.com/aquasecurity/vuln-list"
+external_url: "https://github.com/aquasecurity/vuln-list"
 category: "Miscellaneous"
 ---

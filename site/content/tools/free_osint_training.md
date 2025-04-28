@@ -1,6 +1,6 @@
 ---
 title: "Free OSINT Training"
 description: ""
-url: "https://freetraining.dfirdiva.com/free-osint-training"
+external_url: "https://freetraining.dfirdiva.com/free-osint-training"
 category: "OSINT & Recon"
 ---

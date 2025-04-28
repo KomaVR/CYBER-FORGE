@@ -3,6 +3,6 @@ title: "TryHackMe | Wonderland"
 description: "
  
 "
-url: "https://tryhackme.com/room/wonderland"
+external_url: "https://tryhackme.com/room/wonderland"
 category: "Miscellaneous"
 ---

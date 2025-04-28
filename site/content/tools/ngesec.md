@@ -1,6 +1,6 @@
 ---
 title: "NgeSEC"
 description: "Community"
-url: "https://ngesec.id/"
+external_url: "https://ngesec.id/"
 category: "Miscellaneous"
 ---

@@ -8,6 +8,6 @@ OD2
 x64dbg
 
 "
-url: "https://github.com/a1ext/labeless"
+external_url: "https://github.com/a1ext/labeless"
 category: "Miscellaneous"
 ---

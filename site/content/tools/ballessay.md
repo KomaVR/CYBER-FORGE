@@ -1,6 +1,6 @@
 ---
 title: "ballessay"
 description: ""
-url: "https://github.com/ballessay"
+external_url: "https://github.com/ballessay"
 category: "Miscellaneous"
 ---

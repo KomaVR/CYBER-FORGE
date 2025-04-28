@@ -1,6 +1,6 @@
 ---
 title: "nlahmi"
 description: ""
-url: "https://github.com/nlahmi"
+external_url: "https://github.com/nlahmi"
 category: "Miscellaneous"
 ---

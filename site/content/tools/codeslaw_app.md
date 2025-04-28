@@ -1,6 +1,6 @@
 ---
 title: "codeslaw.app"
 description: ""
-url: "https://codeslaw.app"
+external_url: "https://codeslaw.app"
 category: "Miscellaneous"
 ---

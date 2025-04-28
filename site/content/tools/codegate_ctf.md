@@ -1,6 +1,6 @@
 ---
 title: "Codegate CTF"
 description: ""
-url: "http://ctf.codegate.org/html/Main.html?lang=eng"
+external_url: "http://ctf.codegate.org/html/Main.html?lang=eng"
 category: "Miscellaneous"
 ---

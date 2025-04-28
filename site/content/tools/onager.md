@@ -1,6 +1,6 @@
 ---
 title: "Onager"
 description: ""
-url: "https://github.com/Onager"
+external_url: "https://github.com/Onager"
 category: "Miscellaneous"
 ---

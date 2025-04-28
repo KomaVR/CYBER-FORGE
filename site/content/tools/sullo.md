@@ -1,6 +1,6 @@
 ---
 title: "sullo"
 description: ""
-url: "https://github.com/sullo"
+external_url: "https://github.com/sullo"
 category: "Miscellaneous"
 ---

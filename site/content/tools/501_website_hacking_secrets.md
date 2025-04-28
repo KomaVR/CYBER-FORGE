@@ -15,6 +15,6 @@ Web App Hacking (Hackers Handbook)
 XSS, Vulnerability Exploitation & Website Hacking
 
 "
-url: "http://www.mediafire.com/download/da8nhq8oh5iddae/501+Website+Hacking+Secrets.zip"
+external_url: "http://www.mediafire.com/download/da8nhq8oh5iddae/501+Website+Hacking+Secrets.zip"
 category: "Black Hat Tools"
 ---

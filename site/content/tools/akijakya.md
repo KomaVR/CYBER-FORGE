@@ -1,6 +1,6 @@
 ---
 title: "akijakya"
 description: ""
-url: "https://github.com/akijakya"
+external_url: "https://github.com/akijakya"
 category: "Miscellaneous"
 ---

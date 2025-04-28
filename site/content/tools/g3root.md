@@ -1,6 +1,6 @@
 ---
 title: "G3root"
 description: ""
-url: "https://github.com/G3root"
+external_url: "https://github.com/G3root"
 category: "Miscellaneous"
 ---

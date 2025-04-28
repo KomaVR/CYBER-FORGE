@@ -1,6 +1,6 @@
 ---
 title: "mcieno"
 description: ""
-url: "https://github.com/mcieno"
+external_url: "https://github.com/mcieno"
 category: "Miscellaneous"
 ---

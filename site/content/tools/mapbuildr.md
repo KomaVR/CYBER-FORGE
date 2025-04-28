@@ -1,6 +1,6 @@
 ---
 title: "Mapbuildr"
 description: ""
-url: "https://mapkit.io/editor"
+external_url: "https://mapkit.io/editor"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "sunnyhaibin"
 description: ""
-url: "https://github.com/sunnyhaibin"
+external_url: "https://github.com/sunnyhaibin"
 category: "Miscellaneous"
 ---

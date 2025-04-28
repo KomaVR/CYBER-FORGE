@@ -3,6 +3,6 @@ title: "TryHackMe | VulnNet: dotpy"
 description: "
  
 "
-url: "https://tryhackme.com/room/vulnnetdotpy"
+external_url: "https://tryhackme.com/room/vulnnetdotpy"
 category: "Miscellaneous"
 ---

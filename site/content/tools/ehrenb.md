@@ -1,6 +1,6 @@
 ---
 title: "ehrenb"
 description: ""
-url: "https://github.com/ehrenb"
+external_url: "https://github.com/ehrenb"
 category: "Miscellaneous"
 ---

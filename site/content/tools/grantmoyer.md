@@ -1,6 +1,6 @@
 ---
 title: "GrantMoyer"
 description: ""
-url: "https://github.com/GrantMoyer"
+external_url: "https://github.com/GrantMoyer"
 category: "Miscellaneous"
 ---

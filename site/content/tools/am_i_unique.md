@@ -3,6 +3,6 @@ title: "Am I unique?"
 description: "
 
 "
-url: "https://amiunique.org/fp"
+external_url: "https://amiunique.org/fp"
 category: "Miscellaneous"
 ---

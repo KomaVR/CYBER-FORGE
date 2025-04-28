@@ -1,6 +1,6 @@
 ---
 title: "burrbank"
 description: ""
-url: "https://github.com/burrbank"
+external_url: "https://github.com/burrbank"
 category: "Miscellaneous"
 ---

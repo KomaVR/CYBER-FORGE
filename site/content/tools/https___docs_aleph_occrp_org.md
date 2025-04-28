@@ -1,6 +1,6 @@
 ---
 title: "https://docs.aleph.occrp.org"
 description: ""
-url: "https://docs.aleph.occrp.org"
+external_url: "https://docs.aleph.occrp.org"
 category: "Miscellaneous"
 ---

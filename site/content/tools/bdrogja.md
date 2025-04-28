@@ -1,6 +1,6 @@
 ---
 title: "bdrogja"
 description: ""
-url: "https://github.com/bdrogja"
+external_url: "https://github.com/bdrogja"
 category: "Miscellaneous"
 ---

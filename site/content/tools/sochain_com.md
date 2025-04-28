@@ -1,6 +1,6 @@
 ---
 title: "sochain.com"
 description: ""
-url: "https://sochain.com"
+external_url: "https://sochain.com"
 category: "Miscellaneous"
 ---

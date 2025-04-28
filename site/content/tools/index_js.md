@@ -8,6 +8,6 @@ keepWhenHit: it is possible for a message handler to be detached immediately aft
 The returned promise's then block finally handles a received message. It gets a clientCallRequest you can call .respond({...}) on to send a JSON response to the caller. If the NodeJS API is not the message's final destination, you need to instantiate a new BootstrapStep here which will contact to the Python backend and, after it receives its response, will return it to the original caller.
 
 "
-url: "https://github.com/sigalor/whatsapp-web-reveng/blob/master/index.js"
+external_url: "https://github.com/sigalor/whatsapp-web-reveng/blob/master/index.js"
 category: "Web Exploitation"
 ---

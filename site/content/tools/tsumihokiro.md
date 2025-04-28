@@ -1,6 +1,6 @@
 ---
 title: "TsumiHokiro"
 description: ""
-url: "https://github.com/TsumiHokiro"
+external_url: "https://github.com/TsumiHokiro"
 category: "Miscellaneous"
 ---

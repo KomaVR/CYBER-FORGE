@@ -1,6 +1,6 @@
 ---
 title: "chipitsine"
 description: ""
-url: "https://github.com/chipitsine"
+external_url: "https://github.com/chipitsine"
 category: "Miscellaneous"
 ---

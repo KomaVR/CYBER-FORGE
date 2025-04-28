@@ -3,6 +3,6 @@ title: "TryHackMe | pyLon"
 description: "
  
 "
-url: "https://tryhackme.com/room/pylonzf"
+external_url: "https://tryhackme.com/room/pylonzf"
 category: "Miscellaneous"
 ---

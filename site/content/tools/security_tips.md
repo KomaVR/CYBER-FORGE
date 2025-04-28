@@ -1,6 +1,6 @@
 ---
 title: "Security tips"
 description: ""
-url: "https://developer.android.com/training/articles/security-tips"
+external_url: "https://developer.android.com/training/articles/security-tips"
 category: "Miscellaneous"
 ---

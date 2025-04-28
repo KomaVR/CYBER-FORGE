@@ -1,6 +1,6 @@
 ---
 title: "naveennamani"
 description: ""
-url: "https://github.com/naveennamani"
+external_url: "https://github.com/naveennamani"
 category: "Miscellaneous"
 ---

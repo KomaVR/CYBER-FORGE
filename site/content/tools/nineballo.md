@@ -1,6 +1,6 @@
 ---
 title: "NineBallo"
 description: ""
-url: "https://github.com/NineBallo"
+external_url: "https://github.com/NineBallo"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "SociaBlade"
 description: ""
-url: "http://socialblade.com/"
+external_url: "http://socialblade.com/"
 category: "Miscellaneous"
 ---

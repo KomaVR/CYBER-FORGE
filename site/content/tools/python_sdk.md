@@ -1,6 +1,6 @@
 ---
 title: "Python SDK"
 description: ""
-url: "https://github.com/WangYihang/Platypus-Python"
+external_url: "https://github.com/WangYihang/Platypus-Python"
 category: "Miscellaneous"
 ---

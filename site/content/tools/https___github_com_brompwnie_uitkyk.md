@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/brompwnie/uitkyk"
 description: ""
-url: "https://github.com/brompwnie/uitkyk"
+external_url: "https://github.com/brompwnie/uitkyk"
 category: "Miscellaneous"
 ---

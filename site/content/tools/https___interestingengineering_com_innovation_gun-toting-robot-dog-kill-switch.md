@@ -3,6 +3,6 @@ title: "https://interestingengineering.com/innovation/gun-toting-robot-dog-kill-
 description: "
 Hacker detects a kill switch to take down the gun-toting robot dog  ↩
 "
-url: "https://interestingengineering.com/innovation/gun-toting-robot-dog-kill-switch"
+external_url: "https://interestingengineering.com/innovation/gun-toting-robot-dog-kill-switch"
 category: "Miscellaneous"
 ---

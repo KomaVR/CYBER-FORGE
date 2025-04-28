@@ -1,6 +1,6 @@
 ---
 title: "Boat Info World"
 description: ""
-url: "https://www.boatinfoworld.com/"
+external_url: "https://www.boatinfoworld.com/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Digital Globe"
 description: ""
-url: "https://discover.digitalglobe.com/"
+external_url: "https://discover.digitalglobe.com/"
 category: "Miscellaneous"
 ---

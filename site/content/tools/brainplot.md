@@ -1,6 +1,6 @@
 ---
 title: "brainplot"
 description: ""
-url: "https://github.com/brainplot"
+external_url: "https://github.com/brainplot"
 category: "Miscellaneous"
 ---

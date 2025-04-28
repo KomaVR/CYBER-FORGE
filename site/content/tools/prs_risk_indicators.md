@@ -1,6 +1,6 @@
 ---
 title: "PRS Risk Indicators"
 description: ""
-url: "http://www.prsgroup.com"
+external_url: "http://www.prsgroup.com"
 category: "Miscellaneous"
 ---

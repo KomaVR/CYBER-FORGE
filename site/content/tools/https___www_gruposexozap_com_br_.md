@@ -1,6 +1,6 @@
 ---
 title: "https://www.gruposexozap.com.br/"
 description: ""
-url: "https://www.gruposexozap.com.br/"
+external_url: "https://www.gruposexozap.com.br/"
 category: "Web Exploitation"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Mixi (Japan)"
 description: ""
-url: "https://mixi.jp"
+external_url: "https://mixi.jp"
 category: "Miscellaneous"
 ---

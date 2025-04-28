@@ -1,6 +1,6 @@
 ---
 title: "PDF search engine - pdfyes.com"
 description: ""
-url: "http://pdfyes.com/"
+external_url: "http://pdfyes.com/"
 category: "Miscellaneous"
 ---

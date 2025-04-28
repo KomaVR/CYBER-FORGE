@@ -1,6 +1,6 @@
 ---
 title: "Twitter Nansen - Moivre"
 description: ""
-url: "http://moivre.xyz"
+external_url: "http://moivre.xyz"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Foller.me"
 description: ""
-url: "http://foller.me"
+external_url: "http://foller.me"
 category: "Miscellaneous"
 ---

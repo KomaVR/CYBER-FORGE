@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/diogo-fernan/ir-rescue"
 description: ""
-url: "https://github.com/diogo-fernan/ir-rescue"
+external_url: "https://github.com/diogo-fernan/ir-rescue"
 category: "Miscellaneous"
 ---

@@ -10,6 +10,6 @@ whatapp
 
 
 "
-url: "https://github.com/LoranKloeze/WhatsAllApp"
+external_url: "https://github.com/LoranKloeze/WhatsAllApp"
 category: "Miscellaneous"
 ---

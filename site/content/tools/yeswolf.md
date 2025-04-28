@@ -1,6 +1,6 @@
 ---
 title: "yeswolf"
 description: ""
-url: "https://github.com/yeswolf"
+external_url: "https://github.com/yeswolf"
 category: "Miscellaneous"
 ---

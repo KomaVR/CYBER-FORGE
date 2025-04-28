@@ -1,6 +1,6 @@
 ---
 title: "bitfury.com"
 description: ""
-url: "https://bitfury.com"
+external_url: "https://bitfury.com"
 category: "Miscellaneous"
 ---

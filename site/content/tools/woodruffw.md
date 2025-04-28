@@ -1,6 +1,6 @@
 ---
 title: "woodruffw"
 description: ""
-url: "https://github.com/woodruffw"
+external_url: "https://github.com/woodruffw"
 category: "Miscellaneous"
 ---

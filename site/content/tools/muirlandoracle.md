@@ -1,6 +1,6 @@
 ---
 title: "MuirlandOracle"
 description: ""
-url: "https://github.com/MuirlandOracle"
+external_url: "https://github.com/MuirlandOracle"
 category: "Miscellaneous"
 ---

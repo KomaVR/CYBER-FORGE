@@ -1,6 +1,6 @@
 ---
 title: "Siguza's ARM Bootcamp"
 description: ""
-url: "https://github.com/Siguza/ios-resources/blob/master/bits/arm64.md"
+external_url: "https://github.com/Siguza/ios-resources/blob/master/bits/arm64.md"
 category: "Miscellaneous"
 ---

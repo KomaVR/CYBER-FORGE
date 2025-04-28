@@ -1,6 +1,6 @@
 ---
 title: "Geocreepy"
 description: ""
-url: "http://www.geocreepy.com"
+external_url: "http://www.geocreepy.com"
 category: "Miscellaneous"
 ---

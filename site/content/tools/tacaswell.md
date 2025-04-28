@@ -1,6 +1,6 @@
 ---
 title: "tacaswell"
 description: ""
-url: "https://github.com/tacaswell"
+external_url: "https://github.com/tacaswell"
 category: "Miscellaneous"
 ---

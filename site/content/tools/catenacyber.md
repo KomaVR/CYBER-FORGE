@@ -1,6 +1,6 @@
 ---
 title: "catenacyber"
 description: ""
-url: "https://github.com/catenacyber"
+external_url: "https://github.com/catenacyber"
 category: "Miscellaneous"
 ---

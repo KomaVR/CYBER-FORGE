@@ -2,6 +2,6 @@
 title: "JunaidLoonat"
 description: "JunaidLoonat
 Junaid Loonat"
-url: "https://github.com/JunaidLoonat"
+external_url: "https://github.com/JunaidLoonat"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Descartes Labs"
 description: ""
-url: "https://maps.descarteslabs.com/"
+external_url: "https://maps.descarteslabs.com/"
 category: "Miscellaneous"
 ---

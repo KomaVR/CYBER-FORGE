@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://www.buymeacoffee.com/R0X4R"
+external_url: "https://www.buymeacoffee.com/R0X4R"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "AxDSan"
 description: ""
-url: "https://github.com/AxDSan"
+external_url: "https://github.com/AxDSan"
 category: "Miscellaneous"
 ---

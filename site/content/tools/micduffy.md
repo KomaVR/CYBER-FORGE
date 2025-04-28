@@ -1,6 +1,6 @@
 ---
 title: "micduffy"
 description: ""
-url: "https://github.com/micduffy"
+external_url: "https://github.com/micduffy"
 category: "Miscellaneous"
 ---

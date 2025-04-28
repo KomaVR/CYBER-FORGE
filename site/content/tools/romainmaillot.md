@@ -1,6 +1,6 @@
 ---
 title: "RomainMaillot"
 description: ""
-url: "https://github.com/RomainMaillot"
+external_url: "https://github.com/RomainMaillot"
 category: "Miscellaneous"
 ---

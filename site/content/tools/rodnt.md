@@ -1,6 +1,6 @@
 ---
 title: "rodnt"
 description: ""
-url: "https://github.com/rodnt"
+external_url: "https://github.com/rodnt"
 category: "Miscellaneous"
 ---

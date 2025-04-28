@@ -1,6 +1,6 @@
 ---
 title: "SOTL-6.1. Check Logins Reuse To Find Another Account"
 description: ""
-url: "https://sowel.soxoj.com/logins-reuse"
+external_url: "https://sowel.soxoj.com/logins-reuse"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "andrewpollock"
 description: ""
-url: "https://github.com/andrewpollock"
+external_url: "https://github.com/andrewpollock"
 category: "Miscellaneous"
 ---

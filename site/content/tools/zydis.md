@@ -1,6 +1,6 @@
 ---
 title: "Zydis"
 description: "Disassembly powered by"
-url: "https://zydis.re"
+external_url: "https://zydis.re"
 category: "Miscellaneous"
 ---

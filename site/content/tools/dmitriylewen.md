@@ -1,6 +1,6 @@
 ---
 title: "DmitriyLewen"
 description: ""
-url: "https://github.com/DmitriyLewen"
+external_url: "https://github.com/DmitriyLewen"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "colton-gabertan"
 description: ""
-url: "https://github.com/colton-gabertan"
+external_url: "https://github.com/colton-gabertan"
 category: "Miscellaneous"
 ---

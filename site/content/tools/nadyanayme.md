@@ -1,6 +1,6 @@
 ---
 title: "NadyaNayme"
 description: ""
-url: "https://github.com/NadyaNayme"
+external_url: "https://github.com/NadyaNayme"
 category: "Miscellaneous"
 ---

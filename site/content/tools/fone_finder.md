@@ -1,6 +1,6 @@
 ---
 title: "fone finder"
 description: ""
-url: "http://www.fonefinder.net"
+external_url: "http://www.fonefinder.net"
 category: "Miscellaneous"
 ---

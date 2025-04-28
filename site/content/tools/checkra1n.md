@@ -5,6 +5,6 @@ description: "
  1337
 
 "
-url: "https://checkra.in"
+external_url: "https://checkra.in"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "natmchugh"
 description: ""
-url: "https://github.com/natmchugh"
+external_url: "https://github.com/natmchugh"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "htarsoo"
 description: ""
-url: "https://github.com/htarsoo"
+external_url: "https://github.com/htarsoo"
 category: "Miscellaneous"
 ---

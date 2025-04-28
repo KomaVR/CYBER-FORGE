@@ -1,6 +1,6 @@
 ---
 title: "ricekot"
 description: ""
-url: "https://github.com/ricekot"
+external_url: "https://github.com/ricekot"
 category: "Miscellaneous"
 ---

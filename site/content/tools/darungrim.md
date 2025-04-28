@@ -1,6 +1,6 @@
 ---
 title: "DarunGrim"
 description: "executable differ."
-url: "https://github.com/ohjeongwook/DarunGrim"
+external_url: "https://github.com/ohjeongwook/DarunGrim"
 category: "Miscellaneous"
 ---

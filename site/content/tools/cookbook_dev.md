@@ -1,6 +1,6 @@
 ---
 title: "cookbook.dev"
 description: "+ codeslaw.app"
-url: "https://www.cookbook.dev/"
+external_url: "https://www.cookbook.dev/"
 category: "Miscellaneous"
 ---

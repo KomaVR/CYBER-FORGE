@@ -1,6 +1,6 @@
 ---
 title: "Blinkx"
 description: ""
-url: "http://www.blinkx.com/"
+external_url: "http://www.blinkx.com/"
 category: "Miscellaneous"
 ---

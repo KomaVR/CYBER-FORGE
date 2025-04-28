@@ -1,6 +1,6 @@
 ---
 title: "ikkitaguchi"
 description: ""
-url: "https://github.com/ikkitaguchi"
+external_url: "https://github.com/ikkitaguchi"
 category: "Miscellaneous"
 ---

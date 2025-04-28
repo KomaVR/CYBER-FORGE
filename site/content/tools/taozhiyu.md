@@ -2,6 +2,6 @@
 title: "taozhiyu"
 description: "taozhiyu
 涛之雨"
-url: "https://github.com/taozhiyu"
+external_url: "https://github.com/taozhiyu"
 category: "Miscellaneous"
 ---

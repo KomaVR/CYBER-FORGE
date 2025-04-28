@@ -1,6 +1,6 @@
 ---
 title: "krnick"
 description: ""
-url: "https://github.com/krnick"
+external_url: "https://github.com/krnick"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "tclahr"
 description: ""
-url: "https://github.com/tclahr"
+external_url: "https://github.com/tclahr"
 category: "Miscellaneous"
 ---

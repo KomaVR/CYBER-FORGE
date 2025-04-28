@@ -1,6 +1,6 @@
 ---
 title: "leeclemens"
 description: ""
-url: "https://github.com/leeclemens"
+external_url: "https://github.com/leeclemens"
 category: "Miscellaneous"
 ---

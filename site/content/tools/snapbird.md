@@ -1,6 +1,6 @@
 ---
 title: "SnapBird"
 description: ""
-url: "http://snapbird.org/"
+external_url: "http://snapbird.org/"
 category: "Miscellaneous"
 ---

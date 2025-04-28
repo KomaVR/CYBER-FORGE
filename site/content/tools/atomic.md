@@ -1,6 +1,6 @@
 ---
 title: "Atomic"
 description: "( Red Team project TTPs)"
-url: "https://github.com/mitre/atomic"
+external_url: "https://github.com/mitre/atomic"
 category: "Miscellaneous"
 ---

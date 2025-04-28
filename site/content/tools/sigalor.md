@@ -1,6 +1,6 @@
 ---
 title: "sigalor"
 description: ""
-url: "https://github.com/sigalor"
+external_url: "https://github.com/sigalor"
 category: "Miscellaneous"
 ---

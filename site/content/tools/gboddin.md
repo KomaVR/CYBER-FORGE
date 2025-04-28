@@ -1,6 +1,6 @@
 ---
 title: "gboddin"
 description: ""
-url: "https://github.com/gboddin"
+external_url: "https://github.com/gboddin"
 category: "Miscellaneous"
 ---

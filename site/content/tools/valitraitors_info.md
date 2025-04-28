@@ -1,6 +1,6 @@
 ---
 title: "valitraitors.info"
 description: ""
-url: "https://valitraitors.info"
+external_url: "https://valitraitors.info"
 category: "Miscellaneous"
 ---

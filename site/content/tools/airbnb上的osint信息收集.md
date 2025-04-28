@@ -11,6 +11,6 @@ I Accidentally Uncovered a Nationwide Scam on Airbnb
 
 
 "
-url: "https://mp.weixin.qq.com/s/J8J6atXxhG4kqtXsG_9odw"
+external_url: "https://mp.weixin.qq.com/s/J8J6atXxhG4kqtXsG_9odw"
 category: "OSINT & Recon"
 ---

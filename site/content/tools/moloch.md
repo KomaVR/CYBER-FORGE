@@ -1,6 +1,6 @@
 ---
 title: "Moloch"
 description: "is a open source large scale full PCAP capturing, indexing and database system."
-url: "https://github.com/aol/moloch"
+external_url: "https://github.com/aol/moloch"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "bufferoverflow"
 description: ""
-url: "https://github.com/bufferoverflow"
+external_url: "https://github.com/bufferoverflow"
 category: "Miscellaneous"
 ---

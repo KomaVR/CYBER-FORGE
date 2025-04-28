@@ -1,6 +1,6 @@
 ---
 title: "faleksic"
 description: ""
-url: "https://github.com/faleksic"
+external_url: "https://github.com/faleksic"
 category: "Miscellaneous"
 ---

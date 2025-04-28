@@ -1,6 +1,6 @@
 ---
 title: "tmciver-basis"
 description: ""
-url: "https://github.com/tmciver-basis"
+external_url: "https://github.com/tmciver-basis"
 category: "Miscellaneous"
 ---

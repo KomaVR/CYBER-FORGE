@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://patreon.com/keepassxc"
+external_url: "https://patreon.com/keepassxc"
 category: "Miscellaneous"
 ---

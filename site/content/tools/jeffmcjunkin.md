@@ -1,6 +1,6 @@
 ---
 title: "jeffmcjunkin"
 description: ""
-url: "https://github.com/jeffmcjunkin"
+external_url: "https://github.com/jeffmcjunkin"
 category: "Miscellaneous"
 ---

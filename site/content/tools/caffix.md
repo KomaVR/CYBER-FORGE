@@ -1,6 +1,6 @@
 ---
 title: "caffix"
 description: ""
-url: "https://github.com/caffix"
+external_url: "https://github.com/caffix"
 category: "Miscellaneous"
 ---

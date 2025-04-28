@@ -1,6 +1,6 @@
 ---
 title: "stephennancekivell"
 description: ""
-url: "https://github.com/stephennancekivell"
+external_url: "https://github.com/stephennancekivell"
 category: "Miscellaneous"
 ---

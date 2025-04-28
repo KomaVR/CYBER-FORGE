@@ -1,6 +1,6 @@
 ---
 title: "teknoraver"
 description: ""
-url: "https://github.com/teknoraver"
+external_url: "https://github.com/teknoraver"
 category: "Miscellaneous"
 ---

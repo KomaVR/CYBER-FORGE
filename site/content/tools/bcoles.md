@@ -1,6 +1,6 @@
 ---
 title: "bcoles"
 description: ""
-url: "https://github.com/bcoles"
+external_url: "https://github.com/bcoles"
 category: "Miscellaneous"
 ---

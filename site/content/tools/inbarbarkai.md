@@ -1,6 +1,6 @@
 ---
 title: "inbarbarkai"
 description: ""
-url: "https://github.com/inbarbarkai"
+external_url: "https://github.com/inbarbarkai"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "kengwang"
 description: ""
-url: "https://github.com/kengwang"
+external_url: "https://github.com/kengwang"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "shuxxing"
 description: ""
-url: "https://github.com/shuxxing"
+external_url: "https://github.com/shuxxing"
 category: "Miscellaneous"
 ---

@@ -3,6 +3,6 @@ title: "TryHackMe | What is Networking?"
 description: "
  
 "
-url: "https://tryhackme.com/room/whatisnetworking"
+external_url: "https://tryhackme.com/room/whatisnetworking"
 category: "White Hat Tools"
 ---

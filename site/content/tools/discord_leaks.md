@@ -1,6 +1,6 @@
 ---
 title: "Discord Leaks"
 description: ""
-url: "https://github.com/mishakorzik"
+external_url: "https://github.com/mishakorzik"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Josh Grossman @tghosth"
 description: ""
-url: "https://www.github.com/tghosth"
+external_url: "https://www.github.com/tghosth"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Metaviewer"
 description: ""
-url: "https://metadataviewer.herokuapp.com"
+external_url: "https://metadataviewer.herokuapp.com"
 category: "Miscellaneous"
 ---

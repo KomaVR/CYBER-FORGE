@@ -1,6 +1,6 @@
 ---
 title: "luojunyuan"
 description: ""
-url: "https://github.com/luojunyuan"
+external_url: "https://github.com/luojunyuan"
 category: "Miscellaneous"
 ---

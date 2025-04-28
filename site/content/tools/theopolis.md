@@ -1,6 +1,6 @@
 ---
 title: "theopolis"
 description: ""
-url: "https://github.com/theopolis"
+external_url: "https://github.com/theopolis"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Factbites"
 description: ""
-url: "http://www.factbites.com/"
+external_url: "http://www.factbites.com/"
 category: "Miscellaneous"
 ---

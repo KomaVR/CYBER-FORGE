@@ -1,6 +1,6 @@
 ---
 title: "PaintBallz"
 description: ""
-url: "https://github.com/PaintBallz"
+external_url: "https://github.com/PaintBallz"
 category: "Miscellaneous"
 ---

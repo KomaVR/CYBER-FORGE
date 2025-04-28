@@ -1,6 +1,6 @@
 ---
 title: "Sunset:Midnight"
 description: ""
-url: "https://www.hackingarticles.in/sunset-midnight-vulnhub-walkthrough/"
+external_url: "https://www.hackingarticles.in/sunset-midnight-vulnhub-walkthrough/"
 category: "Miscellaneous"
 ---

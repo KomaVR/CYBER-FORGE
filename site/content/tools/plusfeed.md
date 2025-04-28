@@ -1,6 +1,6 @@
 ---
 title: "PlusFeed"
 description: ""
-url: "http://plusfeed.frosas.net/"
+external_url: "http://plusfeed.frosas.net/"
 category: "Miscellaneous"
 ---

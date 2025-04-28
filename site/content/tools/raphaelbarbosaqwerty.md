@@ -1,6 +1,6 @@
 ---
 title: "raphaelbarbosaqwerty"
 description: ""
-url: "https://github.com/raphaelbarbosaqwerty"
+external_url: "https://github.com/raphaelbarbosaqwerty"
 category: "Miscellaneous"
 ---

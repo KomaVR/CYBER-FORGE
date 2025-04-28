@@ -1,6 +1,6 @@
 ---
 title: "https://www.unixtimestamp.com/"
 description: ""
-url: "https://www.unixtimestamp.com/"
+external_url: "https://www.unixtimestamp.com/"
 category: "Miscellaneous"
 ---

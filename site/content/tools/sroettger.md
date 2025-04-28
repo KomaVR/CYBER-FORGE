@@ -1,6 +1,6 @@
 ---
 title: "sroettger"
 description: ""
-url: "https://github.com/sroettger"
+external_url: "https://github.com/sroettger"
 category: "Miscellaneous"
 ---

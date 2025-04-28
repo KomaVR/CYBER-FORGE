@@ -1,6 +1,6 @@
 ---
 title: "LauKr"
 description: ""
-url: "https://github.com/LauKr"
+external_url: "https://github.com/LauKr"
 category: "Miscellaneous"
 ---

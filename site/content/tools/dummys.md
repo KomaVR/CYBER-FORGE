@@ -1,6 +1,6 @@
 ---
 title: "dummys"
 description: ""
-url: "https://github.com/dummys"
+external_url: "https://github.com/dummys"
 category: "Miscellaneous"
 ---

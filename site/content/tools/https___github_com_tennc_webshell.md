@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/tennc/webshell"
 description: ""
-url: "https://github.com/tennc/webshell"
+external_url: "https://github.com/tennc/webshell"
 category: "Web Exploitation"
 ---

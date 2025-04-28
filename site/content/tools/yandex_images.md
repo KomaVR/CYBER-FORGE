@@ -1,6 +1,6 @@
 ---
 title: "Yandex.Images"
 description: ""
-url: "https://yandex.com/images/"
+external_url: "https://yandex.com/images/"
 category: "Miscellaneous"
 ---

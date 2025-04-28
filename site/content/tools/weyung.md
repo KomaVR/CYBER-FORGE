@@ -1,6 +1,6 @@
 ---
 title: "weyung"
 description: ""
-url: "https://github.com/weyung"
+external_url: "https://github.com/weyung"
 category: "Miscellaneous"
 ---

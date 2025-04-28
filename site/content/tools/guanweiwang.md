@@ -1,6 +1,6 @@
 ---
 title: "guanweiwang"
 description: ""
-url: "https://github.com/guanweiwang"
+external_url: "https://github.com/guanweiwang"
 category: "Miscellaneous"
 ---

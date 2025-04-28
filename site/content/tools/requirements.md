@@ -25,6 +25,6 @@ Internal Tools
 Known incompatibilities
 
 "
-url: "https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Requirements"
+external_url: "https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Requirements"
 category: "Black Hat Tools"
 ---

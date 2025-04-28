@@ -1,6 +1,6 @@
 ---
 title: "clviper"
 description: ""
-url: "https://github.com/clviper"
+external_url: "https://github.com/clviper"
 category: "Miscellaneous"
 ---

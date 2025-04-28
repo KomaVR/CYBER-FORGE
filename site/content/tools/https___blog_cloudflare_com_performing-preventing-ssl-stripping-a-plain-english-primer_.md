@@ -3,6 +3,6 @@ title: "https://blog.cloudflare.com/performing-preventing-ssl-stripping-a-plain-
 description: "
 
 "
-url: "https://blog.cloudflare.com/performing-preventing-ssl-stripping-a-plain-english-primer/"
+external_url: "https://blog.cloudflare.com/performing-preventing-ssl-stripping-a-plain-english-primer/"
 category: "Miscellaneous"
 ---

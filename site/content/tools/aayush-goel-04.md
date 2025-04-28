@@ -1,6 +1,6 @@
 ---
 title: "Aayush-Goel-04"
 description: ""
-url: "https://github.com/Aayush-Goel-04"
+external_url: "https://github.com/Aayush-Goel-04"
 category: "Miscellaneous"
 ---

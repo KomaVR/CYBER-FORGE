@@ -8,6 +8,6 @@ description: "本项目采用  协议.
 没有附加限制 — 您不得适用法律术语或者 技术措施 从而限制其他人做许可协议允许的事情。
 
 "
-url: "https://creativecommons.org/licenses/by/4.0/deed.zh"
+external_url: "https://creativecommons.org/licenses/by/4.0/deed.zh"
 category: "Miscellaneous"
 ---

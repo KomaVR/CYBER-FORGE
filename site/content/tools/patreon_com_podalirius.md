@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://patreon.com/Podalirius"
+external_url: "https://patreon.com/Podalirius"
 category: "Miscellaneous"
 ---

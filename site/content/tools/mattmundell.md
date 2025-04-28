@@ -1,6 +1,6 @@
 ---
 title: "mattmundell"
 description: ""
-url: "https://github.com/mattmundell"
+external_url: "https://github.com/mattmundell"
 category: "Miscellaneous"
 ---

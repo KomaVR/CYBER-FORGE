@@ -1,6 +1,6 @@
 ---
 title: "Synchrony"
 description: "Javascript-obfuscator cleaner & deobfuscator."
-url: "https://github.com/relative/synchrony"
+external_url: "https://github.com/relative/synchrony"
 category: "Miscellaneous"
 ---

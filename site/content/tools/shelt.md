@@ -1,6 +1,6 @@
 ---
 title: "shelt"
 description: ""
-url: "https://github.com/shelt"
+external_url: "https://github.com/shelt"
 category: "Miscellaneous"
 ---

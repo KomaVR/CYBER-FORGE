@@ -1,6 +1,6 @@
 ---
 title: "SRE Weekly Newsletter"
 description: ""
-url: "https://sreweekly.com/"
+external_url: "https://sreweekly.com/"
 category: "Miscellaneous"
 ---

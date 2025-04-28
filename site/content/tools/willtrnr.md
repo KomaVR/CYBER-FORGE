@@ -1,6 +1,6 @@
 ---
 title: "willtrnr"
 description: ""
-url: "https://github.com/willtrnr"
+external_url: "https://github.com/willtrnr"
 category: "Miscellaneous"
 ---

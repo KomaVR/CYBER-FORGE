@@ -1,6 +1,6 @@
 ---
 title: "bhavsec"
 description: ""
-url: "https://github.com/bhavsec"
+external_url: "https://github.com/bhavsec"
 category: "Miscellaneous"
 ---

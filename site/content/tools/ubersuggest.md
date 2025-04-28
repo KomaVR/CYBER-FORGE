@@ -1,6 +1,6 @@
 ---
 title: "Ubersuggest"
 description: ""
-url: "http://ubersuggest.org"
+external_url: "http://ubersuggest.org"
 category: "Miscellaneous"
 ---

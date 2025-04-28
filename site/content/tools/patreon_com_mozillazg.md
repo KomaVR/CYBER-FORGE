@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://patreon.com/mozillazg"
+external_url: "https://patreon.com/mozillazg"
 category: "Miscellaneous"
 ---

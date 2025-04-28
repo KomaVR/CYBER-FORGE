@@ -1,6 +1,6 @@
 ---
 title: "ramimac"
 description: ""
-url: "https://github.com/ramimac"
+external_url: "https://github.com/ramimac"
 category: "Miscellaneous"
 ---

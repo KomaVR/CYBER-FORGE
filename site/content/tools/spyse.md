@@ -1,6 +1,6 @@
 ---
 title: "Spyse"
 description: ""
-url: "https://spyse.com/search/cert"
+external_url: "https://spyse.com/search/cert"
 category: "Miscellaneous"
 ---

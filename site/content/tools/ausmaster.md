@@ -1,6 +1,6 @@
 ---
 title: "ausmaster"
 description: ""
-url: "https://github.com/ausmaster"
+external_url: "https://github.com/ausmaster"
 category: "Miscellaneous"
 ---

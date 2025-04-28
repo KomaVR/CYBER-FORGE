@@ -1,6 +1,6 @@
 ---
 title: "fallingcubes"
 description: ""
-url: "https://github.com/fallingcubes"
+external_url: "https://github.com/fallingcubes"
 category: "Miscellaneous"
 ---

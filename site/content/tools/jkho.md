@@ -1,6 +1,6 @@
 ---
 title: "jkho"
 description: ""
-url: "https://github.com/jkho"
+external_url: "https://github.com/jkho"
 category: "Miscellaneous"
 ---

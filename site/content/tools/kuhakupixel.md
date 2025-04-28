@@ -1,6 +1,6 @@
 ---
 title: "KuhakuPixel"
 description: ""
-url: "https://github.com/KuhakuPixel"
+external_url: "https://github.com/KuhakuPixel"
 category: "Miscellaneous"
 ---

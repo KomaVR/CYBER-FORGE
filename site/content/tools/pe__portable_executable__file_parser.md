@@ -9,6 +9,6 @@ String (ASCII/Unicode and ASM) extraction.
 ELF (Executable Linkable Format) file parser.
 
 "
-url: "https://github.com/saferwall/pe"
+external_url: "https://github.com/saferwall/pe"
 category: "Password Cracking"
 ---

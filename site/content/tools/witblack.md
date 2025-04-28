@@ -2,6 +2,6 @@
 title: "witblack"
 description: "witblack
 WitBlack"
-url: "https://github.com/witblack"
+external_url: "https://github.com/witblack"
 category: "Miscellaneous"
 ---

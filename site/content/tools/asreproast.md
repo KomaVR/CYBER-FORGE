@@ -1,6 +1,6 @@
 ---
 title: "ASREPRoast"
 description: ""
-url: "https://github.com/HarmJ0y/ASREPRoast"
+external_url: "https://github.com/HarmJ0y/ASREPRoast"
 category: "Miscellaneous"
 ---

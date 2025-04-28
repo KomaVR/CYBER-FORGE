@@ -1,6 +1,6 @@
 ---
 title: "BeryJu"
 description: ""
-url: "https://github.com/BeryJu"
+external_url: "https://github.com/BeryJu"
 category: "Miscellaneous"
 ---

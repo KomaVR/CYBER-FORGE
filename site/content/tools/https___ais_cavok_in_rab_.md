@@ -1,6 +1,6 @@
 ---
 title: "https://ais.cavok.in/rab/"
 description: ""
-url: "https://ais.cavok.in/rab/"
+external_url: "https://ais.cavok.in/rab/"
 category: "Miscellaneous"
 ---

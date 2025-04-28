@@ -1,6 +1,6 @@
 ---
 title: "shaswat-satyam"
 description: ""
-url: "https://github.com/shaswat-satyam"
+external_url: "https://github.com/shaswat-satyam"
 category: "Miscellaneous"
 ---

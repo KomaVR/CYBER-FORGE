@@ -1,6 +1,6 @@
 ---
 title: "relaxnow"
 description: ""
-url: "https://github.com/relaxnow"
+external_url: "https://github.com/relaxnow"
 category: "Miscellaneous"
 ---

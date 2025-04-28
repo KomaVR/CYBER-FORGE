@@ -1,6 +1,6 @@
 ---
 title: "zwass"
 description: ""
-url: "https://github.com/zwass"
+external_url: "https://github.com/zwass"
 category: "Miscellaneous"
 ---

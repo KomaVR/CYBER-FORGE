@@ -1,6 +1,6 @@
 ---
 title: "jwilk"
 description: ""
-url: "https://github.com/jwilk"
+external_url: "https://github.com/jwilk"
 category: "Miscellaneous"
 ---

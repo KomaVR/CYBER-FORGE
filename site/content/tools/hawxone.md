@@ -1,6 +1,6 @@
 ---
 title: "Hawxone"
 description: ""
-url: "https://github.com/Hawxone"
+external_url: "https://github.com/Hawxone"
 category: "Miscellaneous"
 ---

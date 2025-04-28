@@ -1,6 +1,6 @@
 ---
 title: "naltun"
 description: ""
-url: "https://github.com/naltun"
+external_url: "https://github.com/naltun"
 category: "Miscellaneous"
 ---

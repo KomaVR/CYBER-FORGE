@@ -1,6 +1,6 @@
 ---
 title: "Il2CppDumper"
 description: "Jumboperson"
-url: "https://github.com/Jumboperson/Il2CppDumper"
+external_url: "https://github.com/Jumboperson/Il2CppDumper"
 category: "Miscellaneous"
 ---

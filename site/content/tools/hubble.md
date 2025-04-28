@@ -3,6 +3,6 @@ title: "Hubble"
 description: ": An observability platform specifically written for Cilium. It
 provides service dependency maps, operational monitoring and alerting,
 and application and security visibility based on flow logs."
-url: "https://github.com/cilium/hubble/"
+external_url: "https://github.com/cilium/hubble/"
 category: "Miscellaneous"
 ---

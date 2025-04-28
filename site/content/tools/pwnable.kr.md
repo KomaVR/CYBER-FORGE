@@ -5,7 +5,7 @@ description: "
 Challenges with good range of difficulty
 
 "
-url: "http://pwnable.kr/index.php"
+external_url: "http://pwnable.kr/index.php"
 category: "Miscellaneous"
 ---
 

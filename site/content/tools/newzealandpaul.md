@@ -1,6 +1,6 @@
 ---
 title: "newzealandpaul"
 description: ""
-url: "https://github.com/newzealandpaul"
+external_url: "https://github.com/newzealandpaul"
 category: "Miscellaneous"
 ---

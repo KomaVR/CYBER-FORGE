@@ -1,6 +1,6 @@
 ---
 title: "orls"
 description: ""
-url: "https://github.com/orls"
+external_url: "https://github.com/orls"
 category: "Miscellaneous"
 ---

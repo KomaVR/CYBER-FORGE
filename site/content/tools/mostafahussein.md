@@ -1,6 +1,6 @@
 ---
 title: "mostafahussein"
 description: ""
-url: "https://github.com/mostafahussein"
+external_url: "https://github.com/mostafahussein"
 category: "Miscellaneous"
 ---

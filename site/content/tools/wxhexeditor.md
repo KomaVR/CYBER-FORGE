@@ -1,6 +1,6 @@
 ---
 title: "wxHexEditor"
 description: ""
-url: "https://github.com/EUA/wxHexEditor"
+external_url: "https://github.com/EUA/wxHexEditor"
 category: "Miscellaneous"
 ---

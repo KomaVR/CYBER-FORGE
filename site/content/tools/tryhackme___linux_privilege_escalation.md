@@ -3,6 +3,6 @@ title: "TryHackMe | Linux Privilege Escalation"
 description: "
  
 "
-url: "https://tryhackme.com/room/linprivesc"
+external_url: "https://tryhackme.com/room/linprivesc"
 category: "Miscellaneous"
 ---

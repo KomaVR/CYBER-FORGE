@@ -1,6 +1,6 @@
 ---
 title: "deepsource-autofix"
 description: ""
-url: "https://github.com/apps/deepsource-autofix"
+external_url: "https://github.com/apps/deepsource-autofix"
 category: "Miscellaneous"
 ---

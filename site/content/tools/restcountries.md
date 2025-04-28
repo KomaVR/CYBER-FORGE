@@ -1,6 +1,6 @@
 ---
 title: "RestCountries"
 description: ""
-url: "https://restcountries.com/"
+external_url: "https://restcountries.com/"
 category: "Miscellaneous"
 ---

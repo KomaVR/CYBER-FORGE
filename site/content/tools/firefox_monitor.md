@@ -1,6 +1,6 @@
 ---
 title: "Firefox Monitor"
 description: ""
-url: "https://monitor.firefox.com/"
+external_url: "https://monitor.firefox.com/"
 category: "Miscellaneous"
 ---

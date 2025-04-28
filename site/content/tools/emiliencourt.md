@@ -1,6 +1,6 @@
 ---
 title: "EmilienCourt"
 description: ""
-url: "https://github.com/EmilienCourt"
+external_url: "https://github.com/EmilienCourt"
 category: "Miscellaneous"
 ---

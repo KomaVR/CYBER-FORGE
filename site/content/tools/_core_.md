@@ -1,6 +1,6 @@
 ---
 title: "[core]"
 description: ""
-url: "https://sn0int.readthedocs.io/en/latest/config.html#core"
+external_url: "https://sn0int.readthedocs.io/en/latest/config.html#core"
 category: "Miscellaneous"
 ---

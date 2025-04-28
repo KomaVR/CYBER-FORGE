@@ -2,6 +2,6 @@
 title: "matthiasantierens"
 description: "matthiasantierens
 matthias antierens"
-url: "https://github.com/matthiasantierens"
+external_url: "https://github.com/matthiasantierens"
 category: "Miscellaneous"
 ---

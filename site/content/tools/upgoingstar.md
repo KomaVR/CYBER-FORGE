@@ -1,6 +1,6 @@
 ---
 title: "upgoingstar"
 description: ""
-url: "https://github.com/upgoingstar"
+external_url: "https://github.com/upgoingstar"
 category: "Miscellaneous"
 ---

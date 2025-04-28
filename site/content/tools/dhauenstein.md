@@ -1,6 +1,6 @@
 ---
 title: "dhauenstein"
 description: ""
-url: "https://github.com/dhauenstein"
+external_url: "https://github.com/dhauenstein"
 category: "Miscellaneous"
 ---

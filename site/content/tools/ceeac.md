@@ -1,6 +1,6 @@
 ---
 title: "ceeac"
 description: ""
-url: "https://github.com/ceeac"
+external_url: "https://github.com/ceeac"
 category: "Miscellaneous"
 ---

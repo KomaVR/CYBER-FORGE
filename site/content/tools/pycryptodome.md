@@ -1,6 +1,6 @@
 ---
 title: "PyCryptodome"
 description: ""
-url: "https://pycryptodome.readthedocs.io/"
+external_url: "https://pycryptodome.readthedocs.io/"
 category: "Miscellaneous"
 ---

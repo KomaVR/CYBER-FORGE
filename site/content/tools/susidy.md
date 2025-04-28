@@ -1,6 +1,6 @@
 ---
 title: "Susidy"
 description: ""
-url: "http://susidy.com/"
+external_url: "http://susidy.com/"
 category: "Miscellaneous"
 ---

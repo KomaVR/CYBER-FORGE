@@ -1,6 +1,6 @@
 ---
 title: "MarcaDian"
 description: ""
-url: "https://github.com/MarcaDian"
+external_url: "https://github.com/MarcaDian"
 category: "Miscellaneous"
 ---

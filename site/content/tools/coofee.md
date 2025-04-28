@@ -1,6 +1,6 @@
 ---
 title: "coofee"
 description: ""
-url: "https://github.com/coofee"
+external_url: "https://github.com/coofee"
 category: "Miscellaneous"
 ---

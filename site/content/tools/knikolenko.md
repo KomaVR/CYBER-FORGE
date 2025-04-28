@@ -1,6 +1,6 @@
 ---
 title: "knikolenko"
 description: ""
-url: "https://github.com/knikolenko"
+external_url: "https://github.com/knikolenko"
 category: "Miscellaneous"
 ---

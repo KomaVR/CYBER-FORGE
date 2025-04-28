@@ -1,6 +1,6 @@
 ---
 title: "leotrubach"
 description: ""
-url: "https://github.com/leotrubach"
+external_url: "https://github.com/leotrubach"
 category: "Miscellaneous"
 ---

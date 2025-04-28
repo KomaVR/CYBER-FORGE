@@ -1,6 +1,6 @@
 ---
 title: "lstipakov"
 description: ""
-url: "https://github.com/lstipakov"
+external_url: "https://github.com/lstipakov"
 category: "Miscellaneous"
 ---

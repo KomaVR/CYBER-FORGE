@@ -1,6 +1,6 @@
 ---
 title: "hvprvtr"
 description: ""
-url: "https://github.com/hvprvtr"
+external_url: "https://github.com/hvprvtr"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Google Earth Timelapse"
 description: ""
-url: "https://earthengine.google.com/timelapse/"
+external_url: "https://earthengine.google.com/timelapse/"
 category: "Miscellaneous"
 ---

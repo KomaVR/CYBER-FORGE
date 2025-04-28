@@ -1,6 +1,6 @@
 ---
 title: "sentio.xyz"
 description: ""
-url: "https://app.sentio.xyz"
+external_url: "https://app.sentio.xyz"
 category: "Miscellaneous"
 ---

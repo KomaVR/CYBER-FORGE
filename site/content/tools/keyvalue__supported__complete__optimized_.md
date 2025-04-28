@@ -8,6 +8,6 @@ infrastructure. Also acts as a conformance backend for API
 implementations. We recommend starting with this if you're just starting with
 GUAC!
 "
-url: "https://github.com/guacsec/guac/tree/main/pkg/assembler/backends/keyvalue"
+external_url: "https://github.com/guacsec/guac/tree/main/pkg/assembler/backends/keyvalue"
 category: "Miscellaneous"
 ---

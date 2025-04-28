@@ -1,6 +1,6 @@
 ---
 title: "maurosoria"
 description: ""
-url: "https://github.com/maurosoria"
+external_url: "https://github.com/maurosoria"
 category: "Miscellaneous"
 ---

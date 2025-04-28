@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://opencollective.com/radareorg"
+external_url: "https://opencollective.com/radareorg"
 category: "Miscellaneous"
 ---

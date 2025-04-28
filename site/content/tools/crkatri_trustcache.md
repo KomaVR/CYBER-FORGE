@@ -1,6 +1,6 @@
 ---
 title: "CRKatri/trustcache"
 description: ""
-url: "https://github.com/CRKatri/trustcache"
+external_url: "https://github.com/CRKatri/trustcache"
 category: "Miscellaneous"
 ---

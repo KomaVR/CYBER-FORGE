@@ -1,6 +1,6 @@
 ---
 title: "phra"
 description: ""
-url: "https://github.com/phra"
+external_url: "https://github.com/phra"
 category: "Miscellaneous"
 ---

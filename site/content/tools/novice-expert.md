@@ -1,6 +1,6 @@
 ---
 title: "Novice-expert"
 description: ""
-url: "https://github.com/Novice-expert"
+external_url: "https://github.com/Novice-expert"
 category: "Miscellaneous"
 ---

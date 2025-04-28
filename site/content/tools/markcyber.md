@@ -1,6 +1,6 @@
 ---
 title: "MarkCyber"
 description: ""
-url: "https://github.com/MarkCyber"
+external_url: "https://github.com/MarkCyber"
 category: "Miscellaneous"
 ---

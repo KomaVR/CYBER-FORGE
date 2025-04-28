@@ -2,6 +2,6 @@
 title: "The-Debarghya"
 description: "The-Debarghya
 Debarghya Maitra"
-url: "https://github.com/The-Debarghya"
+external_url: "https://github.com/The-Debarghya"
 category: "Miscellaneous"
 ---

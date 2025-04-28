@@ -6,6 +6,6 @@ Related articles
 
 
 "
-url: "https://mp.weixin.qq.com/s/0gPCDNwDwtNM-5lC0zEbGQ"
+external_url: "https://mp.weixin.qq.com/s/0gPCDNwDwtNM-5lC0zEbGQ"
 category: "OSINT & Recon"
 ---

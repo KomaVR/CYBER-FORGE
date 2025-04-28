@@ -1,6 +1,6 @@
 ---
 title: "Mamont"
 description: ""
-url: "https://www.mmnt.ru/"
+external_url: "https://www.mmnt.ru/"
 category: "Miscellaneous"
 ---

@@ -2,6 +2,6 @@
 title: "Notselwyn"
 description: "Notselwyn
 Lau"
-url: "https://github.com/Notselwyn"
+external_url: "https://github.com/Notselwyn"
 category: "Miscellaneous"
 ---

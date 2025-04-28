@@ -1,6 +1,6 @@
 ---
 title: "CoolApk"
 description: ""
-url: "https://coolapk.com/"
+external_url: "https://coolapk.com/"
 category: "Miscellaneous"
 ---

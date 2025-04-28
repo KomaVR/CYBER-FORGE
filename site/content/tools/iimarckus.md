@@ -1,6 +1,6 @@
 ---
 title: "iimarckus"
 description: ""
-url: "https://github.com/iimarckus"
+external_url: "https://github.com/iimarckus"
 category: "Miscellaneous"
 ---

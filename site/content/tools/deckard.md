@@ -1,6 +1,6 @@
 ---
 title: "Deckard"
 description: ""
-url: "https://github.com/hrkfdn/deckard"
+external_url: "https://github.com/hrkfdn/deckard"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "notpeter/apple-installer-checksums"
 description: ""
-url: "https://github.com/notpeter/apple-installer-checksums"
+external_url: "https://github.com/notpeter/apple-installer-checksums"
 category: "Miscellaneous"
 ---

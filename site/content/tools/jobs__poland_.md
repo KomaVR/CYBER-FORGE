@@ -1,6 +1,6 @@
 ---
 title: "Jobs (Poland)"
 description: ""
-url: "http://www.jobs.pl"
+external_url: "http://www.jobs.pl"
 category: "Miscellaneous"
 ---

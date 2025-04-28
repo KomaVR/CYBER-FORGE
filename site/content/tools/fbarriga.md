@@ -1,6 +1,6 @@
 ---
 title: "fbarriga"
 description: ""
-url: "https://github.com/fbarriga"
+external_url: "https://github.com/fbarriga"
 category: "Miscellaneous"
 ---

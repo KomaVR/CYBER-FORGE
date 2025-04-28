@@ -1,6 +1,6 @@
 ---
 title: "PwnDoc"
 description: "A pentest reporting application making it simple and easy to write your findings and generate a customizable Docx report."
-url: "https://github.com/pwndoc/pwndoc"
+external_url: "https://github.com/pwndoc/pwndoc"
 category: "Miscellaneous"
 ---

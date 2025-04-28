@@ -1,6 +1,6 @@
 ---
 title: "nhedger"
 description: ""
-url: "https://github.com/nhedger"
+external_url: "https://github.com/nhedger"
 category: "Miscellaneous"
 ---

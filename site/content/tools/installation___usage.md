@@ -16,6 +16,6 @@ Other Sources
 FAQ & Troubleshooting
 
 "
-url: "https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Installation%20&%20Usage"
+external_url: "https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Installation%20&%20Usage"
 category: "Miscellaneous"
 ---

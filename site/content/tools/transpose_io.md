@@ -1,6 +1,6 @@
 ---
 title: "transpose.io"
 description: ", example: Link & Link2"
-url: "https://www.transpose.io"
+external_url: "https://www.transpose.io"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "gka"
 description: ""
-url: "https://github.com/gka"
+external_url: "https://github.com/gka"
 category: "Miscellaneous"
 ---

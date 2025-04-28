@@ -1,6 +1,6 @@
 ---
 title: "VastBlast"
 description: ""
-url: "https://github.com/VastBlast"
+external_url: "https://github.com/VastBlast"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "osquery.io"
 description: "Homepage:"
-url: "https://osquery.io"
+external_url: "https://osquery.io"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Warpten"
 description: ""
-url: "https://github.com/Warpten"
+external_url: "https://github.com/Warpten"
 category: "Miscellaneous"
 ---

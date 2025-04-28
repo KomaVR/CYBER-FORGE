@@ -1,6 +1,6 @@
 ---
 title: "mrtnrdl"
 description: ""
-url: "https://github.com/mrtnrdl"
+external_url: "https://github.com/mrtnrdl"
 category: "Miscellaneous"
 ---

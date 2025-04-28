@@ -1,6 +1,6 @@
 ---
 title: "jinnabaalu"
 description: ""
-url: "https://github.com/jinnabaalu"
+external_url: "https://github.com/jinnabaalu"
 category: "Miscellaneous"
 ---

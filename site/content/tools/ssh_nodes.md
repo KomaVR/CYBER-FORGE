@@ -1,6 +1,6 @@
 ---
 title: "SSH nodes"
 description: "."
-url: "https://goteleport.com/docs/enroll-resources/server-access/introduction/"
+external_url: "https://goteleport.com/docs/enroll-resources/server-access/introduction/"
 category: "Miscellaneous"
 ---

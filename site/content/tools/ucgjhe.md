@@ -1,6 +1,6 @@
 ---
 title: "ucgJhe"
 description: ""
-url: "https://github.com/ucgJhe"
+external_url: "https://github.com/ucgJhe"
 category: "Miscellaneous"
 ---

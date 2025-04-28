@@ -1,6 +1,6 @@
 ---
 title: "rekter0"
 description: ""
-url: "https://github.com/rekter0"
+external_url: "https://github.com/rekter0"
 category: "Miscellaneous"
 ---

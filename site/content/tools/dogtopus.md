@@ -1,6 +1,6 @@
 ---
 title: "dogtopus"
 description: ""
-url: "https://github.com/dogtopus"
+external_url: "https://github.com/dogtopus"
 category: "Miscellaneous"
 ---

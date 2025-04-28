@@ -1,6 +1,6 @@
 ---
 title: "Natlas"
 description: "Scaling Network Scanning"
-url: "https://natlas.io/"
+external_url: "https://natlas.io/"
 category: "White Hat Tools"
 ---

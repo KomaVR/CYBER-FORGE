@@ -1,6 +1,6 @@
 ---
 title: "Airport Webcams"
 description: ""
-url: "http://airportwebcams.net/"
+external_url: "http://airportwebcams.net/"
 category: "Web Exploitation"
 ---

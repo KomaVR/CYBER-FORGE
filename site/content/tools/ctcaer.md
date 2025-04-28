@@ -1,6 +1,6 @@
 ---
 title: "CTCaer"
 description: "/ Hekate"
-url: "https://github.com/CTCaer/hekate"
+external_url: "https://github.com/CTCaer/hekate"
 category: "Miscellaneous"
 ---

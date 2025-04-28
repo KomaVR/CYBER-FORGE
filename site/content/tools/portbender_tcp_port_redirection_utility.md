@@ -1,6 +1,6 @@
 ---
 title: "PortBender：TCP Port Redirection Utility"
 description: ""
-url: "https://github.com/praetorian-inc/PortBender"
+external_url: "https://github.com/praetorian-inc/PortBender"
 category: "Miscellaneous"
 ---

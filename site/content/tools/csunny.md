@@ -1,6 +1,6 @@
 ---
 title: "csunny"
 description: ""
-url: "https://github.com/csunny"
+external_url: "https://github.com/csunny"
 category: "Miscellaneous"
 ---

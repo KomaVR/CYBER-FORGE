@@ -1,6 +1,6 @@
 ---
 title: "grooverdan"
 description: ""
-url: "https://github.com/grooverdan"
+external_url: "https://github.com/grooverdan"
 category: "Miscellaneous"
 ---

@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://opencollective.com/osmedeus"
+external_url: "https://opencollective.com/osmedeus"
 category: "Miscellaneous"
 ---

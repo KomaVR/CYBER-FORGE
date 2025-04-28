@@ -1,6 +1,6 @@
 ---
 title: "ShubhamPalriwala"
 description: ""
-url: "https://github.com/ShubhamPalriwala"
+external_url: "https://github.com/ShubhamPalriwala"
 category: "Miscellaneous"
 ---

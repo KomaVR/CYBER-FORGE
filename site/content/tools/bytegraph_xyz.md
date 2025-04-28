@@ -1,6 +1,6 @@
 ---
 title: "bytegraph.xyz"
 description: ""
-url: "https://bytegraph.xyz/"
+external_url: "https://bytegraph.xyz/"
 category: "Miscellaneous"
 ---

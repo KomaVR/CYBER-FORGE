@@ -8,6 +8,6 @@ https://linuxtechlab.com/replicate-selinux-policies-among-linux-machines/
 https://teamignition.us/how-to-stop-being-a-scrub-and-learn-to-use-selinux.html
 
 "
-url: "https://en.wikipedia.org/wiki/Security-Enhanced_Linux"
+external_url: "https://en.wikipedia.org/wiki/Security-Enhanced_Linux"
 category: "Miscellaneous"
 ---

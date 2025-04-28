@@ -1,6 +1,6 @@
 ---
 title: "st3rv04ka"
 description: ""
-url: "https://github.com/st3rv04ka"
+external_url: "https://github.com/st3rv04ka"
 category: "Miscellaneous"
 ---

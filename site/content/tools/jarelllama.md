@@ -1,6 +1,6 @@
 ---
 title: "jarelllama"
 description: ""
-url: "https://github.com/jarelllama"
+external_url: "https://github.com/jarelllama"
 category: "Miscellaneous"
 ---

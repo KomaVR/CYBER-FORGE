@@ -5,6 +5,6 @@ LittleSis, a database of who-knows-who at the heights of business
 and government,
 
 "
-url: "http://littlesis.org/"
+external_url: "http://littlesis.org/"
 category: "Miscellaneous"
 ---

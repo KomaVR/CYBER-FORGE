@@ -1,6 +1,6 @@
 ---
 title: "lanjelot"
 description: ""
-url: "https://github.com/lanjelot"
+external_url: "https://github.com/lanjelot"
 category: "Miscellaneous"
 ---

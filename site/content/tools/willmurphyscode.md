@@ -1,6 +1,6 @@
 ---
 title: "willmurphyscode"
 description: ""
-url: "https://github.com/willmurphyscode"
+external_url: "https://github.com/willmurphyscode"
 category: "Miscellaneous"
 ---

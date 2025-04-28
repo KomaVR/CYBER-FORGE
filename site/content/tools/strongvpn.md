@@ -1,6 +1,6 @@
 ---
 title: "StrongVPN"
 description: ""
-url: "https://strongvpn.com/"
+external_url: "https://strongvpn.com/"
 category: "Miscellaneous"
 ---

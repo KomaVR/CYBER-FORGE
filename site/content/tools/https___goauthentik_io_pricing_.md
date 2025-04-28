@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://goauthentik.io/pricing/"
+external_url: "https://goauthentik.io/pricing/"
 category: "Miscellaneous"
 ---

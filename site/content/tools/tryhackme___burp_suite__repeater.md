@@ -3,6 +3,6 @@ title: "TryHackMe | Burp Suite: Repeater"
 description: "
  
 "
-url: "https://tryhackme.com/room/burpsuiterepeater"
+external_url: "https://tryhackme.com/room/burpsuiterepeater"
 category: "Web Exploitation"
 ---

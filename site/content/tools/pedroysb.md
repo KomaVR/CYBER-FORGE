@@ -1,6 +1,6 @@
 ---
 title: "pedroysb"
 description: ""
-url: "https://github.com/pedroysb"
+external_url: "https://github.com/pedroysb"
 category: "Miscellaneous"
 ---

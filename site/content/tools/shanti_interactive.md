@@ -1,6 +1,6 @@
 ---
 title: "Shanti Interactive"
 description: ""
-url: "http://www.viseyes.org"
+external_url: "http://www.viseyes.org"
 category: "Miscellaneous"
 ---

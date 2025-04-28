@@ -1,6 +1,6 @@
 ---
 title: "http://satelite.cptec.inpe.br/vento/"
 description: ""
-url: "http://satelite.cptec.inpe.br/vento/"
+external_url: "http://satelite.cptec.inpe.br/vento/"
 category: "Miscellaneous"
 ---

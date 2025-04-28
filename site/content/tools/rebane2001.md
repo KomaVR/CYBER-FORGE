@@ -1,6 +1,6 @@
 ---
 title: "rebane2001"
 description: ""
-url: "https://github.com/rebane2001"
+external_url: "https://github.com/rebane2001"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "erikvarga"
 description: ""
-url: "https://github.com/erikvarga"
+external_url: "https://github.com/erikvarga"
 category: "Miscellaneous"
 ---

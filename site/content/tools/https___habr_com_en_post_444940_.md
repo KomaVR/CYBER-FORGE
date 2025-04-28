@@ -5,6 +5,6 @@ description: "You can mount an image as a virtual machine
 
 
 "
-url: "https://habr.com/en/post/444940/"
+external_url: "https://habr.com/en/post/444940/"
 category: "Miscellaneous"
 ---

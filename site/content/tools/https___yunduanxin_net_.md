@@ -1,6 +1,6 @@
 ---
 title: "https://yunduanxin.net/"
 description: ""
-url: "https://yunduanxin.net/"
+external_url: "https://yunduanxin.net/"
 category: "Miscellaneous"
 ---

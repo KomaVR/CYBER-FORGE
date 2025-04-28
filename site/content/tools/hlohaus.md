@@ -1,6 +1,6 @@
 ---
 title: "hlohaus"
 description: ""
-url: "https://github.com/hlohaus"
+external_url: "https://github.com/hlohaus"
 category: "Miscellaneous"
 ---

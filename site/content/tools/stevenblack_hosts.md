@@ -1,6 +1,6 @@
 ---
 title: "StevenBlack/hosts"
 description: ""
-url: "https://github.com/StevenBlack/hosts"
+external_url: "https://github.com/StevenBlack/hosts"
 category: "Miscellaneous"
 ---

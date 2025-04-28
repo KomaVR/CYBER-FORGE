@@ -1,6 +1,6 @@
 ---
 title: "Google News"
 description: ""
-url: "https://news.google.com"
+external_url: "https://news.google.com"
 category: "Miscellaneous"
 ---

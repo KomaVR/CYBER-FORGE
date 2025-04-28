@@ -1,6 +1,6 @@
 ---
 title: "GrayHatWarfare"
 description: ""
-url: "https://buckets.grayhatwarfare.com/register"
+external_url: "https://buckets.grayhatwarfare.com/register"
 category: "Miscellaneous"
 ---

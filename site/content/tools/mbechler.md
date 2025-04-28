@@ -1,6 +1,6 @@
 ---
 title: "mbechler"
 description: ""
-url: "https://github.com/mbechler"
+external_url: "https://github.com/mbechler"
 category: "Miscellaneous"
 ---

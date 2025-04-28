@@ -1,6 +1,6 @@
 ---
 title: "nizq"
 description: ""
-url: "https://github.com/nizq"
+external_url: "https://github.com/nizq"
 category: "Miscellaneous"
 ---

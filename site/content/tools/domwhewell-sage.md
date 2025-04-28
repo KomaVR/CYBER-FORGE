@@ -1,6 +1,6 @@
 ---
 title: "domwhewell-sage"
 description: ""
-url: "https://github.com/domwhewell-sage"
+external_url: "https://github.com/domwhewell-sage"
 category: "Miscellaneous"
 ---

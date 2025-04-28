@@ -1,6 +1,6 @@
 ---
 title: "Soar"
 description: ""
-url: "https://soar.earth/"
+external_url: "https://soar.earth/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "parsiq.net"
 description: ""
-url: "https://www.parsiq.net"
+external_url: "https://www.parsiq.net"
 category: "Miscellaneous"
 ---

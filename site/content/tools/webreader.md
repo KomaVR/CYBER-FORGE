@@ -1,6 +1,6 @@
 ---
 title: "WebReader"
 description: ""
-url: "http://www.getwebreader.com"
+external_url: "http://www.getwebreader.com"
 category: "Web Exploitation"
 ---

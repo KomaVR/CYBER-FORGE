@@ -1,6 +1,6 @@
 ---
 title: "Grafana Loki"
 description: "Logging:"
-url: "https://grafana.com/oss/loki/"
+external_url: "https://grafana.com/oss/loki/"
 category: "Miscellaneous"
 ---

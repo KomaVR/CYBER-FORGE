@@ -1,6 +1,6 @@
 ---
 title: "Intro to Machine Learning and Statistical Pattern Classification - Prof Sebastian Raschka"
 description: ""
-url: "https://www.youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3"
+external_url: "https://www.youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3"
 category: "Miscellaneous"
 ---

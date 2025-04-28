@@ -1,6 +1,6 @@
 ---
 title: "@caddyserver"
 description: "Project on X:"
-url: "https://x.com/caddyserver"
+external_url: "https://x.com/caddyserver"
 category: "Miscellaneous"
 ---

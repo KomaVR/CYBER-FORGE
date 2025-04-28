@@ -1,6 +1,6 @@
 ---
 title: "needle - The iOS Security Testing Framework"
 description: ""
-url: "https://github.com/FSecureLABS/needle"
+external_url: "https://github.com/FSecureLABS/needle"
 category: "Miscellaneous"
 ---

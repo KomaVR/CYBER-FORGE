@@ -1,6 +1,6 @@
 ---
 title: "OpenOwnership Register"
 description: ""
-url: "https://register.openownership.org/"
+external_url: "https://register.openownership.org/"
 category: "Miscellaneous"
 ---

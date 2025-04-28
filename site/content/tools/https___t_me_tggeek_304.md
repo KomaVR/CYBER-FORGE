@@ -14,6 +14,6 @@ Telegram 账号的\"数字 id\"是注册时间越晚就越大吗？
 
 
 "
-url: "https://t.me/TGgeek/304"
+external_url: "https://t.me/TGgeek/304"
 category: "Miscellaneous"
 ---

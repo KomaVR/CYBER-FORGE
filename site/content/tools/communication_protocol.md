@@ -6,6 +6,6 @@ MessagePack serialization for performance, efficiency and ease of
 integration with 3rd party systems.
 
 "
-url: "https://github.com/Arachni/arachni-rpc"
+external_url: "https://github.com/Arachni/arachni-rpc"
 category: "Miscellaneous"
 ---

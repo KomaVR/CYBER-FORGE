@@ -1,6 +1,6 @@
 ---
 title: "GermanAizek"
 description: ""
-url: "https://github.com/GermanAizek"
+external_url: "https://github.com/GermanAizek"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "gaelollivier"
 description: ""
-url: "https://github.com/gaelollivier"
+external_url: "https://github.com/gaelollivier"
 category: "Miscellaneous"
 ---

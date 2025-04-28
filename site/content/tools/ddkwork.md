@@ -1,6 +1,6 @@
 ---
 title: "ddkwork"
 description: ""
-url: "https://github.com/ddkwork"
+external_url: "https://github.com/ddkwork"
 category: "Miscellaneous"
 ---

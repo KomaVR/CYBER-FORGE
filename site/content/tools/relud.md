@@ -1,6 +1,6 @@
 ---
 title: "relud"
 description: ""
-url: "https://github.com/relud"
+external_url: "https://github.com/relud"
 category: "Miscellaneous"
 ---

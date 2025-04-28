@@ -1,6 +1,6 @@
 ---
 title: "MartinMuzatko"
 description: ""
-url: "https://github.com/MartinMuzatko"
+external_url: "https://github.com/MartinMuzatko"
 category: "Miscellaneous"
 ---

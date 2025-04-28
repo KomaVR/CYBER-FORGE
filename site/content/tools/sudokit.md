@@ -1,6 +1,6 @@
 ---
 title: "sudokit"
 description: ""
-url: "https://github.com/sudokit"
+external_url: "https://github.com/sudokit"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning System Design - System Design Fight Club"
 description: ""
-url: "https://www.youtube.com/playlist?list=PLlvnxKilk3aKx0oFua-HTtFf-d_inQ8Qn"
+external_url: "https://www.youtube.com/playlist?list=PLlvnxKilk3aKx0oFua-HTtFf-d_inQ8Qn"
 category: "Miscellaneous"
 ---

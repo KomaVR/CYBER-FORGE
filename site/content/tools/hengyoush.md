@@ -1,6 +1,6 @@
 ---
 title: "hengyoush"
 description: ""
-url: "https://github.com/hengyoush"
+external_url: "https://github.com/hengyoush"
 category: "Miscellaneous"
 ---

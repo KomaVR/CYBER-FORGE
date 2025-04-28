@@ -1,6 +1,6 @@
 ---
 title: "Me.Me"
 description: ""
-url: "https://me.me/"
+external_url: "https://me.me/"
 category: "Miscellaneous"
 ---

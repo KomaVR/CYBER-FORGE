@@ -1,6 +1,6 @@
 ---
 title: "Ether Chain"
 description: ""
-url: "https://www.etherchain.org/"
+external_url: "https://www.etherchain.org/"
 category: "Miscellaneous"
 ---

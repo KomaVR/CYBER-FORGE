@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/jasonlvhit/gocron"
 description: ""
-url: "https://github.com/jasonlvhit/gocron"
+external_url: "https://github.com/jasonlvhit/gocron"
 category: "Miscellaneous"
 ---

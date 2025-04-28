@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/wy876/POC"
 description: ""
-url: "https://github.com/wy876/POC"
+external_url: "https://github.com/wy876/POC"
 category: "Miscellaneous"
 ---

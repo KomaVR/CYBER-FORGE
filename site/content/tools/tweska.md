@@ -1,6 +1,6 @@
 ---
 title: "tweska"
 description: ""
-url: "https://github.com/tweska"
+external_url: "https://github.com/tweska"
 category: "Miscellaneous"
 ---

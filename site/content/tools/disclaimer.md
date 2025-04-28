@@ -1,6 +1,6 @@
 ---
 title: "Disclaimer"
 description: ""
-url: "https://github.com/mategol/PySilon-malware#disclaimer"
+external_url: "https://github.com/mategol/PySilon-malware#disclaimer"
 category: "Miscellaneous"
 ---

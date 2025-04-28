@@ -1,6 +1,6 @@
 ---
 title: "TricksterShubi"
 description: ""
-url: "https://github.com/TricksterShubi"
+external_url: "https://github.com/TricksterShubi"
 category: "Miscellaneous"
 ---

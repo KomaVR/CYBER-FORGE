@@ -1,6 +1,6 @@
 ---
 title: "Karneades"
 description: ""
-url: "https://github.com/Karneades"
+external_url: "https://github.com/Karneades"
 category: "Miscellaneous"
 ---

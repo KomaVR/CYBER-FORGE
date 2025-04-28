@@ -1,6 +1,6 @@
 ---
 title: "icyphox"
 description: ""
-url: "https://github.com/icyphox"
+external_url: "https://github.com/icyphox"
 category: "Miscellaneous"
 ---

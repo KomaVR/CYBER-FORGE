@@ -1,6 +1,6 @@
 ---
 title: "dpaste"
 description: ""
-url: "https://Dpaste.com"
+external_url: "https://Dpaste.com"
 category: "Miscellaneous"
 ---

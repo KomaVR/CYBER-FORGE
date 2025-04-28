@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://opencollective.com/keepassxc"
+external_url: "https://opencollective.com/keepassxc"
 category: "Miscellaneous"
 ---

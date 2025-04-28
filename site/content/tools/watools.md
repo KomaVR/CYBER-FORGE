@@ -1,6 +1,6 @@
 ---
 title: "WATools"
 description: ""
-url: "https://watools.io/"
+external_url: "https://watools.io/"
 category: "Miscellaneous"
 ---

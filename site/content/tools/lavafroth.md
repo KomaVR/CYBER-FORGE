@@ -1,6 +1,6 @@
 ---
 title: "lavafroth"
 description: ""
-url: "https://github.com/lavafroth"
+external_url: "https://github.com/lavafroth"
 category: "Miscellaneous"
 ---

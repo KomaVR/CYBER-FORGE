@@ -1,6 +1,6 @@
 ---
 title: "ForwardFeed"
 description: ""
-url: "https://github.com/ForwardFeed"
+external_url: "https://github.com/ForwardFeed"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Maikuolan"
 description: ""
-url: "https://github.com/Maikuolan"
+external_url: "https://github.com/Maikuolan"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Sar"
 description: ""
-url: "https://www.hackingarticles.in/sar-vulnhub-walkthrough/"
+external_url: "https://www.hackingarticles.in/sar-vulnhub-walkthrough/"
 category: "Miscellaneous"
 ---

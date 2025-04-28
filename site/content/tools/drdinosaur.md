@@ -1,6 +1,6 @@
 ---
 title: "DrDinosaur"
 description: ""
-url: "https://github.com/DrDinosaur"
+external_url: "https://github.com/DrDinosaur"
 category: "Miscellaneous"
 ---

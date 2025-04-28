@@ -6,6 +6,6 @@ description: "Kali Linux
 Windows Pentesting with Kali Linux v2
 
 "
-url: "https://kali.training/"
+external_url: "https://kali.training/"
 category: "Miscellaneous"
 ---

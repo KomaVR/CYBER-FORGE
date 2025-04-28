@@ -1,6 +1,6 @@
 ---
 title: "CNCF Slack channel"
 description: ""
-url: "https://cloud-native.slack.com/archives/C059QP1RH1S"
+external_url: "https://cloud-native.slack.com/archives/C059QP1RH1S"
 category: "Miscellaneous"
 ---

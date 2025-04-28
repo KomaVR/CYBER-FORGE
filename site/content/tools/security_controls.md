@@ -1,6 +1,6 @@
 ---
 title: "Security Controls"
 description: ""
-url: "https://docs.nginx.com/nginx/admin-guide/security-controls/"
+external_url: "https://docs.nginx.com/nginx/admin-guide/security-controls/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Reset.org"
 description: ""
-url: "https://en.reset.org/"
+external_url: "https://en.reset.org/"
 category: "Miscellaneous"
 ---

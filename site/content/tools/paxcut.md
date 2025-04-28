@@ -1,6 +1,6 @@
 ---
 title: "paxcut"
 description: ""
-url: "https://github.com/paxcut"
+external_url: "https://github.com/paxcut"
 category: "Miscellaneous"
 ---

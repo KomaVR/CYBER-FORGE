@@ -1,6 +1,6 @@
 ---
 title: "astr0baby"
 description: "Reference Source"
-url: "https://astr0baby.wordpress.com"
+external_url: "https://astr0baby.wordpress.com"
 category: "Miscellaneous"
 ---

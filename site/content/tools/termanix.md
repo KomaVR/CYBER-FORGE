@@ -1,6 +1,6 @@
 ---
 title: "termanix"
 description: ""
-url: "https://github.com/termanix"
+external_url: "https://github.com/termanix"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Sliicy"
 description: ""
-url: "https://github.com/Sliicy"
+external_url: "https://github.com/Sliicy"
 category: "Miscellaneous"
 ---

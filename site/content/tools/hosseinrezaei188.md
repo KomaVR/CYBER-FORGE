@@ -1,6 +1,6 @@
 ---
 title: "hosseinRezaei188"
 description: ""
-url: "https://github.com/hosseinRezaei188"
+external_url: "https://github.com/hosseinRezaei188"
 category: "Miscellaneous"
 ---

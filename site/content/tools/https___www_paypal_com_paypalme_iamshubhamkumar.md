@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://www.paypal.com/paypalme/iamshubhamkumar"
+external_url: "https://www.paypal.com/paypalme/iamshubhamkumar"
 category: "Miscellaneous"
 ---

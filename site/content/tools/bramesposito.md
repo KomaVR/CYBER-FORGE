@@ -1,6 +1,6 @@
 ---
 title: "BramEsposito"
 description: ""
-url: "https://github.com/BramEsposito"
+external_url: "https://github.com/BramEsposito"
 category: "Miscellaneous"
 ---

@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "http://tyrrrz.me/donate"
+external_url: "http://tyrrrz.me/donate"
 category: "Miscellaneous"
 ---

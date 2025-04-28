@@ -1,6 +1,6 @@
 ---
 title: "kurogai"
 description: ""
-url: "https://github.com/kurogai"
+external_url: "https://github.com/kurogai"
 category: "Miscellaneous"
 ---

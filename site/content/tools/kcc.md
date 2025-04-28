@@ -1,6 +1,6 @@
 ---
 title: "kcc"
 description: ""
-url: "https://github.com/kcc"
+external_url: "https://github.com/kcc"
 category: "Miscellaneous"
 ---

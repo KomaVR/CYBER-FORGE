@@ -1,6 +1,6 @@
 ---
 title: "JonathonReinhart"
 description: ""
-url: "https://github.com/JonathonReinhart"
+external_url: "https://github.com/JonathonReinhart"
 category: "Miscellaneous"
 ---

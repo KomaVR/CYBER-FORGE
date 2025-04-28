@@ -1,6 +1,6 @@
 ---
 title: "mauke"
 description: "mauke"
-url: "https://github.com/mauke"
+external_url: "https://github.com/mauke"
 category: "Miscellaneous"
 ---

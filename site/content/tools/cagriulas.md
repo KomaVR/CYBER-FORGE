@@ -1,6 +1,6 @@
 ---
 title: "cagriulas"
 description: ""
-url: "https://github.com/cagriulas"
+external_url: "https://github.com/cagriulas"
 category: "Miscellaneous"
 ---

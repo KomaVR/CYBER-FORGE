@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://patreon.com/JoshStroschein"
+external_url: "https://patreon.com/JoshStroschein"
 category: "Miscellaneous"
 ---

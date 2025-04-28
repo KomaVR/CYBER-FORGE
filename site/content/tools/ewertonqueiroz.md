@@ -2,6 +2,6 @@
 title: "EwertonQueiroz"
 description: "EwertonQueiroz
 Ewerton"
-url: "https://github.com/EwertonQueiroz"
+external_url: "https://github.com/EwertonQueiroz"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Open Grey"
 description: ""
-url: "http://www.opengrey.eu"
+external_url: "http://www.opengrey.eu"
 category: "Miscellaneous"
 ---

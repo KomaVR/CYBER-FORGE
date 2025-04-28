@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://ko-fi.com/StanGirard"
+external_url: "https://ko-fi.com/StanGirard"
 category: "Miscellaneous"
 ---

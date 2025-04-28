@@ -1,6 +1,6 @@
 ---
 title: "Kyshman"
 description: ""
-url: "https://github.com/Kyshman"
+external_url: "https://github.com/Kyshman"
 category: "Miscellaneous"
 ---

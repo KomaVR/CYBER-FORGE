@@ -1,6 +1,6 @@
 ---
 title: "Another link"
 description: ""
-url: "https://www.cs251.com/"
+external_url: "https://www.cs251.com/"
 category: "Miscellaneous"
 ---

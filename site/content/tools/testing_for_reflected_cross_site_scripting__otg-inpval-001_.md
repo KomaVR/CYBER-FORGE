@@ -13,6 +13,6 @@ Testing for Client Side Resource Manipulation (OTG-CLIENT-006)
 Testing for Clickjacking (OTG-CLIENT-009)
 
 "
-url: "https://github.com/Voorivex/pentest-guide/tree/master/Cross-Site-Scripting"
+external_url: "https://github.com/Voorivex/pentest-guide/tree/master/Cross-Site-Scripting"
 category: "Miscellaneous"
 ---

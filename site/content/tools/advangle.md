@@ -1,6 +1,6 @@
 ---
 title: "Advangle"
 description: ""
-url: "http://advangle.com/"
+external_url: "http://advangle.com/"
 category: "Miscellaneous"
 ---

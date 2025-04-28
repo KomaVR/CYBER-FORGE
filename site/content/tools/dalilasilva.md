@@ -1,6 +1,6 @@
 ---
 title: "DalilaSilva"
 description: ""
-url: "https://github.com/DalilaSilva"
+external_url: "https://github.com/DalilaSilva"
 category: "Miscellaneous"
 ---

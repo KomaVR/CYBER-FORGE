@@ -1,6 +1,6 @@
 ---
 title: "MobSF"
 description: ""
-url: "https://github.com/MobSF/Mobile-Security-Framework-MobSF"
+external_url: "https://github.com/MobSF/Mobile-Security-Framework-MobSF"
 category: "Miscellaneous"
 ---

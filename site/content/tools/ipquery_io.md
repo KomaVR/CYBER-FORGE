@@ -1,6 +1,6 @@
 ---
 title: "ipquery.io"
 description: "The IP Address API for Developers"
-url: "https://ipquery.io/"
+external_url: "https://ipquery.io/"
 category: "Miscellaneous"
 ---

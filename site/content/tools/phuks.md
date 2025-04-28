@@ -1,6 +1,6 @@
 ---
 title: "Phuks"
 description: ""
-url: "https://phuks.co"
+external_url: "https://phuks.co"
 category: "Miscellaneous"
 ---

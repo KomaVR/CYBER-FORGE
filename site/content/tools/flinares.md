@@ -1,6 +1,6 @@
 ---
 title: "FLinares"
 description: ""
-url: "https://github.com/FLinares"
+external_url: "https://github.com/FLinares"
 category: "Miscellaneous"
 ---

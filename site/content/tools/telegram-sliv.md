@@ -1,6 +1,6 @@
 ---
 title: "Telegram-Sliv"
 description: ""
-url: "https://telegram-sliv.ru/"
+external_url: "https://telegram-sliv.ru/"
 category: "Miscellaneous"
 ---

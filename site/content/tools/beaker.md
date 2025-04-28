@@ -1,6 +1,6 @@
 ---
 title: "Beaker"
 description: ""
-url: "http://beakernotebook.com"
+external_url: "http://beakernotebook.com"
 category: "Miscellaneous"
 ---

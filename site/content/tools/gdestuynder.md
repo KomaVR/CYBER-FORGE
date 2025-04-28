@@ -1,6 +1,6 @@
 ---
 title: "gdestuynder"
 description: ""
-url: "https://github.com/gdestuynder"
+external_url: "https://github.com/gdestuynder"
 category: "Miscellaneous"
 ---

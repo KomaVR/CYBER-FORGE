@@ -1,6 +1,6 @@
 ---
 title: "Verification Handbook"
 description: ""
-url: "http://verificationhandbook.com"
+external_url: "http://verificationhandbook.com"
 category: "Miscellaneous"
 ---

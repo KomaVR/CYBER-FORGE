@@ -1,6 +1,6 @@
 ---
 title: "Randark-JMT"
 description: ""
-url: "https://github.com/Randark-JMT"
+external_url: "https://github.com/Randark-JMT"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "raphaelsc"
 description: ""
-url: "https://github.com/raphaelsc"
+external_url: "https://github.com/raphaelsc"
 category: "Miscellaneous"
 ---

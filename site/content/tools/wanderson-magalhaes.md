@@ -1,6 +1,6 @@
 ---
 title: "Wanderson-Magalhaes"
 description: ""
-url: "https://github.com/Wanderson-Magalhaes"
+external_url: "https://github.com/Wanderson-Magalhaes"
 category: "Miscellaneous"
 ---

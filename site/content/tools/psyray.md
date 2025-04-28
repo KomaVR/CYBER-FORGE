@@ -1,6 +1,6 @@
 ---
 title: "psyray"
 description: ""
-url: "https://github.com/psyray"
+external_url: "https://github.com/psyray"
 category: "Miscellaneous"
 ---

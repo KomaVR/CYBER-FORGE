@@ -1,6 +1,6 @@
 ---
 title: "stevenaldinger"
 description: ""
-url: "https://github.com/stevenaldinger"
+external_url: "https://github.com/stevenaldinger"
 category: "Miscellaneous"
 ---

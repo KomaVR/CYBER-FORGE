@@ -1,6 +1,6 @@
 ---
 title: "Col-E"
 description: ""
-url: "https://github.com/Col-E"
+external_url: "https://github.com/Col-E"
 category: "Miscellaneous"
 ---

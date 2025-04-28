@@ -3,6 +3,6 @@ title: "https://github.com/dwisiswant0/awesome-oneliner-bugbounty"
 description: "
 
 "
-url: "https://github.com/dwisiswant0/awesome-oneliner-bugbounty"
+external_url: "https://github.com/dwisiswant0/awesome-oneliner-bugbounty"
 category: "Miscellaneous"
 ---

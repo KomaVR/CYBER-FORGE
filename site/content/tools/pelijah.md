@@ -1,6 +1,6 @@
 ---
 title: "pelijah"
 description: ""
-url: "https://github.com/pelijah"
+external_url: "https://github.com/pelijah"
 category: "Miscellaneous"
 ---

@@ -5,6 +5,6 @@ description: "扩展阅读
 
 
 "
-url: "https://free.com.tw/google-automatically-delete-data/"
+external_url: "https://free.com.tw/google-automatically-delete-data/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Sitemap tutorial"
 description: ""
-url: "https://www.conductor.com/academy/xml-sitemap/"
+external_url: "https://www.conductor.com/academy/xml-sitemap/"
 category: "Miscellaneous"
 ---

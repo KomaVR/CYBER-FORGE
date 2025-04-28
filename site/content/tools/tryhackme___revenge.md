@@ -3,6 +3,6 @@ title: "TryHackMe | Revenge"
 description: "
  
 "
-url: "https://tryhackme.com/room/revenge"
+external_url: "https://tryhackme.com/room/revenge"
 category: "Miscellaneous"
 ---

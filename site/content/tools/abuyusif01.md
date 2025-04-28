@@ -1,6 +1,6 @@
 ---
 title: "abuyusif01"
 description: ""
-url: "https://github.com/abuyusif01"
+external_url: "https://github.com/abuyusif01"
 category: "Miscellaneous"
 ---

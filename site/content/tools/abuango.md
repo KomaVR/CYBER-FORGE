@@ -1,6 +1,6 @@
 ---
 title: "abuango"
 description: ""
-url: "https://github.com/abuango"
+external_url: "https://github.com/abuango"
 category: "Miscellaneous"
 ---

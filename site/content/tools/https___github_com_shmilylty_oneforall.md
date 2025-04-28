@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/shmilylty/OneForAll"
 description: "OneForAll:"
-url: "https://github.com/shmilylty/OneForAll"
+external_url: "https://github.com/shmilylty/OneForAll"
 category: "Miscellaneous"
 ---

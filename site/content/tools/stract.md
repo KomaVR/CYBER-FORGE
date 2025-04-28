@@ -1,6 +1,6 @@
 ---
 title: "Stract"
 description: ""
-url: "https://stract.com/"
+external_url: "https://stract.com/"
 category: "Miscellaneous"
 ---

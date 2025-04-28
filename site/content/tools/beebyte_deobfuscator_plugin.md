@@ -15,6 +15,6 @@ For other supported obfuscated titles, see the list of loader plugins
 Deobfuscated metadata and binary files can be saved back to disk
 
 "
-url: "https://github.com/OsOmE1/Beebyte-Deobfuscator"
+external_url: "https://github.com/OsOmE1/Beebyte-Deobfuscator"
 category: "Reverse Engineering"
 ---

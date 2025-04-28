@@ -1,6 +1,6 @@
 ---
 title: "mrnfrancesco"
 description: ""
-url: "https://github.com/mrnfrancesco"
+external_url: "https://github.com/mrnfrancesco"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Insight VM"
 description: ""
-url: "https://www.rapid7.com/products/insightvm/"
+external_url: "https://www.rapid7.com/products/insightvm/"
 category: "Miscellaneous"
 ---

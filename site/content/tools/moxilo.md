@@ -1,6 +1,6 @@
 ---
 title: "moxilo"
 description: ""
-url: "https://github.com/moxilo"
+external_url: "https://github.com/moxilo"
 category: "Miscellaneous"
 ---

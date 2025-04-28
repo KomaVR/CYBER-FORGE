@@ -1,6 +1,6 @@
 ---
 title: "Rust"
 description: ""
-url: "https://rust-lang.org/tools/install"
+external_url: "https://rust-lang.org/tools/install"
 category: "Miscellaneous"
 ---

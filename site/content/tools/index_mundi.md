@@ -1,6 +1,6 @@
 ---
 title: "Index Mundi"
 description: ""
-url: "http://www.indexmundi.com"
+external_url: "http://www.indexmundi.com"
 category: "Miscellaneous"
 ---

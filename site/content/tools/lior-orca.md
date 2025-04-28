@@ -1,6 +1,6 @@
 ---
 title: "lior-orca"
 description: ""
-url: "https://github.com/lior-orca"
+external_url: "https://github.com/lior-orca"
 category: "Miscellaneous"
 ---

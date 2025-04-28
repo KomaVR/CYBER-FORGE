@@ -1,6 +1,6 @@
 ---
 title: "scottmcgowan"
 description: ""
-url: "https://github.com/scottmcgowan"
+external_url: "https://github.com/scottmcgowan"
 category: "Miscellaneous"
 ---

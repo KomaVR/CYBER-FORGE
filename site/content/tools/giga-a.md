@@ -1,6 +1,6 @@
 ---
 title: "giga-a"
 description: ""
-url: "https://github.com/giga-a"
+external_url: "https://github.com/giga-a"
 category: "Miscellaneous"
 ---

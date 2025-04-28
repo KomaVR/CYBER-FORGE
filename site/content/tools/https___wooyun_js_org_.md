@@ -1,6 +1,6 @@
 ---
 title: "https://wooyun.js.org/"
 description: ""
-url: "https://wooyun.js.org/"
+external_url: "https://wooyun.js.org/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Ethical Hacking Value and Penetration testing"
 description: ""
-url: "https://www.certconf.org/presentations/2003/Wed/WM4.pdf"
+external_url: "https://www.certconf.org/presentations/2003/Wed/WM4.pdf"
 category: "Miscellaneous"
 ---

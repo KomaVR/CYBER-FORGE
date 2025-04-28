@@ -1,6 +1,6 @@
 ---
 title: "ajvn"
 description: ""
-url: "https://github.com/ajvn"
+external_url: "https://github.com/ajvn"
 category: "Miscellaneous"
 ---

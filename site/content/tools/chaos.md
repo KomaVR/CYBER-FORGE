@@ -1,6 +1,6 @@
 ---
 title: "Chaos"
 description: "Enhance research and analyse changes around DNS for better insights"
-url: "https://chaos.projectdiscovery.io/#/"
+external_url: "https://chaos.projectdiscovery.io/#/"
 category: "Miscellaneous"
 ---

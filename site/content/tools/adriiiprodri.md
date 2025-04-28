@@ -1,6 +1,6 @@
 ---
 title: "AdriiiPRodri"
 description: ""
-url: "https://github.com/AdriiiPRodri"
+external_url: "https://github.com/AdriiiPRodri"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Oblivion"
 description: ""
-url: "https://github.com/loseys/Oblivion"
+external_url: "https://github.com/loseys/Oblivion"
 category: "Miscellaneous"
 ---

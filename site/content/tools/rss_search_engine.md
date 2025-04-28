@@ -1,6 +1,6 @@
 ---
 title: "RSS Search Engine"
 description: ""
-url: "http://ctrlq.org/rss"
+external_url: "http://ctrlq.org/rss"
 category: "Miscellaneous"
 ---

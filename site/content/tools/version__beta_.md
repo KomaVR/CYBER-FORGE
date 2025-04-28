@@ -1,6 +1,6 @@
 ---
 title: "Version (beta)"
 description: ""
-url: "https://github.com/bhavsec/reconspider#version-beta"
+external_url: "https://github.com/bhavsec/reconspider#version-beta"
 category: "Miscellaneous"
 ---

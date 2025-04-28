@@ -3,6 +3,6 @@ title: "TryHackMe | Cold VVars"
 description: "
  
 "
-url: "https://tryhackme.com/room/coldvvars"
+external_url: "https://tryhackme.com/room/coldvvars"
 category: "Miscellaneous"
 ---

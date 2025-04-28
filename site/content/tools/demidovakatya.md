@@ -1,6 +1,6 @@
 ---
 title: "demidovakatya"
 description: ""
-url: "https://github.com/demidovakatya"
+external_url: "https://github.com/demidovakatya"
 category: "Miscellaneous"
 ---

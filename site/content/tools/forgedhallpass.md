@@ -1,6 +1,6 @@
 ---
 title: "forgedhallpass"
 description: ""
-url: "https://github.com/forgedhallpass"
+external_url: "https://github.com/forgedhallpass"
 category: "Miscellaneous"
 ---

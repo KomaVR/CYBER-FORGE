@@ -1,6 +1,6 @@
 ---
 title: "cugu/apfs.ksy"
 description: ""
-url: "https://github.com/cugu/apfs.ksy"
+external_url: "https://github.com/cugu/apfs.ksy"
 category: "Miscellaneous"
 ---

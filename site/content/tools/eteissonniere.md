@@ -1,6 +1,6 @@
 ---
 title: "ETeissonniere"
 description: ""
-url: "https://github.com/ETeissonniere"
+external_url: "https://github.com/ETeissonniere"
 category: "Miscellaneous"
 ---

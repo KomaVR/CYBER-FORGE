@@ -1,6 +1,6 @@
 ---
 title: "ImgOps"
 description: ""
-url: "https://imgops.com/"
+external_url: "https://imgops.com/"
 category: "Miscellaneous"
 ---

@@ -3,6 +3,6 @@ title: "TryHackMe | Learn Linux"
 description: "
  
 "
-url: "https://tryhackme.com/room/zthlinux"
+external_url: "https://tryhackme.com/room/zthlinux"
 category: "Miscellaneous"
 ---

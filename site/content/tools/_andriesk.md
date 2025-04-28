@@ -1,6 +1,6 @@
 ---
 title: "@AndriesK"
 description: "Buds Live bug fix"
-url: "https://github.com/AndriesK"
+external_url: "https://github.com/AndriesK"
 category: "Miscellaneous"
 ---

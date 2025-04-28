@@ -1,6 +1,6 @@
 ---
 title: "gabrielsoltz"
 description: ""
-url: "https://github.com/gabrielsoltz"
+external_url: "https://github.com/gabrielsoltz"
 category: "Miscellaneous"
 ---

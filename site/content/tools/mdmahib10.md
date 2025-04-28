@@ -1,6 +1,6 @@
 ---
 title: "mdmahib10"
 description: ""
-url: "https://github.com/mdmahib10"
+external_url: "https://github.com/mdmahib10"
 category: "Miscellaneous"
 ---

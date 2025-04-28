@@ -1,6 +1,6 @@
 ---
 title: "dkg"
 description: ""
-url: "https://github.com/dkg"
+external_url: "https://github.com/dkg"
 category: "Miscellaneous"
 ---

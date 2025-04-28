@@ -1,6 +1,6 @@
 ---
 title: "orlangure"
 description: ""
-url: "https://github.com/orlangure"
+external_url: "https://github.com/orlangure"
 category: "Miscellaneous"
 ---

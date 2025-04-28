@@ -1,6 +1,6 @@
 ---
 title: "Perth - Western Australia"
 description: ""
-url: "https://en.wikipedia.org/wiki/Perth"
+external_url: "https://en.wikipedia.org/wiki/Perth"
 category: "Miscellaneous"
 ---

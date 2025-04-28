@@ -1,6 +1,6 @@
 ---
 title: "japhlange"
 description: ""
-url: "https://github.com/japhlange"
+external_url: "https://github.com/japhlange"
 category: "Miscellaneous"
 ---

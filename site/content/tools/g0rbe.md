@@ -1,6 +1,6 @@
 ---
 title: "g0rbe"
 description: ""
-url: "https://github.com/g0rbe"
+external_url: "https://github.com/g0rbe"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Ghostery"
 description: ""
-url: "https://www.ghostery.com"
+external_url: "https://www.ghostery.com"
 category: "Miscellaneous"
 ---

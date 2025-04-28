@@ -1,6 +1,6 @@
 ---
 title: "WeLeakInfo"
 description: ""
-url: "https://weleakinfo.com/register"
+external_url: "https://weleakinfo.com/register"
 category: "Miscellaneous"
 ---

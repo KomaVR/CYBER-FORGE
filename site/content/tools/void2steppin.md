@@ -1,6 +1,6 @@
 ---
 title: "Void2Steppin"
 description: ""
-url: "https://github.com/Void2Steppin"
+external_url: "https://github.com/Void2Steppin"
 category: "Miscellaneous"
 ---

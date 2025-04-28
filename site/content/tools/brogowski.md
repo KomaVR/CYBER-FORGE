@@ -1,6 +1,6 @@
 ---
 title: "brogowski"
 description: ""
-url: "https://github.com/brogowski"
+external_url: "https://github.com/brogowski"
 category: "Miscellaneous"
 ---

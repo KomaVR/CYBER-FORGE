@@ -1,6 +1,6 @@
 ---
 title: "Twipho"
 description: ""
-url: "http://www.twipho.net/"
+external_url: "http://www.twipho.net/"
 category: "Miscellaneous"
 ---

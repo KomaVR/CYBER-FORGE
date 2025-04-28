@@ -1,6 +1,6 @@
 ---
 title: "JSmith-Aura"
 description: ""
-url: "https://github.com/JSmith-Aura"
+external_url: "https://github.com/JSmith-Aura"
 category: "Miscellaneous"
 ---

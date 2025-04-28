@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://patreon.com/j3ssie"
+external_url: "https://patreon.com/j3ssie"
 category: "Miscellaneous"
 ---

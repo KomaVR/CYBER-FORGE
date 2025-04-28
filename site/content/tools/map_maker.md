@@ -1,6 +1,6 @@
 ---
 title: "Map Maker"
 description: ""
-url: "https://maps.co"
+external_url: "https://maps.co"
 category: "Miscellaneous"
 ---

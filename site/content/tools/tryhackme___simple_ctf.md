@@ -3,6 +3,6 @@ title: "TryHackMe | Simple CTF"
 description: "
  
 "
-url: "https://tryhackme.com/room/easyctf"
+external_url: "https://tryhackme.com/room/easyctf"
 category: "Miscellaneous"
 ---

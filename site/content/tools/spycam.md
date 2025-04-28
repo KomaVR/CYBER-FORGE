@@ -1,6 +1,6 @@
 ---
 title: "Spycam"
 description: ""
-url: "https://github.com/indexnotfound404/spycam"
+external_url: "https://github.com/indexnotfound404/spycam"
 category: "Miscellaneous"
 ---

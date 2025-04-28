@@ -1,6 +1,6 @@
 ---
 title: "Data.com Connect"
 description: ""
-url: "https://connect.data.com"
+external_url: "https://connect.data.com"
 category: "Miscellaneous"
 ---

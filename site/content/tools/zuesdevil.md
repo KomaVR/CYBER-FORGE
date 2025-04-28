@@ -1,6 +1,6 @@
 ---
 title: "zuesdevil"
 description: ""
-url: "https://github.com/zuesdevil"
+external_url: "https://github.com/zuesdevil"
 category: "Black Hat Tools"
 ---

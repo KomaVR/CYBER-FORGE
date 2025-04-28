@@ -1,6 +1,6 @@
 ---
 title: "dspruell-i01"
 description: ""
-url: "https://github.com/dspruell-i01"
+external_url: "https://github.com/dspruell-i01"
 category: "Miscellaneous"
 ---

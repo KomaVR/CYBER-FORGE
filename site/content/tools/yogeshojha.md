@@ -1,6 +1,6 @@
 ---
 title: "yogeshojha"
 description: ""
-url: "https://github.com/yogeshojha"
+external_url: "https://github.com/yogeshojha"
 category: "Miscellaneous"
 ---

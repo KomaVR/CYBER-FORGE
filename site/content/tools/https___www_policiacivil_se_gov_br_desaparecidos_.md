@@ -1,6 +1,6 @@
 ---
 title: "https://www.policiacivil.se.gov.br/desaparecidos/"
 description: ""
-url: "https://www.policiacivil.se.gov.br/desaparecidos/"
+external_url: "https://www.policiacivil.se.gov.br/desaparecidos/"
 category: "Miscellaneous"
 ---

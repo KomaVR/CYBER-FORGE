@@ -1,6 +1,6 @@
 ---
 title: "VirusSamples"
 description: ""
-url: "https://www.virussamples.com"
+external_url: "https://www.virussamples.com"
 category: "Miscellaneous"
 ---

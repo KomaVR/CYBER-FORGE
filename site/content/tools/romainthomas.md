@@ -1,6 +1,6 @@
 ---
 title: "romainthomas"
 description: ""
-url: "https://github.com/romainthomas"
+external_url: "https://github.com/romainthomas"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "CrazyWolf13"
 description: ""
-url: "https://github.com/CrazyWolf13"
+external_url: "https://github.com/CrazyWolf13"
 category: "Miscellaneous"
 ---

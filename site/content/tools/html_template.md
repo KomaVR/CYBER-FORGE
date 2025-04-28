@@ -6,6 +6,6 @@ description: "module
 text/template
 
 "
-url: "https://pkg.go.dev/html/template"
+external_url: "https://pkg.go.dev/html/template"
 category: "Miscellaneous"
 ---

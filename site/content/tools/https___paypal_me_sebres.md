@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://paypal.me/sebres"
+external_url: "https://paypal.me/sebres"
 category: "Miscellaneous"
 ---

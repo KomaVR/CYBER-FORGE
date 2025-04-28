@@ -1,6 +1,6 @@
 ---
 title: "mdilai"
 description: ""
-url: "https://github.com/mdilai"
+external_url: "https://github.com/mdilai"
 category: "Miscellaneous"
 ---

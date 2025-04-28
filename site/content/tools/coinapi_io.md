@@ -1,6 +1,6 @@
 ---
 title: "coinapi.io"
 description: ""
-url: "https://www.coinapi.io"
+external_url: "https://www.coinapi.io"
 category: "Miscellaneous"
 ---

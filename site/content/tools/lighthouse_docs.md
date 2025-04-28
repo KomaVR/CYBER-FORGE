@@ -1,6 +1,6 @@
 ---
 title: "Lighthouse Docs"
 description: ""
-url: "https://developer.chrome.com/docs/lighthouse/"
+external_url: "https://developer.chrome.com/docs/lighthouse/"
 category: "Miscellaneous"
 ---

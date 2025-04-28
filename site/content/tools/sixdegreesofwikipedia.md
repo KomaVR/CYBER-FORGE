@@ -1,6 +1,6 @@
 ---
 title: "sixdegreesofwikipedia"
 description: ""
-url: "https://www.sixdegreesofwikipedia.com/"
+external_url: "https://www.sixdegreesofwikipedia.com/"
 category: "Miscellaneous"
 ---

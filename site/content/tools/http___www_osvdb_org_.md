@@ -1,6 +1,6 @@
 ---
 title: "http://www.osvdb.org/"
 description: ""
-url: "http://www.osvdb.org/"
+external_url: "http://www.osvdb.org/"
 category: "Miscellaneous"
 ---

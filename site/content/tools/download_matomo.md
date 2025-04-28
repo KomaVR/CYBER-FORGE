@@ -1,6 +1,6 @@
 ---
 title: "Download Matomo"
 description: ""
-url: "https://matomo.org/download/"
+external_url: "https://matomo.org/download/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Word Tracker"
 description: ""
-url: "https://www.wordtracker.com"
+external_url: "https://www.wordtracker.com"
 category: "Miscellaneous"
 ---

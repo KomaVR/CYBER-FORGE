@@ -2,6 +2,6 @@
 title: "lucascherzer"
 description: "lucascherzer
 Luca Scherzer"
-url: "https://github.com/lucascherzer"
+external_url: "https://github.com/lucascherzer"
 category: "Miscellaneous"
 ---

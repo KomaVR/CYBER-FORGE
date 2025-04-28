@@ -1,6 +1,6 @@
 ---
 title: "StevenBlack"
 description: ""
-url: "https://github.com/StevenBlack"
+external_url: "https://github.com/StevenBlack"
 category: "Miscellaneous"
 ---

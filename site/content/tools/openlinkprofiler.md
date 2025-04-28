@@ -1,6 +1,6 @@
 ---
 title: "OpenLinkProfiler"
 description: ""
-url: "http://www.openlinkprofiler.org/"
+external_url: "http://www.openlinkprofiler.org/"
 category: "Miscellaneous"
 ---

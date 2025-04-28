@@ -1,6 +1,6 @@
 ---
 title: "ellerbrock"
 description: ""
-url: "https://github.com/ellerbrock"
+external_url: "https://github.com/ellerbrock"
 category: "Miscellaneous"
 ---

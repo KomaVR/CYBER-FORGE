@@ -1,6 +1,6 @@
 ---
 title: "kraxel"
 description: ""
-url: "https://github.com/kraxel"
+external_url: "https://github.com/kraxel"
 category: "Miscellaneous"
 ---

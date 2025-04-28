@@ -22,6 +22,6 @@ Lyzem Search
 telegram directory
 
 "
-url: "https://combot.org/"
+external_url: "https://combot.org/"
 category: "Web Exploitation"
 ---

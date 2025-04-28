@@ -1,6 +1,6 @@
 ---
 title: "bestagini"
 description: ""
-url: "https://github.com/bestagini"
+external_url: "https://github.com/bestagini"
 category: "Miscellaneous"
 ---

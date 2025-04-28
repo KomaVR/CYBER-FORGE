@@ -1,6 +1,6 @@
 ---
 title: "skynet.certik.com"
 description: ""
-url: "https://skynet.certik.com/"
+external_url: "https://skynet.certik.com/"
 category: "Miscellaneous"
 ---

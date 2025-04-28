@@ -1,6 +1,6 @@
 ---
 title: "Jeffreys Image Metadata Viewer"
 description: ""
-url: "http://exif.regex.info/"
+external_url: "http://exif.regex.info/"
 category: "Miscellaneous"
 ---

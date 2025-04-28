@@ -1,6 +1,6 @@
 ---
 title: "janowagner"
 description: ""
-url: "https://github.com/janowagner"
+external_url: "https://github.com/janowagner"
 category: "Miscellaneous"
 ---

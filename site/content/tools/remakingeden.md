@@ -1,6 +1,6 @@
 ---
 title: "RemakingEden"
 description: ""
-url: "https://github.com/RemakingEden"
+external_url: "https://github.com/RemakingEden"
 category: "Miscellaneous"
 ---

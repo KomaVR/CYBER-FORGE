@@ -1,6 +1,6 @@
 ---
 title: "cHJlaXpoZXI"
 description: ""
-url: "https://github.com/cHJlaXpoZXI"
+external_url: "https://github.com/cHJlaXpoZXI"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Loneyers"
 description: ""
-url: "https://github.com/Loneyers"
+external_url: "https://github.com/Loneyers"
 category: "Miscellaneous"
 ---

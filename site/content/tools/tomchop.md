@@ -1,6 +1,6 @@
 ---
 title: "tomchop"
 description: ""
-url: "https://github.com/tomchop"
+external_url: "https://github.com/tomchop"
 category: "Miscellaneous"
 ---

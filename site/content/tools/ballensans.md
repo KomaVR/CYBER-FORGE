@@ -1,6 +1,6 @@
 ---
 title: "ballensans"
 description: ""
-url: "https://github.com/ballensans"
+external_url: "https://github.com/ballensans"
 category: "Miscellaneous"
 ---

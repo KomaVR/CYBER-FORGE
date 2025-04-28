@@ -1,6 +1,6 @@
 ---
 title: "radoen"
 description: ""
-url: "https://github.com/radoen"
+external_url: "https://github.com/radoen"
 category: "Miscellaneous"
 ---

@@ -5,6 +5,6 @@ description: "
 Geospatial vision LLM that can estimate location just from an image
 
 "
-url: "https://geospy.ai"
+external_url: "https://geospy.ai"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "digininja"
 description: ""
-url: "https://github.com/digininja"
+external_url: "https://github.com/digininja"
 category: "Miscellaneous"
 ---

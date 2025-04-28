@@ -1,6 +1,6 @@
 ---
 title: "Piliponful"
 description: ""
-url: "https://github.com/Piliponful"
+external_url: "https://github.com/Piliponful"
 category: "Miscellaneous"
 ---

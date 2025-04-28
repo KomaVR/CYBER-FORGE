@@ -1,6 +1,6 @@
 ---
 title: "Baidu"
 description: ""
-url: "https://www.baidu.com/"
+external_url: "https://www.baidu.com/"
 category: "Miscellaneous"
 ---

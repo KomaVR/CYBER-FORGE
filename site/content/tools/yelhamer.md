@@ -1,6 +1,6 @@
 ---
 title: "yelhamer"
 description: ""
-url: "https://github.com/yelhamer"
+external_url: "https://github.com/yelhamer"
 category: "Miscellaneous"
 ---

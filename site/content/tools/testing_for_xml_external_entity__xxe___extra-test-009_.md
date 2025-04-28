@@ -6,6 +6,6 @@ XML External Entity (XXE)
 
 
 "
-url: "https://github.com/Voorivex/pentest-guide/tree/master/XML-External-Entity"
+external_url: "https://github.com/Voorivex/pentest-guide/tree/master/XML-External-Entity"
 category: "Miscellaneous"
 ---

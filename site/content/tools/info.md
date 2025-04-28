@@ -19,6 +19,6 @@ New SIDs
 
 
 "
-url: "https://github.com/quentinhardy/odat/commit/9b7ec57cfed0fe74381edff28b73532562acaa2c"
+external_url: "https://github.com/quentinhardy/odat/commit/9b7ec57cfed0fe74381edff28b73532562acaa2c"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "selvanair"
 description: ""
-url: "https://github.com/selvanair"
+external_url: "https://github.com/selvanair"
 category: "Miscellaneous"
 ---

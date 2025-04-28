@@ -1,6 +1,6 @@
 ---
 title: "adamenger"
 description: ""
-url: "https://github.com/adamenger"
+external_url: "https://github.com/adamenger"
 category: "Miscellaneous"
 ---

@@ -13,6 +13,6 @@ kaitai_struct_ruby_runtime — for Ruby
 kaitai_struct_swift_runtime — for Swift
 
 "
-url: "https://github.com/kaitai-io/kaitai_struct_cpp_stl_runtime"
+external_url: "https://github.com/kaitai-io/kaitai_struct_cpp_stl_runtime"
 category: "Miscellaneous"
 ---

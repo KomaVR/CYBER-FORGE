@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://www.paypal.me/glormeau"
+external_url: "https://www.paypal.me/glormeau"
 category: "Miscellaneous"
 ---

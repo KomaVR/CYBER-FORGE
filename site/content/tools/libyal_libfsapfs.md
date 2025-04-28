@@ -1,6 +1,6 @@
 ---
 title: "libyal/libfsapfs"
 description: ""
-url: "https://github.com/libyal/libfsapfs"
+external_url: "https://github.com/libyal/libfsapfs"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "versionista"
 description: ""
-url: "http://versionista.com"
+external_url: "http://versionista.com"
 category: "Miscellaneous"
 ---

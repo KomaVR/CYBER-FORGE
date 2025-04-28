@@ -18,6 +18,6 @@ COL718 - Architecture of High Performance Computers - IIT Delhi
 CS 695: Virtualization and Cloud Computing - IIT Bombay -Spring 2021
 
 "
-url: "http://www.ece.cmu.edu/~ece447/s15/doku.php?id=schedule"
+external_url: "http://www.ece.cmu.edu/~ece447/s15/doku.php?id=schedule"
 category: "Miscellaneous"
 ---

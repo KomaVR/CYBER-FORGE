@@ -1,6 +1,6 @@
 ---
 title: "CxxDemangler"
 description: "by Vuk Jovanovic"
-url: "https://github.com/southpolenator/CxxDemangler"
+external_url: "https://github.com/southpolenator/CxxDemangler"
 category: "Miscellaneous"
 ---

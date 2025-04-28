@@ -1,6 +1,6 @@
 ---
 title: "andygrunwald"
 description: ""
-url: "https://github.com/andygrunwald"
+external_url: "https://github.com/andygrunwald"
 category: "Miscellaneous"
 ---

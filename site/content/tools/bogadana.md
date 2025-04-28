@@ -1,6 +1,6 @@
 ---
 title: "bogadana"
 description: ""
-url: "https://github.com/bogadana"
+external_url: "https://github.com/bogadana"
 category: "Miscellaneous"
 ---

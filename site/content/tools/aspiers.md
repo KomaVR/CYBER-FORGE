@@ -1,6 +1,6 @@
 ---
 title: "aspiers"
 description: ""
-url: "https://github.com/aspiers"
+external_url: "https://github.com/aspiers"
 category: "Miscellaneous"
 ---

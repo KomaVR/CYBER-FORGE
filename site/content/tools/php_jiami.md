@@ -1,6 +1,6 @@
 ---
 title: "PHP Jiami"
 description: ""
-url: "http://www.phpjiami.com/"
+external_url: "http://www.phpjiami.com/"
 category: "Miscellaneous"
 ---

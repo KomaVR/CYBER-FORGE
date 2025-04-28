@@ -1,6 +1,6 @@
 ---
 title: "Panjiva (Cargo)"
 description: ""
-url: "https://panjiva.com/search"
+external_url: "https://panjiva.com/search"
 category: "Miscellaneous"
 ---

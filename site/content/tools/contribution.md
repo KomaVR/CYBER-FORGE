@@ -7,6 +7,6 @@ Release History
 Troubleshooting
 
 "
-url: "https://www.blacklanternsecurity.com/bbot/Stable/contribution"
+external_url: "https://www.blacklanternsecurity.com/bbot/Stable/contribution"
 category: "Miscellaneous"
 ---

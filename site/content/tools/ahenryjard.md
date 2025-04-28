@@ -1,6 +1,6 @@
 ---
 title: "aHenryJard"
 description: ""
-url: "https://github.com/aHenryJard"
+external_url: "https://github.com/aHenryJard"
 category: "Miscellaneous"
 ---

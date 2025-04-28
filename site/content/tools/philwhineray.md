@@ -1,6 +1,6 @@
 ---
 title: "philwhineray"
 description: "philwhineray"
-url: "https://github.com/philwhineray"
+external_url: "https://github.com/philwhineray"
 category: "Miscellaneous"
 ---

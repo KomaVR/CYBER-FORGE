@@ -1,6 +1,6 @@
 ---
 title: "kotakanbe"
 description: ""
-url: "https://github.com/kotakanbe"
+external_url: "https://github.com/kotakanbe"
 category: "Miscellaneous"
 ---

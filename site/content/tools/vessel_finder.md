@@ -1,6 +1,6 @@
 ---
 title: "Vessel Finder"
 description: ""
-url: "https://www.vesselfinder.com"
+external_url: "https://www.vesselfinder.com"
 category: "Miscellaneous"
 ---

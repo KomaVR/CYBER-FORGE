@@ -1,6 +1,6 @@
 ---
 title: "Pitastic"
 description: ""
-url: "https://github.com/Pitastic"
+external_url: "https://github.com/Pitastic"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Annoraaq"
 description: ""
-url: "https://github.com/Annoraaq"
+external_url: "https://github.com/Annoraaq"
 category: "Miscellaneous"
 ---

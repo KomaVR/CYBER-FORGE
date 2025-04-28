@@ -1,6 +1,6 @@
 ---
 title: "hack.lu CTF"
 description: ""
-url: "http://hack.lu/"
+external_url: "http://hack.lu/"
 category: "Miscellaneous"
 ---

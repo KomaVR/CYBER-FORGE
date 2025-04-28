@@ -1,6 +1,6 @@
 ---
 title: "gandro"
 description: ""
-url: "https://github.com/gandro"
+external_url: "https://github.com/gandro"
 category: "Miscellaneous"
 ---

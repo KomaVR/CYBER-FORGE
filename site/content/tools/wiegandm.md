@@ -1,6 +1,6 @@
 ---
 title: "wiegandm"
 description: ""
-url: "https://github.com/wiegandm"
+external_url: "https://github.com/wiegandm"
 category: "Miscellaneous"
 ---

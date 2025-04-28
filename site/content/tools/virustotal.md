@@ -1,6 +1,6 @@
 ---
 title: "VirusTotal"
 description: ""
-url: "https://www.virustotal.com/#/home/upload"
+external_url: "https://www.virustotal.com/#/home/upload"
 category: "Miscellaneous"
 ---

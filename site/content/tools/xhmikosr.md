@@ -1,6 +1,6 @@
 ---
 title: "XhmikosR"
 description: ""
-url: "https://github.com/XhmikosR"
+external_url: "https://github.com/XhmikosR"
 category: "Miscellaneous"
 ---

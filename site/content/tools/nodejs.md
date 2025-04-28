@@ -1,6 +1,6 @@
 ---
 title: "NodeJS"
 description: "installed on your computer"
-url: "https://nodejs.org/en/download/"
+external_url: "https://nodejs.org/en/download/"
 category: "Miscellaneous"
 ---

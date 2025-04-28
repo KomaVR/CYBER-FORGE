@@ -1,6 +1,6 @@
 ---
 title: "schwabe"
 description: ""
-url: "https://github.com/schwabe"
+external_url: "https://github.com/schwabe"
 category: "Miscellaneous"
 ---

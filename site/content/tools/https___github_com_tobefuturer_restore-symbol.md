@@ -44,6 +44,6 @@ NO
 
 
 "
-url: "https://github.com/tobefuturer/restore-symbol"
+external_url: "https://github.com/tobefuturer/restore-symbol"
 category: "Reverse Engineering"
 ---

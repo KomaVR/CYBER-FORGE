@@ -1,6 +1,6 @@
 ---
 title: "twbirthday"
 description: ""
-url: "http://twbirthday.com/"
+external_url: "http://twbirthday.com/"
 category: "Miscellaneous"
 ---

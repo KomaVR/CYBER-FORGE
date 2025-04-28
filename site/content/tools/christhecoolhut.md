@@ -1,6 +1,6 @@
 ---
 title: "ChrisTheCoolHut"
 description: ""
-url: "https://github.com/ChrisTheCoolHut"
+external_url: "https://github.com/ChrisTheCoolHut"
 category: "Miscellaneous"
 ---

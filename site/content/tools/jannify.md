@@ -1,6 +1,6 @@
 ---
 title: "Jannify"
 description: ""
-url: "https://github.com/Jannify"
+external_url: "https://github.com/Jannify"
 category: "Miscellaneous"
 ---

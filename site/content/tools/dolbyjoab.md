@@ -1,6 +1,6 @@
 ---
 title: "dolbyjoab"
 description: ""
-url: "https://github.com/dolbyjoab"
+external_url: "https://github.com/dolbyjoab"
 category: "Miscellaneous"
 ---

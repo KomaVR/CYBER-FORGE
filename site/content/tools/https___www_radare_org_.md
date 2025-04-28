@@ -1,6 +1,6 @@
 ---
 title: "https://www.radare.org/"
 description: "Website:"
-url: "https://www.radare.org/"
+external_url: "https://www.radare.org/"
 category: "Web Exploitation"
 ---

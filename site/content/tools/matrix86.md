@@ -1,6 +1,6 @@
 ---
 title: "Matrix86"
 description: ""
-url: "https://github.com/Matrix86"
+external_url: "https://github.com/Matrix86"
 category: "Miscellaneous"
 ---

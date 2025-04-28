@@ -1,6 +1,6 @@
 ---
 title: "schoobydrew"
 description: ""
-url: "https://github.com/schoobydrew"
+external_url: "https://github.com/schoobydrew"
 category: "Miscellaneous"
 ---

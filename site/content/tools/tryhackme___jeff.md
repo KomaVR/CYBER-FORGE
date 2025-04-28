@@ -3,6 +3,6 @@ title: "TryHackMe | Jeff"
 description: "
  
 "
-url: "https://tryhackme.com/room/jeff"
+external_url: "https://tryhackme.com/room/jeff"
 category: "Miscellaneous"
 ---

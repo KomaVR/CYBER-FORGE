@@ -1,6 +1,6 @@
 ---
 title: "Eluta"
 description: "(CA)"
-url: "http://www.eluta.ca/"
+external_url: "http://www.eluta.ca/"
 category: "Miscellaneous"
 ---

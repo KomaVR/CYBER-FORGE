@@ -1,6 +1,6 @@
 ---
 title: "mrphrazer"
 description: ""
-url: "https://github.com/mrphrazer"
+external_url: "https://github.com/mrphrazer"
 category: "Miscellaneous"
 ---

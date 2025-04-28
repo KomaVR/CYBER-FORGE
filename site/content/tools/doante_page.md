@@ -1,6 +1,6 @@
 ---
 title: "doante page"
 description: ""
-url: "https://github.com/samsesh/donate"
+external_url: "https://github.com/samsesh/donate"
 category: "Miscellaneous"
 ---

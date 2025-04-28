@@ -1,6 +1,6 @@
 ---
 title: "https://wiki.debian.org/ClamAV"
 description: ""
-url: "https://wiki.debian.org/ClamAV"
+external_url: "https://wiki.debian.org/ClamAV"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "https://avd.aliyun.com/high-risk/list"
 description: "阿里云漏洞库:"
-url: "https://avd.aliyun.com/high-risk/list"
+external_url: "https://avd.aliyun.com/high-risk/list"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "rotthh"
 description: ""
-url: "https://github.com/rotthh"
+external_url: "https://github.com/rotthh"
 category: "Miscellaneous"
 ---

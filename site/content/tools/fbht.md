@@ -1,6 +1,6 @@
 ---
 title: "fbht"
 description: "Facebook Hacking Tool."
-url: "https://github.com/chinoogawa/fbht"
+external_url: "https://github.com/chinoogawa/fbht"
 category: "Miscellaneous"
 ---

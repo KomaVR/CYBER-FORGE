@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://www.patreon.com/user?u=84705980"
+external_url: "https://www.patreon.com/user?u=84705980"
 category: "Miscellaneous"
 ---

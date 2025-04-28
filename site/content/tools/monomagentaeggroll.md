@@ -1,6 +1,6 @@
 ---
 title: "monomagentaeggroll"
 description: ""
-url: "https://github.com/monomagentaeggroll"
+external_url: "https://github.com/monomagentaeggroll"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "SimplyHired"
 description: ""
-url: "http://www.simplyhired.com"
+external_url: "http://www.simplyhired.com"
 category: "Miscellaneous"
 ---

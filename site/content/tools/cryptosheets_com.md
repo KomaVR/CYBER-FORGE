@@ -1,6 +1,6 @@
 ---
 title: "cryptosheets.com"
 description: ""
-url: "https://cryptosheets.com"
+external_url: "https://cryptosheets.com"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "StefRe"
 description: ""
-url: "https://github.com/StefRe"
+external_url: "https://github.com/StefRe"
 category: "Miscellaneous"
 ---

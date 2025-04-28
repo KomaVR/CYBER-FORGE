@@ -1,6 +1,6 @@
 ---
 title: "snovvcrash"
 description: ""
-url: "https://github.com/snovvcrash"
+external_url: "https://github.com/snovvcrash"
 category: "Miscellaneous"
 ---

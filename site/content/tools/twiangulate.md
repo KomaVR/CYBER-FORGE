@@ -1,6 +1,6 @@
 ---
 title: "Twiangulate"
 description: ""
-url: "http://www.twiangulate.com/"
+external_url: "http://www.twiangulate.com/"
 category: "Miscellaneous"
 ---

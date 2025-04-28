@@ -1,6 +1,6 @@
 ---
 title: "gynvael"
 description: ""
-url: "https://github.com/gynvael"
+external_url: "https://github.com/gynvael"
 category: "Miscellaneous"
 ---

@@ -2,6 +2,6 @@
 title: "deepzec"
 description: "deepzec
 Deepu TV"
-url: "https://github.com/deepzec"
+external_url: "https://github.com/deepzec"
 category: "Miscellaneous"
 ---

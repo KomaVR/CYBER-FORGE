@@ -7,6 +7,6 @@ To use the included client, navigate to:
 Or set the API base for your client to: http://localhost:8080/v1
 
 "
-url: "http://localhost:8080/chat/"
+external_url: "http://localhost:8080/chat/"
 category: "Miscellaneous"
 ---

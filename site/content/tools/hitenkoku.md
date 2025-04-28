@@ -2,6 +2,6 @@
 title: "hitenkoku"
 description: "hitenkoku
 DustInDark"
-url: "https://github.com/hitenkoku"
+external_url: "https://github.com/hitenkoku"
 category: "Miscellaneous"
 ---

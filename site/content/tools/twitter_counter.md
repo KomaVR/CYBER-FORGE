@@ -1,6 +1,6 @@
 ---
 title: "Twitter Counter"
 description: ""
-url: "http://twittercounter.com/"
+external_url: "http://twittercounter.com/"
 category: "Miscellaneous"
 ---

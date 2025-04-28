@@ -1,6 +1,6 @@
 ---
 title: "r/TelegramChannels"
 description: ""
-url: "https://www.reddit.com/r/TelegramChannels/"
+external_url: "https://www.reddit.com/r/TelegramChannels/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "jalvarezit"
 description: ""
-url: "https://github.com/jalvarezit"
+external_url: "https://github.com/jalvarezit"
 category: "Miscellaneous"
 ---

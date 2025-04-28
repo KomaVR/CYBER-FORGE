@@ -14,6 +14,6 @@ RedPwn CTF 2019 - Blueprint
 
 
 "
-url: "https://www.anquanke.com/post/id/185377"
+external_url: "https://www.anquanke.com/post/id/185377"
 category: "Black Hat Tools"
 ---

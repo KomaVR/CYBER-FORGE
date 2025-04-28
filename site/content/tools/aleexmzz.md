@@ -1,6 +1,6 @@
 ---
 title: "AleexMzz"
 description: ""
-url: "https://github.com/AleexMzz"
+external_url: "https://github.com/AleexMzz"
 category: "Miscellaneous"
 ---

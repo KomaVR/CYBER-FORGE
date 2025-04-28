@@ -1,6 +1,6 @@
 ---
 title: "tobtoht"
 description: ""
-url: "https://github.com/tobtoht"
+external_url: "https://github.com/tobtoht"
 category: "Miscellaneous"
 ---

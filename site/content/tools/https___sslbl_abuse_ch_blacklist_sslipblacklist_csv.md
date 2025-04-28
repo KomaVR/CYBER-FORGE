@@ -1,6 +1,6 @@
 ---
 title: "https://sslbl.abuse.ch/blacklist/sslipblacklist.csv"
 description: ""
-url: "https://sslbl.abuse.ch/blacklist/sslipblacklist.csv"
+external_url: "https://sslbl.abuse.ch/blacklist/sslipblacklist.csv"
 category: "Miscellaneous"
 ---

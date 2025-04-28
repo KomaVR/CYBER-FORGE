@@ -1,6 +1,6 @@
 ---
 title: "ipsw.me"
 description: ""
-url: "https://ipsw.me"
+external_url: "https://ipsw.me"
 category: "Miscellaneous"
 ---

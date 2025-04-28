@@ -1,6 +1,6 @@
 ---
 title: "Metasploit Modules"
 description: ""
-url: "https://github.com/rapid7/metasploit-framework/tree/master/modules"
+external_url: "https://github.com/rapid7/metasploit-framework/tree/master/modules"
 category: "Miscellaneous"
 ---

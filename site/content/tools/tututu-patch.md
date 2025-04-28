@@ -1,6 +1,6 @@
 ---
 title: "tututu-patch"
 description: ""
-url: "https://github.com/tututu-patch"
+external_url: "https://github.com/tututu-patch"
 category: "Miscellaneous"
 ---

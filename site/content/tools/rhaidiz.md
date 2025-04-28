@@ -1,6 +1,6 @@
 ---
 title: "rhaidiz"
 description: ""
-url: "https://github.com/rhaidiz"
+external_url: "https://github.com/rhaidiz"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "lizrice"
 description: ""
-url: "https://github.com/lizrice"
+external_url: "https://github.com/lizrice"
 category: "Miscellaneous"
 ---

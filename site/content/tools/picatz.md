@@ -1,6 +1,6 @@
 ---
 title: "picatz"
 description: ""
-url: "https://github.com/picatz"
+external_url: "https://github.com/picatz"
 category: "Miscellaneous"
 ---

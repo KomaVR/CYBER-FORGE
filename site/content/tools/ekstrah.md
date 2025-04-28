@@ -1,6 +1,6 @@
 ---
 title: "ekstrah"
 description: ""
-url: "https://github.com/ekstrah"
+external_url: "https://github.com/ekstrah"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "lstep"
 description: ""
-url: "https://github.com/lstep"
+external_url: "https://github.com/lstep"
 category: "Miscellaneous"
 ---

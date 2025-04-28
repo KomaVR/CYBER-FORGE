@@ -1,6 +1,6 @@
 ---
 title: "julianoborba"
 description: ""
-url: "https://github.com/julianoborba"
+external_url: "https://github.com/julianoborba"
 category: "Miscellaneous"
 ---

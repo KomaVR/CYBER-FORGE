@@ -1,6 +1,6 @@
 ---
 title: "Secureheaders"
 description: "Security related headers all in one gem."
-url: "https://github.com/twitter/secureheaders"
+external_url: "https://github.com/twitter/secureheaders"
 category: "Miscellaneous"
 ---

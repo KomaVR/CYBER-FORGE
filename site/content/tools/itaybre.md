@@ -1,6 +1,6 @@
 ---
 title: "Itaybre"
 description: ""
-url: "https://github.com/Itaybre"
+external_url: "https://github.com/Itaybre"
 category: "Miscellaneous"
 ---

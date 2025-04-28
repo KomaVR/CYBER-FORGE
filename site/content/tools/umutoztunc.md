@@ -1,6 +1,6 @@
 ---
 title: "umutoztunc"
 description: ""
-url: "https://github.com/umutoztunc"
+external_url: "https://github.com/umutoztunc"
 category: "Miscellaneous"
 ---

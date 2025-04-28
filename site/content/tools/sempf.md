@@ -1,6 +1,6 @@
 ---
 title: "sempf"
 description: ""
-url: "https://github.com/sempf"
+external_url: "https://github.com/sempf"
 category: "Miscellaneous"
 ---

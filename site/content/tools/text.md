@@ -1,6 +1,6 @@
 ---
 title: "Text"
 description: "(text)."
-url: "http://www.arachni-scanner.com/reports/report.txt"
+external_url: "http://www.arachni-scanner.com/reports/report.txt"
 category: "Miscellaneous"
 ---

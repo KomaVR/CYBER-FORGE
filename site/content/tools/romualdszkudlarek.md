@@ -1,6 +1,6 @@
 ---
 title: "romualdszkudlarek"
 description: ""
-url: "https://github.com/romualdszkudlarek"
+external_url: "https://github.com/romualdszkudlarek"
 category: "Miscellaneous"
 ---

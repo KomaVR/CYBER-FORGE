@@ -1,6 +1,6 @@
 ---
 title: "SOC Prime"
 description: ""
-url: "https://tdm.socprime.com/sigma/"
+external_url: "https://tdm.socprime.com/sigma/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "faradaysec.com"
 description: "Homepage:"
-url: "https://www.faradaysec.com"
+external_url: "https://www.faradaysec.com"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "cosmograph.app"
 description: ""
-url: "https://cosmograph.app"
+external_url: "https://cosmograph.app"
 category: "Miscellaneous"
 ---

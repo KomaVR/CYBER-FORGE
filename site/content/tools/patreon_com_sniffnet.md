@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://patreon.com/Sniffnet"
+external_url: "https://patreon.com/Sniffnet"
 category: "Miscellaneous"
 ---

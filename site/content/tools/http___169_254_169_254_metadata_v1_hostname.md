@@ -1,6 +1,6 @@
 ---
 title: "http://169.254.169.254/metadata/v1/hostname"
 description: ""
-url: "http://169.254.169.254/metadata/v1/hostname"
+external_url: "http://169.254.169.254/metadata/v1/hostname"
 category: "Miscellaneous"
 ---

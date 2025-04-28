@@ -1,6 +1,6 @@
 ---
 title: "Telemetr"
 description: ""
-url: "https://telemetr.me/"
+external_url: "https://telemetr.me/"
 category: "Miscellaneous"
 ---

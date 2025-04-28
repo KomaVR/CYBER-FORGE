@@ -1,6 +1,6 @@
 ---
 title: "Court Listener"
 description: ""
-url: "https://www.courtlistener.com"
+external_url: "https://www.courtlistener.com"
 category: "Miscellaneous"
 ---

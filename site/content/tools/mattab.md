@@ -1,6 +1,6 @@
 ---
 title: "mattab"
 description: ""
-url: "https://github.com/mattab"
+external_url: "https://github.com/mattab"
 category: "Miscellaneous"
 ---

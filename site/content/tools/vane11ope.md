@@ -1,6 +1,6 @@
 ---
 title: "Vane11ope"
 description: ""
-url: "https://github.com/Vane11ope"
+external_url: "https://github.com/Vane11ope"
 category: "Miscellaneous"
 ---

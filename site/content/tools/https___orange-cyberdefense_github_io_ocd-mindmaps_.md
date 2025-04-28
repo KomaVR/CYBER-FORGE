@@ -14,6 +14,6 @@ https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
 https://hideandsec.sh/
 
 "
-url: "https://orange-cyberdefense.github.io/ocd-mindmaps/"
+external_url: "https://orange-cyberdefense.github.io/ocd-mindmaps/"
 category: "Black Hat Tools"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "porolli"
 description: ""
-url: "https://github.com/porolli"
+external_url: "https://github.com/porolli"
 category: "Miscellaneous"
 ---

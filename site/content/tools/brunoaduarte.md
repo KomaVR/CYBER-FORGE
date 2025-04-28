@@ -1,6 +1,6 @@
 ---
 title: "brunoaduarte"
 description: ""
-url: "https://github.com/brunoaduarte"
+external_url: "https://github.com/brunoaduarte"
 category: "Miscellaneous"
 ---

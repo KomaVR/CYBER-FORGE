@@ -1,6 +1,6 @@
 ---
 title: "KathanP19"
 description: ""
-url: "https://github.com/KathanP19"
+external_url: "https://github.com/KathanP19"
 category: "Miscellaneous"
 ---

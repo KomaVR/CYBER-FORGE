@@ -1,6 +1,6 @@
 ---
 title: "vinckr"
 description: ""
-url: "https://github.com/vinckr"
+external_url: "https://github.com/vinckr"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "A-YATTA"
 description: ""
-url: "https://github.com/A-YATTA"
+external_url: "https://github.com/A-YATTA"
 category: "Miscellaneous"
 ---

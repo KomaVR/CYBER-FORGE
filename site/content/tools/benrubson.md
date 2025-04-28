@@ -1,6 +1,6 @@
 ---
 title: "benrubson"
 description: ""
-url: "https://github.com/benrubson"
+external_url: "https://github.com/benrubson"
 category: "Miscellaneous"
 ---

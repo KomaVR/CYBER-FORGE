@@ -1,6 +1,6 @@
 ---
 title: "Proof"
 description: ""
-url: "https://sagi.io/crypto-classics-wieners-rsa-attack/"
+external_url: "https://sagi.io/crypto-classics-wieners-rsa-attack/"
 category: "Miscellaneous"
 ---

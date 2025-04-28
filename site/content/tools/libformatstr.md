@@ -1,6 +1,6 @@
 ---
 title: "libformatstr"
 description: "Simplify format string exploitation."
-url: "https://github.com/hellman/libformatstr"
+external_url: "https://github.com/hellman/libformatstr"
 category: "Black Hat Tools"
 ---

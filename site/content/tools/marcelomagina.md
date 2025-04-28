@@ -1,6 +1,6 @@
 ---
 title: "marcelomagina"
 description: ""
-url: "https://github.com/marcelomagina"
+external_url: "https://github.com/marcelomagina"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "YouTube Data Viewer"
 description: ""
-url: "https://www.amnestyusa.org/citizenevidence"
+external_url: "https://www.amnestyusa.org/citizenevidence"
 category: "Miscellaneous"
 ---

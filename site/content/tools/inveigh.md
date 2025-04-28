@@ -1,6 +1,6 @@
 ---
 title: "Inveigh"
 description: ""
-url: "https://github.com/Kevin-Robertson/Inveigh"
+external_url: "https://github.com/Kevin-Robertson/Inveigh"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "DomainPasswordSpray"
 description: ""
-url: "https://github.com/dafthack/DomainPasswordSpray"
+external_url: "https://github.com/dafthack/DomainPasswordSpray"
 category: "Miscellaneous"
 ---

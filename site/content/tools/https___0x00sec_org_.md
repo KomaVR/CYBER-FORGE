@@ -1,6 +1,6 @@
 ---
 title: "https://0x00sec.org/"
 description: ""
-url: "https://0x00sec.org/"
+external_url: "https://0x00sec.org/"
 category: "Miscellaneous"
 ---

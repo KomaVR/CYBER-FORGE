@@ -1,6 +1,6 @@
 ---
 title: "wagmi.sh"
 description: ""
-url: "https://wagmi.sh/cli/plugins"
+external_url: "https://wagmi.sh/cli/plugins"
 category: "Miscellaneous"
 ---

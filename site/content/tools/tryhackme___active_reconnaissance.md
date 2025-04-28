@@ -3,6 +3,6 @@ title: "TryHackMe | Active Reconnaissance"
 description: "
  
 "
-url: "https://tryhackme.com/room/activerecon"
+external_url: "https://tryhackme.com/room/activerecon"
 category: "OSINT & Recon"
 ---

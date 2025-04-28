@@ -1,6 +1,6 @@
 ---
 title: "srguiwiz"
 description: ""
-url: "https://github.com/srguiwiz"
+external_url: "https://github.com/srguiwiz"
 category: "Miscellaneous"
 ---

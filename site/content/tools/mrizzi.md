@@ -1,6 +1,6 @@
 ---
 title: "mrizzi"
 description: ""
-url: "https://github.com/mrizzi"
+external_url: "https://github.com/mrizzi"
 category: "Miscellaneous"
 ---

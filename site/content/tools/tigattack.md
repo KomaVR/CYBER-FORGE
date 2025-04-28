@@ -1,6 +1,6 @@
 ---
 title: "tigattack"
 description: ""
-url: "https://github.com/tigattack"
+external_url: "https://github.com/tigattack"
 category: "Miscellaneous"
 ---

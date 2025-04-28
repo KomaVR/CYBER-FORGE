@@ -1,6 +1,6 @@
 ---
 title: "Vsitut"
 description: ""
-url: "https://vsitut.com/"
+external_url: "https://vsitut.com/"
 category: "Miscellaneous"
 ---

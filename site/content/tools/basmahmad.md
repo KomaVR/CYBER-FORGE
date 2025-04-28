@@ -1,6 +1,6 @@
 ---
 title: "Basmahmad"
 description: ""
-url: "https://github.com/Basmahmad"
+external_url: "https://github.com/Basmahmad"
 category: "Miscellaneous"
 ---

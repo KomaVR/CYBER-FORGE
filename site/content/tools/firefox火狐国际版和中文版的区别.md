@@ -16,6 +16,6 @@ Mozilla 向用户展示 Firefox 收集的遥测数据
 
 
 "
-url: "http://www.177kan.com/html/2017033130.html"
+external_url: "http://www.177kan.com/html/2017033130.html"
 category: "Miscellaneous"
 ---

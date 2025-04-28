@@ -1,6 +1,6 @@
 ---
 title: "Lumen Database"
 description: ""
-url: "https://lumendatabase.org/"
+external_url: "https://lumendatabase.org/"
 category: "Miscellaneous"
 ---

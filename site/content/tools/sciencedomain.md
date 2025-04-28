@@ -1,6 +1,6 @@
 ---
 title: "ScienceDomain"
 description: ""
-url: "http://www.sciencedomain.org"
+external_url: "http://www.sciencedomain.org"
 category: "Miscellaneous"
 ---

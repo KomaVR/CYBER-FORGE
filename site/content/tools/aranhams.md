@@ -1,6 +1,6 @@
 ---
 title: "aranhams"
 description: ""
-url: "https://github.com/aranhams"
+external_url: "https://github.com/aranhams"
 category: "Miscellaneous"
 ---

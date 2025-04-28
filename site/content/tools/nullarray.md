@@ -1,6 +1,6 @@
 ---
 title: "NullArray"
 description: ""
-url: "https://github.com/NullArray"
+external_url: "https://github.com/NullArray"
 category: "Miscellaneous"
 ---

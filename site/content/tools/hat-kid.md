@@ -1,6 +1,6 @@
 ---
 title: "Hat-Kid"
 description: ""
-url: "https://github.com/Hat-Kid"
+external_url: "https://github.com/Hat-Kid"
 category: "Miscellaneous"
 ---

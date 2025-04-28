@@ -1,6 +1,6 @@
 ---
 title: "IshanBatish"
 description: ""
-url: "https://github.com/IshanBatish"
+external_url: "https://github.com/IshanBatish"
 category: "Miscellaneous"
 ---

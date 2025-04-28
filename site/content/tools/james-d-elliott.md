@@ -1,6 +1,6 @@
 ---
 title: "james-d-elliott"
 description: ""
-url: "https://github.com/james-d-elliott"
+external_url: "https://github.com/james-d-elliott"
 category: "Miscellaneous"
 ---

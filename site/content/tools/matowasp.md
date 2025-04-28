@@ -1,6 +1,6 @@
 ---
 title: "MatOwasp"
 description: ""
-url: "https://github.com/MatOwasp"
+external_url: "https://github.com/MatOwasp"
 category: "Miscellaneous"
 ---

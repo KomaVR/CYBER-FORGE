@@ -1,6 +1,6 @@
 ---
 title: "Drozer"
 description: ""
-url: "https://www.mwrinfosecurity.com/products/drozer/"
+external_url: "https://www.mwrinfosecurity.com/products/drozer/"
 category: "Miscellaneous"
 ---

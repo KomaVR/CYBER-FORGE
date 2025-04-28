@@ -1,6 +1,6 @@
 ---
 title: "p0dalirius"
 description: ""
-url: "https://github.com/p0dalirius"
+external_url: "https://github.com/p0dalirius"
 category: "Miscellaneous"
 ---

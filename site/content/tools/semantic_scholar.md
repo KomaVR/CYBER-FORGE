@@ -1,6 +1,6 @@
 ---
 title: "Semantic Scholar"
 description: ""
-url: "https://www.semanticscholar.org/"
+external_url: "https://www.semanticscholar.org/"
 category: "Miscellaneous"
 ---

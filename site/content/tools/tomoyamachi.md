@@ -1,6 +1,6 @@
 ---
 title: "tomoyamachi"
 description: ""
-url: "https://github.com/tomoyamachi"
+external_url: "https://github.com/tomoyamachi"
 category: "Miscellaneous"
 ---

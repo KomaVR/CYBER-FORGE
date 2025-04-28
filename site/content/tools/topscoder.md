@@ -2,6 +2,6 @@
 title: "topscoder"
 description: "topscoder
 topscoder"
-url: "https://github.com/topscoder"
+external_url: "https://github.com/topscoder"
 category: "Miscellaneous"
 ---

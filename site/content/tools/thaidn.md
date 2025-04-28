@@ -1,6 +1,6 @@
 ---
 title: "thaidn"
 description: ""
-url: "https://github.com/thaidn"
+external_url: "https://github.com/thaidn"
 category: "Miscellaneous"
 ---

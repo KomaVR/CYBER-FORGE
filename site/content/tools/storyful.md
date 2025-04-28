@@ -1,6 +1,6 @@
 ---
 title: "Storyful"
 description: ""
-url: "http://storyful.com"
+external_url: "http://storyful.com"
 category: "Miscellaneous"
 ---

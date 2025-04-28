@@ -1,6 +1,6 @@
 ---
 title: "CSE 446/546 - Machine Learning, Spring 2020 - University of Washington"
 description: "(Videos)"
-url: "https://courses.cs.washington.edu/courses/cse446/20sp/schedule/"
+external_url: "https://courses.cs.washington.edu/courses/cse446/20sp/schedule/"
 category: "Miscellaneous"
 ---

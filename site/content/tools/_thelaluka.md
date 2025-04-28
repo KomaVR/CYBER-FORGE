@@ -1,6 +1,6 @@
 ---
 title: "@TheLaluka"
 description: "Initial release by"
-url: "https://twitter.com/TheLaluka"
+external_url: "https://twitter.com/TheLaluka"
 category: "Miscellaneous"
 ---

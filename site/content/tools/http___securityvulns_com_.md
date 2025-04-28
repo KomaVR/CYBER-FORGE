@@ -1,6 +1,6 @@
 ---
 title: "http://securityvulns.com/"
 description: ""
-url: "http://securityvulns.com/"
+external_url: "http://securityvulns.com/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "ClaudiuHKS"
 description: ""
-url: "https://github.com/ClaudiuHKS"
+external_url: "https://github.com/ClaudiuHKS"
 category: "Miscellaneous"
 ---

@@ -3,6 +3,6 @@ title: "TryHackMe | CC: Ghidra"
 description: "
  
 "
-url: "https://tryhackme.com/room/ccghidra"
+external_url: "https://tryhackme.com/room/ccghidra"
 category: "Reverse Engineering"
 ---

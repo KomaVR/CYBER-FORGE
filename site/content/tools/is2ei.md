@@ -1,6 +1,6 @@
 ---
 title: "is2ei"
 description: ""
-url: "https://github.com/is2ei"
+external_url: "https://github.com/is2ei"
 category: "Miscellaneous"
 ---

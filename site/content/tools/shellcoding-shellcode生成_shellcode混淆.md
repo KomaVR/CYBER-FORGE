@@ -1,6 +1,6 @@
 ---
 title: "Shellcoding-shellcode生成+shellcode混淆"
 description: ""
-url: "https://github.com/Mr-Un1k0d3r/Shellcoding"
+external_url: "https://github.com/Mr-Un1k0d3r/Shellcoding"
 category: "Miscellaneous"
 ---

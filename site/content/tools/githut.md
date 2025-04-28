@@ -1,6 +1,6 @@
 ---
 title: "GitHut"
 description: "Programming Languages and GitHub"
-url: "https://githut.info/"
+external_url: "https://githut.info/"
 category: "Miscellaneous"
 ---

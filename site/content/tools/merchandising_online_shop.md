@@ -1,6 +1,6 @@
 ---
 title: "Merchandising Online Shop"
 description: ""
-url: "https://airgeddon.creator-spring.com/"
+external_url: "https://airgeddon.creator-spring.com/"
 category: "Miscellaneous"
 ---

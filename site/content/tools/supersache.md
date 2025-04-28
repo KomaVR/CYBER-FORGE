@@ -1,6 +1,6 @@
 ---
 title: "supersache"
 description: ""
-url: "https://github.com/supersache"
+external_url: "https://github.com/supersache"
 category: "Miscellaneous"
 ---

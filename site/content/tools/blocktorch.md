@@ -1,6 +1,6 @@
 ---
 title: "blocktorch"
 description: ""
-url: "https://www.blocktorch.xyz/"
+external_url: "https://www.blocktorch.xyz/"
 category: "Miscellaneous"
 ---

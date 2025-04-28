@@ -1,6 +1,6 @@
 ---
 title: "therealchiendat"
 description: ""
-url: "https://github.com/therealchiendat"
+external_url: "https://github.com/therealchiendat"
 category: "Miscellaneous"
 ---

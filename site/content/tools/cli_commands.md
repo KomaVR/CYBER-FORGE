@@ -1,6 +1,6 @@
 ---
 title: "CLI commands"
 description: ""
-url: "https://tailpipe.io/docs/reference/cli"
+external_url: "https://tailpipe.io/docs/reference/cli"
 category: "Miscellaneous"
 ---

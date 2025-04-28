@@ -6,6 +6,6 @@ AVAST
 
 
 "
-url: "https://www.landiannews.com/archives/69469.html"
+external_url: "https://www.landiannews.com/archives/69469.html"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "browse.ai"
 description: ""
-url: "https://browse.ai"
+external_url: "https://browse.ai"
 category: "Miscellaneous"
 ---

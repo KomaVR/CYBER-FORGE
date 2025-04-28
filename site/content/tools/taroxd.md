@@ -1,6 +1,6 @@
 ---
 title: "taroxd"
 description: ""
-url: "https://github.com/taroxd"
+external_url: "https://github.com/taroxd"
 category: "Miscellaneous"
 ---

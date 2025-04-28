@@ -1,6 +1,6 @@
 ---
 title: "Swisscows"
 description: ""
-url: "https://swisscows.com/en"
+external_url: "https://swisscows.com/en"
 category: "Miscellaneous"
 ---

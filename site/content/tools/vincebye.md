@@ -1,6 +1,6 @@
 ---
 title: "Vincebye"
 description: ""
-url: "https://github.com/Vincebye"
+external_url: "https://github.com/Vincebye"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "sgiehl"
 description: ""
-url: "https://github.com/sgiehl"
+external_url: "https://github.com/sgiehl"
 category: "Miscellaneous"
 ---

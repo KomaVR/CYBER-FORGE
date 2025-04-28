@@ -1,6 +1,6 @@
 ---
 title: "Pierrick Brunet"
 description: "Quarkslab"
-url: "https://github.com/pbrunet"
+external_url: "https://github.com/pbrunet"
 category: "Miscellaneous"
 ---

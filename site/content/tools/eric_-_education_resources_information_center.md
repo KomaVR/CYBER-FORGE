@@ -1,6 +1,6 @@
 ---
 title: "ERIC - Education Resources Information Center"
 description: ""
-url: "https://eric.ed.gov/"
+external_url: "https://eric.ed.gov/"
 category: "Miscellaneous"
 ---

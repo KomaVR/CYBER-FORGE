@@ -9,6 +9,6 @@ Running followup modules on the results
 Unscoping entities
 
 "
-url: "https://sn0int.readthedocs.io/en/latest/usage.html"
+external_url: "https://sn0int.readthedocs.io/en/latest/usage.html"
 category: "Miscellaneous"
 ---

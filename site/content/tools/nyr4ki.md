@@ -1,6 +1,6 @@
 ---
 title: "Nyr4ki"
 description: ""
-url: "https://github.com/Nyr4ki"
+external_url: "https://github.com/Nyr4ki"
 category: "Miscellaneous"
 ---

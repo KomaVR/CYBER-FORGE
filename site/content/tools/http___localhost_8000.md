@@ -7,6 +7,6 @@ Username: alice
 Password: alice
 
 "
-url: "http://localhost:8000"
+external_url: "http://localhost:8000"
 category: "Miscellaneous"
 ---

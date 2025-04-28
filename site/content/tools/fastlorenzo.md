@@ -1,6 +1,6 @@
 ---
 title: "fastlorenzo"
 description: ""
-url: "https://github.com/fastlorenzo"
+external_url: "https://github.com/fastlorenzo"
 category: "Miscellaneous"
 ---

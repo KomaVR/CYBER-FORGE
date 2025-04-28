@@ -1,6 +1,6 @@
 ---
 title: "Crowley723"
 description: ""
-url: "https://github.com/Crowley723"
+external_url: "https://github.com/Crowley723"
 category: "Miscellaneous"
 ---

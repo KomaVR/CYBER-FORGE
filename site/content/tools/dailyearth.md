@@ -1,6 +1,6 @@
 ---
 title: "DailyEarth"
 description: ""
-url: "http://dailyearth.com"
+external_url: "http://dailyearth.com"
 category: "Miscellaneous"
 ---

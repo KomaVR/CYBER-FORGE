@@ -1,6 +1,6 @@
 ---
 title: "xambroz"
 description: ""
-url: "https://github.com/xambroz"
+external_url: "https://github.com/xambroz"
 category: "Miscellaneous"
 ---

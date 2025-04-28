@@ -1,6 +1,6 @@
 ---
 title: "ProbiusOfficial"
 description: ""
-url: "https://github.com/ProbiusOfficial"
+external_url: "https://github.com/ProbiusOfficial"
 category: "Miscellaneous"
 ---

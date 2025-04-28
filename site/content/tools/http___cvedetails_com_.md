@@ -1,6 +1,6 @@
 ---
 title: "http://cvedetails.com/"
 description: ""
-url: "http://cvedetails.com/"
+external_url: "http://cvedetails.com/"
 category: "Miscellaneous"
 ---

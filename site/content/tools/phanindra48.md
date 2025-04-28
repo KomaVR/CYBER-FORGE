@@ -1,6 +1,6 @@
 ---
 title: "phanindra48"
 description: ""
-url: "https://github.com/phanindra48"
+external_url: "https://github.com/phanindra48"
 category: "Miscellaneous"
 ---

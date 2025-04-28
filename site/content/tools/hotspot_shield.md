@@ -1,6 +1,6 @@
 ---
 title: "Hotspot Shield"
 description: ""
-url: "https://www.hotspotshield.com"
+external_url: "https://www.hotspotshield.com"
 category: "Miscellaneous"
 ---

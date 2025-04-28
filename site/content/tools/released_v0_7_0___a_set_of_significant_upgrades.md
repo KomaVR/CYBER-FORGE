@@ -17,6 +17,6 @@ dbgpt-ext
 
 
 "
-url: "http://docs.dbgpt.cn/blog/db-gpt-v070-release"
+external_url: "http://docs.dbgpt.cn/blog/db-gpt-v070-release"
 category: "Miscellaneous"
 ---

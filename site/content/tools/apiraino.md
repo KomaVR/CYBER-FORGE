@@ -1,6 +1,6 @@
 ---
 title: "apiraino"
 description: ""
-url: "https://github.com/apiraino"
+external_url: "https://github.com/apiraino"
 category: "Miscellaneous"
 ---

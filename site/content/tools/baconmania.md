@@ -1,6 +1,6 @@
 ---
 title: "baconmania"
 description: ""
-url: "https://github.com/baconmania"
+external_url: "https://github.com/baconmania"
 category: "Miscellaneous"
 ---

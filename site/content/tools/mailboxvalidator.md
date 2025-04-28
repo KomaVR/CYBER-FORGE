@@ -1,6 +1,6 @@
 ---
 title: "Mailboxvalidator"
 description: "Secure and reliable email validation service to check for invalid email addresses"
-url: "https://www.mailboxvalidator.com/"
+external_url: "https://www.mailboxvalidator.com/"
 category: "Miscellaneous"
 ---

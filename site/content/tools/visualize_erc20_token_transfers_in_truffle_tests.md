@@ -1,6 +1,6 @@
 ---
 title: "Visualize ERC20 token transfers in Truffle Tests"
 description: ""
-url: "https://www.npmjs.com/package/truffle-token-test-utils"
+external_url: "https://www.npmjs.com/package/truffle-token-test-utils"
 category: "Miscellaneous"
 ---

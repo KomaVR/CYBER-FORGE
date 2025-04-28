@@ -1,6 +1,6 @@
 ---
 title: "Jarilaos"
 description: ", Twitter (X): @_Laox"
-url: "https://github.com/jarilaos"
+external_url: "https://github.com/jarilaos"
 category: "Miscellaneous"
 ---

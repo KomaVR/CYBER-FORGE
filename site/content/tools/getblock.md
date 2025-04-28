@@ -1,6 +1,6 @@
 ---
 title: "getblock"
 description: ""
-url: "https://getblock.net"
+external_url: "https://getblock.net"
 category: "Miscellaneous"
 ---

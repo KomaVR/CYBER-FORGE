@@ -1,6 +1,6 @@
 ---
 title: "kshjessica"
 description: ""
-url: "https://github.com/kshjessica"
+external_url: "https://github.com/kshjessica"
 category: "Miscellaneous"
 ---

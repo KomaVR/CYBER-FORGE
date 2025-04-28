@@ -1,6 +1,6 @@
 ---
 title: "ZikyHD"
 description: ""
-url: "https://github.com/ZikyHD"
+external_url: "https://github.com/ZikyHD"
 category: "Miscellaneous"
 ---

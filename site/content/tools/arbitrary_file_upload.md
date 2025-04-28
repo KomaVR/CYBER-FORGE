@@ -1,6 +1,6 @@
 ---
 title: "Arbitrary File Upload"
 description: ""
-url: "https://github.com/daffainfo/AllAboutBugBounty/blob/master/Arbitrary%20File%20Upload.md"
+external_url: "https://github.com/daffainfo/AllAboutBugBounty/blob/master/Arbitrary%20File%20Upload.md"
 category: "Miscellaneous"
 ---

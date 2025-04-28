@@ -1,6 +1,6 @@
 ---
 title: "domenukk"
 description: ""
-url: "https://github.com/domenukk"
+external_url: "https://github.com/domenukk"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "@CaledoniaProject"
 description: "CaledoniaProject(github )"
-url: "https://github.com/CaledoniaProject"
+external_url: "https://github.com/CaledoniaProject"
 category: "Miscellaneous"
 ---

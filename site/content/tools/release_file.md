@@ -7,6 +7,6 @@ ghidra_<version>_<release>_<date>.zip which can be found under the \"Assets\" dr
 Downloading either of the files named \"Source Code\" is not correct for this step.
 
 "
-url: "https://github.com/NationalSecurityAgency/ghidra/releases"
+external_url: "https://github.com/NationalSecurityAgency/ghidra/releases"
 category: "Reverse Engineering"
 ---

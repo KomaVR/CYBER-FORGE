@@ -1,6 +1,6 @@
 ---
 title: "Volatility Bot"
 description: "2019.01 [sans]"
-url: "https://www.sans.org/cyber-security-summit/archives/file/summit_archive_1492186622.pdf"
+external_url: "https://www.sans.org/cyber-security-summit/archives/file/summit_archive_1492186622.pdf"
 category: "Miscellaneous"
 ---

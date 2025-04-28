@@ -1,6 +1,6 @@
 ---
 title: "ODIN Certificates Search"
 description: ""
-url: "https://getodin.com/search/certificates"
+external_url: "https://getodin.com/search/certificates"
 category: "Miscellaneous"
 ---

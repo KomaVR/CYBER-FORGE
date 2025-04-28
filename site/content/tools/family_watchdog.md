@@ -1,6 +1,6 @@
 ---
 title: "Family Watchdog"
 description: ""
-url: "http://www.familywatchdog.us"
+external_url: "http://www.familywatchdog.us"
 category: "Miscellaneous"
 ---

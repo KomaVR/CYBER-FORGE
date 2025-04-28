@@ -1,6 +1,6 @@
 ---
 title: "ruthbell66"
 description: ""
-url: "https://github.com/ruthbell66"
+external_url: "https://github.com/ruthbell66"
 category: "Miscellaneous"
 ---

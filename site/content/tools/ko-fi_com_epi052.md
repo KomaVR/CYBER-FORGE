@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://ko-fi.com/epi052"
+external_url: "https://ko-fi.com/epi052"
 category: "Miscellaneous"
 ---

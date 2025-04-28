@@ -1,6 +1,6 @@
 ---
 title: "Eneru"
 description: ""
-url: "https://github.com/Eneru"
+external_url: "https://github.com/Eneru"
 category: "Miscellaneous"
 ---

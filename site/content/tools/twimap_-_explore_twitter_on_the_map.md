@@ -1,6 +1,6 @@
 ---
 title: "TwiMap - Explore Twitter on the Map"
 description: ""
-url: "https://twimap.com/"
+external_url: "https://twimap.com/"
 category: "Miscellaneous"
 ---

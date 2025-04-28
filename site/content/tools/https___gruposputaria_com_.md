@@ -1,6 +1,6 @@
 ---
 title: "https://gruposputaria.com/"
 description: ""
-url: "https://gruposputaria.com/"
+external_url: "https://gruposputaria.com/"
 category: "Miscellaneous"
 ---

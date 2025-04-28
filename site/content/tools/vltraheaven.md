@@ -1,6 +1,6 @@
 ---
 title: "VltraHeaven"
 description: ""
-url: "https://github.com/VltraHeaven"
+external_url: "https://github.com/VltraHeaven"
 category: "Miscellaneous"
 ---

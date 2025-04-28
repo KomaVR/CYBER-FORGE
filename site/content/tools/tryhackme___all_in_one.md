@@ -3,6 +3,6 @@ title: "TryHackMe | All in One"
 description: "
  
 "
-url: "https://tryhackme.com/room/allinonemj"
+external_url: "https://tryhackme.com/room/allinonemj"
 category: "Miscellaneous"
 ---

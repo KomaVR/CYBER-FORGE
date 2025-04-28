@@ -1,6 +1,6 @@
 ---
 title: "Wikido"
 description: ""
-url: "https://www.wikido.com/"
+external_url: "https://www.wikido.com/"
 category: "Miscellaneous"
 ---

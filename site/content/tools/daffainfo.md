@@ -2,6 +2,6 @@
 title: "daffainfo"
 description: "daffainfo
 Muhammad Daffa"
-url: "https://github.com/daffainfo"
+external_url: "https://github.com/daffainfo"
 category: "Miscellaneous"
 ---

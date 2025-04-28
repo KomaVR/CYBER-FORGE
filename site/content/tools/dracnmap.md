@@ -1,6 +1,6 @@
 ---
 title: "Dracnmap"
 description: ""
-url: "https://github.com/Screetsec/Dracnmap"
+external_url: "https://github.com/Screetsec/Dracnmap"
 category: "White Hat Tools"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Blackhat"
 description: ""
-url: "https://www.youtube.com/user/BlackHatOfficialYT"
+external_url: "https://www.youtube.com/user/BlackHatOfficialYT"
 category: "Miscellaneous"
 ---

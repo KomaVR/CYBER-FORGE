@@ -1,6 +1,6 @@
 ---
 title: "BlackB0lt"
 description: ""
-url: "https://github.com/BlackB0lt"
+external_url: "https://github.com/BlackB0lt"
 category: "Miscellaneous"
 ---

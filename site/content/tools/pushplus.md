@@ -1,6 +1,6 @@
 ---
 title: "pushplus"
 description: ""
-url: "https://pushplus.plus/"
+external_url: "https://pushplus.plus/"
 category: "Miscellaneous"
 ---

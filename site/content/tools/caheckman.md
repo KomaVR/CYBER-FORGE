@@ -1,6 +1,6 @@
 ---
 title: "caheckman"
 description: ""
-url: "https://github.com/caheckman"
+external_url: "https://github.com/caheckman"
 category: "Miscellaneous"
 ---

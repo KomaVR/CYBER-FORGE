@@ -6,6 +6,6 @@ description: "
 XSS Payloads
 
 "
-url: "https://github.com/Pgaijin66/XSS-Payloads/blob/master/payload.txt"
+external_url: "https://github.com/Pgaijin66/XSS-Payloads/blob/master/payload.txt"
 category: "Black Hat Tools"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/rebeyond/JNDInjector"
 description: ""
-url: "https://github.com/rebeyond/JNDInjector"
+external_url: "https://github.com/rebeyond/JNDInjector"
 category: "Miscellaneous"
 ---

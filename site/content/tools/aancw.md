@@ -1,6 +1,6 @@
 ---
 title: "aancw"
 description: ""
-url: "https://github.com/aancw"
+external_url: "https://github.com/aancw"
 category: "Miscellaneous"
 ---

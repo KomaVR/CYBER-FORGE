@@ -1,6 +1,6 @@
 ---
 title: "Full Contact Information Generator"
 description: ""
-url: "https://names.igopaygo.com/people/full-contact"
+external_url: "https://names.igopaygo.com/people/full-contact"
 category: "Miscellaneous"
 ---

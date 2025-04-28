@@ -1,6 +1,6 @@
 ---
 title: "mhofstetter"
 description: ""
-url: "https://github.com/mhofstetter"
+external_url: "https://github.com/mhofstetter"
 category: "Miscellaneous"
 ---

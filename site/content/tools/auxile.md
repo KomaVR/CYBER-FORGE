@@ -1,6 +1,6 @@
 ---
 title: "AUXILE"
 description: "Auxile Framework."
-url: "https://github.com/CiKu370/AUXILE"
+external_url: "https://github.com/CiKu370/AUXILE"
 category: "Miscellaneous"
 ---

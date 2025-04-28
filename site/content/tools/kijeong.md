@@ -1,6 +1,6 @@
 ---
 title: "kijeong"
 description: ""
-url: "https://github.com/kijeong"
+external_url: "https://github.com/kijeong"
 category: "Miscellaneous"
 ---

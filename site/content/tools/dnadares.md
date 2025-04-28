@@ -1,6 +1,6 @@
 ---
 title: "dnadares"
 description: ""
-url: "https://github.com/dnadares"
+external_url: "https://github.com/dnadares"
 category: "Miscellaneous"
 ---

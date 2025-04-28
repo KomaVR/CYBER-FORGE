@@ -1,6 +1,6 @@
 ---
 title: "nitescuc"
 description: ""
-url: "https://github.com/nitescuc"
+external_url: "https://github.com/nitescuc"
 category: "Miscellaneous"
 ---

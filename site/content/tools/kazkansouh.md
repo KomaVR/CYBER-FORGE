@@ -2,6 +2,6 @@
 title: "kazkansouh"
 description: "kazkansouh
 Karim Kanso"
-url: "https://github.com/kazkansouh"
+external_url: "https://github.com/kazkansouh"
 category: "Miscellaneous"
 ---

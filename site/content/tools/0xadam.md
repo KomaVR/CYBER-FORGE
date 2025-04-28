@@ -1,6 +1,6 @@
 ---
 title: "0xadam"
 description: ""
-url: "https://github.com/0xadam"
+external_url: "https://github.com/0xadam"
 category: "Miscellaneous"
 ---

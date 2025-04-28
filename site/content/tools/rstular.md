@@ -1,6 +1,6 @@
 ---
 title: "rstular"
 description: ""
-url: "https://github.com/rstular"
+external_url: "https://github.com/rstular"
 category: "Miscellaneous"
 ---

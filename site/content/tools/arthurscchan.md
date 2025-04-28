@@ -1,6 +1,6 @@
 ---
 title: "arthurscchan"
 description: ""
-url: "https://github.com/arthurscchan"
+external_url: "https://github.com/arthurscchan"
 category: "Miscellaneous"
 ---

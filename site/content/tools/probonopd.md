@@ -1,6 +1,6 @@
 ---
 title: "probonopd"
 description: ""
-url: "https://github.com/probonopd"
+external_url: "https://github.com/probonopd"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Silobreaker"
 description: ""
-url: "http://www.silobreaker.com"
+external_url: "http://www.silobreaker.com"
 category: "Miscellaneous"
 ---

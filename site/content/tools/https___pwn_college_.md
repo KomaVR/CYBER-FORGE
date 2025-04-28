@@ -1,6 +1,6 @@
 ---
 title: "https://pwn.college/"
 description: "Guided course material:"
-url: "https://pwn.college/"
+external_url: "https://pwn.college/"
 category: "Miscellaneous"
 ---

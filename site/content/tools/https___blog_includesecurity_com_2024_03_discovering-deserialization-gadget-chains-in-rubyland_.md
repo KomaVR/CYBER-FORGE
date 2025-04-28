@@ -5,6 +5,6 @@ description: "Discovering Deserialization Gadget Chains in Rubyland by Alex Leah
 
 
 "
-url: "https://blog.includesecurity.com/2024/03/discovering-deserialization-gadget-chains-in-rubyland/"
+external_url: "https://blog.includesecurity.com/2024/03/discovering-deserialization-gadget-chains-in-rubyland/"
 category: "Miscellaneous"
 ---

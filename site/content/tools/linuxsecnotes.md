@@ -1,6 +1,6 @@
 ---
 title: "LinuxSecNotes"
 description: "notes"
-url: "https://github.com/JnuSimba/LinuxSecNotes"
+external_url: "https://github.com/JnuSimba/LinuxSecNotes"
 category: "Miscellaneous"
 ---

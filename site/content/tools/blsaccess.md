@@ -1,6 +1,6 @@
 ---
 title: "blsaccess"
 description: ""
-url: "https://github.com/blsaccess"
+external_url: "https://github.com/blsaccess"
 category: "Miscellaneous"
 ---

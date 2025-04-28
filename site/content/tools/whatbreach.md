@@ -1,6 +1,6 @@
 ---
 title: "WhatBreach"
 description: "by Ekultek"
-url: "https://github.com/Ekultek/WhatBreach"
+external_url: "https://github.com/Ekultek/WhatBreach"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "overcuriousity"
 description: ""
-url: "https://github.com/overcuriousity"
+external_url: "https://github.com/overcuriousity"
 category: "Miscellaneous"
 ---

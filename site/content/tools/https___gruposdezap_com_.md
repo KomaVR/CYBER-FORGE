@@ -1,6 +1,6 @@
 ---
 title: "https://gruposdezap.com/"
 description: ""
-url: "https://gruposdezap.com/"
+external_url: "https://gruposdezap.com/"
 category: "Web Exploitation"
 ---

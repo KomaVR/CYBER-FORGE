@@ -14,6 +14,6 @@ Example:
 
 
 "
-url: "https://github.com/CykuTW/My-CTF-Challenges/tree/master/AIS3-EOF-CTF-2019-Quals/echo"
+external_url: "https://github.com/CykuTW/My-CTF-Challenges/tree/master/AIS3-EOF-CTF-2019-Quals/echo"
 category: "Miscellaneous"
 ---

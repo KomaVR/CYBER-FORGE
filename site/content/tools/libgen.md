@@ -1,6 +1,6 @@
 ---
 title: "libgen"
 description: ""
-url: "https://libgen.pw/"
+external_url: "https://libgen.pw/"
 category: "Miscellaneous"
 ---

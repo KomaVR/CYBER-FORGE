@@ -1,6 +1,6 @@
 ---
 title: "longvuu"
 description: ""
-url: "https://github.com/longvuu"
+external_url: "https://github.com/longvuu"
 category: "Miscellaneous"
 ---

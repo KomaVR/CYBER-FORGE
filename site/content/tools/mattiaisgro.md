@@ -1,6 +1,6 @@
 ---
 title: "mattiaisgro"
 description: ""
-url: "https://github.com/mattiaisgro"
+external_url: "https://github.com/mattiaisgro"
 category: "Miscellaneous"
 ---

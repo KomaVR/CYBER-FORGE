@@ -1,6 +1,6 @@
 ---
 title: "DeHashed"
 description: ""
-url: "https://dehashed.com/"
+external_url: "https://dehashed.com/"
 category: "Password Cracking"
 ---

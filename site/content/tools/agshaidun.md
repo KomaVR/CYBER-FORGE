@@ -1,6 +1,6 @@
 ---
 title: "agshaidun"
 description: ""
-url: "https://github.com/agshaidun"
+external_url: "https://github.com/agshaidun"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "zachriggle"
 description: ""
-url: "https://github.com/zachriggle"
+external_url: "https://github.com/zachriggle"
 category: "Miscellaneous"
 ---

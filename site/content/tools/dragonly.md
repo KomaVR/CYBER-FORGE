@@ -1,6 +1,6 @@
 ---
 title: "dragonly"
 description: ""
-url: "https://github.com/dragonly"
+external_url: "https://github.com/dragonly"
 category: "Miscellaneous"
 ---

@@ -8,6 +8,6 @@ For IP geolocation to work, you need to download the  database and extract the f
   $ mv GeoLite2-City.mmdb GeoIP2-City.mmdb
 
 "
-url: "http://dev.maxmind.com/"
+external_url: "http://dev.maxmind.com/"
 category: "Miscellaneous"
 ---

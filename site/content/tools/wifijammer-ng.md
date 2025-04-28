@@ -1,6 +1,6 @@
 ---
 title: "WifiJammer-NG"
 description: ""
-url: "https://github.com/MisterBianco/wifijammer-ng"
+external_url: "https://github.com/MisterBianco/wifijammer-ng"
 category: "Wireless Hacking"
 ---

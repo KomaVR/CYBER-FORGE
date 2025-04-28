@@ -1,6 +1,6 @@
 ---
 title: "akhil-reni"
 description: ""
-url: "https://github.com/akhil-reni"
+external_url: "https://github.com/akhil-reni"
 category: "Miscellaneous"
 ---

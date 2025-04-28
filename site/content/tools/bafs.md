@@ -1,6 +1,6 @@
 ---
 title: "BafS"
 description: ""
-url: "https://github.com/BafS"
+external_url: "https://github.com/BafS"
 category: "Miscellaneous"
 ---

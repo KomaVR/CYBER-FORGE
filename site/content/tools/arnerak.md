@@ -1,6 +1,6 @@
 ---
 title: "arnerak"
 description: ""
-url: "https://github.com/arnerak"
+external_url: "https://github.com/arnerak"
 category: "Miscellaneous"
 ---

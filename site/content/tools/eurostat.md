@@ -1,6 +1,6 @@
 ---
 title: "Eurostat"
 description: ""
-url: "http://ec.europa.eu/eurostat"
+external_url: "http://ec.europa.eu/eurostat"
 category: "Miscellaneous"
 ---

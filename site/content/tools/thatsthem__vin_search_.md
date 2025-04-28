@@ -1,6 +1,6 @@
 ---
 title: "thatsthem (Vin Search)"
 description: ""
-url: "http://thatsthem.com/vin-search"
+external_url: "http://thatsthem.com/vin-search"
 category: "Miscellaneous"
 ---

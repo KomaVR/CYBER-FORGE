@@ -1,6 +1,6 @@
 ---
 title: "SpyderLab AML"
 description: ""
-url: "https://spyderlab.org"
+external_url: "https://spyderlab.org"
 category: "Miscellaneous"
 ---

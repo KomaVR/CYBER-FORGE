@@ -1,6 +1,6 @@
 ---
 title: "Search Shared"
 description: ""
-url: "https://www.searchshared.info/"
+external_url: "https://www.searchshared.info/"
 category: "Miscellaneous"
 ---

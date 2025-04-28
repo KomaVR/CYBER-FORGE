@@ -1,6 +1,6 @@
 ---
 title: "NotoriousRebel"
 description: ""
-url: "https://github.com/NotoriousRebel"
+external_url: "https://github.com/NotoriousRebel"
 category: "Miscellaneous"
 ---

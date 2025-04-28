@@ -1,6 +1,6 @@
 ---
 title: "nahoragg"
 description: ""
-url: "https://github.com/nahoragg"
+external_url: "https://github.com/nahoragg"
 category: "Miscellaneous"
 ---

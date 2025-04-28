@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://opencollective.com/intelowl-project"
+external_url: "https://opencollective.com/intelowl-project"
 category: "Miscellaneous"
 ---

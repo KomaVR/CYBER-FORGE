@@ -1,6 +1,6 @@
 ---
 title: "mnrkbys"
 description: ""
-url: "https://github.com/mnrkbys"
+external_url: "https://github.com/mnrkbys"
 category: "Miscellaneous"
 ---

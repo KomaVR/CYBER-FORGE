@@ -1,6 +1,6 @@
 ---
 title: "Tyrrrz"
 description: ""
-url: "https://github.com/Tyrrrz"
+external_url: "https://github.com/Tyrrrz"
 category: "Miscellaneous"
 ---

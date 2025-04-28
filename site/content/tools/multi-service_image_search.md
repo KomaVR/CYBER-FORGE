@@ -1,6 +1,6 @@
 ---
 title: "Multi-service image search"
 description: ""
-url: "https://iqdb.org/"
+external_url: "https://iqdb.org/"
 category: "Miscellaneous"
 ---

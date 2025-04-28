@@ -1,6 +1,6 @@
 ---
 title: "Dispatch3376"
 description: ""
-url: "https://github.com/Dispatch3376"
+external_url: "https://github.com/Dispatch3376"
 category: "Miscellaneous"
 ---

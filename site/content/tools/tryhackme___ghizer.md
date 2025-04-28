@@ -3,6 +3,6 @@ title: "TryHackMe | Ghizer"
 description: "
  
 "
-url: "https://tryhackme.com/room/ghizerctf"
+external_url: "https://tryhackme.com/room/ghizerctf"
 category: "Miscellaneous"
 ---

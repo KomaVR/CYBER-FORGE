@@ -1,6 +1,6 @@
 ---
 title: "qwb_2019_upload"
 description: ""
-url: "https://github.com/glzjin/qwb_2019_upload"
+external_url: "https://github.com/glzjin/qwb_2019_upload"
 category: "Miscellaneous"
 ---

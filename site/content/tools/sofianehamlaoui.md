@@ -1,6 +1,6 @@
 ---
 title: "SofianeHamlaoui"
 description: ""
-url: "https://github.com/SofianeHamlaoui"
+external_url: "https://github.com/SofianeHamlaoui"
 category: "Miscellaneous"
 ---

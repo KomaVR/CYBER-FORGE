@@ -1,6 +1,6 @@
 ---
 title: "evm-cfg"
 description: ""
-url: "https://github.com/plotchy/evm-cfg"
+external_url: "https://github.com/plotchy/evm-cfg"
 category: "Miscellaneous"
 ---

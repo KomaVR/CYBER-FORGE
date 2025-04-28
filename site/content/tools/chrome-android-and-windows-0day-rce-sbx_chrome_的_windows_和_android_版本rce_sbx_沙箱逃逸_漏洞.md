@@ -3,6 +3,6 @@ title: "Chrome-Android-and-Windows-0day-RCE-SBX：chrome 的 Windows 和 Android
 description: "
 
 "
-url: "https://github.com/emredavut/Chrome-Android-and-Windows-0day-RCE-SBX"
+external_url: "https://github.com/emredavut/Chrome-Android-and-Windows-0day-RCE-SBX"
 category: "Miscellaneous"
 ---

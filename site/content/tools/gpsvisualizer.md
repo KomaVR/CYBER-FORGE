@@ -1,6 +1,6 @@
 ---
 title: "GPSVisualizer"
 description: ""
-url: "http://www.gpsvisualizer.com"
+external_url: "http://www.gpsvisualizer.com"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "vishnoisuresh"
 description: ""
-url: "https://github.com/vishnoisuresh"
+external_url: "https://github.com/vishnoisuresh"
 category: "Miscellaneous"
 ---

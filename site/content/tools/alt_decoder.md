@@ -1,6 +1,6 @@
 ---
 title: "Alt Decoder"
 description: ""
-url: "https://www.blackcatsystems.com/software/sstv.html"
+external_url: "https://www.blackcatsystems.com/software/sstv.html"
 category: "Miscellaneous"
 ---

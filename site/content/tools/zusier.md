@@ -1,6 +1,6 @@
 ---
 title: "Zusier"
 description: ""
-url: "https://github.com/Zusier"
+external_url: "https://github.com/Zusier"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "emanuelduss"
 description: ""
-url: "https://github.com/emanuelduss"
+external_url: "https://github.com/emanuelduss"
 category: "Miscellaneous"
 ---

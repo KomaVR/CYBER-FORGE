@@ -1,6 +1,6 @@
 ---
 title: "camandel"
 description: ""
-url: "https://github.com/camandel"
+external_url: "https://github.com/camandel"
 category: "Miscellaneous"
 ---

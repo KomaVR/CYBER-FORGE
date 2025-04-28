@@ -1,6 +1,6 @@
 ---
 title: "firmianay"
 description: ""
-url: "https://github.com/firmianay"
+external_url: "https://github.com/firmianay"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "tally.xyz"
 description: ""
-url: "https://www.tally.xyz"
+external_url: "https://www.tally.xyz"
 category: "Miscellaneous"
 ---

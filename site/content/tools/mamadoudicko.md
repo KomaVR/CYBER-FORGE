@@ -1,6 +1,6 @@
 ---
 title: "mamadoudicko"
 description: ""
-url: "https://github.com/mamadoudicko"
+external_url: "https://github.com/mamadoudicko"
 category: "Miscellaneous"
 ---

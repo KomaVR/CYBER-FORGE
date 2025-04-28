@@ -1,6 +1,6 @@
 ---
 title: "Stegseek release"
 description: "Download the latest"
-url: "https://github.com/RickdeJager/stegseek/releases"
+external_url: "https://github.com/RickdeJager/stegseek/releases"
 category: "Miscellaneous"
 ---

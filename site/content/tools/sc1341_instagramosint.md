@@ -7,6 +7,6 @@ description: "
 Datalux/Osintgram
 
 "
-url: "https://github.com/sc1341/InstagramOSINT"
+external_url: "https://github.com/sc1341/InstagramOSINT"
 category: "OSINT & Recon"
 ---

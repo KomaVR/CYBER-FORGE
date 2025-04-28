@@ -1,6 +1,6 @@
 ---
 title: "noahwilliamsson"
 description: ""
-url: "https://github.com/noahwilliamsson"
+external_url: "https://github.com/noahwilliamsson"
 category: "Miscellaneous"
 ---

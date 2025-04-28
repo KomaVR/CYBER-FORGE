@@ -6,6 +6,6 @@ description: "
 
 
 "
-url: "https://github.com/sc1341/TikTok-OSINT"
+external_url: "https://github.com/sc1341/TikTok-OSINT"
 category: "OSINT & Recon"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "zoller27osu"
 description: ""
-url: "https://github.com/zoller27osu"
+external_url: "https://github.com/zoller27osu"
 category: "Miscellaneous"
 ---

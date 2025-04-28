@@ -1,6 +1,6 @@
 ---
 title: "micabot"
 description: ""
-url: "https://github.com/micabot"
+external_url: "https://github.com/micabot"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "millmanorama"
 description: ""
-url: "https://github.com/millmanorama"
+external_url: "https://github.com/millmanorama"
 category: "Miscellaneous"
 ---

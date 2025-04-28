@@ -1,6 +1,6 @@
 ---
 title: "@hiddenillusion"
 description: ""
-url: "https://twitter.com/hiddenillusion"
+external_url: "https://twitter.com/hiddenillusion"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "rated.network"
 description: ""
-url: "https://www.rated.network/"
+external_url: "https://www.rated.network/"
 category: "White Hat Tools"
 ---

@@ -4,6 +4,6 @@ description: "
 macOS 
 brew install monero
 "
-url: "https://brew.sh/"
+external_url: "https://brew.sh/"
 category: "Miscellaneous"
 ---

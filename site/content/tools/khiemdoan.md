@@ -1,6 +1,6 @@
 ---
 title: "khiemdoan"
 description: ""
-url: "https://github.com/khiemdoan"
+external_url: "https://github.com/khiemdoan"
 category: "Miscellaneous"
 ---

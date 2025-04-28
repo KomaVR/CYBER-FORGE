@@ -1,6 +1,6 @@
 ---
 title: "ckuethe"
 description: ""
-url: "https://github.com/ckuethe"
+external_url: "https://github.com/ckuethe"
 category: "Miscellaneous"
 ---

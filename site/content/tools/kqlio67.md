@@ -1,6 +1,6 @@
 ---
 title: "kqlio67"
 description: ""
-url: "https://github.com/kqlio67"
+external_url: "https://github.com/kqlio67"
 category: "Miscellaneous"
 ---

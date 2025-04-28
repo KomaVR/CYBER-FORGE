@@ -1,6 +1,6 @@
 ---
 title: "Rule Creation Guide"
 description: ""
-url: "https://github.com/SigmaHQ/sigma/wiki/Rule-Creation-Guide"
+external_url: "https://github.com/SigmaHQ/sigma/wiki/Rule-Creation-Guide"
 category: "Miscellaneous"
 ---

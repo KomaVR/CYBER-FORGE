@@ -1,6 +1,6 @@
 ---
 title: "ionescu007"
 description: ""
-url: "https://github.com/ionescu007"
+external_url: "https://github.com/ionescu007"
 category: "Miscellaneous"
 ---

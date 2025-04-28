@@ -1,6 +1,6 @@
 ---
 title: "WordlistCreator"
 description: ""
-url: "https://github.com/Z4nzu/wlcreator"
+external_url: "https://github.com/Z4nzu/wlcreator"
 category: "Miscellaneous"
 ---

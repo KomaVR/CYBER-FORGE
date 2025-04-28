@@ -1,6 +1,6 @@
 ---
 title: "tiagoCMatias"
 description: ""
-url: "https://github.com/tiagoCMatias"
+external_url: "https://github.com/tiagoCMatias"
 category: "Miscellaneous"
 ---

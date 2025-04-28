@@ -1,6 +1,6 @@
 ---
 title: "cairoeth"
 description: ""
-url: "https://github.com/cairoeth"
+external_url: "https://github.com/cairoeth"
 category: "Miscellaneous"
 ---

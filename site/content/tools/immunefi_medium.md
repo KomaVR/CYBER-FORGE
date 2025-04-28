@@ -1,6 +1,6 @@
 ---
 title: "Immunefi Medium"
 description: ""
-url: "https://immunefi.medium.com"
+external_url: "https://immunefi.medium.com"
 category: "Miscellaneous"
 ---

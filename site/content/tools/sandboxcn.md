@@ -1,6 +1,6 @@
 ---
 title: "Sandboxcn"
 description: ""
-url: "https://github.com/Sandboxcn"
+external_url: "https://github.com/Sandboxcn"
 category: "Malware Analysis"
 ---

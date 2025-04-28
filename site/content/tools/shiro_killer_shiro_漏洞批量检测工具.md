@@ -1,6 +1,6 @@
 ---
 title: "shiro_killer：shiro 漏洞批量检测工具"
 description: ""
-url: "https://github.com/Peony2022/shiro_killer"
+external_url: "https://github.com/Peony2022/shiro_killer"
 category: "Miscellaneous"
 ---

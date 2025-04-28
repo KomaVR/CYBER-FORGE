@@ -1,6 +1,6 @@
 ---
 title: "Kuchiriel"
 description: ""
-url: "https://github.com/Kuchiriel"
+external_url: "https://github.com/Kuchiriel"
 category: "Miscellaneous"
 ---

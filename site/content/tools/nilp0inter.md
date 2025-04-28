@@ -1,6 +1,6 @@
 ---
 title: "nilp0inter"
 description: ""
-url: "https://github.com/nilp0inter"
+external_url: "https://github.com/nilp0inter"
 category: "Miscellaneous"
 ---

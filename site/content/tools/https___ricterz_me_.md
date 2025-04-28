@@ -1,6 +1,6 @@
 ---
 title: "https://ricterz.me/"
 description: ""
-url: "https://ricterz.me/"
+external_url: "https://ricterz.me/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "mtressler"
 description: ""
-url: "https://github.com/mtressler"
+external_url: "https://github.com/mtressler"
 category: "Miscellaneous"
 ---

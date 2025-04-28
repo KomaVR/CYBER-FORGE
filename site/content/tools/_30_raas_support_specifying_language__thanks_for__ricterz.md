@@ -1,6 +1,6 @@
 ---
 title: "#30 RaaS support specifying language, thanks for @RicterZ"
 description: ""
-url: "https://github.com/WangYihang/Platypus/issues/30"
+external_url: "https://github.com/WangYihang/Platypus/issues/30"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "ExpertPages"
 description: ""
-url: "http://expertpages.com"
+external_url: "http://expertpages.com"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "newcodor"
 description: ""
-url: "https://github.com/newcodor"
+external_url: "https://github.com/newcodor"
 category: "Miscellaneous"
 ---

@@ -5,6 +5,6 @@ description: "Port:
 
 
 "
-url: "https://github.com/antirez/hping"
+external_url: "https://github.com/antirez/hping"
 category: "Miscellaneous"
 ---

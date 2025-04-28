@@ -1,6 +1,6 @@
 ---
 title: "arekbulski"
 description: ""
-url: "https://github.com/arekbulski"
+external_url: "https://github.com/arekbulski"
 category: "Miscellaneous"
 ---

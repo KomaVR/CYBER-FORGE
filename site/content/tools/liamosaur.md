@@ -1,6 +1,6 @@
 ---
 title: "liamosaur"
 description: ""
-url: "https://github.com/liamosaur"
+external_url: "https://github.com/liamosaur"
 category: "Miscellaneous"
 ---

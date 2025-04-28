@@ -1,6 +1,6 @@
 ---
 title: "https://skills.bugbank.cn/"
 description: ""
-url: "https://skills.bugbank.cn/"
+external_url: "https://skills.bugbank.cn/"
 category: "Miscellaneous"
 ---

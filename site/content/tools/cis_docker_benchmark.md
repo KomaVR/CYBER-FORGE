@@ -1,6 +1,6 @@
 ---
 title: "CIS Docker Benchmark"
 description: ""
-url: "https://github.com/goodwithtech/dockle"
+external_url: "https://github.com/goodwithtech/dockle"
 category: "Miscellaneous"
 ---

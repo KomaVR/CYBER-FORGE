@@ -1,6 +1,6 @@
 ---
 title: "Etsy’s Debriefing Facilitation Guide for Blameless Postmortems"
 description: ""
-url: "https://codeascraft.com/2016/11/17/debriefing-facilitation-guide/"
+external_url: "https://codeascraft.com/2016/11/17/debriefing-facilitation-guide/"
 category: "Miscellaneous"
 ---

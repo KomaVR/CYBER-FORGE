@@ -1,6 +1,6 @@
 ---
 title: "Miasm: Framework de reverse engineering"
 description: "(French)"
-url: "https://www.sstic.org/2012/presentation/miasm_framework_de_reverse_engineering/"
+external_url: "https://www.sstic.org/2012/presentation/miasm_framework_de_reverse_engineering/"
 category: "Miscellaneous"
 ---

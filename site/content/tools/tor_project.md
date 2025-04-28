@@ -1,6 +1,6 @@
 ---
 title: "Tor Project"
 description: ""
-url: "https://www.torproject.org"
+external_url: "https://www.torproject.org"
 category: "Miscellaneous"
 ---

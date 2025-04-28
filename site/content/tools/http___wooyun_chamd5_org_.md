@@ -1,6 +1,6 @@
 ---
 title: "http://wooyun.chamd5.org/"
 description: ""
-url: "http://wooyun.chamd5.org/"
+external_url: "http://wooyun.chamd5.org/"
 category: "Miscellaneous"
 ---

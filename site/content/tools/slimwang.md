@@ -1,6 +1,6 @@
 ---
 title: "slimwang"
 description: ""
-url: "https://github.com/slimwang"
+external_url: "https://github.com/slimwang"
 category: "Miscellaneous"
 ---

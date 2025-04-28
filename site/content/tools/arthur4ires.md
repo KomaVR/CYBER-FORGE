@@ -1,6 +1,6 @@
 ---
 title: "arthur4ires"
 description: ""
-url: "https://github.com/arthur4ires"
+external_url: "https://github.com/arthur4ires"
 category: "Miscellaneous"
 ---

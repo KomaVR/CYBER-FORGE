@@ -1,6 +1,6 @@
 ---
 title: "fabacab"
 description: ""
-url: "https://github.com/fabacab"
+external_url: "https://github.com/fabacab"
 category: "Miscellaneous"
 ---

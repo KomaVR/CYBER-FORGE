@@ -1,6 +1,6 @@
 ---
 title: "darylseah"
 description: ""
-url: "https://github.com/darylseah"
+external_url: "https://github.com/darylseah"
 category: "Miscellaneous"
 ---

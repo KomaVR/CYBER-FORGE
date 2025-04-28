@@ -1,6 +1,6 @@
 ---
 title: "Paraphraser"
 description: ""
-url: "https://github.com/Paraphraser"
+external_url: "https://github.com/Paraphraser"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "f0wl"
 description: ""
-url: "https://github.com/f0wl"
+external_url: "https://github.com/f0wl"
 category: "Miscellaneous"
 ---

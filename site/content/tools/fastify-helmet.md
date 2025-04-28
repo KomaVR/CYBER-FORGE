@@ -1,6 +1,6 @@
 ---
 title: "fastify-helmet"
 description: "helps you secure your fastify apps by setting important security headers."
-url: "https://github.com/fastify/fastify-helmet"
+external_url: "https://github.com/fastify/fastify-helmet"
 category: "Miscellaneous"
 ---

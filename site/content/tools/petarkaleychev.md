@@ -1,6 +1,6 @@
 ---
 title: "PetarKaleychev"
 description: ""
-url: "https://github.com/PetarKaleychev"
+external_url: "https://github.com/PetarKaleychev"
 category: "Miscellaneous"
 ---

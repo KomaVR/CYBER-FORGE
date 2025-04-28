@@ -1,6 +1,6 @@
 ---
 title: "dkhurshudian"
 description: ""
-url: "https://github.com/dkhurshudian"
+external_url: "https://github.com/dkhurshudian"
 category: "Miscellaneous"
 ---

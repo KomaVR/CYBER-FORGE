@@ -1,6 +1,6 @@
 ---
 title: "nyx0"
 description: ""
-url: "https://github.com/nyx0"
+external_url: "https://github.com/nyx0"
 category: "Miscellaneous"
 ---

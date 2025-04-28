@@ -26,6 +26,6 @@ Seikai CTF 2023 - Frog WAF
 
 
 "
-url: "https://gist.github.com/tyage/e0afc9ff5051c2cc487a8cd9b6a1d7ea#heritage"
+external_url: "https://gist.github.com/tyage/e0afc9ff5051c2cc487a8cd9b6a1d7ea#heritage"
 category: "Black Hat Tools"
 ---

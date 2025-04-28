@@ -1,6 +1,6 @@
 ---
 title: "simon-hoegl"
 description: ""
-url: "https://github.com/simon-hoegl"
+external_url: "https://github.com/simon-hoegl"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "grep.app"
 description: "Search across a half million git repos"
-url: "https://grep.app/"
+external_url: "https://grep.app/"
 category: "Miscellaneous"
 ---

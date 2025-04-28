@@ -1,6 +1,6 @@
 ---
 title: "starksheet.xyz"
 description: ""
-url: "https://starksheet.xyz"
+external_url: "https://starksheet.xyz"
 category: "Miscellaneous"
 ---

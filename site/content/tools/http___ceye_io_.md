@@ -1,6 +1,6 @@
 ---
 title: "http://ceye.io/"
 description: "ceye.io:"
-url: "http://ceye.io/"
+external_url: "http://ceye.io/"
 category: "Miscellaneous"
 ---

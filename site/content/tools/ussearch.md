@@ -1,6 +1,6 @@
 ---
 title: "USSearch"
 description: ""
-url: "http://www.ussearch.com/"
+external_url: "http://www.ussearch.com/"
 category: "Miscellaneous"
 ---

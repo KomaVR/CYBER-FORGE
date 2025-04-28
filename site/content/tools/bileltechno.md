@@ -1,6 +1,6 @@
 ---
 title: "bileltechno"
 description: ""
-url: "https://github.com/bileltechno"
+external_url: "https://github.com/bileltechno"
 category: "Miscellaneous"
 ---

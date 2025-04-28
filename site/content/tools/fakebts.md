@@ -1,6 +1,6 @@
 ---
 title: "FakeBTS"
 description: ""
-url: "http://fakebts.com/category/attacks/"
+external_url: "http://fakebts.com/category/attacks/"
 category: "Miscellaneous"
 ---

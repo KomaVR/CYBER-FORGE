@@ -1,6 +1,6 @@
 ---
 title: "alrs"
 description: ""
-url: "https://github.com/alrs"
+external_url: "https://github.com/alrs"
 category: "Miscellaneous"
 ---

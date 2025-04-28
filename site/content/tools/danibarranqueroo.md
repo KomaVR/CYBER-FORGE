@@ -1,6 +1,6 @@
 ---
 title: "danibarranqueroo"
 description: ""
-url: "https://github.com/danibarranqueroo"
+external_url: "https://github.com/danibarranqueroo"
 category: "Miscellaneous"
 ---

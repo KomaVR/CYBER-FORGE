@@ -1,6 +1,6 @@
 ---
 title: "Grraahaam"
 description: ""
-url: "https://github.com/Grraahaam"
+external_url: "https://github.com/Grraahaam"
 category: "Miscellaneous"
 ---

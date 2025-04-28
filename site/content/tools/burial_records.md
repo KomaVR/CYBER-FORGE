@@ -1,6 +1,6 @@
 ---
 title: "Burial Records"
 description: "(UK)"
-url: "http://www.asedonline.com"
+external_url: "http://www.asedonline.com"
 category: "Miscellaneous"
 ---

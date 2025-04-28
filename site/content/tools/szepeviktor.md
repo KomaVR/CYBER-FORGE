@@ -1,6 +1,6 @@
 ---
 title: "szepeviktor"
 description: ""
-url: "https://github.com/szepeviktor"
+external_url: "https://github.com/szepeviktor"
 category: "Miscellaneous"
 ---

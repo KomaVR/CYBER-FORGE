@@ -1,6 +1,6 @@
 ---
 title: "wlayzz"
 description: ""
-url: "https://github.com/wlayzz"
+external_url: "https://github.com/wlayzz"
 category: "Miscellaneous"
 ---

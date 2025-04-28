@@ -1,6 +1,6 @@
 ---
 title: "ly4k"
 description: "Certipy"
-url: "https://github.com/ly4k"
+external_url: "https://github.com/ly4k"
 category: "Miscellaneous"
 ---

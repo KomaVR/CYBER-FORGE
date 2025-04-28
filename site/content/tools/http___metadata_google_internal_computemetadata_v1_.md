@@ -1,6 +1,6 @@
 ---
 title: "http://metadata.google.internal/computeMetadata/v1/"
 description: ""
-url: "http://metadata.google.internal/computeMetadata/v1/"
+external_url: "http://metadata.google.internal/computeMetadata/v1/"
 category: "Miscellaneous"
 ---

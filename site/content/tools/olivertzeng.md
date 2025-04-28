@@ -1,6 +1,6 @@
 ---
 title: "olivertzeng"
 description: ""
-url: "https://github.com/olivertzeng"
+external_url: "https://github.com/olivertzeng"
 category: "Miscellaneous"
 ---

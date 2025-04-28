@@ -1,6 +1,6 @@
 ---
 title: "spotlightc"
 description: ""
-url: "https://github.com/spotlightc"
+external_url: "https://github.com/spotlightc"
 category: "Miscellaneous"
 ---

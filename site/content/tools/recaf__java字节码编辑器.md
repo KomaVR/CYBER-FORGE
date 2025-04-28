@@ -1,6 +1,6 @@
 ---
 title: "Recaf: Java字节码编辑器"
 description: ""
-url: "https://github.com/Col-E/Recaf"
+external_url: "https://github.com/Col-E/Recaf"
 category: "Miscellaneous"
 ---

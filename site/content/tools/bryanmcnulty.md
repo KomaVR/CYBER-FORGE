@@ -1,6 +1,6 @@
 ---
 title: "bryanmcnulty"
 description: ""
-url: "https://github.com/bryanmcnulty"
+external_url: "https://github.com/bryanmcnulty"
 category: "Miscellaneous"
 ---

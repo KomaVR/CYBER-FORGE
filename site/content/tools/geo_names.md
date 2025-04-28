@@ -1,6 +1,6 @@
 ---
 title: "Geo Names"
 description: ""
-url: "http://www.geonames.org/"
+external_url: "http://www.geonames.org/"
 category: "Miscellaneous"
 ---

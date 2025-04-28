@@ -1,6 +1,6 @@
 ---
 title: "Cool OSINT blog"
 description: ""
-url: "https://t.me/ibederov_en"
+external_url: "https://t.me/ibederov_en"
 category: "OSINT & Recon"
 ---

@@ -5,6 +5,6 @@ description: "
 decompile java online
 
 "
-url: "https://devtoolzone.com/decompiler/java"
+external_url: "https://devtoolzone.com/decompiler/java"
 category: "Miscellaneous"
 ---

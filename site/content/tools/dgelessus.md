@@ -1,6 +1,6 @@
 ---
 title: "dgelessus"
 description: ""
-url: "https://github.com/dgelessus"
+external_url: "https://github.com/dgelessus"
 category: "Miscellaneous"
 ---

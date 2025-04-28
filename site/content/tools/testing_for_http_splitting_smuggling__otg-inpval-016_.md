@@ -6,6 +6,6 @@ HTTP Splitting/Smuggling
 
 
 "
-url: "https://github.com/Voorivex/pentest-guide/tree/master/HTTP-Smuggling"
+external_url: "https://github.com/Voorivex/pentest-guide/tree/master/HTTP-Smuggling"
 category: "Miscellaneous"
 ---

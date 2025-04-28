@@ -1,6 +1,6 @@
 ---
 title: "ShobhitMishra-bot"
 description: ""
-url: "https://github.com/ShobhitMishra-bot"
+external_url: "https://github.com/ShobhitMishra-bot"
 category: "Miscellaneous"
 ---

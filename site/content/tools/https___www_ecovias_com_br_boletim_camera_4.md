@@ -5,6 +5,6 @@ description: "PEDAGIO IMIGRANTES
 
 
 "
-url: "https://www.ecovias.com.br/boletim/camera/4"
+external_url: "https://www.ecovias.com.br/boletim/camera/4"
 category: "Miscellaneous"
 ---

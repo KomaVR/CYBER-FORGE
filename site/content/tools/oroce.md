@@ -1,6 +1,6 @@
 ---
 title: "oroce"
 description: ""
-url: "https://github.com/oroce"
+external_url: "https://github.com/oroce"
 category: "Miscellaneous"
 ---

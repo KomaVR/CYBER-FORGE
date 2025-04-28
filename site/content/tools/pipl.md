@@ -3,6 +3,6 @@ title: "Pipl"
 description: "
  - a provider of identity solutions.
 "
-url: "https://pipl.com"
+external_url: "https://pipl.com"
 category: "Miscellaneous"
 ---

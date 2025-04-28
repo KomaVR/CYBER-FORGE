@@ -1,6 +1,6 @@
 ---
 title: "Bulk extractor"
 description: ""
-url: "https://github.com/simsong/bulk_extractor"
+external_url: "https://github.com/simsong/bulk_extractor"
 category: "Miscellaneous"
 ---

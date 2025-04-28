@@ -1,6 +1,6 @@
 ---
 title: "obelisk"
 description: ""
-url: "https://github.com/obelisk"
+external_url: "https://github.com/obelisk"
 category: "Miscellaneous"
 ---

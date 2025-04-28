@@ -1,6 +1,6 @@
 ---
 title: "FreeTranslation"
 description: ""
-url: "http://www.freetranslation.com/"
+external_url: "http://www.freetranslation.com/"
 category: "Miscellaneous"
 ---

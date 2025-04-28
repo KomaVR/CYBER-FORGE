@@ -5,6 +5,6 @@ description: "
 Makes amazing writeup videos about the picoCTF challenges.
 
 "
-url: "https://www.youtube.com/user/carlislemc/featured"
+external_url: "https://www.youtube.com/user/carlislemc/featured"
 category: "Miscellaneous"
 ---

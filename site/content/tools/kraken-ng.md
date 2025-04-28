@@ -1,6 +1,6 @@
 ---
 title: "Kraken-ng"
 description: ""
-url: "https://github.com/kraken-ng/"
+external_url: "https://github.com/kraken-ng/"
 category: "Miscellaneous"
 ---

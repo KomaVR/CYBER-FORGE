@@ -1,6 +1,6 @@
 ---
 title: "doorbash"
 description: ""
-url: "https://github.com/doorbash"
+external_url: "https://github.com/doorbash"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "TIOCSTI injection"
 description: ": Abusing TIOCSTI to manipulate process file descriptors and execute arbitrary commands. By Krystian Bajno"
-url: "https://news.baycode.eu/0x05-tiocsti-injection/"
+external_url: "https://news.baycode.eu/0x05-tiocsti-injection/"
 category: "Miscellaneous"
 ---

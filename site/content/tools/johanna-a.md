@@ -1,6 +1,6 @@
 ---
 title: "johanna-a"
 description: ""
-url: "https://github.com/johanna-a"
+external_url: "https://github.com/johanna-a"
 category: "Miscellaneous"
 ---

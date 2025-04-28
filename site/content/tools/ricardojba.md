@@ -1,6 +1,6 @@
 ---
 title: "ricardojba"
 description: ""
-url: "https://github.com/ricardojba"
+external_url: "https://github.com/ricardojba"
 category: "Miscellaneous"
 ---

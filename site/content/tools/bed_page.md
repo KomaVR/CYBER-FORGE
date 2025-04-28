@@ -1,6 +1,6 @@
 ---
 title: "Bed Page"
 description: ""
-url: "https://www.bedpage.com/"
+external_url: "https://www.bedpage.com/"
 category: "Miscellaneous"
 ---

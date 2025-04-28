@@ -1,6 +1,6 @@
 ---
 title: "streichsbaer"
 description: ""
-url: "https://github.com/streichsbaer"
+external_url: "https://github.com/streichsbaer"
 category: "Miscellaneous"
 ---

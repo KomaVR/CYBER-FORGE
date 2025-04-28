@@ -1,6 +1,6 @@
 ---
 title: "Niklas Higi"
 description: "for apk-mitm"
-url: "https://github.com/shroudedcode"
+external_url: "https://github.com/shroudedcode"
 category: "Miscellaneous"
 ---

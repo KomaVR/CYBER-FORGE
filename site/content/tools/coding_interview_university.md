@@ -1,6 +1,6 @@
 ---
 title: "Coding Interview University"
 description: ""
-url: "https://github.com/jwasham/coding-interview-university"
+external_url: "https://github.com/jwasham/coding-interview-university"
 category: "Miscellaneous"
 ---

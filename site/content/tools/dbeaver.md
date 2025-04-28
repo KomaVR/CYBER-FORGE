@@ -1,6 +1,6 @@
 ---
 title: "DBeaver"
 description: "a DB editor."
-url: "https://github.com/dbeaver/dbeaver"
+external_url: "https://github.com/dbeaver/dbeaver"
 category: "Miscellaneous"
 ---

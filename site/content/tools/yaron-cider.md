@@ -1,6 +1,6 @@
 ---
 title: "yaron-cider"
 description: ""
-url: "https://github.com/yaron-cider"
+external_url: "https://github.com/yaron-cider"
 category: "Miscellaneous"
 ---

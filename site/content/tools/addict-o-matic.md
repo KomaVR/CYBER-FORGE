@@ -1,6 +1,6 @@
 ---
 title: "Addict-o-matic"
 description: ""
-url: "http://addictomatic.com/"
+external_url: "http://addictomatic.com/"
 category: "Miscellaneous"
 ---

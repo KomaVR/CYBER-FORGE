@@ -1,6 +1,6 @@
 ---
 title: "rugdoc.io"
 description: ""
-url: "https://rugdoc.io/emergency"
+external_url: "https://rugdoc.io/emergency"
 category: "Miscellaneous"
 ---

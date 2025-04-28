@@ -1,6 +1,6 @@
 ---
 title: "ReseacherID"
 description: ""
-url: "http://www.researcherid.com"
+external_url: "http://www.researcherid.com"
 category: "Miscellaneous"
 ---

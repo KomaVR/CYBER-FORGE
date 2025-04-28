@@ -1,6 +1,6 @@
 ---
 title: "Josh961"
 description: ""
-url: "https://github.com/Josh961"
+external_url: "https://github.com/Josh961"
 category: "Miscellaneous"
 ---

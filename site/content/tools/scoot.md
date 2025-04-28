@@ -1,6 +1,6 @@
 ---
 title: "Scoot"
 description: ""
-url: "http://www.scoot.co.uk"
+external_url: "http://www.scoot.co.uk"
 category: "Miscellaneous"
 ---

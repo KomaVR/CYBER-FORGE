@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://www.paypal.me/edoardottt"
+external_url: "https://www.paypal.me/edoardottt"
 category: "Miscellaneous"
 ---

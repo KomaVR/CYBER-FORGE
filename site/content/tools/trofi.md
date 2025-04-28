@@ -1,6 +1,6 @@
 ---
 title: "trofi"
 description: ""
-url: "https://github.com/trofi"
+external_url: "https://github.com/trofi"
 category: "Miscellaneous"
 ---

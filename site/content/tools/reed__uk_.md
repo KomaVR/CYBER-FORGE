@@ -1,6 +1,6 @@
 ---
 title: "Reed (UK)"
 description: ""
-url: "http://www.reed.co.uk"
+external_url: "http://www.reed.co.uk"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Zanran"
 description: ""
-url: "http://zanran.com"
+external_url: "http://zanran.com"
 category: "Miscellaneous"
 ---

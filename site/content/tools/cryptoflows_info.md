@@ -1,6 +1,6 @@
 ---
 title: "cryptoflows.info"
 description: ""
-url: "https://cryptoflows.info"
+external_url: "https://cryptoflows.info"
 category: "Miscellaneous"
 ---

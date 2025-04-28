@@ -1,6 +1,6 @@
 ---
 title: "BoxedApp Packer"
 description: ""
-url: "https://www.boxedapp.com/boxedapppacker"
+external_url: "https://www.boxedapp.com/boxedapppacker"
 category: "Miscellaneous"
 ---

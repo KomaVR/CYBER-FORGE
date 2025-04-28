@@ -31,6 +31,6 @@ shell for /r \\dc/sysvol %i in (*.bat) do @echo %i
 shell for /r \\dc/sysvol %i in (*.xml) do @echo %i
 可以直接使用 PowerSploit下的 Get-GPPPassword.ps1 进行解密操作
 "
-url: "https://github.com/chriskaliX/AD-Pentest-Notes/raw/master/imgs/GPP.png"
+external_url: "https://github.com/chriskaliX/AD-Pentest-Notes/raw/master/imgs/GPP.png"
 category: "Miscellaneous"
 ---

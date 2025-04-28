@@ -1,6 +1,6 @@
 ---
 title: "elsapet"
 description: ""
-url: "https://github.com/elsapet"
+external_url: "https://github.com/elsapet"
 category: "Miscellaneous"
 ---

@@ -17,6 +17,6 @@ RealWorld CTF 3rd - MoP2021
 
 
 "
-url: "https://ssd-disclosure.com/ssd-advisory-php-spldoublylinkedlist-uaf-sandbox-escape/"
+external_url: "https://ssd-disclosure.com/ssd-advisory-php-spldoublylinkedlist-uaf-sandbox-escape/"
 category: "Malware Analysis"
 ---

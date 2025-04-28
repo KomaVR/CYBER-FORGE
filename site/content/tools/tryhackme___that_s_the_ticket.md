@@ -3,6 +3,6 @@ title: "TryHackMe | That's The Ticket"
 description: "
  
 "
-url: "https://tryhackme.com/room/thatstheticket"
+external_url: "https://tryhackme.com/room/thatstheticket"
 category: "Miscellaneous"
 ---

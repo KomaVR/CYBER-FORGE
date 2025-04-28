@@ -1,6 +1,6 @@
 ---
 title: "Normmatt"
 description: ""
-url: "https://github.com/Normmatt"
+external_url: "https://github.com/Normmatt"
 category: "Miscellaneous"
 ---

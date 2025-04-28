@@ -1,6 +1,6 @@
 ---
 title: "ROP Wargames"
 description: "."
-url: "https://github.com/xelenonz/game"
+external_url: "https://github.com/xelenonz/game"
 category: "Miscellaneous"
 ---

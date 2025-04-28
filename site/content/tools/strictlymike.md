@@ -1,6 +1,6 @@
 ---
 title: "strictlymike"
 description: ""
-url: "https://github.com/strictlymike"
+external_url: "https://github.com/strictlymike"
 category: "Miscellaneous"
 ---

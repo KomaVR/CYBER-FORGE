@@ -3,6 +3,6 @@ title: "TryHackMe | Linux Backdoors"
 description: "
  
 "
-url: "https://tryhackme.com/room/linuxbackdoors"
+external_url: "https://tryhackme.com/room/linuxbackdoors"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "eenblam"
 description: ""
-url: "https://github.com/eenblam"
+external_url: "https://github.com/eenblam"
 category: "Miscellaneous"
 ---

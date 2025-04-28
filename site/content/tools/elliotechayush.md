@@ -1,6 +1,6 @@
 ---
 title: "elliotechayush"
 description: ""
-url: "https://github.com/elliotechayush"
+external_url: "https://github.com/elliotechayush"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "*OS iBoot"
 description: ""
-url: "https://newosxbook.com/bonus/iBoot.pdf"
+external_url: "https://newosxbook.com/bonus/iBoot.pdf"
 category: "Miscellaneous"
 ---

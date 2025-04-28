@@ -1,6 +1,6 @@
 ---
 title: "Cruise Mapper"
 description: ""
-url: "http://www.cruisemapper.com"
+external_url: "http://www.cruisemapper.com"
 category: "Miscellaneous"
 ---

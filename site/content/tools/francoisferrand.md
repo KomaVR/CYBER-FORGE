@@ -1,6 +1,6 @@
 ---
 title: "francoisferrand"
 description: ""
-url: "https://github.com/francoisferrand"
+external_url: "https://github.com/francoisferrand"
 category: "Miscellaneous"
 ---

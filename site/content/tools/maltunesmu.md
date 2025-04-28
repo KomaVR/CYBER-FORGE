@@ -1,6 +1,6 @@
 ---
 title: "MALtUNEsmu"
 description: "MALtUNEsmu"
-url: "https://github.com/MALtUNEsmu"
+external_url: "https://github.com/MALtUNEsmu"
 category: "Miscellaneous"
 ---

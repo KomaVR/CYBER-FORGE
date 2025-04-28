@@ -1,6 +1,6 @@
 ---
 title: "Events"
 description: ""
-url: "https://www.blacklanternsecurity.com/bbot/Stable/scanning/events"
+external_url: "https://www.blacklanternsecurity.com/bbot/Stable/scanning/events"
 category: "Miscellaneous"
 ---

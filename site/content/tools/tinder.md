@@ -1,6 +1,6 @@
 ---
 title: "Tinder"
 description: ""
-url: "https://www.gotinder.com"
+external_url: "https://www.gotinder.com"
 category: "Miscellaneous"
 ---

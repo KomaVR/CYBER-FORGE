@@ -1,6 +1,6 @@
 ---
 title: "LyleMi"
 description: ""
-url: "https://github.com/LyleMi"
+external_url: "https://github.com/LyleMi"
 category: "Miscellaneous"
 ---

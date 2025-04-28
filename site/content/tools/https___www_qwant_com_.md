@@ -1,6 +1,6 @@
 ---
 title: "https://www.qwant.com/"
 description: ""
-url: "https://www.qwant.com/"
+external_url: "https://www.qwant.com/"
 category: "Miscellaneous"
 ---

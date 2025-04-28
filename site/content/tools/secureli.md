@@ -1,6 +1,6 @@
 ---
 title: "secureli"
 description: ""
-url: "https://github.com/secureli"
+external_url: "https://github.com/secureli"
 category: "Miscellaneous"
 ---

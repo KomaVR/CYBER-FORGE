@@ -1,6 +1,6 @@
 ---
 title: "adulau"
 description: ""
-url: "https://github.com/adulau"
+external_url: "https://github.com/adulau"
 category: "Miscellaneous"
 ---

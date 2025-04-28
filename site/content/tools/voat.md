@@ -1,6 +1,6 @@
 ---
 title: "voat"
 description: ""
-url: "https://voat.co"
+external_url: "https://voat.co"
 category: "Miscellaneous"
 ---

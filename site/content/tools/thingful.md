@@ -1,6 +1,6 @@
 ---
 title: "Thingful"
 description: ""
-url: "https://www.thingful.net/"
+external_url: "https://www.thingful.net/"
 category: "Miscellaneous"
 ---

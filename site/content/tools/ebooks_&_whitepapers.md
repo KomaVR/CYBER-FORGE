@@ -2,7 +2,7 @@
 title: "Ebooks & Whitepapers"
 description: "
 "
-url: "https://github.com/resources/whitepapers"
+external_url: "https://github.com/resources/whitepapers"
 category: "Miscellaneous"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "popodog"
 description: ""
-url: "https://github.com/popodog"
+external_url: "https://github.com/popodog"
 category: "Miscellaneous"
 ---

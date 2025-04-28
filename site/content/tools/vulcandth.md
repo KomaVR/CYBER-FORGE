@@ -1,6 +1,6 @@
 ---
 title: "vulcandth"
 description: ""
-url: "https://github.com/vulcandth"
+external_url: "https://github.com/vulcandth"
 category: "Miscellaneous"
 ---

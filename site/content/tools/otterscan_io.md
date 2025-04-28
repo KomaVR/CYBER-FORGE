@@ -1,6 +1,6 @@
 ---
 title: "otterscan.io"
 description: ""
-url: "https://otterscan.io"
+external_url: "https://otterscan.io"
 category: "Miscellaneous"
 ---

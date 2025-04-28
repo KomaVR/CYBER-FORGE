@@ -1,6 +1,6 @@
 ---
 title: "MysqlClientAttack"
 description: ""
-url: "https://github.com/lcark/MysqlClientAttack"
+external_url: "https://github.com/lcark/MysqlClientAttack"
 category: "Web Exploitation"
 ---

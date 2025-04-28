@@ -1,6 +1,6 @@
 ---
 title: "rbiasini"
 description: ""
-url: "https://github.com/rbiasini"
+external_url: "https://github.com/rbiasini"
 category: "Miscellaneous"
 ---

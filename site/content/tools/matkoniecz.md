@@ -1,6 +1,6 @@
 ---
 title: "matkoniecz"
 description: ""
-url: "https://github.com/matkoniecz"
+external_url: "https://github.com/matkoniecz"
 category: "Miscellaneous"
 ---

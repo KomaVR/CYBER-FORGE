@@ -1,6 +1,6 @@
 ---
 title: "peter279k"
 description: ""
-url: "https://github.com/peter279k"
+external_url: "https://github.com/peter279k"
 category: "Miscellaneous"
 ---

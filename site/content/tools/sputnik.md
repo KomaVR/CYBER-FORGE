@@ -1,6 +1,6 @@
 ---
 title: "Sputnik"
 description: ""
-url: "https://github.com/mitchmoser/sputnik"
+external_url: "https://github.com/mitchmoser/sputnik"
 category: "Miscellaneous"
 ---

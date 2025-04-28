@@ -1,6 +1,6 @@
 ---
 title: "Yahoo Maps"
 description: ""
-url: "https://maps.yahoo.com"
+external_url: "https://maps.yahoo.com"
 category: "Miscellaneous"
 ---

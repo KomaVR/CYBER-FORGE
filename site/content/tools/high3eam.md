@@ -1,6 +1,6 @@
 ---
 title: "high3eam"
 description: ""
-url: "https://github.com/high3eam"
+external_url: "https://github.com/high3eam"
 category: "Miscellaneous"
 ---

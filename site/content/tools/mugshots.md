@@ -1,6 +1,6 @@
 ---
 title: "Mugshots"
 description: ""
-url: "https://mugshots.com/"
+external_url: "https://mugshots.com/"
 category: "Miscellaneous"
 ---

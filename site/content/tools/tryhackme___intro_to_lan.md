@@ -3,6 +3,6 @@ title: "TryHackMe | Intro to LAN"
 description: "
  
 "
-url: "https://tryhackme.com/room/introtolan"
+external_url: "https://tryhackme.com/room/introtolan"
 category: "Miscellaneous"
 ---

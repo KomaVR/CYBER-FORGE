@@ -1,6 +1,6 @@
 ---
 title: "martinboehme"
 description: ""
-url: "https://github.com/martinboehme"
+external_url: "https://github.com/martinboehme"
 category: "Miscellaneous"
 ---

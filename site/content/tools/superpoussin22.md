@@ -1,6 +1,6 @@
 ---
 title: "superpoussin22"
 description: ""
-url: "https://github.com/superpoussin22"
+external_url: "https://github.com/superpoussin22"
 category: "Miscellaneous"
 ---

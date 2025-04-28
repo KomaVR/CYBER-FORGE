@@ -1,6 +1,6 @@
 ---
 title: "Uglify"
 description: ""
-url: "https://github.com/mishoo/UglifyJS"
+external_url: "https://github.com/mishoo/UglifyJS"
 category: "Miscellaneous"
 ---

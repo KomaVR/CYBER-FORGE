@@ -7,6 +7,6 @@ Network Audit
 abcnews/data-life
 
 "
-url: "https://www.winprivacy.de/english-home/"
+external_url: "https://www.winprivacy.de/english-home/"
 category: "White Hat Tools"
 ---

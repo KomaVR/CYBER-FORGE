@@ -1,6 +1,6 @@
 ---
 title: "sector-f"
 description: ""
-url: "https://github.com/sector-f"
+external_url: "https://github.com/sector-f"
 category: "Miscellaneous"
 ---

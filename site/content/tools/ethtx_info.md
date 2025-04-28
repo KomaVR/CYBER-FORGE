@@ -1,6 +1,6 @@
 ---
 title: "ethtx.info"
 description: ""
-url: "https://ethtx.info/"
+external_url: "https://ethtx.info/"
 category: "Miscellaneous"
 ---

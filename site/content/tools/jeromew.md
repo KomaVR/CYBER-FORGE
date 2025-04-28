@@ -1,6 +1,6 @@
 ---
 title: "jeromew"
 description: ""
-url: "https://github.com/jeromew"
+external_url: "https://github.com/jeromew"
 category: "Miscellaneous"
 ---

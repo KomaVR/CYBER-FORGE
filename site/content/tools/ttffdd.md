@@ -1,6 +1,6 @@
 ---
 title: "ttffdd"
 description: ""
-url: "https://github.com/ttffdd"
+external_url: "https://github.com/ttffdd"
 category: "Miscellaneous"
 ---

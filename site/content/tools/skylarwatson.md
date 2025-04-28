@@ -1,6 +1,6 @@
 ---
 title: "SkylarWatson"
 description: ""
-url: "https://github.com/SkylarWatson"
+external_url: "https://github.com/SkylarWatson"
 category: "Miscellaneous"
 ---

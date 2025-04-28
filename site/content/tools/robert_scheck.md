@@ -7,6 +7,6 @@ dnf -y copr enable robert/ipcalc && \
 dnf -y install curl whois bind-utils mtr jq nmap nmap-ncat ipcalc aha grepcidr
 
 "
-url: "https://github.com/robert-scheck"
+external_url: "https://github.com/robert-scheck"
 category: "White Hat Tools"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "SECUINSIDE CTF"
 description: ""
-url: "http://secuinside.com/"
+external_url: "http://secuinside.com/"
 category: "Miscellaneous"
 ---

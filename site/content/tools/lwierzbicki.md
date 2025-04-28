@@ -1,6 +1,6 @@
 ---
 title: "lwierzbicki"
 description: ""
-url: "https://github.com/lwierzbicki"
+external_url: "https://github.com/lwierzbicki"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Therdel"
 description: ""
-url: "https://github.com/Therdel"
+external_url: "https://github.com/Therdel"
 category: "Miscellaneous"
 ---

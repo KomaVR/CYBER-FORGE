@@ -1,6 +1,6 @@
 ---
 title: "Silberschleier"
 description: ""
-url: "https://github.com/Silberschleier"
+external_url: "https://github.com/Silberschleier"
 category: "Miscellaneous"
 ---

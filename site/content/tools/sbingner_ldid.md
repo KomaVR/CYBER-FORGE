@@ -1,6 +1,6 @@
 ---
 title: "sbingner/ldid"
 description: "Codesign tool"
-url: "https://github.com/sbingner/ldid"
+external_url: "https://github.com/sbingner/ldid"
 category: "Miscellaneous"
 ---

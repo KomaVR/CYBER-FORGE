@@ -1,6 +1,6 @@
 ---
 title: "https://www.host-tracker.com/"
 description: ""
-url: "https://www.host-tracker.com/"
+external_url: "https://www.host-tracker.com/"
 category: "Miscellaneous"
 ---

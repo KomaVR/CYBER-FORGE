@@ -1,6 +1,6 @@
 ---
 title: "Pantaleao"
 description: ""
-url: "https://github.com/Pantaleao"
+external_url: "https://github.com/Pantaleao"
 category: "Miscellaneous"
 ---

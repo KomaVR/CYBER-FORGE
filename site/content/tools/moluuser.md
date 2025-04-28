@@ -1,6 +1,6 @@
 ---
 title: "moluuser"
 description: ""
-url: "https://github.com/moluuser"
+external_url: "https://github.com/moluuser"
 category: "Miscellaneous"
 ---

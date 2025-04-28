@@ -7,6 +7,6 @@ Nuclei
 Custom YARA Rules
 
 "
-url: "https://www.blacklanternsecurity.com/bbot/Stable/modules/list_of_modules"
+external_url: "https://www.blacklanternsecurity.com/bbot/Stable/modules/list_of_modules"
 category: "Malware Analysis"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "wbowling"
 description: ""
-url: "https://github.com/wbowling"
+external_url: "https://github.com/wbowling"
 category: "Miscellaneous"
 ---

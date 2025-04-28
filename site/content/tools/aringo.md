@@ -1,6 +1,6 @@
 ---
 title: "aringo"
 description: ""
-url: "https://github.com/aringo"
+external_url: "https://github.com/aringo"
 category: "Miscellaneous"
 ---

@@ -3,6 +3,6 @@ title: "Computer Forensics Courses | Coursera"
 description: "
 
 "
-url: "https://www.coursera.org/specializations/computerforensics"
+external_url: "https://www.coursera.org/specializations/computerforensics"
 category: "Malware Analysis"
 ---

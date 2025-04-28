@@ -1,6 +1,6 @@
 ---
 title: "touhidshaikh"
 description: "Touhid M.Shaikh ()"
-url: "https://github.com/touhidshaikh"
+external_url: "https://github.com/touhidshaikh"
 category: "Miscellaneous"
 ---

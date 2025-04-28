@@ -1,6 +1,6 @@
 ---
 title: "mozillazg"
 description: ""
-url: "https://github.com/mozillazg"
+external_url: "https://github.com/mozillazg"
 category: "Miscellaneous"
 ---

@@ -12,6 +12,6 @@ john .txt
 
 
 "
-url: "https://jwt.io/"
+external_url: "https://jwt.io/"
 category: "Web Exploitation"
 ---

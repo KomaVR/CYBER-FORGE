@@ -1,6 +1,6 @@
 ---
 title: "Pico CTF"
 description: ""
-url: "https://picoctf.com/"
+external_url: "https://picoctf.com/"
 category: "Miscellaneous"
 ---

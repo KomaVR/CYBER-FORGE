@@ -1,6 +1,6 @@
 ---
 title: "qtc-de"
 description: ""
-url: "https://github.com/qtc-de"
+external_url: "https://github.com/qtc-de"
 category: "Miscellaneous"
 ---

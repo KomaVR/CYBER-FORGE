@@ -1,6 +1,6 @@
 ---
 title: "VillanCh"
 description: ""
-url: "https://github.com/VillanCh"
+external_url: "https://github.com/VillanCh"
 category: "Miscellaneous"
 ---

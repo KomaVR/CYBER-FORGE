@@ -1,6 +1,6 @@
 ---
 title: "vitoriario"
 description: ""
-url: "https://github.com/vitoriario"
+external_url: "https://github.com/vitoriario"
 category: "Miscellaneous"
 ---

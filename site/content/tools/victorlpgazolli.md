@@ -1,6 +1,6 @@
 ---
 title: "victorlpgazolli"
 description: ""
-url: "https://github.com/victorlpgazolli"
+external_url: "https://github.com/victorlpgazolli"
 category: "Miscellaneous"
 ---

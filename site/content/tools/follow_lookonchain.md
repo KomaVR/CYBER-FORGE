@@ -1,6 +1,6 @@
 ---
 title: "Follow LookOnChain"
 description: ""
-url: "https://twitter.com/lookonchain"
+external_url: "https://twitter.com/lookonchain"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Ch0pin"
 description: ""
-url: "https://github.com/Ch0pin"
+external_url: "https://github.com/Ch0pin"
 category: "Miscellaneous"
 ---

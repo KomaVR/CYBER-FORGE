@@ -3,6 +3,6 @@ title: "TryHackMe | Team"
 description: "
  
 "
-url: "https://tryhackme.com/room/teamcw"
+external_url: "https://tryhackme.com/room/teamcw"
 category: "Miscellaneous"
 ---

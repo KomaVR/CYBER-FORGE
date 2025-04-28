@@ -1,6 +1,6 @@
 ---
 title: "michelroegl-brunner"
 description: ""
-url: "https://github.com/michelroegl-brunner"
+external_url: "https://github.com/michelroegl-brunner"
 category: "Miscellaneous"
 ---

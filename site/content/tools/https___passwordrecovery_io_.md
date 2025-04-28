@@ -1,6 +1,6 @@
 ---
 title: "https://passwordrecovery.io/"
 description: ""
-url: "https://passwordrecovery.io/"
+external_url: "https://passwordrecovery.io/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "karliss"
 description: ""
-url: "https://github.com/karliss"
+external_url: "https://github.com/karliss"
 category: "Miscellaneous"
 ---

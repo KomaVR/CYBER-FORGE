@@ -1,6 +1,6 @@
 ---
 title: "gitter-badger"
 description: ""
-url: "https://github.com/gitter-badger"
+external_url: "https://github.com/gitter-badger"
 category: "Miscellaneous"
 ---

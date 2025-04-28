@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://ko-fi.com/mitchellkrog"
+external_url: "https://ko-fi.com/mitchellkrog"
 category: "Miscellaneous"
 ---

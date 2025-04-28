@@ -1,6 +1,6 @@
 ---
 title: "WebSite Watcher"
 description: ""
-url: "http://www.aignes.com/index.htm"
+external_url: "http://www.aignes.com/index.htm"
 category: "Web Exploitation"
 ---

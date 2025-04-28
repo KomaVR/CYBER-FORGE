@@ -1,6 +1,6 @@
 ---
 title: "Mefeedia"
 description: ""
-url: "http://www.mefeedia.com"
+external_url: "http://www.mefeedia.com"
 category: "Miscellaneous"
 ---

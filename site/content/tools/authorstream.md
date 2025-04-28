@@ -1,6 +1,6 @@
 ---
 title: "Authorstream"
 description: ""
-url: "http://www.authorstream.com/"
+external_url: "http://www.authorstream.com/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "charlesdaniels"
 description: ""
-url: "https://github.com/charlesdaniels"
+external_url: "https://github.com/charlesdaniels"
 category: "Miscellaneous"
 ---

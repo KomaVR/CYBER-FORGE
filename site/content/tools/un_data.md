@@ -1,6 +1,6 @@
 ---
 title: "UN Data"
 description: ""
-url: "http://data.un.org"
+external_url: "http://data.un.org"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/sqlmapproject/sqlmap/wiki/Usage"
 description: ""
-url: "https://github.com/sqlmapproject/sqlmap/wiki/Usage"
+external_url: "https://github.com/sqlmapproject/sqlmap/wiki/Usage"
 category: "Web Exploitation"
 ---

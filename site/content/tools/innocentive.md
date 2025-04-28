@@ -1,6 +1,6 @@
 ---
 title: "Innocentive"
 description: ""
-url: "http://www.innocentive.com"
+external_url: "http://www.innocentive.com"
 category: "Miscellaneous"
 ---

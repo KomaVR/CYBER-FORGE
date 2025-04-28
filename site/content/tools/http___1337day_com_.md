@@ -1,6 +1,6 @@
 ---
 title: "http://1337day.com/"
 description: ""
-url: "http://1337day.com/"
+external_url: "http://1337day.com/"
 category: "Miscellaneous"
 ---

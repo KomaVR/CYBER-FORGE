@@ -1,6 +1,6 @@
 ---
 title: "semgrep-bot"
 description: ""
-url: "https://github.com/semgrep-bot"
+external_url: "https://github.com/semgrep-bot"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "vivekperkawar"
 description: ""
-url: "https://github.com/vivekperkawar"
+external_url: "https://github.com/vivekperkawar"
 category: "Miscellaneous"
 ---

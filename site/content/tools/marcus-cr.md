@@ -1,6 +1,6 @@
 ---
 title: "marcus-cr"
 description: ""
-url: "https://github.com/marcus-cr"
+external_url: "https://github.com/marcus-cr"
 category: "Miscellaneous"
 ---

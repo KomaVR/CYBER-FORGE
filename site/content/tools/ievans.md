@@ -1,6 +1,6 @@
 ---
 title: "ievans"
 description: ""
-url: "https://github.com/ievans"
+external_url: "https://github.com/ievans"
 category: "Miscellaneous"
 ---

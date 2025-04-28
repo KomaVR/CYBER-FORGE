@@ -1,6 +1,6 @@
 ---
 title: "allanlw"
 description: ""
-url: "https://github.com/allanlw"
+external_url: "https://github.com/allanlw"
 category: "Miscellaneous"
 ---

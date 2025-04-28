@@ -3,6 +3,6 @@ title: "yichinzhu"
 description: "
 
 "
-url: "https://github.com/yichinzhu"
+external_url: "https://github.com/yichinzhu"
 category: "Miscellaneous"
 ---

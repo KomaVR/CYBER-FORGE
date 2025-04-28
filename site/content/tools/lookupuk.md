@@ -1,6 +1,6 @@
 ---
 title: "LookUpUK"
 description: ""
-url: "http://www.lookupuk.com/"
+external_url: "http://www.lookupuk.com/"
 category: "Miscellaneous"
 ---

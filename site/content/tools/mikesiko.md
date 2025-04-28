@@ -1,6 +1,6 @@
 ---
 title: "mikesiko"
 description: ""
-url: "https://github.com/mikesiko"
+external_url: "https://github.com/mikesiko"
 category: "Miscellaneous"
 ---

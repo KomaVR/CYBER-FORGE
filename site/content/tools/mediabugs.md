@@ -1,6 +1,6 @@
 ---
 title: "MediaBugs"
 description: ""
-url: "http://mediabugs.org/"
+external_url: "http://mediabugs.org/"
 category: "Miscellaneous"
 ---

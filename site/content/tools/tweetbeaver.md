@@ -1,6 +1,6 @@
 ---
 title: "TweetBeaver"
 description: ""
-url: "https://tweetbeaver.com/index.php"
+external_url: "https://tweetbeaver.com/index.php"
 category: "Miscellaneous"
 ---

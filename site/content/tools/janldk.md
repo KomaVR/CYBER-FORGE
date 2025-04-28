@@ -1,6 +1,6 @@
 ---
 title: "janldk"
 description: ""
-url: "https://github.com/janldk"
+external_url: "https://github.com/janldk"
 category: "Miscellaneous"
 ---

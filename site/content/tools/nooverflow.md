@@ -1,6 +1,6 @@
 ---
 title: "NoOverflow"
 description: ""
-url: "https://github.com/NoOverflow"
+external_url: "https://github.com/NoOverflow"
 category: "Miscellaneous"
 ---

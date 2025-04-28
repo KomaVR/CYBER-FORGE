@@ -1,6 +1,6 @@
 ---
 title: "https://www.sptrans.com.br/terminais"
 description: ""
-url: "https://www.sptrans.com.br/terminais"
+external_url: "https://www.sptrans.com.br/terminais"
 category: "Miscellaneous"
 ---

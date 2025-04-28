@@ -1,6 +1,6 @@
 ---
 title: "Goblin WordGenerator"
 description: ""
-url: "https://github.com/UndeadSec/GoblinWordGenerator.git"
+external_url: "https://github.com/UndeadSec/GoblinWordGenerator.git"
 category: "Miscellaneous"
 ---

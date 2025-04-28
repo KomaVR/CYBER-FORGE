@@ -1,6 +1,6 @@
 ---
 title: "dETH Node"
 description: ""
-url: "https://github.com/dethcrypto/deth"
+external_url: "https://github.com/dethcrypto/deth"
 category: "Miscellaneous"
 ---

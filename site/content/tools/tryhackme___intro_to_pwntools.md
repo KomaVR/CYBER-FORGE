@@ -3,6 +3,6 @@ title: "TryHackMe | Intro To Pwntools"
 description: "
  
 "
-url: "https://tryhackme.com/room/introtopwntools"
+external_url: "https://tryhackme.com/room/introtopwntools"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "twpayne"
 description: ""
-url: "https://github.com/twpayne"
+external_url: "https://github.com/twpayne"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "mxhdee"
 description: ""
-url: "https://github.com/mxhdee"
+external_url: "https://github.com/mxhdee"
 category: "Miscellaneous"
 ---

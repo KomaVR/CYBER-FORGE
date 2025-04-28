@@ -1,6 +1,6 @@
 ---
 title: "xoro"
 description: ""
-url: "https://github.com/xoro"
+external_url: "https://github.com/xoro"
 category: "Miscellaneous"
 ---

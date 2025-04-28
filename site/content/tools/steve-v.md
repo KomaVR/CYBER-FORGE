@@ -1,6 +1,6 @@
 ---
 title: "Steve-V"
 description: ""
-url: "https://github.com/Steve-V"
+external_url: "https://github.com/Steve-V"
 category: "Miscellaneous"
 ---

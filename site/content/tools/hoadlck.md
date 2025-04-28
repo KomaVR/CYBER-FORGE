@@ -1,6 +1,6 @@
 ---
 title: "hoadlck"
 description: ""
-url: "https://github.com/hoadlck"
+external_url: "https://github.com/hoadlck"
 category: "Miscellaneous"
 ---

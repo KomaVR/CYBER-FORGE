@@ -1,6 +1,6 @@
 ---
 title: "Hyle33ies"
 description: ""
-url: "https://github.com/Hyle33ies"
+external_url: "https://github.com/Hyle33ies"
 category: "Miscellaneous"
 ---

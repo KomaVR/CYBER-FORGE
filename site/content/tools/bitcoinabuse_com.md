@@ -1,6 +1,6 @@
 ---
 title: "bitcoinabuse.com"
 description: ""
-url: "https://www.bitcoinabuse.com"
+external_url: "https://www.bitcoinabuse.com"
 category: "Miscellaneous"
 ---

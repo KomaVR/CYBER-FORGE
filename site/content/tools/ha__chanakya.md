@@ -1,6 +1,6 @@
 ---
 title: "HA: Chanakya"
 description: ""
-url: "https://www.hackingarticles.in/ha-chanakya-vulnhub-walkthrough/"
+external_url: "https://www.hackingarticles.in/ha-chanakya-vulnhub-walkthrough/"
 category: "Miscellaneous"
 ---

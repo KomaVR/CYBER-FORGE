@@ -1,6 +1,6 @@
 ---
 title: "thelampgod"
 description: ""
-url: "https://github.com/thelampgod"
+external_url: "https://github.com/thelampgod"
 category: "Miscellaneous"
 ---

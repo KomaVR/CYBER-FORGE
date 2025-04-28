@@ -1,6 +1,6 @@
 ---
 title: "fintzd"
 description: ""
-url: "https://github.com/fintzd"
+external_url: "https://github.com/fintzd"
 category: "Miscellaneous"
 ---

@@ -10,6 +10,6 @@ Skype
 
 
 "
-url: "https://www.cnbeta.com/articles/tech/876211.htm"
+external_url: "https://www.cnbeta.com/articles/tech/876211.htm"
 category: "Miscellaneous"
 ---

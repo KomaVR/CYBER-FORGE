@@ -18,6 +18,6 @@ Balsn CTF 2020 - L5D
 
 
 "
-url: "https://github.com/ambionics/phpggc#ascii-strings"
+external_url: "https://github.com/ambionics/phpggc#ascii-strings"
 category: "Miscellaneous"
 ---

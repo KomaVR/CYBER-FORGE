@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://patreon.com/dockerslim"
+external_url: "https://patreon.com/dockerslim"
 category: "Miscellaneous"
 ---

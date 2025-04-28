@@ -1,6 +1,6 @@
 ---
 title: "fanimalikhack"
 description: ""
-url: "https://github.com/fanimalikhack"
+external_url: "https://github.com/fanimalikhack"
 category: "Miscellaneous"
 ---

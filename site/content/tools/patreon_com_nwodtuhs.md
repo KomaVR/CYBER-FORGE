@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://patreon.com/nwodtuhs"
+external_url: "https://patreon.com/nwodtuhs"
 category: "Miscellaneous"
 ---

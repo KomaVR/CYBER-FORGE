@@ -1,6 +1,6 @@
 ---
 title: "programerr01"
 description: ""
-url: "https://github.com/programerr01"
+external_url: "https://github.com/programerr01"
 category: "Miscellaneous"
 ---

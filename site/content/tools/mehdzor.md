@@ -1,6 +1,6 @@
 ---
 title: "Mehdzor"
 description: ""
-url: "https://github.com/Mehdzor"
+external_url: "https://github.com/Mehdzor"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "friederbluemle"
 description: ""
-url: "https://github.com/friederbluemle"
+external_url: "https://github.com/friederbluemle"
 category: "Miscellaneous"
 ---

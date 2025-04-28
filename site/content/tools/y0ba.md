@@ -1,6 +1,6 @@
 ---
 title: "Y0ba"
 description: ""
-url: "https://github.com/Y0ba"
+external_url: "https://github.com/Y0ba"
 category: "Miscellaneous"
 ---

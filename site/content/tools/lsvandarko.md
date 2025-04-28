@@ -1,6 +1,6 @@
 ---
 title: "LsvanDarko"
 description: ""
-url: "https://github.com/LsvanDarko"
+external_url: "https://github.com/LsvanDarko"
 category: "Miscellaneous"
 ---

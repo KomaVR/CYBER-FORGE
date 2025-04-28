@@ -1,6 +1,6 @@
 ---
 title: "jimen0"
 description: ""
-url: "https://github.com/jimen0"
+external_url: "https://github.com/jimen0"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "How to Defend Your Castle | Innovative Trio in Smart Contract Security: Monitoring, Prevention, Defense"
 description: ""
-url: "https://officercia.mirror.xyz/W-SUbkTf18b3RuPL9DykXQmpexWBZxbp4P1xfCfXo4Y"
+external_url: "https://officercia.mirror.xyz/W-SUbkTf18b3RuPL9DykXQmpexWBZxbp4P1xfCfXo4Y"
 category: "Miscellaneous"
 ---

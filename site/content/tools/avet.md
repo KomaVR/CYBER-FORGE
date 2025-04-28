@@ -1,6 +1,6 @@
 ---
 title: "avet"
 description: "AntiVirus Evasion Tool."
-url: "https://github.com/govolution/avet"
+external_url: "https://github.com/govolution/avet"
 category: "Miscellaneous"
 ---

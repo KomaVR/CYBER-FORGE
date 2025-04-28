@@ -2,6 +2,6 @@
 title: "firefart"
 description: "firefart
 Christian Mehlmauer"
-url: "https://github.com/firefart"
+external_url: "https://github.com/firefart"
 category: "Miscellaneous"
 ---

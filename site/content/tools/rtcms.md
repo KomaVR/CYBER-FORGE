@@ -1,6 +1,6 @@
 ---
 title: "rtcms"
 description: ""
-url: "https://github.com/rtcms"
+external_url: "https://github.com/rtcms"
 category: "Miscellaneous"
 ---

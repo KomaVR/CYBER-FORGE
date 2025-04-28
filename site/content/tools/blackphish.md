@@ -1,6 +1,6 @@
 ---
 title: "BlackPhish"
 description: ""
-url: "https://github.com/iinc0gnit0/BlackPhish"
+external_url: "https://github.com/iinc0gnit0/BlackPhish"
 category: "Miscellaneous"
 ---

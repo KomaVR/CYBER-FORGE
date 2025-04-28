@@ -1,6 +1,6 @@
 ---
 title: "motypi"
 description: ""
-url: "https://github.com/motypi"
+external_url: "https://github.com/motypi"
 category: "Miscellaneous"
 ---

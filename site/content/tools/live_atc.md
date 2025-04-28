@@ -1,6 +1,6 @@
 ---
 title: "Live ATC"
 description: ""
-url: "https://www.liveatc.net/"
+external_url: "https://www.liveatc.net/"
 category: "Miscellaneous"
 ---

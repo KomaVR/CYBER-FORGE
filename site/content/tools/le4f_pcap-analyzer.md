@@ -1,6 +1,6 @@
 ---
 title: "le4f/pcap-analyzer"
 description: "[381星][5y] [JS]  在线轻量Pcap流量文件分析工具"
-url: "https://github.com/le4f/pcap-analyzer"
+external_url: "https://github.com/le4f/pcap-analyzer"
 category: "Miscellaneous"
 ---

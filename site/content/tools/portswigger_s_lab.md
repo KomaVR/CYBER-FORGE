@@ -15,6 +15,6 @@ Example: Express-GraphQL,
 
 
 "
-url: "https://portswigger.net/web-security/graphql/lab-graphql-csrf-via-graphql-api"
+external_url: "https://portswigger.net/web-security/graphql/lab-graphql-csrf-via-graphql-api"
 category: "Web Exploitation"
 ---

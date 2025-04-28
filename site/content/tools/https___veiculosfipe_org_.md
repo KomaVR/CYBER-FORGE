@@ -1,6 +1,6 @@
 ---
 title: "https://veiculosfipe.org/"
 description: ""
-url: "https://veiculosfipe.org/"
+external_url: "https://veiculosfipe.org/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "spacehamster"
 description: ""
-url: "https://github.com/spacehamster"
+external_url: "https://github.com/spacehamster"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "hifi"
 description: ""
-url: "https://github.com/hifi"
+external_url: "https://github.com/hifi"
 category: "Miscellaneous"
 ---

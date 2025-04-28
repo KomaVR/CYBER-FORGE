@@ -1,6 +1,6 @@
 ---
 title: "xTVaser"
 description: ""
-url: "https://github.com/xTVaser"
+external_url: "https://github.com/xTVaser"
 category: "Miscellaneous"
 ---

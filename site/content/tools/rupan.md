@@ -1,6 +1,6 @@
 ---
 title: "Rupan"
 description: ""
-url: "https://github.com/Rupan"
+external_url: "https://github.com/Rupan"
 category: "Miscellaneous"
 ---

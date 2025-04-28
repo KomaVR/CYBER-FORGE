@@ -57,6 +57,6 @@ e.g. 有些 WAF 不封 google bot
 
 
 "
-url: "http://xdxd.love/2015/12/18/%E9%80%9A%E8%BF%87multipart-form-data%E7%BB%95%E8%BF%87waf/"
+external_url: "http://xdxd.love/2015/12/18/%E9%80%9A%E8%BF%87multipart-form-data%E7%BB%95%E8%BF%87waf/"
 category: "Grey Hat Tools"
 ---

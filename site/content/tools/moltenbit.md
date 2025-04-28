@@ -1,6 +1,6 @@
 ---
 title: "moltenbit"
 description: ""
-url: "https://github.com/moltenbit"
+external_url: "https://github.com/moltenbit"
 category: "Miscellaneous"
 ---

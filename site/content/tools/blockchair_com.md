@@ -1,6 +1,6 @@
 ---
 title: "blockchair.com"
 description: ""
-url: "https://blockchair.com"
+external_url: "https://blockchair.com"
 category: "Miscellaneous"
 ---

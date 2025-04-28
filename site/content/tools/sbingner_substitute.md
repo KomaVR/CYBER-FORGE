@@ -1,6 +1,6 @@
 ---
 title: "sbingner/substitute"
 description: ""
-url: "https://github.com/sbingner/substitute"
+external_url: "https://github.com/sbingner/substitute"
 category: "Miscellaneous"
 ---

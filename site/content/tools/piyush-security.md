@@ -1,6 +1,6 @@
 ---
 title: "piyush-security"
 description: ""
-url: "https://github.com/piyush-security"
+external_url: "https://github.com/piyush-security"
 category: "Miscellaneous"
 ---

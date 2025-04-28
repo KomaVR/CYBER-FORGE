@@ -1,6 +1,6 @@
 ---
 title: "santiment.net"
 description: ""
-url: "https://app.santiment.net/sign-up"
+external_url: "https://app.santiment.net/sign-up"
 category: "Miscellaneous"
 ---

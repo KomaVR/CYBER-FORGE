@@ -1,6 +1,6 @@
 ---
 title: "leosulake"
 description: ""
-url: "https://github.com/leosulake"
+external_url: "https://github.com/leosulake"
 category: "Miscellaneous"
 ---

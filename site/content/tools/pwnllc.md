@@ -1,6 +1,6 @@
 ---
 title: "pwnllc"
 description: ""
-url: "https://github.com/pwnllc"
+external_url: "https://github.com/pwnllc"
 category: "Miscellaneous"
 ---

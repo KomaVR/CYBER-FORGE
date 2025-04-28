@@ -2,6 +2,6 @@
 title: "twitter.com/search-advanced"
 description: "advanced search,
 "
-url: "https://twitter.com/search-advanced"
+external_url: "https://twitter.com/search-advanced"
 category: "Miscellaneous"
 ---

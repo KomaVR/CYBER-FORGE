@@ -7,6 +7,6 @@ Mailing list for general discussions: log2timeline-discuss
 Mailing list for development: log2timeline-dev
 
 "
-url: "https://github.com/open-source-dfir/slack"
+external_url: "https://github.com/open-source-dfir/slack"
 category: "Miscellaneous"
 ---

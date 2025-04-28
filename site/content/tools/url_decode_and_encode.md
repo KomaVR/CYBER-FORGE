@@ -1,6 +1,6 @@
 ---
 title: "URL Decode and Encode"
 description: ""
-url: "https://www.urldecoder.org/"
+external_url: "https://www.urldecoder.org/"
 category: "Miscellaneous"
 ---

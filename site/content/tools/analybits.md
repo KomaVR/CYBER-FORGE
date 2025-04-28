@@ -1,6 +1,6 @@
 ---
 title: "analybits"
 description: ""
-url: "https://analybits.xyz"
+external_url: "https://analybits.xyz"
 category: "Miscellaneous"
 ---

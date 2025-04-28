@@ -1,6 +1,6 @@
 ---
 title: "Devices"
 description: ""
-url: "https://sn0int.readthedocs.io/en/latest/structs.html#devices"
+external_url: "https://sn0int.readthedocs.io/en/latest/structs.html#devices"
 category: "Miscellaneous"
 ---

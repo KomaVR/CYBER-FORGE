@@ -1,6 +1,6 @@
 ---
 title: "codingllama"
 description: ""
-url: "https://github.com/codingllama"
+external_url: "https://github.com/codingllama"
 category: "Miscellaneous"
 ---

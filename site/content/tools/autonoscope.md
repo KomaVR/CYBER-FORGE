@@ -7,6 +7,6 @@ IPs
 URLs
 
 "
-url: "https://sn0int.readthedocs.io/en/latest/autonoscope.html"
+external_url: "https://sn0int.readthedocs.io/en/latest/autonoscope.html"
 category: "Miscellaneous"
 ---

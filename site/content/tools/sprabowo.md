@@ -1,6 +1,6 @@
 ---
 title: "sprabowo"
 description: ""
-url: "https://github.com/sprabowo"
+external_url: "https://github.com/sprabowo"
 category: "Miscellaneous"
 ---

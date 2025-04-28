@@ -1,6 +1,6 @@
 ---
 title: "https://the-x.cn/"
 description: ""
-url: "https://the-x.cn/"
+external_url: "https://the-x.cn/"
 category: "Miscellaneous"
 ---

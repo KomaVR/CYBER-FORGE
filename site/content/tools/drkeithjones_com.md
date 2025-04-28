@@ -1,6 +1,6 @@
 ---
 title: "DrKeithJones.com"
 description: "A blog on cyber security and network security monitoring."
-url: "https://drkeithjones.com"
+external_url: "https://drkeithjones.com"
 category: "White Hat Tools"
 ---

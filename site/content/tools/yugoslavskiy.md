@@ -1,6 +1,6 @@
 ---
 title: "yugoslavskiy"
 description: ""
-url: "https://github.com/yugoslavskiy"
+external_url: "https://github.com/yugoslavskiy"
 category: "Miscellaneous"
 ---

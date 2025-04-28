@@ -1,6 +1,6 @@
 ---
 title: "roxysploit"
 description: "A Hackers framework."
-url: "https://github.com/andyvaikunth/roxysploit"
+external_url: "https://github.com/andyvaikunth/roxysploit"
 category: "Miscellaneous"
 ---

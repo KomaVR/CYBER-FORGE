@@ -1,6 +1,6 @@
 ---
 title: "iMartzen"
 description: ""
-url: "https://github.com/iMartzen"
+external_url: "https://github.com/iMartzen"
 category: "Miscellaneous"
 ---

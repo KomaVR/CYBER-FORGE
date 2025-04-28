@@ -118,6 +118,6 @@ $ convert ssrf.mvg out.png
 
 
 "
-url: "https://github.com/undefinedd/extract0r-"
+external_url: "https://github.com/undefinedd/extract0r-"
 category: "Black Hat Tools"
 ---

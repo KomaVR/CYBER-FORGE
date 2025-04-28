@@ -1,6 +1,6 @@
 ---
 title: "LogicAndTrick"
 description: ""
-url: "https://github.com/LogicAndTrick"
+external_url: "https://github.com/LogicAndTrick"
 category: "Miscellaneous"
 ---

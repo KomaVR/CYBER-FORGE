@@ -1,6 +1,6 @@
 ---
 title: "isfaaghyth"
 description: ""
-url: "https://github.com/isfaaghyth"
+external_url: "https://github.com/isfaaghyth"
 category: "Miscellaneous"
 ---

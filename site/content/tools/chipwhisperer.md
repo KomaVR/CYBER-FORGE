@@ -1,6 +1,6 @@
 ---
 title: "ChipWhisperer"
 description: "A system for side-channel attacks, such as power analysis and clock glitching."
-url: "http://newae.com/tools/chipwhisperer/"
+external_url: "http://newae.com/tools/chipwhisperer/"
 category: "Miscellaneous"
 ---

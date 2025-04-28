@@ -1,6 +1,6 @@
 ---
 title: "Naategh"
 description: ""
-url: "https://github.com/Naategh"
+external_url: "https://github.com/Naategh"
 category: "Miscellaneous"
 ---

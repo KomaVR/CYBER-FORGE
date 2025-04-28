@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://ko-fi.com/thelazza"
+external_url: "https://ko-fi.com/thelazza"
 category: "Miscellaneous"
 ---

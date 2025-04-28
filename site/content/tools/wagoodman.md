@@ -1,6 +1,6 @@
 ---
 title: "wagoodman"
 description: ""
-url: "https://github.com/wagoodman"
+external_url: "https://github.com/wagoodman"
 category: "Miscellaneous"
 ---

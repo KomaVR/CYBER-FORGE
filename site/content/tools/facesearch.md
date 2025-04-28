@@ -1,6 +1,6 @@
 ---
 title: "facesearch"
 description: ""
-url: "http://facesaerch.com/"
+external_url: "http://facesaerch.com/"
 category: "Miscellaneous"
 ---

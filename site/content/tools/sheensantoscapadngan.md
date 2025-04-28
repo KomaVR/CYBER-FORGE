@@ -1,6 +1,6 @@
 ---
 title: "sheensantoscapadngan"
 description: ""
-url: "https://github.com/sheensantoscapadngan"
+external_url: "https://github.com/sheensantoscapadngan"
 category: "Miscellaneous"
 ---

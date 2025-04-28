@@ -1,6 +1,6 @@
 ---
 title: "mloberg"
 description: ""
-url: "https://github.com/mloberg"
+external_url: "https://github.com/mloberg"
 category: "Miscellaneous"
 ---

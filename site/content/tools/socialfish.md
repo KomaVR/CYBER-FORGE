@@ -1,6 +1,6 @@
 ---
 title: "SocialFish"
 description: ""
-url: "https://github.com/UndeadSec/SocialFish"
+external_url: "https://github.com/UndeadSec/SocialFish"
 category: "Miscellaneous"
 ---

@@ -3,6 +3,6 @@ title: "TryHackMe | envizon"
 description: "
  
 "
-url: "https://tryhackme.com/room/envizon"
+external_url: "https://tryhackme.com/room/envizon"
 category: "Miscellaneous"
 ---

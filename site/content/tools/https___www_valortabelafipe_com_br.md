@@ -1,6 +1,6 @@
 ---
 title: "https://www.valortabelafipe.com.br"
 description: ""
-url: "https://www.valortabelafipe.com.br"
+external_url: "https://www.valortabelafipe.com.br"
 category: "Miscellaneous"
 ---

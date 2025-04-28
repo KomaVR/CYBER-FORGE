@@ -5,6 +5,6 @@ description: "Example
 
 
 "
-url: "https://dttw.tech/posts/B19RXWzYL"
+external_url: "https://dttw.tech/posts/B19RXWzYL"
 category: "Miscellaneous"
 ---

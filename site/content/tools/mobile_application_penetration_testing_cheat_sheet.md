@@ -1,6 +1,6 @@
 ---
 title: "Mobile Application Penetration Testing Cheat Sheet"
 description: ""
-url: "https://github.com/sh4hin/MobileApp-Pentest-Cheatsheet"
+external_url: "https://github.com/sh4hin/MobileApp-Pentest-Cheatsheet"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Sysmon Modular"
 description: ""
-url: "https://github.com/olafhartong/sysmon-modular"
+external_url: "https://github.com/olafhartong/sysmon-modular"
 category: "Miscellaneous"
 ---

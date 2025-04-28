@@ -1,6 +1,6 @@
 ---
 title: "Goo"
 description: "(JP)"
-url: "http://www.goo.ne.jp/"
+external_url: "http://www.goo.ne.jp/"
 category: "Miscellaneous"
 ---

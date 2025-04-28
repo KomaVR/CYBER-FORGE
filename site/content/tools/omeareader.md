@@ -1,6 +1,6 @@
 ---
 title: "OmeaReader"
 description: ""
-url: "http://www.jetbrains.com/omea/reader"
+external_url: "http://www.jetbrains.com/omea/reader"
 category: "Miscellaneous"
 ---

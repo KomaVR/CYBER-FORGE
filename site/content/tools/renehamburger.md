@@ -1,6 +1,6 @@
 ---
 title: "renehamburger"
 description: ""
-url: "https://github.com/renehamburger"
+external_url: "https://github.com/renehamburger"
 category: "Miscellaneous"
 ---

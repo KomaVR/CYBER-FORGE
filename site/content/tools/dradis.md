@@ -1,6 +1,6 @@
 ---
 title: "Dradis"
 description: "Colllaboration and reporting for IT Security teams."
-url: "https://dradisframework.com/ce/"
+external_url: "https://dradisframework.com/ce/"
 category: "Miscellaneous"
 ---

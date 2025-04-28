@@ -1,6 +1,6 @@
 ---
 title: "Phlosioneer"
 description: ""
-url: "https://github.com/Phlosioneer"
+external_url: "https://github.com/Phlosioneer"
 category: "Miscellaneous"
 ---

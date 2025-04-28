@@ -1,6 +1,6 @@
 ---
 title: "thomasbrockmeier"
 description: ""
-url: "https://github.com/thomasbrockmeier"
+external_url: "https://github.com/thomasbrockmeier"
 category: "Miscellaneous"
 ---

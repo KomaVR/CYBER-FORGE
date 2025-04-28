@@ -1,6 +1,6 @@
 ---
 title: "PScout"
 description: "Analyzing the Android Permission Specification."
-url: "http://pscout.csl.toronto.edu"
+external_url: "http://pscout.csl.toronto.edu"
 category: "Miscellaneous"
 ---

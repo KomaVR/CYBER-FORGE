@@ -3,6 +3,6 @@ title: "Golang GUI"
 description: "
 
 "
-url: "https://github.com/mattkasun/netmaker-gui"
+external_url: "https://github.com/mattkasun/netmaker-gui"
 category: "Miscellaneous"
 ---

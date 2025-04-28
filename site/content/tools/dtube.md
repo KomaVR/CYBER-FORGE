@@ -1,6 +1,6 @@
 ---
 title: "dtube"
 description: ""
-url: "https://d.tube/"
+external_url: "https://d.tube/"
 category: "Miscellaneous"
 ---

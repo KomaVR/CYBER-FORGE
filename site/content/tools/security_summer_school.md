@@ -6,6 +6,6 @@ University of Bucharest Security Course
 Very beginner-friendly explanations
 
 "
-url: "https://security.cs.pub.ro/summer-school/wiki/start"
+external_url: "https://security.cs.pub.ro/summer-school/wiki/start"
 category: "Miscellaneous"
 ---

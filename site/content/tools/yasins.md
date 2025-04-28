@@ -1,6 +1,6 @@
 ---
 title: "yasinS"
 description: ""
-url: "https://github.com/yasinS"
+external_url: "https://github.com/yasinS"
 category: "Miscellaneous"
 ---

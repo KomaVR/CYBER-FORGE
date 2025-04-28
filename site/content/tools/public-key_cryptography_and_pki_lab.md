@@ -4,6 +4,6 @@ description: "
 
 Exploring public-key cryptography, digital signature, certificate, and PKI using OpenSSL.
 "
-url: "http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Crypto/Crypto_PublicKey"
+external_url: "http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Crypto/Crypto_PublicKey"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "HacDan"
 description: ""
-url: "https://github.com/HacDan"
+external_url: "https://github.com/HacDan"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "SA"
 description: ""
-url: "https://www.tenders.sa.gov.au/"
+external_url: "https://www.tenders.sa.gov.au/"
 category: "Miscellaneous"
 ---

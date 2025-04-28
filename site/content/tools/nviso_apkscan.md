@@ -1,6 +1,6 @@
 ---
 title: "NVISO ApkScan"
 description: ""
-url: "https://apkscan.nviso.be/"
+external_url: "https://apkscan.nviso.be/"
 category: "Miscellaneous"
 ---

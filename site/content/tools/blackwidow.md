@@ -1,6 +1,6 @@
 ---
 title: "BlackWidow"
 description: ""
-url: "http://softbytelabs.com/wp/blackwidow/"
+external_url: "http://softbytelabs.com/wp/blackwidow/"
 category: "Miscellaneous"
 ---

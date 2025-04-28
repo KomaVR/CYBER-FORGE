@@ -28,6 +28,6 @@ Skimagram - Search engine for Instagram
 
 
 "
-url: "https://www.aware-online.com/en/find-an-instagram-user-id/"
+external_url: "https://www.aware-online.com/en/find-an-instagram-user-id/"
 category: "Web Exploitation"
 ---

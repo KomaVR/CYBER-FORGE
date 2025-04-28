@@ -1,6 +1,6 @@
 ---
 title: "dragonmacher"
 description: ""
-url: "https://github.com/dragonmacher"
+external_url: "https://github.com/dragonmacher"
 category: "Miscellaneous"
 ---

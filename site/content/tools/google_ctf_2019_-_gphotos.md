@@ -31,6 +31,6 @@ ghostscript RCE
 
 
 "
-url: "https://blog.bushwhackers.ru/googlectf-2019-gphotos-writeup/"
+external_url: "https://blog.bushwhackers.ru/googlectf-2019-gphotos-writeup/"
 category: "Miscellaneous"
 ---

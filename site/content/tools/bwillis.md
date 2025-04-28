@@ -1,6 +1,6 @@
 ---
 title: "bwillis"
 description: ""
-url: "https://github.com/bwillis"
+external_url: "https://github.com/bwillis"
 category: "Miscellaneous"
 ---

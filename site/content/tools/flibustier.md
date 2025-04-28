@@ -1,6 +1,6 @@
 ---
 title: "flibustier"
 description: ""
-url: "https://github.com/flibustier"
+external_url: "https://github.com/flibustier"
 category: "Miscellaneous"
 ---

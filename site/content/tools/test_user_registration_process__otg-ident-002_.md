@@ -16,6 +16,6 @@ Testing for Default Credentials (OTG-AUTHN-002)
 Testing for Two Factor Authentication Bypass (EXTRA-TEST-012)
 
 "
-url: "https://github.com/Voorivex/pentest-guide/tree/master/Insecure-Authentication-Class"
+external_url: "https://github.com/Voorivex/pentest-guide/tree/master/Insecure-Authentication-Class"
 category: "Grey Hat Tools"
 ---

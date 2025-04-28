@@ -1,6 +1,6 @@
 ---
 title: "DzenIsRich"
 description: ""
-url: "https://github.com/DzenIsRich"
+external_url: "https://github.com/DzenIsRich"
 category: "Miscellaneous"
 ---

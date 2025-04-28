@@ -24,6 +24,6 @@ Example
 
 
 "
-url: "https://github.com/w181496/CTF/tree/master/dragonctf-2021"
+external_url: "https://github.com/w181496/CTF/tree/master/dragonctf-2021"
 category: "Web Exploitation"
 ---

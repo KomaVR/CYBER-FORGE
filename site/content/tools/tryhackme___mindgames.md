@@ -3,6 +3,6 @@ title: "TryHackMe | Mindgames"
 description: "
  
 "
-url: "https://tryhackme.com/room/mindgames"
+external_url: "https://tryhackme.com/room/mindgames"
 category: "Miscellaneous"
 ---

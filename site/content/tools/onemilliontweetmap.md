@@ -1,6 +1,6 @@
 ---
 title: "OneMillionTweetMap"
 description: ""
-url: "http://onemilliontweetmap.com"
+external_url: "http://onemilliontweetmap.com"
 category: "Miscellaneous"
 ---

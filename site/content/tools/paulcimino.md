@@ -1,6 +1,6 @@
 ---
 title: "paulcimino"
 description: ""
-url: "https://github.com/paulcimino"
+external_url: "https://github.com/paulcimino"
 category: "Miscellaneous"
 ---

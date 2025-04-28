@@ -1,6 +1,6 @@
 ---
 title: "hangxingliu"
 description: ""
-url: "https://github.com/hangxingliu"
+external_url: "https://github.com/hangxingliu"
 category: "Miscellaneous"
 ---

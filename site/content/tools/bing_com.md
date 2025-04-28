@@ -1,6 +1,6 @@
 ---
 title: "bing.com"
 description: "Go to"
-url: "https://bing.com"
+external_url: "https://bing.com"
 category: "Miscellaneous"
 ---

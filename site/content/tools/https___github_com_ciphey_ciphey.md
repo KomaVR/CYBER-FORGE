@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/Ciphey/Ciphey"
 description: ""
-url: "https://github.com/Ciphey/Ciphey"
+external_url: "https://github.com/Ciphey/Ciphey"
 category: "Miscellaneous"
 ---

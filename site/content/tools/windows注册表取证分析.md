@@ -1,6 +1,6 @@
 ---
 title: "Windows注册表取证分析"
 description: "2019.03 [4hou]"
-url: "https://www.4hou.com/info/news/15731.html"
+external_url: "https://www.4hou.com/info/news/15731.html"
 category: "Miscellaneous"
 ---

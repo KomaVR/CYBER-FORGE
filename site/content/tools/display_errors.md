@@ -7,6 +7,6 @@ To make sure PHP shows all error messages:
 display_startup_errors = on [display_startup_errors]
 
 "
-url: "https://secure.php.net/manual/en/errorfunc.configuration.php#ini.display-errors"
+external_url: "https://secure.php.net/manual/en/errorfunc.configuration.php#ini.display-errors"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "m0rtem"
 description: ""
-url: "https://github.com/m0rtem"
+external_url: "https://github.com/m0rtem"
 category: "Miscellaneous"
 ---

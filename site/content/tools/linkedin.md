@@ -1,6 +1,6 @@
 ---
 title: "Linkedin"
 description: ""
-url: "https://www.linkedin.com/company/wazuh"
+external_url: "https://www.linkedin.com/company/wazuh"
 category: "Miscellaneous"
 ---

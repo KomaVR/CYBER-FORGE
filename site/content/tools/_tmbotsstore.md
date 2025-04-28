@@ -1,6 +1,6 @@
 ---
 title: "@TMBotsStore"
 description: ""
-url: "https://tmbots.info/"
+external_url: "https://tmbots.info/"
 category: "Miscellaneous"
 ---

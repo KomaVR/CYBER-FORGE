@@ -1,6 +1,6 @@
 ---
 title: "tsteur"
 description: ""
-url: "https://github.com/tsteur"
+external_url: "https://github.com/tsteur"
 category: "Miscellaneous"
 ---

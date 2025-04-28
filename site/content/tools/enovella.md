@@ -1,6 +1,6 @@
 ---
 title: "enovella"
 description: ""
-url: "https://github.com/enovella/fridroid-unpacker"
+external_url: "https://github.com/enovella/fridroid-unpacker"
 category: "Miscellaneous"
 ---

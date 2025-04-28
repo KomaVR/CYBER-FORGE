@@ -1,6 +1,6 @@
 ---
 title: "hitcxy"
 description: ""
-url: "https://github.com/hitcxy"
+external_url: "https://github.com/hitcxy"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "jonpalmisc/ObjectiveNinja"
 description: ""
-url: "https://github.com/jonpalmisc/ObjectiveNinja"
+external_url: "https://github.com/jonpalmisc/ObjectiveNinja"
 category: "Miscellaneous"
 ---

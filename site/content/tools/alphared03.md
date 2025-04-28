@@ -1,6 +1,6 @@
 ---
 title: "alphaRed03"
 description: ""
-url: "https://github.com/alphaRed03"
+external_url: "https://github.com/alphaRed03"
 category: "Miscellaneous"
 ---

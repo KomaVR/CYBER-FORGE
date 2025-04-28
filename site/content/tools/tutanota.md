@@ -1,6 +1,6 @@
 ---
 title: "Tutanota"
 description: ""
-url: "https://tutanota.com/"
+external_url: "https://tutanota.com/"
 category: "Miscellaneous"
 ---

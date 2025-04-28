@@ -1,6 +1,6 @@
 ---
 title: "Maths courses all topics covered - Khan Academy"
 description: ""
-url: "https://www.khanacademy.org/math/"
+external_url: "https://www.khanacademy.org/math/"
 category: "Miscellaneous"
 ---

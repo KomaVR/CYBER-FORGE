@@ -1,6 +1,6 @@
 ---
 title: "absolutelabs.io"
 description: ""
-url: "https://absolutelabs.io"
+external_url: "https://absolutelabs.io"
 category: "Miscellaneous"
 ---

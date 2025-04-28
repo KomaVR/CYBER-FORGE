@@ -1,6 +1,6 @@
 ---
 title: "anthonyprintup"
 description: ""
-url: "https://github.com/anthonyprintup"
+external_url: "https://github.com/anthonyprintup"
 category: "Miscellaneous"
 ---

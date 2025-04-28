@@ -1,6 +1,6 @@
 ---
 title: "Terrence Martin"
 description: "Notification Sound by"
-url: "https://soundcloud.com/tj-martin-composer"
+external_url: "https://soundcloud.com/tj-martin-composer"
 category: "Miscellaneous"
 ---

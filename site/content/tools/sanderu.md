@@ -1,6 +1,6 @@
 ---
 title: "sanderu"
 description: ""
-url: "https://github.com/sanderu"
+external_url: "https://github.com/sanderu"
 category: "Miscellaneous"
 ---

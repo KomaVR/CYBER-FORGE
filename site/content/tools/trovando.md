@@ -1,6 +1,6 @@
 ---
 title: "Trovando"
 description: ""
-url: "http://www.trovando.it/"
+external_url: "http://www.trovando.it/"
 category: "Miscellaneous"
 ---

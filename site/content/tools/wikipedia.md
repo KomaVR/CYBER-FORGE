@@ -1,6 +1,6 @@
 ---
 title: "Wikipedia"
 description: ""
-url: "https://www.wikipedia.org/"
+external_url: "https://www.wikipedia.org/"
 category: "Miscellaneous"
 ---

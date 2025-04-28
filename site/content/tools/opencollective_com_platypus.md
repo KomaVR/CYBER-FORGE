@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://opencollective.com/platypus"
+external_url: "https://opencollective.com/platypus"
 category: "Miscellaneous"
 ---

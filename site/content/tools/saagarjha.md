@@ -1,6 +1,6 @@
 ---
 title: "saagarjha"
 description: ""
-url: "https://github.com/saagarjha"
+external_url: "https://github.com/saagarjha"
 category: "Miscellaneous"
 ---

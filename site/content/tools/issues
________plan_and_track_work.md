@@ -3,7 +3,7 @@ title: "Issues
         Plan and track work"
 description: "
 "
-url: "https://github.com/features/issues"
+external_url: "https://github.com/features/issues"
 category: "Miscellaneous"
 ---
 

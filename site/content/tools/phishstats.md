@@ -1,6 +1,6 @@
 ---
 title: "PhishStats"
 description: ""
-url: "https://phishstats.info/"
+external_url: "https://phishstats.info/"
 category: "Miscellaneous"
 ---

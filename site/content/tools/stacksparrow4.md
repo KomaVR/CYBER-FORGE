@@ -1,6 +1,6 @@
 ---
 title: "stacksparrow4"
 description: ""
-url: "https://github.com/stacksparrow4"
+external_url: "https://github.com/stacksparrow4"
 category: "Miscellaneous"
 ---

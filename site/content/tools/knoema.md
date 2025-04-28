@@ -1,6 +1,6 @@
 ---
 title: "Knoema"
 description: ""
-url: "https://knoema.com"
+external_url: "https://knoema.com"
 category: "Miscellaneous"
 ---

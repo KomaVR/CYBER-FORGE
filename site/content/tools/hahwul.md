@@ -2,6 +2,6 @@
 title: "hahwul"
 description: "hahwul
 HAHWUL"
-url: "https://github.com/hahwul"
+external_url: "https://github.com/hahwul"
 category: "Miscellaneous"
 ---

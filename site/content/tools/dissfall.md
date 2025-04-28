@@ -1,6 +1,6 @@
 ---
 title: "Dissfall"
 description: ""
-url: "https://github.com/Dissfall"
+external_url: "https://github.com/Dissfall"
 category: "Miscellaneous"
 ---

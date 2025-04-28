@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/lalithr95/fuzzapi"
 description: "Fuzzapi is a tool used for REST API pentesting"
-url: "https://github.com/lalithr95/fuzzapi"
+external_url: "https://github.com/lalithr95/fuzzapi"
 category: "Web Exploitation"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "itiB"
 description: ""
-url: "https://github.com/itiB"
+external_url: "https://github.com/itiB"
 category: "Miscellaneous"
 ---

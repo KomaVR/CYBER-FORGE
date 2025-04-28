@@ -1,6 +1,6 @@
 ---
 title: "carlospolop"
 description: ""
-url: "https://github.com/carlospolop"
+external_url: "https://github.com/carlospolop"
 category: "Miscellaneous"
 ---

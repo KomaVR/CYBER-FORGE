@@ -3,6 +3,6 @@ title: "TryHackMe | Conti"
 description: "
  
 "
-url: "https://tryhackme.com/room/contiransomwarehgh"
+external_url: "https://tryhackme.com/room/contiransomwarehgh"
 category: "Miscellaneous"
 ---

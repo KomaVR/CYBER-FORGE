@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://ko-fi.com/botherder"
+external_url: "https://ko-fi.com/botherder"
 category: "Miscellaneous"
 ---

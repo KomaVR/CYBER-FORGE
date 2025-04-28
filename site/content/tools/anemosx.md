@@ -1,6 +1,6 @@
 ---
 title: "Anemosx"
 description: ""
-url: "https://github.com/Anemosx"
+external_url: "https://github.com/Anemosx"
 category: "Miscellaneous"
 ---

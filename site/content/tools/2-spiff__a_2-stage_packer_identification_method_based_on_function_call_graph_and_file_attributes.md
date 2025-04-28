@@ -1,6 +1,6 @@
 ---
 title: "2-SPIFF: A 2-stage packer identification method based on function call graph and file attributes"
 description: "📰  (December 2021)"
-url: "https://link.springer.com/article/10.1007/s10489-021-02347-w"
+external_url: "https://link.springer.com/article/10.1007/s10489-021-02347-w"
 category: "Miscellaneous"
 ---

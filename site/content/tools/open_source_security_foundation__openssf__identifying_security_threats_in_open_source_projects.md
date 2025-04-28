@@ -3,6 +3,6 @@ title: "Open Source Security Foundation (OpenSSF) Identifying Security Threats i
 description: "
 
 "
-url: "https://github.com/ossf/wg-identifying-security-threats"
+external_url: "https://github.com/ossf/wg-identifying-security-threats"
 category: "Miscellaneous"
 ---

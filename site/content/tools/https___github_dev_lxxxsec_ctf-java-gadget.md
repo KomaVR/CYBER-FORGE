@@ -1,6 +1,6 @@
 ---
 title: "https://github.dev/LxxxSec/CTF-Java-Gadget"
 description: ""
-url: "https://github.dev/LxxxSec/CTF-Java-Gadget"
+external_url: "https://github.dev/LxxxSec/CTF-Java-Gadget"
 category: "Miscellaneous"
 ---

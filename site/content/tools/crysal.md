@@ -1,6 +1,6 @@
 ---
 title: "crysal"
 description: ""
-url: "https://github.com/crysal"
+external_url: "https://github.com/crysal"
 category: "Miscellaneous"
 ---

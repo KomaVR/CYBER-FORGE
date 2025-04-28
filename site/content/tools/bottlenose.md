@@ -1,6 +1,6 @@
 ---
 title: "Bottlenose"
 description: ""
-url: "http://bottlenose.com"
+external_url: "http://bottlenose.com"
 category: "Miscellaneous"
 ---

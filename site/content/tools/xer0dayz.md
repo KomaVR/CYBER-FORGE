@@ -1,6 +1,6 @@
 ---
 title: "xer0dayz"
 description: ""
-url: "https://github.com/xer0dayz"
+external_url: "https://github.com/xer0dayz"
 category: "Miscellaneous"
 ---

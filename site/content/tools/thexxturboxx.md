@@ -1,6 +1,6 @@
 ---
 title: "ThexXTURBOXx"
 description: ""
-url: "https://github.com/ThexXTURBOXx"
+external_url: "https://github.com/ThexXTURBOXx"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "http://www.sxyj.net/"
 description: ""
-url: "http://www.sxyj.net/"
+external_url: "http://www.sxyj.net/"
 category: "Miscellaneous"
 ---

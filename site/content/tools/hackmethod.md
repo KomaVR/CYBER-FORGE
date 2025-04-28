@@ -1,6 +1,6 @@
 ---
 title: "Hackmethod"
 description: ""
-url: "https://www.hackmethod.com/"
+external_url: "https://www.hackmethod.com/"
 category: "Miscellaneous"
 ---

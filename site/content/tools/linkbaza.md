@@ -1,6 +1,6 @@
 ---
 title: "LinkBaza"
 description: ""
-url: "https://linkbaza.com/catalog"
+external_url: "https://linkbaza.com/catalog"
 category: "Miscellaneous"
 ---

@@ -3,6 +3,6 @@ title: "Run Netmaker + Netclient with Podman"
 description: "
 
 "
-url: "https://github.com/agorgl/nm-setup"
+external_url: "https://github.com/agorgl/nm-setup"
 category: "Miscellaneous"
 ---

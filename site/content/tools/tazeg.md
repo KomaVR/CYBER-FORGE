@@ -1,6 +1,6 @@
 ---
 title: "Tazeg"
 description: ""
-url: "https://github.com/Tazeg"
+external_url: "https://github.com/Tazeg"
 category: "Miscellaneous"
 ---

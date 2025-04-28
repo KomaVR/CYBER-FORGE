@@ -5,6 +5,6 @@ description: "Universidad de la República:
 
 
 "
-url: "https://journals-sol.sbc.org.br/index.php/jisa/article/view/3902/2840"
+external_url: "https://journals-sol.sbc.org.br/index.php/jisa/article/view/3902/2840"
 category: "Miscellaneous"
 ---

@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://liberapay.com/noraj"
+external_url: "https://liberapay.com/noraj"
 category: "Miscellaneous"
 ---

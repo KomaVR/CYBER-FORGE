@@ -1,6 +1,6 @@
 ---
 title: "defarbs"
 description: ""
-url: "https://github.com/defarbs"
+external_url: "https://github.com/defarbs"
 category: "Miscellaneous"
 ---

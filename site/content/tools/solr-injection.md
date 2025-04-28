@@ -1,6 +1,6 @@
 ---
 title: "solr-injection"
 description: ""
-url: "https://github.com/artsploit/solr-injection#introduction"
+external_url: "https://github.com/artsploit/solr-injection#introduction"
 category: "Miscellaneous"
 ---

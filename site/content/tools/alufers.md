@@ -1,6 +1,6 @@
 ---
 title: "alufers"
 description: ""
-url: "https://github.com/alufers"
+external_url: "https://github.com/alufers"
 category: "Miscellaneous"
 ---

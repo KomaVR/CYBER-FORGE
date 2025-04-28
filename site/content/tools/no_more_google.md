@@ -1,6 +1,6 @@
 ---
 title: "No More Google"
 description: ""
-url: "https://nomoregoogle.com/"
+external_url: "https://nomoregoogle.com/"
 category: "Miscellaneous"
 ---

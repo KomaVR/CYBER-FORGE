@@ -1,6 +1,6 @@
 ---
 title: "TheYahya"
 description: ""
-url: "https://github.com/TheYahya"
+external_url: "https://github.com/TheYahya"
 category: "Miscellaneous"
 ---

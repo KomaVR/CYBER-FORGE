@@ -1,6 +1,6 @@
 ---
 title: "Wynyard Group"
 description: ""
-url: "https://wynyardgroup.com"
+external_url: "https://wynyardgroup.com"
 category: "Miscellaneous"
 ---

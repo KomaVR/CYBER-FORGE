@@ -1,6 +1,6 @@
 ---
 title: "Track Trace Post"
 description: ""
-url: "http://www.track-trace.com/post"
+external_url: "http://www.track-trace.com/post"
 category: "Miscellaneous"
 ---

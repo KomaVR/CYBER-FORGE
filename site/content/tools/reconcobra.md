@@ -1,6 +1,6 @@
 ---
 title: "ReconCobra"
 description: "Complete Automated pentest framework for Information Gathering."
-url: "https://github.com/haroonawanofficial/ReconCobra"
+external_url: "https://github.com/haroonawanofficial/ReconCobra"
 category: "OSINT & Recon"
 ---

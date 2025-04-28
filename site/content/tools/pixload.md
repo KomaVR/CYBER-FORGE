@@ -1,6 +1,6 @@
 ---
 title: "Pixload"
 description: ""
-url: "https://github.com/chinarulezzz/pixload"
+external_url: "https://github.com/chinarulezzz/pixload"
 category: "Miscellaneous"
 ---

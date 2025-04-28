@@ -1,6 +1,6 @@
 ---
 title: "veggiespam"
 description: ""
-url: "https://github.com/veggiespam"
+external_url: "https://github.com/veggiespam"
 category: "Miscellaneous"
 ---

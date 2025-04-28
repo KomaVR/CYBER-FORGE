@@ -1,6 +1,6 @@
 ---
 title: "ReagentX"
 description: ""
-url: "https://github.com/ReagentX"
+external_url: "https://github.com/ReagentX"
 category: "Miscellaneous"
 ---

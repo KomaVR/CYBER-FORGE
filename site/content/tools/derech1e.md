@@ -1,6 +1,6 @@
 ---
 title: "derech1e"
 description: ""
-url: "https://github.com/derech1e"
+external_url: "https://github.com/derech1e"
 category: "Miscellaneous"
 ---

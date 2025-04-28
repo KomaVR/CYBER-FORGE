@@ -1,6 +1,6 @@
 ---
 title: "Frengly"
 description: ""
-url: "http://frengly.com/"
+external_url: "http://frengly.com/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "tanberry"
 description: ""
-url: "https://github.com/tanberry"
+external_url: "https://github.com/tanberry"
 category: "Miscellaneous"
 ---

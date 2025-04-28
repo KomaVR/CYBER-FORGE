@@ -1,6 +1,6 @@
 ---
 title: "PulseDive"
 description: "Threat intelligence made easy"
-url: "https://pulsedive.com/"
+external_url: "https://pulsedive.com/"
 category: "Miscellaneous"
 ---

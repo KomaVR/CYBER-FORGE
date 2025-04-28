@@ -1,6 +1,6 @@
 ---
 title: "scribblemaniac"
 description: ""
-url: "https://github.com/scribblemaniac"
+external_url: "https://github.com/scribblemaniac"
 category: "Miscellaneous"
 ---

@@ -5,6 +5,6 @@ description: "
 I'm currently working on putting writeups here
 
 "
-url: "https://cryptohack.org/"
+external_url: "https://cryptohack.org/"
 category: "Miscellaneous"
 ---

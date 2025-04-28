@@ -1,6 +1,6 @@
 ---
 title: "uptoratlen"
 description: ""
-url: "https://github.com/uptoratlen"
+external_url: "https://github.com/uptoratlen"
 category: "Miscellaneous"
 ---

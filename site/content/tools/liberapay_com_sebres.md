@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://liberapay.com/sebres"
+external_url: "https://liberapay.com/sebres"
 category: "Miscellaneous"
 ---

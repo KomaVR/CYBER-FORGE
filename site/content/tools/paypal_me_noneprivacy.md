@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "http://paypal.me/noneprivacy"
+external_url: "http://paypal.me/noneprivacy"
 category: "Miscellaneous"
 ---

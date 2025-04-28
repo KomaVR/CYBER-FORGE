@@ -1,6 +1,6 @@
 ---
 title: "Lexus89"
 description: ""
-url: "https://github.com/Lexus89"
+external_url: "https://github.com/Lexus89"
 category: "Miscellaneous"
 ---

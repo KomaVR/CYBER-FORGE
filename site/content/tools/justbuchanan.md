@@ -1,6 +1,6 @@
 ---
 title: "justbuchanan"
 description: ""
-url: "https://github.com/justbuchanan"
+external_url: "https://github.com/justbuchanan"
 category: "Miscellaneous"
 ---

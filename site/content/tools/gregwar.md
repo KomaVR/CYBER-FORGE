@@ -1,6 +1,6 @@
 ---
 title: "Gregwar"
 description: ""
-url: "https://github.com/Gregwar"
+external_url: "https://github.com/Gregwar"
 category: "Miscellaneous"
 ---

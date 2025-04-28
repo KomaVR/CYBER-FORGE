@@ -1,6 +1,6 @@
 ---
 title: "Ghidra: Version Tracking"
 description: "2019.04 [X0x6d696368]"
-url: "https://www.youtube.com/watch?v=K83T7iVla5s"
+external_url: "https://www.youtube.com/watch?v=K83T7iVla5s"
 category: "Reverse Engineering"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "SoulIess"
 description: ""
-url: "https://github.com/SoulIess"
+external_url: "https://github.com/SoulIess"
 category: "Miscellaneous"
 ---

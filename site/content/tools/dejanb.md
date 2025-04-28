@@ -1,6 +1,6 @@
 ---
 title: "dejanb"
 description: ""
-url: "https://github.com/dejanb"
+external_url: "https://github.com/dejanb"
 category: "Miscellaneous"
 ---

@@ -3,6 +3,6 @@ title: "TryHackMe | Agent Sudo"
 description: "
  
 "
-url: "https://tryhackme.com/room/agentsudoctf"
+external_url: "https://tryhackme.com/room/agentsudoctf"
 category: "Miscellaneous"
 ---

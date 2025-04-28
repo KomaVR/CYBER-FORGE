@@ -1,6 +1,6 @@
 ---
 title: "L1Cafe"
 description: ""
-url: "https://github.com/L1Cafe"
+external_url: "https://github.com/L1Cafe"
 category: "Miscellaneous"
 ---

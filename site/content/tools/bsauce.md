@@ -1,6 +1,6 @@
 ---
 title: "bsauce"
 description: ""
-url: "https://github.com/bsauce"
+external_url: "https://github.com/bsauce"
 category: "Miscellaneous"
 ---

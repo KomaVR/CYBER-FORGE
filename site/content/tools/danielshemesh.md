@@ -1,6 +1,6 @@
 ---
 title: "DanielShemesh"
 description: ""
-url: "https://github.com/DanielShemesh"
+external_url: "https://github.com/DanielShemesh"
 category: "Miscellaneous"
 ---

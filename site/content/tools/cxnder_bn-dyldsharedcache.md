@@ -1,6 +1,6 @@
 ---
 title: "cxnder/bn-dyldsharedcache"
 description: ""
-url: "https://github.com/cxnder/bn-dyldsharedcache"
+external_url: "https://github.com/cxnder/bn-dyldsharedcache"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "slicingmelon"
 description: ""
-url: "https://github.com/slicingmelon"
+external_url: "https://github.com/slicingmelon"
 category: "Miscellaneous"
 ---

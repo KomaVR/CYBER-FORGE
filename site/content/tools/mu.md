@@ -1,6 +1,6 @@
 ---
 title: "Mu"
 description: "| Was Previously Jr Dev"
-url: "https://github.com/IamMU"
+external_url: "https://github.com/IamMU"
 category: "Miscellaneous"
 ---

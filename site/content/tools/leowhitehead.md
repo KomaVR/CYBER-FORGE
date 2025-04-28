@@ -1,6 +1,6 @@
 ---
 title: "leowhitehead"
 description: ""
-url: "https://github.com/leowhitehead"
+external_url: "https://github.com/leowhitehead"
 category: "Miscellaneous"
 ---

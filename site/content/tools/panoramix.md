@@ -1,6 +1,6 @@
 ---
 title: "Panoramix"
 description: ""
-url: "https://github.com/palkeo/panoramix"
+external_url: "https://github.com/palkeo/panoramix"
 category: "Miscellaneous"
 ---

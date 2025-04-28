@@ -1,6 +1,6 @@
 ---
 title: "puchy22"
 description: ""
-url: "https://github.com/puchy22"
+external_url: "https://github.com/puchy22"
 category: "Miscellaneous"
 ---

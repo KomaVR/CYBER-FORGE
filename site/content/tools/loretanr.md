@@ -1,6 +1,6 @@
 ---
 title: "loretanr"
 description: ""
-url: "https://github.com/loretanr"
+external_url: "https://github.com/loretanr"
 category: "Miscellaneous"
 ---

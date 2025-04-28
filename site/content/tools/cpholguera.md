@@ -1,6 +1,6 @@
 ---
 title: "cpholguera"
 description: ""
-url: "https://github.com/cpholguera"
+external_url: "https://github.com/cpholguera"
 category: "Miscellaneous"
 ---

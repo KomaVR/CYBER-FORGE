@@ -1,6 +1,6 @@
 ---
 title: "Telegram Club"
 description: ""
-url: "https://telegram-club.ru/"
+external_url: "https://telegram-club.ru/"
 category: "Miscellaneous"
 ---

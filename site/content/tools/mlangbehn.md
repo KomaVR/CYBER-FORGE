@@ -1,6 +1,6 @@
 ---
 title: "mlangbehn"
 description: ""
-url: "https://github.com/mlangbehn"
+external_url: "https://github.com/mlangbehn"
 category: "Miscellaneous"
 ---

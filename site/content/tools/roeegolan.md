@@ -1,6 +1,6 @@
 ---
 title: "roeegolan"
 description: ""
-url: "https://github.com/roeegolan"
+external_url: "https://github.com/roeegolan"
 category: "Miscellaneous"
 ---

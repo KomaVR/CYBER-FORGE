@@ -1,6 +1,6 @@
 ---
 title: "BlockCypher"
 description: "Search the block chain"
-url: "https://live.blockcypher.com/"
+external_url: "https://live.blockcypher.com/"
 category: "Miscellaneous"
 ---

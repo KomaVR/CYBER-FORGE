@@ -1,6 +1,6 @@
 ---
 title: "High Performance Computer Architecture - IIT Kharagpur"
 description: ""
-url: "https://nptel.ac.in/courses/106105033/"
+external_url: "https://nptel.ac.in/courses/106105033/"
 category: "Miscellaneous"
 ---

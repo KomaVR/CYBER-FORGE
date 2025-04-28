@@ -1,6 +1,6 @@
 ---
 title: "WhatWeb"
 description: "Website Fingerprinter."
-url: "https://www.morningstarsecurity.com/research/whatweb"
+external_url: "https://www.morningstarsecurity.com/research/whatweb"
 category: "Web Exploitation"
 ---

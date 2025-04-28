@@ -1,6 +1,6 @@
 ---
 title: "https://www.policiacientifica.sp.gov.br/iml/consultadesaparecidos"
 description: ""
-url: "https://www.policiacientifica.sp.gov.br/iml/consultadesaparecidos"
+external_url: "https://www.policiacientifica.sp.gov.br/iml/consultadesaparecidos"
 category: "Miscellaneous"
 ---

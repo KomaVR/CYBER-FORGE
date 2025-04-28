@@ -1,6 +1,6 @@
 ---
 title: "hilariocoelho"
 description: ""
-url: "https://github.com/hilariocoelho"
+external_url: "https://github.com/hilariocoelho"
 category: "Miscellaneous"
 ---

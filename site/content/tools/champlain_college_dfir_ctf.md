@@ -1,6 +1,6 @@
 ---
 title: "Champlain College DFIR CTF"
 description: ""
-url: "https://champdfa-ccsc-sp20.ctfd.io"
+external_url: "https://champdfa-ccsc-sp20.ctfd.io"
 category: "Miscellaneous"
 ---

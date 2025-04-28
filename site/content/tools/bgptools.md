@@ -1,6 +1,6 @@
 ---
 title: "BGPTools"
 description: ""
-url: "https://bgp.tools"
+external_url: "https://bgp.tools"
 category: "Miscellaneous"
 ---

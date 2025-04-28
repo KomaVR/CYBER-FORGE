@@ -1,6 +1,6 @@
 ---
 title: "Awesome Blogs"
 description: ""
-url: "https://start.me/w/nPprJD"
+external_url: "https://start.me/w/nPprJD"
 category: "Miscellaneous"
 ---

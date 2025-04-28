@@ -1,6 +1,6 @@
 ---
 title: "Reddit"
 description: ""
-url: "https://www.reddit.com/r/websecurity/"
+external_url: "https://www.reddit.com/r/websecurity/"
 category: "Miscellaneous"
 ---

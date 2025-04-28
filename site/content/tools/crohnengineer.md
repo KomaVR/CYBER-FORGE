@@ -1,6 +1,6 @@
 ---
 title: "CrohnEngineer"
 description: ""
-url: "https://github.com/CrohnEngineer"
+external_url: "https://github.com/CrohnEngineer"
 category: "Miscellaneous"
 ---

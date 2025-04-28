@@ -1,6 +1,6 @@
 ---
 title: "paulnoalhyt"
 description: ""
-url: "https://github.com/paulnoalhyt"
+external_url: "https://github.com/paulnoalhyt"
 category: "Miscellaneous"
 ---

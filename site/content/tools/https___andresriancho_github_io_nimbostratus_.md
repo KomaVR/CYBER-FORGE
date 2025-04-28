@@ -5,6 +5,6 @@ description: "Tool
 
 
 "
-url: "https://andresriancho.github.io/nimbostratus/"
+external_url: "https://andresriancho.github.io/nimbostratus/"
 category: "Miscellaneous"
 ---

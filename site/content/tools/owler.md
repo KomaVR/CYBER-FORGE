@@ -1,6 +1,6 @@
 ---
 title: "Owler"
 description: ""
-url: "https://www.owler.com/"
+external_url: "https://www.owler.com/"
 category: "Miscellaneous"
 ---

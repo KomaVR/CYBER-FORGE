@@ -3,6 +3,6 @@ title: "https://www.win-rar.com/download.html"
 description: "
 
 "
-url: "https://www.win-rar.com/download.html"
+external_url: "https://www.win-rar.com/download.html"
 category: "Miscellaneous"
 ---

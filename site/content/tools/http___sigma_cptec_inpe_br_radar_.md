@@ -1,6 +1,6 @@
 ---
 title: "http://sigma.cptec.inpe.br/radar/"
 description: ""
-url: "http://sigma.cptec.inpe.br/radar/"
+external_url: "http://sigma.cptec.inpe.br/radar/"
 category: "Miscellaneous"
 ---

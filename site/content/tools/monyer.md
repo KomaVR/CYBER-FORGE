@@ -1,6 +1,6 @@
 ---
 title: "Monyer"
 description: ""
-url: "https://github.com/Monyer"
+external_url: "https://github.com/Monyer"
 category: "Miscellaneous"
 ---

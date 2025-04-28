@@ -1,6 +1,6 @@
 ---
 title: "antoinet"
 description: ""
-url: "https://github.com/antoinet"
+external_url: "https://github.com/antoinet"
 category: "Miscellaneous"
 ---

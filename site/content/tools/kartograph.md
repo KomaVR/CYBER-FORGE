@@ -1,6 +1,6 @@
 ---
 title: "Kartograph"
 description: ""
-url: "http://kartograph.org"
+external_url: "http://kartograph.org"
 category: "Miscellaneous"
 ---

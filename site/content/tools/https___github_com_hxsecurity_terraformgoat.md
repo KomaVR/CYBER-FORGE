@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/HXSecurity/TerraformGoat"
 description: "TerraformGoat:"
-url: "https://github.com/HXSecurity/TerraformGoat"
+external_url: "https://github.com/HXSecurity/TerraformGoat"
 category: "Miscellaneous"
 ---

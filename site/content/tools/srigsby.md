@@ -1,6 +1,6 @@
 ---
 title: "srigsby"
 description: ""
-url: "https://github.com/srigsby"
+external_url: "https://github.com/srigsby"
 category: "Miscellaneous"
 ---

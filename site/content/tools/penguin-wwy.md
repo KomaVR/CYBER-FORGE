@@ -1,6 +1,6 @@
 ---
 title: "penguin-wwy"
 description: ""
-url: "https://github.com/penguin-wwy"
+external_url: "https://github.com/penguin-wwy"
 category: "Miscellaneous"
 ---

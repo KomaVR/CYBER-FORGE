@@ -3,6 +3,6 @@ title: "TryHackMe | Physical Security Intro"
 description: "
  
 "
-url: "https://tryhackme.com/room/physicalsecurityintro"
+external_url: "https://tryhackme.com/room/physicalsecurityintro"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "colin-stubbs"
 description: ""
-url: "https://github.com/colin-stubbs"
+external_url: "https://github.com/colin-stubbs"
 category: "Miscellaneous"
 ---

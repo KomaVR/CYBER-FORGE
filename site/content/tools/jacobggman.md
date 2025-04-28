@@ -1,6 +1,6 @@
 ---
 title: "jacobggman"
 description: ""
-url: "https://github.com/jacobggman"
+external_url: "https://github.com/jacobggman"
 category: "Miscellaneous"
 ---

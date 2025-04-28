@@ -1,6 +1,6 @@
 ---
 title: "Awesome Observability"
 description: ""
-url: "https://github.com/adriannovegil/awesome-observability"
+external_url: "https://github.com/adriannovegil/awesome-observability"
 category: "Miscellaneous"
 ---

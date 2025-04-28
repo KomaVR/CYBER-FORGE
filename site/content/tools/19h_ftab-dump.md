@@ -5,6 +5,6 @@ description: "RTKit - \"Realtime\" Kit
 
 
 "
-url: "https://github.com/19h/ftab-dump"
+external_url: "https://github.com/19h/ftab-dump"
 category: "Miscellaneous"
 ---

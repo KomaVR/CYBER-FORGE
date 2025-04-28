@@ -5,6 +5,6 @@ description: "PEDAGIO SAO VICENTE
 
 
 "
-url: "https://www.ecovias.com.br/boletim/camera/10"
+external_url: "https://www.ecovias.com.br/boletim/camera/10"
 category: "Miscellaneous"
 ---

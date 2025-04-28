@@ -1,6 +1,6 @@
 ---
 title: "funky-monkey"
 description: ""
-url: "https://github.com/funky-monkey"
+external_url: "https://github.com/funky-monkey"
 category: "Miscellaneous"
 ---

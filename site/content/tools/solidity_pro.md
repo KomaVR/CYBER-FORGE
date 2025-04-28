@@ -1,6 +1,6 @@
 ---
 title: "Solidity Pro"
 description: ""
-url: "https://github.com/bkrem/awesome-solidity"
+external_url: "https://github.com/bkrem/awesome-solidity"
 category: "Miscellaneous"
 ---

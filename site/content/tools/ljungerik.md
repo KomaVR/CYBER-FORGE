@@ -1,6 +1,6 @@
 ---
 title: "LjungErik"
 description: ""
-url: "https://github.com/LjungErik"
+external_url: "https://github.com/LjungErik"
 category: "Miscellaneous"
 ---

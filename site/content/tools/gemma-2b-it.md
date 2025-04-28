@@ -1,6 +1,6 @@
 ---
 title: "gemma-2b-it"
 description: "🔥🔥🔥"
-url: "https://huggingface.co/google/gemma-2b-it"
+external_url: "https://huggingface.co/google/gemma-2b-it"
 category: "Miscellaneous"
 ---

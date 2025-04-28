@@ -1,6 +1,6 @@
 ---
 title: "SSL Test (via SSL Labs)"
 description: ""
-url: "https://www.ssllabs.com/ssltest/"
+external_url: "https://www.ssllabs.com/ssltest/"
 category: "Miscellaneous"
 ---

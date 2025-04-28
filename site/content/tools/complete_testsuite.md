@@ -1,6 +1,6 @@
 ---
 title: "complete testsuite"
 description: "It has a , to avoid regressions"
-url: "https://github.com/jvoisin/php-malware-finder/actions"
+external_url: "https://github.com/jvoisin/php-malware-finder/actions"
 category: "Miscellaneous"
 ---

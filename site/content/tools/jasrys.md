@@ -1,6 +1,6 @@
 ---
 title: "jasrys"
 description: ""
-url: "https://github.com/jasrys"
+external_url: "https://github.com/jasrys"
 category: "Miscellaneous"
 ---

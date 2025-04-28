@@ -1,6 +1,6 @@
 ---
 title: "Zend"
 description: ""
-url: "https://github.com/daffainfo/AllAboutBugBounty/blob/master/Technologies/Zend.md"
+external_url: "https://github.com/daffainfo/AllAboutBugBounty/blob/master/Technologies/Zend.md"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "g0tmi1k"
 description: ""
-url: "https://github.com/g0tmi1k"
+external_url: "https://github.com/g0tmi1k"
 category: "Miscellaneous"
 ---

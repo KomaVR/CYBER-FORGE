@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://ko-fi.com/hacker"
+external_url: "https://ko-fi.com/hacker"
 category: "Miscellaneous"
 ---

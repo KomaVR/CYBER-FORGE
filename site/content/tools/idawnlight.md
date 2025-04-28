@@ -1,6 +1,6 @@
 ---
 title: "idawnlight"
 description: ""
-url: "https://github.com/idawnlight"
+external_url: "https://github.com/idawnlight"
 category: "Miscellaneous"
 ---

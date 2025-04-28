@@ -6,6 +6,6 @@ description: "Apple Hypervisor
 Hypervisor on Apple Silicon
 
 "
-url: "https://developer.apple.com/documentation/hypervisor"
+external_url: "https://developer.apple.com/documentation/hypervisor"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Bantam"
 description: ""
-url: "https://github.com/gellin/bantam"
+external_url: "https://github.com/gellin/bantam"
 category: "Miscellaneous"
 ---

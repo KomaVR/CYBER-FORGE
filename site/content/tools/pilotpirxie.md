@@ -1,6 +1,6 @@
 ---
 title: "pilotpirxie"
 description: ""
-url: "https://github.com/pilotpirxie"
+external_url: "https://github.com/pilotpirxie"
 category: "Miscellaneous"
 ---

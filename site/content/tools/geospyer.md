@@ -1,6 +1,6 @@
 ---
 title: "GeoSpyer"
 description: "Python tool using Graylark's AI-powered geo-location service to uncover the location where photos were taken."
-url: "https://github.com/atiilla/geospy"
+external_url: "https://github.com/atiilla/geospy"
 category: "Miscellaneous"
 ---

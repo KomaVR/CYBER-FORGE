@@ -1,6 +1,6 @@
 ---
 title: "A-AFTAHI"
 description: ""
-url: "https://github.com/A-AFTAHI"
+external_url: "https://github.com/A-AFTAHI"
 category: "Miscellaneous"
 ---

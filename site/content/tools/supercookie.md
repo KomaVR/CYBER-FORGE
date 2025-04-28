@@ -3,6 +3,6 @@ title: "Supercookie"
 description: "
 
 "
-url: "https://supercookie.me/"
+external_url: "https://supercookie.me/"
 category: "Miscellaneous"
 ---

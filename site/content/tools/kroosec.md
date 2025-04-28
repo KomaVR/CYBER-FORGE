@@ -1,6 +1,6 @@
 ---
 title: "kroosec"
 description: ""
-url: "https://github.com/kroosec"
+external_url: "https://github.com/kroosec"
 category: "Miscellaneous"
 ---

@@ -9,6 +9,6 @@ https://github.com/google/fuzzing/tree/master/dictionaries
 https://github.com/six2dez/OneListForAll
 
 "
-url: "https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content"
+external_url: "https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content"
 category: "Web Exploitation"
 ---

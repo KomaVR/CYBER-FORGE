@@ -17,6 +17,6 @@ ELF Coredump
 PE Authenticode
 
 "
-url: "https://lief.re/doc/latest/tutorials/01_play_with_formats.html"
+external_url: "https://lief.re/doc/latest/tutorials/01_play_with_formats.html"
 category: "Miscellaneous"
 ---

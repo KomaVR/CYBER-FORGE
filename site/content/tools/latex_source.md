@@ -1,6 +1,6 @@
 ---
 title: "LaTeX Source"
 description: ""
-url: "https://github.com/BetterCrypto/Applied-Crypto-Hardening"
+external_url: "https://github.com/BetterCrypto/Applied-Crypto-Hardening"
 category: "Miscellaneous"
 ---

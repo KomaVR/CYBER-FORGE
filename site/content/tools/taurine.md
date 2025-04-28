@@ -1,6 +1,6 @@
 ---
 title: "Taurine"
 description: ""
-url: "https://taurine.app"
+external_url: "https://taurine.app"
 category: "Miscellaneous"
 ---

@@ -17,6 +17,6 @@ xxx.php.bak /  / .xxx.php.swp / xxx.php~ / xxx.phps
 /WEB-INF/web.xml
 
 "
-url: "http://www.tar.gz"
+external_url: "http://www.tar.gz"
 category: "Web Exploitation"
 ---

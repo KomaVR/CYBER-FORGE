@@ -1,6 +1,6 @@
 ---
 title: "sebrink"
 description: ""
-url: "https://github.com/sebrink"
+external_url: "https://github.com/sebrink"
 category: "Miscellaneous"
 ---

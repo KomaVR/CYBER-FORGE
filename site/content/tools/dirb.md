@@ -1,6 +1,6 @@
 ---
 title: "Dirb"
 description: ""
-url: "https://gitlab.com/kalilinux/packages/dirb"
+external_url: "https://gitlab.com/kalilinux/packages/dirb"
 category: "Miscellaneous"
 ---

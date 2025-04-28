@@ -1,6 +1,6 @@
 ---
 title: "Metapicz"
 description: ""
-url: "http://metapicz.com/"
+external_url: "http://metapicz.com/"
 category: "Miscellaneous"
 ---

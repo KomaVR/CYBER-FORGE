@@ -1,6 +1,6 @@
 ---
 title: "Parsing mach-O files"
 description: "📌"
-url: "https://lowlevelbits.org/parsing-mach-o-files"
+external_url: "https://lowlevelbits.org/parsing-mach-o-files"
 category: "Miscellaneous"
 ---

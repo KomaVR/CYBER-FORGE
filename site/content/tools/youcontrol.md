@@ -1,6 +1,6 @@
 ---
 title: "YouControl"
 description: ""
-url: "https://youcontrol.com.ua/en/"
+external_url: "https://youcontrol.com.ua/en/"
 category: "Miscellaneous"
 ---

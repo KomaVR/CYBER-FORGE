@@ -1,6 +1,6 @@
 ---
 title: "parshantdhall"
 description: ""
-url: "https://github.com/parshantdhall"
+external_url: "https://github.com/parshantdhall"
 category: "Miscellaneous"
 ---

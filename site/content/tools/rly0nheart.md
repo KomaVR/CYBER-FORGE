@@ -1,6 +1,6 @@
 ---
 title: "rly0nheart"
 description: ""
-url: "https://github.com/rly0nheart"
+external_url: "https://github.com/rly0nheart"
 category: "Miscellaneous"
 ---

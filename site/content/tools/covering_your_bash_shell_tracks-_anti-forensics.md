@@ -1,6 +1,6 @@
 ---
 title: "Covering your BASH Shell Tracks- Anti-Forensics"
 description: "2016.06 [hackers]"
-url: "https://www.hackers-arise.com/single-post/2016/06/20/Covering-your-BASH-Shell-Tracks-AntiForensics"
+external_url: "https://www.hackers-arise.com/single-post/2016/06/20/Covering-your-BASH-Shell-Tracks-AntiForensics"
 category: "Malware Analysis"
 ---

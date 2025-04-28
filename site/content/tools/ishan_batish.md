@@ -1,6 +1,6 @@
 ---
 title: "Ishan Batish"
 description: ""
-url: "https://www.linkedin.com/in/ishanbatish/"
+external_url: "https://www.linkedin.com/in/ishanbatish/"
 category: "Miscellaneous"
 ---

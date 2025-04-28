@@ -1,6 +1,6 @@
 ---
 title: "PEdump"
 description: "Dump windows PE files using Ruby."
-url: "https://pedump.me/"
+external_url: "https://pedump.me/"
 category: "Miscellaneous"
 ---

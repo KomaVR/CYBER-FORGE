@@ -1,6 +1,6 @@
 ---
 title: "boopkit：Linux eBPF backdoor over TCP"
 description: ""
-url: "https://github.com/krisnova/boopkit"
+external_url: "https://github.com/krisnova/boopkit"
 category: "Miscellaneous"
 ---

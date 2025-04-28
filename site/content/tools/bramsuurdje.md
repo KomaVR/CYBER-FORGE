@@ -1,6 +1,6 @@
 ---
 title: "BramSuurdje"
 description: ""
-url: "https://github.com/BramSuurdje"
+external_url: "https://github.com/BramSuurdje"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Web Service 渗透测试从入门到精通"
 description: ""
-url: "https://www.anquanke.com/post/id/85910"
+external_url: "https://www.anquanke.com/post/id/85910"
 category: "Web Exploitation"
 ---

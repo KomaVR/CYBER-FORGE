@@ -1,6 +1,6 @@
 ---
 title: "Mellivora"
 description: "A CTF engine written in PHP."
-url: "https://github.com/Nakiami/mellivora"
+external_url: "https://github.com/Nakiami/mellivora"
 category: "Miscellaneous"
 ---

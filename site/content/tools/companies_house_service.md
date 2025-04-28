@@ -1,6 +1,6 @@
 ---
 title: "Companies House service"
 description: ""
-url: "https://find-and-update.company-information.service.gov.uk/"
+external_url: "https://find-and-update.company-information.service.gov.uk/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "tidusjar"
 description: ""
-url: "https://github.com/tidusjar"
+external_url: "https://github.com/tidusjar"
 category: "Miscellaneous"
 ---

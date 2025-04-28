@@ -1,6 +1,6 @@
 ---
 title: "reactor.chainalysis.com"
 description: ""
-url: "https://reactor.chainalysis.com"
+external_url: "https://reactor.chainalysis.com"
 category: "Miscellaneous"
 ---

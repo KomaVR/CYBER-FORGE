@@ -1,6 +1,6 @@
 ---
 title: "ZehMatt"
 description: ""
-url: "https://github.com/ZehMatt"
+external_url: "https://github.com/ZehMatt"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Dis.cool"
 description: ""
-url: "https://dis.cool"
+external_url: "https://dis.cool"
 category: "Miscellaneous"
 ---

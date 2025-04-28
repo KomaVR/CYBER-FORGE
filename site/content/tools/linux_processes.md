@@ -1,6 +1,6 @@
 ---
 title: "Linux Processes"
 description: ""
-url: "https://www.tldp.org/LDP/tlk/kernel/processes.html"
+external_url: "https://www.tldp.org/LDP/tlk/kernel/processes.html"
 category: "Miscellaneous"
 ---

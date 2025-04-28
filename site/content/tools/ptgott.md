@@ -1,6 +1,6 @@
 ---
 title: "ptgott"
 description: ""
-url: "https://github.com/ptgott"
+external_url: "https://github.com/ptgott"
 category: "Miscellaneous"
 ---

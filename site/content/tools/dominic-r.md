@@ -1,6 +1,6 @@
 ---
 title: "dominic-r"
 description: ""
-url: "https://github.com/dominic-r"
+external_url: "https://github.com/dominic-r"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Luci-d"
 description: ""
-url: "https://github.com/Luci-d"
+external_url: "https://github.com/Luci-d"
 category: "Miscellaneous"
 ---

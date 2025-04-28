@@ -1,6 +1,6 @@
 ---
 title: "Ombe-b"
 description: ""
-url: "https://github.com/Ombe-b"
+external_url: "https://github.com/Ombe-b"
 category: "Miscellaneous"
 ---

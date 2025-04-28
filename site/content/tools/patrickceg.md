@@ -1,6 +1,6 @@
 ---
 title: "patrickceg"
 description: ""
-url: "https://github.com/patrickceg"
+external_url: "https://github.com/patrickceg"
 category: "Miscellaneous"
 ---

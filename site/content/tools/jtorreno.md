@@ -1,6 +1,6 @@
 ---
 title: "jtorreno"
 description: ""
-url: "https://github.com/jtorreno"
+external_url: "https://github.com/jtorreno"
 category: "Miscellaneous"
 ---

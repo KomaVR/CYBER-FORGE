@@ -1,6 +1,6 @@
 ---
 title: "https://numverify.com/documentation"
 description: "NumVerify"
-url: "https://numverify.com/documentation"
+external_url: "https://numverify.com/documentation"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Next Caller"
 description: ""
-url: "https://nextcaller.com/"
+external_url: "https://nextcaller.com/"
 category: "Miscellaneous"
 ---

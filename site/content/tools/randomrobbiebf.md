@@ -1,6 +1,6 @@
 ---
 title: "RandomRobbieBF"
 description: ""
-url: "https://github.com/RandomRobbieBF"
+external_url: "https://github.com/RandomRobbieBF"
 category: "Miscellaneous"
 ---

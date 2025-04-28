@@ -1,6 +1,6 @@
 ---
 title: "Moriarty Project Tool"
 description: ""
-url: "https://github.com/AzizKpln/Moriarty-Project"
+external_url: "https://github.com/AzizKpln/Moriarty-Project"
 category: "Miscellaneous"
 ---

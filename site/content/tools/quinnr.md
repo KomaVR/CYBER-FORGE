@@ -1,6 +1,6 @@
 ---
 title: "quinnr"
 description: ""
-url: "https://github.com/quinnr"
+external_url: "https://github.com/quinnr"
 category: "Miscellaneous"
 ---

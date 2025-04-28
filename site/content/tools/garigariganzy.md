@@ -1,6 +1,6 @@
 ---
 title: "garigariganzy"
 description: ""
-url: "https://github.com/garigariganzy"
+external_url: "https://github.com/garigariganzy"
 category: "Miscellaneous"
 ---

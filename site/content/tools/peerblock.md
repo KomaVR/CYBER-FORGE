@@ -1,6 +1,6 @@
 ---
 title: "Peerblock"
 description: ""
-url: "http://forums.peerblock.com"
+external_url: "http://forums.peerblock.com"
 category: "Miscellaneous"
 ---

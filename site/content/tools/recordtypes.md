@@ -7,6 +7,6 @@ JSON files containing Unified Audit logs: YYYY-MM-DD/UnifiedAuditLog_example.onm
 JSON files containing Unified Audit logs for specified : YYYY-MM-DD/UnifiedAuditLog_example.onmicrosoft.com_YYYY-MM-DD_HH-00-00_%RecordType%.json (respectively */UnifiedAuditLogPurview_* when using Purview).
 
 "
-url: "https://learn.microsoft.com/en-us/office/office-365-management-api/office-365-management-activity-api-schema#enum-auditlogrecordtype---type-edmint32"
+external_url: "https://learn.microsoft.com/en-us/office/office-365-management-api/office-365-management-activity-api-schema#enum-auditlogrecordtype---type-edmint32"
 category: "Miscellaneous"
 ---

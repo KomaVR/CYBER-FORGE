@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://patreon.com/ismailtasdelen"
+external_url: "https://patreon.com/ismailtasdelen"
 category: "Miscellaneous"
 ---

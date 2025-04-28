@@ -1,6 +1,6 @@
 ---
 title: "Dr-DevOps"
 description: ""
-url: "https://github.com/Dr-DevOps"
+external_url: "https://github.com/Dr-DevOps"
 category: "Miscellaneous"
 ---

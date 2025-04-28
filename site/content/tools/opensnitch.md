@@ -1,6 +1,6 @@
 ---
 title: "opensnitch"
 description: "OpenSnitch is a GNU/Linux port of the Little Snitch application firewall"
-url: "https://github.com/evilsocket/opensnitch"
+external_url: "https://github.com/evilsocket/opensnitch"
 category: "Miscellaneous"
 ---

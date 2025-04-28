@@ -6,6 +6,6 @@ Search by ip
 
 
 "
-url: "http://iknowwhatyoudownload.com/"
+external_url: "http://iknowwhatyoudownload.com/"
 category: "Miscellaneous"
 ---

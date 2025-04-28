@@ -1,6 +1,6 @@
 ---
 title: "fnxpt"
 description: ""
-url: "https://github.com/fnxpt"
+external_url: "https://github.com/fnxpt"
 category: "Miscellaneous"
 ---

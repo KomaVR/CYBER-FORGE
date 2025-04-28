@@ -6,6 +6,6 @@ description: "Apple tracev3 Unified Logging
 dtformats
 
 "
-url: "https://github.com/ydkhatri/UnifiedLogReader"
+external_url: "https://github.com/ydkhatri/UnifiedLogReader"
 category: "Miscellaneous"
 ---

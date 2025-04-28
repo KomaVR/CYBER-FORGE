@@ -1,6 +1,6 @@
 ---
 title: "JPEGsnoop"
 description: ""
-url: "https://sourceforge.net/projects/jpegsnoop"
+external_url: "https://sourceforge.net/projects/jpegsnoop"
 category: "Miscellaneous"
 ---

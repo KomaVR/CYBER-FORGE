@@ -1,6 +1,6 @@
 ---
 title: "kevgliss"
 description: ""
-url: "https://github.com/kevgliss"
+external_url: "https://github.com/kevgliss"
 category: "Miscellaneous"
 ---

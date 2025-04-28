@@ -1,6 +1,6 @@
 ---
 title: "lukaszgryglicki"
 description: ""
-url: "https://github.com/lukaszgryglicki"
+external_url: "https://github.com/lukaszgryglicki"
 category: "Miscellaneous"
 ---

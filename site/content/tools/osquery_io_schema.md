@@ -1,6 +1,6 @@
 ---
 title: "osquery.io/schema"
 description: "Table Schema:"
-url: "https://osquery.io/schema"
+external_url: "https://osquery.io/schema"
 category: "Miscellaneous"
 ---

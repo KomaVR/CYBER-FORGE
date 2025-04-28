@@ -1,6 +1,6 @@
 ---
 title: "gavynriebau"
 description: ""
-url: "https://github.com/gavynriebau"
+external_url: "https://github.com/gavynriebau"
 category: "Miscellaneous"
 ---

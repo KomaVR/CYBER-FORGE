@@ -1,6 +1,6 @@
 ---
 title: "turkmenkaan"
 description: ""
-url: "https://github.com/turkmenkaan"
+external_url: "https://github.com/turkmenkaan"
 category: "Miscellaneous"
 ---

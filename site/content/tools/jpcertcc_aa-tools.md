@@ -16,6 +16,6 @@ cobaltstrikescan Volatility plugin for detecting Cobalt Strike Beacon and extrac
 tscookie_data_decode Python script for decrypting and parsing TSCookie configure data
 
 "
-url: "https://github.com/jpcertcc/aa-tools"
+external_url: "https://github.com/jpcertcc/aa-tools"
 category: "Black Hat Tools"
 ---

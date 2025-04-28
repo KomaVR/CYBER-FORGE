@@ -1,6 +1,6 @@
 ---
 title: "pulsedive.com"
 description: ""
-url: "https://pulsedive.com"
+external_url: "https://pulsedive.com"
 category: "Miscellaneous"
 ---

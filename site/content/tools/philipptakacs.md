@@ -1,6 +1,6 @@
 ---
 title: "PhilippTakacs"
 description: ""
-url: "https://github.com/PhilippTakacs"
+external_url: "https://github.com/PhilippTakacs"
 category: "Miscellaneous"
 ---

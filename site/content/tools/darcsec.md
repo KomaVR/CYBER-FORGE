@@ -1,6 +1,6 @@
 ---
 title: "darcsec"
 description: ""
-url: "https://github.com/darcsec"
+external_url: "https://github.com/darcsec"
 category: "Miscellaneous"
 ---

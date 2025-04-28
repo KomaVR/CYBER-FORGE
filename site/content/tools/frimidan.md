@@ -1,6 +1,6 @@
 ---
 title: "FrimIdan"
 description: ""
-url: "https://github.com/FrimIdan"
+external_url: "https://github.com/FrimIdan"
 category: "Miscellaneous"
 ---

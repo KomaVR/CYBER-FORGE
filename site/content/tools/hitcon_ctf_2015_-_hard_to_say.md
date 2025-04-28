@@ -11,6 +11,6 @@ $:即$LOAD_PATH
 
 
 "
-url: "https://github.com/w181496/CTF/tree/master/hitcon2015/hard-to-say"
+external_url: "https://github.com/w181496/CTF/tree/master/hitcon2015/hard-to-say"
 category: "Miscellaneous"
 ---

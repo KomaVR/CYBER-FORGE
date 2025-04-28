@@ -4,6 +4,6 @@ description: "
 Research sidekick Hunch.ly,
 
 "
-url: "http://www.hunch.ly/"
+external_url: "http://www.hunch.ly/"
 category: "Miscellaneous"
 ---

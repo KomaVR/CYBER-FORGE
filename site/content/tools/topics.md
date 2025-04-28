@@ -2,6 +2,6 @@
 title: "Topics"
 description: "
 "
-url: "https://github.com/topics"
+external_url: "https://github.com/topics"
 category: "Miscellaneous"
 ---

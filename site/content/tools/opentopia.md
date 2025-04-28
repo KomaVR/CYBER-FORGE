@@ -1,6 +1,6 @@
 ---
 title: "Opentopia"
 description: ""
-url: "http://www.opentopia.com"
+external_url: "http://www.opentopia.com"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "infoslack"
 description: ""
-url: "https://github.com/infoslack"
+external_url: "https://github.com/infoslack"
 category: "Miscellaneous"
 ---

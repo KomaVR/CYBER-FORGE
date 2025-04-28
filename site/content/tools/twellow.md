@@ -1,6 +1,6 @@
 ---
 title: "Twellow"
 description: ""
-url: "http://www.twellow.com/"
+external_url: "http://www.twellow.com/"
 category: "Miscellaneous"
 ---

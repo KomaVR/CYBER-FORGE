@@ -1,6 +1,6 @@
 ---
 title: "CachedViews"
 description: ""
-url: "https://cachedviews.com/"
+external_url: "https://cachedviews.com/"
 category: "Miscellaneous"
 ---

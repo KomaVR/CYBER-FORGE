@@ -1,6 +1,6 @@
 ---
 title: "sakura-umi"
 description: ""
-url: "https://github.com/sakura-umi"
+external_url: "https://github.com/sakura-umi"
 category: "Miscellaneous"
 ---

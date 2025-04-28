@@ -1,6 +1,6 @@
 ---
 title: "3xp0rt"
 description: ""
-url: "https://github.com/3xp0rt"
+external_url: "https://github.com/3xp0rt"
 category: "Miscellaneous"
 ---

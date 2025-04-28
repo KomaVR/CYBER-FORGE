@@ -1,6 +1,6 @@
 ---
 title: "allcontributors"
 description: ""
-url: "https://github.com/apps/allcontributors"
+external_url: "https://github.com/apps/allcontributors"
 category: "Miscellaneous"
 ---

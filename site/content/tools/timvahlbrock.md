@@ -1,6 +1,6 @@
 ---
 title: "timvahlbrock"
 description: ""
-url: "https://github.com/timvahlbrock"
+external_url: "https://github.com/timvahlbrock"
 category: "Miscellaneous"
 ---

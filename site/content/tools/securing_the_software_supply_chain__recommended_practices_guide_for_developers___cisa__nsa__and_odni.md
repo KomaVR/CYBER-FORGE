@@ -3,6 +3,6 @@ title: "Securing The Software Supply Chain: Recommended Practices Guide for Deve
 description: "
 
 "
-url: "https://media.defense.gov/2022/Sep/01/2003068942/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_DEVELOPERS.PDF"
+external_url: "https://media.defense.gov/2022/Sep/01/2003068942/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_DEVELOPERS.PDF"
 category: "Miscellaneous"
 ---

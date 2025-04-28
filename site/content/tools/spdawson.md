@@ -1,6 +1,6 @@
 ---
 title: "spdawson"
 description: ""
-url: "https://github.com/spdawson"
+external_url: "https://github.com/spdawson"
 category: "Miscellaneous"
 ---

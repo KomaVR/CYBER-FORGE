@@ -1,6 +1,6 @@
 ---
 title: "Slither VSC"
 description: ""
-url: "https://marketplace.visualstudio.com/items?itemName=trailofbits.slither-vscode"
+external_url: "https://marketplace.visualstudio.com/items?itemName=trailofbits.slither-vscode"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "xpn"
 description: ""
-url: "https://github.com/xpn"
+external_url: "https://github.com/xpn"
 category: "Miscellaneous"
 ---

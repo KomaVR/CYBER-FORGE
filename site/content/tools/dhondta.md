@@ -2,6 +2,6 @@
 title: "dhondta"
 description: "dhondta
 Alex"
-url: "https://github.com/dhondta"
+external_url: "https://github.com/dhondta"
 category: "Miscellaneous"
 ---

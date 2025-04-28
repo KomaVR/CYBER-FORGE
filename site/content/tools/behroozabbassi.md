@@ -1,6 +1,6 @@
 ---
 title: "BehroozAbbassi"
 description: ""
-url: "https://github.com/BehroozAbbassi"
+external_url: "https://github.com/BehroozAbbassi"
 category: "Miscellaneous"
 ---

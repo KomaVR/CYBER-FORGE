@@ -1,6 +1,6 @@
 ---
 title: "Lunsit"
 description: ""
-url: "https://github.com/Lunsit"
+external_url: "https://github.com/Lunsit"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "imbillow"
 description: ""
-url: "https://github.com/imbillow"
+external_url: "https://github.com/imbillow"
 category: "Miscellaneous"
 ---

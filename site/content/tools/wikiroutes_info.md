@@ -2,6 +2,6 @@
 title: "wikiroutes.info"
 description: "WikiRoutes, public transport database,
 "
-url: "http://wikiroutes.info"
+external_url: "http://wikiroutes.info"
 category: "Miscellaneous"
 ---

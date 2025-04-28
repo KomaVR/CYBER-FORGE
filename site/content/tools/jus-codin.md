@@ -1,6 +1,6 @@
 ---
 title: "Jus-Codin"
 description: ""
-url: "https://github.com/Jus-Codin"
+external_url: "https://github.com/Jus-Codin"
 category: "Miscellaneous"
 ---

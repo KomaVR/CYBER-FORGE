@@ -6,6 +6,6 @@ RPI University team meetings
 Very advanced and assumes a bit of cs background knowledge
 
 "
-url: "https://www.youtube.com/c/RPISEC_talks/videos"
+external_url: "https://www.youtube.com/c/RPISEC_talks/videos"
 category: "Miscellaneous"
 ---

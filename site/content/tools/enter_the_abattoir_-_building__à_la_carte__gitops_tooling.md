@@ -1,6 +1,6 @@
 ---
 title: "Enter the Abattoir - Building 'à la carte' gitops tooling"
 description: ""
-url: "https://achievers.engineering/enter-the-abattoir-ee5e2019f0b3"
+external_url: "https://achievers.engineering/enter-the-abattoir-ee5e2019f0b3"
 category: "Miscellaneous"
 ---

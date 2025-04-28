@@ -7,6 +7,6 @@ User with username and password
 Configuration for multi-tenant applications
 
 "
-url: "https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/sdk/azidentity#EnvironmentCredential"
+external_url: "https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/sdk/azidentity#EnvironmentCredential"
 category: "Miscellaneous"
 ---

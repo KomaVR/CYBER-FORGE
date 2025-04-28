@@ -1,6 +1,6 @@
 ---
 title: "offshoreleaks.icij.org"
 description: ""
-url: "https://offshoreleaks.icij.org"
+external_url: "https://offshoreleaks.icij.org"
 category: "Miscellaneous"
 ---

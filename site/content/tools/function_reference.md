@@ -117,6 +117,6 @@ xml_decode
 xml_named
 
 "
-url: "https://sn0int.readthedocs.io/en/latest/reference.html"
+external_url: "https://sn0int.readthedocs.io/en/latest/reference.html"
 category: "Reverse Engineering"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "kerrymilan"
 description: ""
-url: "https://github.com/kerrymilan"
+external_url: "https://github.com/kerrymilan"
 category: "Miscellaneous"
 ---

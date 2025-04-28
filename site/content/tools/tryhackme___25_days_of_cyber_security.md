@@ -3,6 +3,6 @@ title: "TryHackMe | 25 Days of Cyber Security"
 description: "
  
 "
-url: "https://tryhackme.com/room/learncyberin25days"
+external_url: "https://tryhackme.com/room/learncyberin25days"
 category: "Miscellaneous"
 ---

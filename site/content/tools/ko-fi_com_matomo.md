@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://ko-fi.com/matomo"
+external_url: "https://ko-fi.com/matomo"
 category: "Miscellaneous"
 ---

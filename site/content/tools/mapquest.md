@@ -1,6 +1,6 @@
 ---
 title: "Mapquest"
 description: ""
-url: "https://www.mapquest.com"
+external_url: "https://www.mapquest.com"
 category: "Miscellaneous"
 ---

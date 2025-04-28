@@ -1,6 +1,6 @@
 ---
 title: "North Data Smarte Recherche"
 description: ""
-url: "https://www.northdata.de/"
+external_url: "https://www.northdata.de/"
 category: "Miscellaneous"
 ---

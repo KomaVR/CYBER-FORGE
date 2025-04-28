@@ -1,6 +1,6 @@
 ---
 title: "addenial"
 description: ""
-url: "https://github.com/addenial"
+external_url: "https://github.com/addenial"
 category: "Miscellaneous"
 ---

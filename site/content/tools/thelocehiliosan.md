@@ -1,6 +1,6 @@
 ---
 title: "TheLocehiliosan"
 description: ""
-url: "https://github.com/TheLocehiliosan"
+external_url: "https://github.com/TheLocehiliosan"
 category: "Miscellaneous"
 ---

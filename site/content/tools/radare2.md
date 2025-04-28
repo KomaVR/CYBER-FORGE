@@ -1,6 +1,6 @@
 ---
 title: "radare2"
 description: ""
-url: "https://snapcraft.io/radare2"
+external_url: "https://snapcraft.io/radare2"
 category: "Reverse Engineering"
 ---

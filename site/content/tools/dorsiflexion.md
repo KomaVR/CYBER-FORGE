@@ -1,6 +1,6 @@
 ---
 title: "dorsiflexion"
 description: ""
-url: "https://github.com/dorsiflexion"
+external_url: "https://github.com/dorsiflexion"
 category: "Miscellaneous"
 ---

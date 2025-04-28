@@ -1,6 +1,6 @@
 ---
 title: "Brisbane - Queensland"
 description: ""
-url: "https://en.wikipedia.org/wiki/Brisbane"
+external_url: "https://en.wikipedia.org/wiki/Brisbane"
 category: "Miscellaneous"
 ---

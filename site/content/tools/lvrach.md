@@ -1,6 +1,6 @@
 ---
 title: "lvrach"
 description: ""
-url: "https://github.com/lvrach"
+external_url: "https://github.com/lvrach"
 category: "Miscellaneous"
 ---

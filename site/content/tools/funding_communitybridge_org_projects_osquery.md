@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://funding.communitybridge.org/projects/osquery"
+external_url: "https://funding.communitybridge.org/projects/osquery"
 category: "Miscellaneous"
 ---

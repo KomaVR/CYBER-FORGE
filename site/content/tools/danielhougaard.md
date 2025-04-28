@@ -1,6 +1,6 @@
 ---
 title: "DanielHougaard"
 description: ""
-url: "https://github.com/DanielHougaard"
+external_url: "https://github.com/DanielHougaard"
 category: "Miscellaneous"
 ---

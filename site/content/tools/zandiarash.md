@@ -1,6 +1,6 @@
 ---
 title: "zandiarash"
 description: ""
-url: "https://github.com/zandiarash"
+external_url: "https://github.com/zandiarash"
 category: "Miscellaneous"
 ---

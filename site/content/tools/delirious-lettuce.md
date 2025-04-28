@@ -1,6 +1,6 @@
 ---
 title: "delirious-lettuce"
 description: ""
-url: "https://github.com/delirious-lettuce"
+external_url: "https://github.com/delirious-lettuce"
 category: "Miscellaneous"
 ---

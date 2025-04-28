@@ -1,6 +1,6 @@
 ---
 title: "Oasis"
 description: ""
-url: "https://www.oasis.com/"
+external_url: "https://www.oasis.com/"
 category: "Miscellaneous"
 ---

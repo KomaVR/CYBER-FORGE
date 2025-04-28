@@ -1,6 +1,6 @@
 ---
 title: "analytically"
 description: ""
-url: "https://github.com/analytically"
+external_url: "https://github.com/analytically"
 category: "Miscellaneous"
 ---

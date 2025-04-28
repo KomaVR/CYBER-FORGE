@@ -1,6 +1,6 @@
 ---
 title: "What is your IP, what is your DNS"
 description: "IP/DNS Detect"
-url: "https://ipleak.net/"
+external_url: "https://ipleak.net/"
 category: "Miscellaneous"
 ---

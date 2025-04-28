@@ -1,6 +1,6 @@
 ---
 title: "Bing Maps"
 description: ""
-url: "http://www.bing.com/maps"
+external_url: "http://www.bing.com/maps"
 category: "Miscellaneous"
 ---

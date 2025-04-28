@@ -1,6 +1,6 @@
 ---
 title: "ActiveDirectory LDAP"
 description: "Medium"
-url: "https://academy.hackthebox.com/course/preview/active-directory-ldap"
+external_url: "https://academy.hackthebox.com/course/preview/active-directory-ldap"
 category: "Miscellaneous"
 ---

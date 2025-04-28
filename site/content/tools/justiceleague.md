@@ -22,6 +22,6 @@ Example 2:
 Example 3: VolgaCTF 2019 - shop
 
 "
-url: "https://github.com/GrrrDog/ZeroNights-HackQuest-2016"
+external_url: "https://github.com/GrrrDog/ZeroNights-HackQuest-2016"
 category: "Miscellaneous"
 ---

@@ -3,6 +3,6 @@ title: "TryHackMe | Willow"
 description: "
  
 "
-url: "https://tryhackme.com/room/willow"
+external_url: "https://tryhackme.com/room/willow"
 category: "Miscellaneous"
 ---

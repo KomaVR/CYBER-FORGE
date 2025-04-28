@@ -11,6 +11,6 @@ Vault
 
 
 "
-url: "https://portal.offsec.com/labs/practice"
+external_url: "https://portal.offsec.com/labs/practice"
 category: "Miscellaneous"
 ---

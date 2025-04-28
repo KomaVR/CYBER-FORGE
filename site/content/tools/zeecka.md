@@ -1,6 +1,6 @@
 ---
 title: "Zeecka"
 description: ""
-url: "https://github.com/Zeecka"
+external_url: "https://github.com/Zeecka"
 category: "Miscellaneous"
 ---

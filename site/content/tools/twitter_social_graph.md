@@ -1,6 +1,6 @@
 ---
 title: "Twitter Social Graph"
 description: ""
-url: "https://github.com/Nican/Furland"
+external_url: "https://github.com/Nican/Furland"
 category: "Miscellaneous"
 ---

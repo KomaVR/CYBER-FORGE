@@ -1,6 +1,6 @@
 ---
 title: "MehulKChaudhari"
 description: ""
-url: "https://github.com/MehulKChaudhari"
+external_url: "https://github.com/MehulKChaudhari"
 category: "Miscellaneous"
 ---

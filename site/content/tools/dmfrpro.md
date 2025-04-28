@@ -1,6 +1,6 @@
 ---
 title: "dmfrpro"
 description: ""
-url: "https://github.com/dmfrpro"
+external_url: "https://github.com/dmfrpro"
 category: "Miscellaneous"
 ---

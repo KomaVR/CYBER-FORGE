@@ -1,6 +1,6 @@
 ---
 title: "FSecureLABS"
 description: ""
-url: "https://github.com/FSecureLABS/"
+external_url: "https://github.com/FSecureLABS/"
 category: "Miscellaneous"
 ---

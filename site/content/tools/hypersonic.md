@@ -1,6 +1,6 @@
 ---
 title: "Hypersonic"
 description: ""
-url: "https://github.com/Hypersonic"
+external_url: "https://github.com/Hypersonic"
 category: "Miscellaneous"
 ---

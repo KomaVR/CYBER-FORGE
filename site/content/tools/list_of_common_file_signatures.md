@@ -7,6 +7,6 @@ You may have to change the file signature on some images for them to open
 
 
 "
-url: "https://en.wikipedia.org/wiki/List_of_file_signatures"
+external_url: "https://en.wikipedia.org/wiki/List_of_file_signatures"
 category: "Miscellaneous"
 ---

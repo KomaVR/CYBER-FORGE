@@ -1,6 +1,6 @@
 ---
 title: "AllTheInternet"
 description: ""
-url: "http://www.alltheinternet.com"
+external_url: "http://www.alltheinternet.com"
 category: "Miscellaneous"
 ---

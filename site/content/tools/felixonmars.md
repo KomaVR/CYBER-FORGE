@@ -1,6 +1,6 @@
 ---
 title: "felixonmars"
 description: ""
-url: "https://github.com/felixonmars"
+external_url: "https://github.com/felixonmars"
 category: "Miscellaneous"
 ---

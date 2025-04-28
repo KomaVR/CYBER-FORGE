@@ -1,6 +1,6 @@
 ---
 title: "WIPO"
 description: ""
-url: "https://www3.wipo.int/branddb/en/"
+external_url: "https://www3.wipo.int/branddb/en/"
 category: "Miscellaneous"
 ---

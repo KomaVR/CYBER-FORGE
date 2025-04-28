@@ -1,6 +1,6 @@
 ---
 title: "nishikawaakira"
 description: ""
-url: "https://github.com/nishikawaakira"
+external_url: "https://github.com/nishikawaakira"
 category: "Miscellaneous"
 ---

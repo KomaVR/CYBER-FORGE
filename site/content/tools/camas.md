@@ -1,6 +1,6 @@
 ---
 title: "camas"
 description: ""
-url: "https://github.com/camas"
+external_url: "https://github.com/camas"
 category: "Miscellaneous"
 ---

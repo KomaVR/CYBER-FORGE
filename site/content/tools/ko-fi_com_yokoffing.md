@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://ko-fi.com/yokoffing"
+external_url: "https://ko-fi.com/yokoffing"
 category: "Miscellaneous"
 ---

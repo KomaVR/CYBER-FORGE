@@ -1,6 +1,6 @@
 ---
 title: "Omegaplexx"
 description: ""
-url: "https://github.com/Omegaplexx"
+external_url: "https://github.com/Omegaplexx"
 category: "Miscellaneous"
 ---

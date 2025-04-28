@@ -5,6 +5,6 @@ description: "Reach out to us directly
 
 
 "
-url: "https://twitter.com/aptnotes"
+external_url: "https://twitter.com/aptnotes"
 category: "Miscellaneous"
 ---

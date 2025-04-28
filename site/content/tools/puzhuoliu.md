@@ -1,6 +1,6 @@
 ---
 title: "puzhuoliu"
 description: ""
-url: "https://github.com/puzhuoliu"
+external_url: "https://github.com/puzhuoliu"
 category: "Miscellaneous"
 ---

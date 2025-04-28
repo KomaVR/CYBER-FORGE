@@ -1,6 +1,6 @@
 ---
 title: "PlessioTihsrah"
 description: ""
-url: "https://github.com/PlessioTihsrah"
+external_url: "https://github.com/PlessioTihsrah"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "pwndb"
 description: "by davidtavarez"
-url: "https://github.com/davidtavarez/pwndb"
+external_url: "https://github.com/davidtavarez/pwndb"
 category: "Miscellaneous"
 ---

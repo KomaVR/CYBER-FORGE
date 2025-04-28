@@ -1,6 +1,6 @@
 ---
 title: "klizhentas"
 description: ""
-url: "https://github.com/klizhentas"
+external_url: "https://github.com/klizhentas"
 category: "Miscellaneous"
 ---

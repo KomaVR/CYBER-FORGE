@@ -1,6 +1,6 @@
 ---
 title: "Classified Ads"
 description: ""
-url: "https://www.classifiedads.com/"
+external_url: "https://www.classifiedads.com/"
 category: "Miscellaneous"
 ---

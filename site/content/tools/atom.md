@@ -1,6 +1,6 @@
 ---
 title: "Atom"
 description: ""
-url: "https://browser.ru/"
+external_url: "https://browser.ru/"
 category: "Miscellaneous"
 ---

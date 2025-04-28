@@ -1,6 +1,6 @@
 ---
 title: "strftime"
 description: ""
-url: "https://sn0int.readthedocs.io/en/latest/reference.html#strftime"
+external_url: "https://sn0int.readthedocs.io/en/latest/reference.html#strftime"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "karbassi"
 description: ""
-url: "https://github.com/karbassi"
+external_url: "https://github.com/karbassi"
 category: "Miscellaneous"
 ---

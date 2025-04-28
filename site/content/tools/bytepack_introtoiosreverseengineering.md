@@ -1,6 +1,6 @@
 ---
 title: "bytepack/IntroToiOSReverseEngineering"
 description: ""
-url: "https://github.com/bytepack/IntroToiOSReverseEngineering"
+external_url: "https://github.com/bytepack/IntroToiOSReverseEngineering"
 category: "Miscellaneous"
 ---

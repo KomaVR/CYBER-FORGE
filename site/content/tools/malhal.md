@@ -1,6 +1,6 @@
 ---
 title: "malhal"
 description: ""
-url: "https://github.com/malhal"
+external_url: "https://github.com/malhal"
 category: "Miscellaneous"
 ---

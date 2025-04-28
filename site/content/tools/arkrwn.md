@@ -1,6 +1,6 @@
 ---
 title: "arkrwn"
 description: ""
-url: "https://github.com/arkrwn"
+external_url: "https://github.com/arkrwn"
 category: "Miscellaneous"
 ---

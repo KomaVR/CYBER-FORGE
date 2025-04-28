@@ -1,6 +1,6 @@
 ---
 title: "GrassGIS"
 description: ""
-url: "http://grass.osgeo.org"
+external_url: "http://grass.osgeo.org"
 category: "Miscellaneous"
 ---

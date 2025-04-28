@@ -1,6 +1,6 @@
 ---
 title: "ArjanOnwezen"
 description: ""
-url: "https://github.com/ArjanOnwezen"
+external_url: "https://github.com/ArjanOnwezen"
 category: "Miscellaneous"
 ---

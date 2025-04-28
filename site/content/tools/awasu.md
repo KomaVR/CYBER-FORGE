@@ -1,6 +1,6 @@
 ---
 title: "Awasu"
 description: ""
-url: "http://www.awasu.com"
+external_url: "http://www.awasu.com"
 category: "Miscellaneous"
 ---

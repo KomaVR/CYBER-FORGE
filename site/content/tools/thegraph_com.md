@@ -1,6 +1,6 @@
 ---
 title: "thegraph.com"
 description: ""
-url: "https://thegraph.com/"
+external_url: "https://thegraph.com/"
 category: "Miscellaneous"
 ---

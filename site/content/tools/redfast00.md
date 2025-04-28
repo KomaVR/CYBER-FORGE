@@ -1,6 +1,6 @@
 ---
 title: "redfast00"
 description: ""
-url: "https://github.com/redfast00"
+external_url: "https://github.com/redfast00"
 category: "Miscellaneous"
 ---

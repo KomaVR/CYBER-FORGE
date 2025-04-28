@@ -5,6 +5,6 @@ description: "and -gui
 decompile apks
 
 "
-url: "https://github.com/skylot/jadx"
+external_url: "https://github.com/skylot/jadx"
 category: "Miscellaneous"
 ---

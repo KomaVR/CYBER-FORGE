@@ -1,6 +1,6 @@
 ---
 title: "geohot"
 description: ""
-url: "https://github.com/geohot"
+external_url: "https://github.com/geohot"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "nickcano"
 description: ""
-url: "https://github.com/nickcano"
+external_url: "https://github.com/nickcano"
 category: "Miscellaneous"
 ---

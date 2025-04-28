@@ -1,6 +1,6 @@
 ---
 title: "CrimsonGlory"
 description: ""
-url: "https://github.com/CrimsonGlory"
+external_url: "https://github.com/CrimsonGlory"
 category: "Miscellaneous"
 ---

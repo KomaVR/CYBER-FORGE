@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://ko-fi.com/swissky"
+external_url: "https://ko-fi.com/swissky"
 category: "Miscellaneous"
 ---

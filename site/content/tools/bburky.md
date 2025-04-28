@@ -1,6 +1,6 @@
 ---
 title: "bburky"
 description: ""
-url: "https://github.com/bburky"
+external_url: "https://github.com/bburky"
 category: "Miscellaneous"
 ---

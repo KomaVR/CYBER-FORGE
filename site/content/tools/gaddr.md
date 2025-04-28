@@ -1,6 +1,6 @@
 ---
 title: "Gaddr"
 description: ""
-url: "https://gaddr.me/"
+external_url: "https://gaddr.me/"
 category: "Miscellaneous"
 ---

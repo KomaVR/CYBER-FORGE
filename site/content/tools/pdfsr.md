@@ -1,6 +1,6 @@
 ---
 title: "PDFSR"
 description: ""
-url: "http://pdfsr.com/"
+external_url: "http://pdfsr.com/"
 category: "Miscellaneous"
 ---

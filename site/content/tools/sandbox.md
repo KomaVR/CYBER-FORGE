@@ -9,6 +9,6 @@ Limitations
 Diagnosing a sandbox failure
 
 "
-url: "https://sn0int.readthedocs.io/en/latest/sandbox.html"
+external_url: "https://sn0int.readthedocs.io/en/latest/sandbox.html"
 category: "Malware Analysis"
 ---

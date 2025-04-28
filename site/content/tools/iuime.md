@@ -1,6 +1,6 @@
 ---
 title: "iuime"
 description: ""
-url: "https://github.com/iuime"
+external_url: "https://github.com/iuime"
 category: "Miscellaneous"
 ---

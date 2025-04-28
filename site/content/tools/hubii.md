@@ -1,6 +1,6 @@
 ---
 title: "Hubii"
 description: ""
-url: "http://hubii.com"
+external_url: "http://hubii.com"
 category: "Miscellaneous"
 ---

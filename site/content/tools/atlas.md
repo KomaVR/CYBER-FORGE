@@ -1,6 +1,6 @@
 ---
 title: "Atlas"
 description: ""
-url: "https://atlas.co"
+external_url: "https://atlas.co"
 category: "Miscellaneous"
 ---

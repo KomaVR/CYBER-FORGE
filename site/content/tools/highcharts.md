@@ -1,6 +1,6 @@
 ---
 title: "Highcharts"
 description: ""
-url: "http://www.highcharts.com"
+external_url: "http://www.highcharts.com"
 category: "Miscellaneous"
 ---

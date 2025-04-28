@@ -1,6 +1,6 @@
 ---
 title: "GMDSantana"
 description: ""
-url: "https://github.com/GMDSantana"
+external_url: "https://github.com/GMDSantana"
 category: "Miscellaneous"
 ---

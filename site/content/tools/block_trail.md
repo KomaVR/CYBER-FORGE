@@ -1,6 +1,6 @@
 ---
 title: "Block Trail"
 description: ""
-url: "https://www.blocktrail.com/BTC"
+external_url: "https://www.blocktrail.com/BTC"
 category: "Miscellaneous"
 ---

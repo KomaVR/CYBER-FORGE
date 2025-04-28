@@ -1,6 +1,6 @@
 ---
 title: "azuisleet"
 description: ""
-url: "https://github.com/azuisleet"
+external_url: "https://github.com/azuisleet"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "jorgectf"
 description: ""
-url: "https://github.com/jorgectf"
+external_url: "https://github.com/jorgectf"
 category: "Miscellaneous"
 ---

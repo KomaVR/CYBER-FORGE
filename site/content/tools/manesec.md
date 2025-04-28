@@ -1,6 +1,6 @@
 ---
 title: "manesec"
 description: ""
-url: "https://github.com/manesec"
+external_url: "https://github.com/manesec"
 category: "Miscellaneous"
 ---

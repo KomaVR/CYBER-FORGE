@@ -1,6 +1,6 @@
 ---
 title: "legithubert"
 description: ""
-url: "https://github.com/legithubert"
+external_url: "https://github.com/legithubert"
 category: "Miscellaneous"
 ---

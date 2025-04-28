@@ -1,6 +1,6 @@
 ---
 title: "Binary Ninja Hexagon"
 description: ""
-url: "https://github.com/google/binja-hexagon"
+external_url: "https://github.com/google/binja-hexagon"
 category: "Reverse Engineering"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Keyword Spy"
 description: ""
-url: "http://www.keywordspy.com"
+external_url: "http://www.keywordspy.com"
 category: "Miscellaneous"
 ---

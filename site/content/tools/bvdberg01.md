@@ -1,6 +1,6 @@
 ---
 title: "bvdberg01"
 description: ""
-url: "https://github.com/bvdberg01"
+external_url: "https://github.com/bvdberg01"
 category: "Miscellaneous"
 ---

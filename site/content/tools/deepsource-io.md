@@ -1,6 +1,6 @@
 ---
 title: "deepsource-io"
 description: ""
-url: "https://github.com/apps/deepsource-io"
+external_url: "https://github.com/apps/deepsource-io"
 category: "Miscellaneous"
 ---

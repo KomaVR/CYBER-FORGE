@@ -1,6 +1,6 @@
 ---
 title: "houjingyi233"
 description: ""
-url: "https://github.com/houjingyi233"
+external_url: "https://github.com/houjingyi233"
 category: "Miscellaneous"
 ---

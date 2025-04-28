@@ -1,6 +1,6 @@
 ---
 title: "deadbits"
 description: ""
-url: "https://github.com/deadbits"
+external_url: "https://github.com/deadbits"
 category: "Miscellaneous"
 ---

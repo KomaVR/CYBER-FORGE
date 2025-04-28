@@ -1,6 +1,6 @@
 ---
 title: "lorenzleutgeb"
 description: ""
-url: "https://github.com/lorenzleutgeb"
+external_url: "https://github.com/lorenzleutgeb"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "jasinner"
 description: ""
-url: "https://github.com/jasinner"
+external_url: "https://github.com/jasinner"
 category: "Miscellaneous"
 ---

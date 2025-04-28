@@ -1,6 +1,6 @@
 ---
 title: "Emergent"
 description: ""
-url: "http://www.emergent.info"
+external_url: "http://www.emergent.info"
 category: "Miscellaneous"
 ---

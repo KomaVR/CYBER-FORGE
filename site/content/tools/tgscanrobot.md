@@ -1,6 +1,6 @@
 ---
 title: "TgScanRobot"
 description: ""
-url: "https://tgdev.io/bot/tgscanrobot"
+external_url: "https://tgdev.io/bot/tgscanrobot"
 category: "Miscellaneous"
 ---

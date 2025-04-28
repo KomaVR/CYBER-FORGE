@@ -1,6 +1,6 @@
 ---
 title: "Apple Australia"
 description: ""
-url: "https://www.apple.com/au/"
+external_url: "https://www.apple.com/au/"
 category: "Miscellaneous"
 ---

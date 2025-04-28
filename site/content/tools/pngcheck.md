@@ -5,6 +5,6 @@ description: "Verifies the integrity of PNG and dump all of the chunk-level info
 apt-get install pngcheck
 
 "
-url: "http://www.libpng.org/pub/png/apps/pngcheck.html"
+external_url: "http://www.libpng.org/pub/png/apps/pngcheck.html"
 category: "Miscellaneous"
 ---

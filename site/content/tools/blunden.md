@@ -1,6 +1,6 @@
 ---
 title: "blunden"
 description: ""
-url: "https://github.com/blunden"
+external_url: "https://github.com/blunden"
 category: "Miscellaneous"
 ---

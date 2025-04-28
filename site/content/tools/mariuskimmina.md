@@ -1,6 +1,6 @@
 ---
 title: "mariuskimmina"
 description: ""
-url: "https://github.com/mariuskimmina"
+external_url: "https://github.com/mariuskimmina"
 category: "Miscellaneous"
 ---

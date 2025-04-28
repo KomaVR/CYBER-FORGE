@@ -1,6 +1,6 @@
 ---
 title: "aagor"
 description: ""
-url: "https://github.com/aagor"
+external_url: "https://github.com/aagor"
 category: "Miscellaneous"
 ---

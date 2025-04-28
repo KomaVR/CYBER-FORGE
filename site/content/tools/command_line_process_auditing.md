@@ -24,6 +24,6 @@ Windows security event log library - Small database with explanations and monito
 Yamato Security's Ultimate Windows Event Log Configuration Guide For DFIR And Threat Hunting
 
 "
-url: "https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/manage/component-updates/command-line-process-auditing#configuration"
+external_url: "https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/manage/component-updates/command-line-process-auditing#configuration"
 category: "Web Exploitation"
 ---

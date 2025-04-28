@@ -1,6 +1,6 @@
 ---
 title: "@catsuryuu"
 description: "Arkadiusz Wróbel ()"
-url: "https://github.com/catsuryuu"
+external_url: "https://github.com/catsuryuu"
 category: "Miscellaneous"
 ---

@@ -3,6 +3,6 @@ title: "SearchFiles.de"
 description: "
 
 "
-url: "https://searchfiles.de/"
+external_url: "https://searchfiles.de/"
 category: "Miscellaneous"
 ---

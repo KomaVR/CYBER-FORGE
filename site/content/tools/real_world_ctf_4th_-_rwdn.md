@@ -19,6 +19,6 @@ Example:
 
 
 "
-url: "https://r3kapig.com/writeup/20220125-rwctf4/#rwdn"
+external_url: "https://r3kapig.com/writeup/20220125-rwctf4/#rwdn"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Quazz"
 description: ""
-url: "https://github.com/Quazz"
+external_url: "https://github.com/Quazz"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "xxDark"
 description: ""
-url: "https://github.com/xxDark"
+external_url: "https://github.com/xxDark"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Austin Taylor (@HuntOperator)"
 description: ""
-url: "https://github.com/austin-taylor"
+external_url: "https://github.com/austin-taylor"
 category: "Miscellaneous"
 ---

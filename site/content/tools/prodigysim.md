@@ -1,6 +1,6 @@
 ---
 title: "ProdigySim"
 description: ""
-url: "https://github.com/ProdigySim"
+external_url: "https://github.com/ProdigySim"
 category: "Miscellaneous"
 ---

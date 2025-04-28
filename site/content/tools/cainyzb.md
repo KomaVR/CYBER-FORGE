@@ -1,6 +1,6 @@
 ---
 title: "CainYzb"
 description: ""
-url: "https://github.com/CainYzb"
+external_url: "https://github.com/CainYzb"
 category: "Miscellaneous"
 ---

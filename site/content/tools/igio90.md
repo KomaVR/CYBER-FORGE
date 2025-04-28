@@ -1,6 +1,6 @@
 ---
 title: "iGio90"
 description: ""
-url: "https://github.com/iGio90"
+external_url: "https://github.com/iGio90"
 category: "Miscellaneous"
 ---

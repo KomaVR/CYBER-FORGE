@@ -1,6 +1,6 @@
 ---
 title: "w0rk3r"
 description: ""
-url: "https://github.com/w0rk3r"
+external_url: "https://github.com/w0rk3r"
 category: "Miscellaneous"
 ---

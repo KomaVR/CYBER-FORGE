@@ -1,6 +1,6 @@
 ---
 title: "mpgn"
 description: ""
-url: "https://github.com/mpgn"
+external_url: "https://github.com/mpgn"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "huberteff"
 description: ""
-url: "https://github.com/huberteff"
+external_url: "https://github.com/huberteff"
 category: "Miscellaneous"
 ---

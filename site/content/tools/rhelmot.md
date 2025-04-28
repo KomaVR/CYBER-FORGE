@@ -1,6 +1,6 @@
 ---
 title: "rhelmot"
 description: ""
-url: "https://github.com/rhelmot"
+external_url: "https://github.com/rhelmot"
 category: "Miscellaneous"
 ---

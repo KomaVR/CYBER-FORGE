@@ -1,6 +1,6 @@
 ---
 title: "marcinguy"
 description: ""
-url: "https://github.com/marcinguy"
+external_url: "https://github.com/marcinguy"
 category: "Miscellaneous"
 ---

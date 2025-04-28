@@ -1,6 +1,6 @@
 ---
 title: "Ziemas"
 description: ""
-url: "https://github.com/Ziemas"
+external_url: "https://github.com/Ziemas"
 category: "Miscellaneous"
 ---

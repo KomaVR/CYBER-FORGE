@@ -1,6 +1,6 @@
 ---
 title: "Chronos"
 description: ""
-url: "https://www.hackingarticles.in/chronos-vulnhub-walkthrough/"
+external_url: "https://www.hackingarticles.in/chronos-vulnhub-walkthrough/"
 category: "Miscellaneous"
 ---

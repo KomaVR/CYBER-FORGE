@@ -1,6 +1,6 @@
 ---
 title: "GreyCat"
 description: ""
-url: "https://github.com/GreyCat"
+external_url: "https://github.com/GreyCat"
 category: "Miscellaneous"
 ---

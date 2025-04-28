@@ -1,6 +1,6 @@
 ---
 title: "Evilscan"
 description: "NodeJS Simple Network Scanner."
-url: "https://github.com/eviltik/evilscan"
+external_url: "https://github.com/eviltik/evilscan"
 category: "Black Hat Tools"
 ---

@@ -3,6 +3,6 @@ title: "TryHackMe | DLL HIJACKING"
 description: "
  
 "
-url: "https://tryhackme.com/room/dllhijacking"
+external_url: "https://tryhackme.com/room/dllhijacking"
 category: "Miscellaneous"
 ---

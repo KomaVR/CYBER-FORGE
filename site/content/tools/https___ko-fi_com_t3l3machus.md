@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://ko-fi.com/t3l3machus"
+external_url: "https://ko-fi.com/t3l3machus"
 category: "Miscellaneous"
 ---

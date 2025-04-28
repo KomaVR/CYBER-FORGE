@@ -1,6 +1,6 @@
 ---
 title: "graysuit"
 description: ""
-url: "https://github.com/graysuit"
+external_url: "https://github.com/graysuit"
 category: "Miscellaneous"
 ---

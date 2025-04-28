@@ -1,6 +1,6 @@
 ---
 title: "maldevel"
 description: ""
-url: "https://github.com/maldevel"
+external_url: "https://github.com/maldevel"
 category: "Miscellaneous"
 ---

@@ -3,6 +3,6 @@ title: "TryHackMe | Memory Forensics"
 description: "
  
 "
-url: "https://tryhackme.com/room/memoryforensics"
+external_url: "https://tryhackme.com/room/memoryforensics"
 category: "Malware Analysis"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Solgraph"
 description: ""
-url: "https://github.com/raineorshine/solgraph"
+external_url: "https://github.com/raineorshine/solgraph"
 category: "Miscellaneous"
 ---

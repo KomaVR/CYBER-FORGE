@@ -1,6 +1,6 @@
 ---
 title: "jkppr"
 description: ""
-url: "https://github.com/jkppr"
+external_url: "https://github.com/jkppr"
 category: "Miscellaneous"
 ---

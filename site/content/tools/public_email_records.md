@@ -1,6 +1,6 @@
 ---
 title: "Public Email Records"
 description: ""
-url: "http://publicemailrecords.com/"
+external_url: "http://publicemailrecords.com/"
 category: "Miscellaneous"
 ---

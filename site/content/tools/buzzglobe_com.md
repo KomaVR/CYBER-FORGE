@@ -1,6 +1,6 @@
 ---
 title: "Buzzglobe.com"
 description: ""
-url: "https://buzzglobe.com/"
+external_url: "https://buzzglobe.com/"
 category: "Miscellaneous"
 ---

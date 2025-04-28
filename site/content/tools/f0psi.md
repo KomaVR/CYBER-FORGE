@@ -1,6 +1,6 @@
 ---
 title: "f0psi"
 description: ""
-url: "https://github.com/f0psi"
+external_url: "https://github.com/f0psi"
 category: "Miscellaneous"
 ---

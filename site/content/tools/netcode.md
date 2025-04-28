@@ -1,6 +1,6 @@
 ---
 title: "netcode"
 description: ""
-url: "https://github.com/netcode"
+external_url: "https://github.com/netcode"
 category: "Miscellaneous"
 ---

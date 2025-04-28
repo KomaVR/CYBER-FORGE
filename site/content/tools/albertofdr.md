@@ -1,6 +1,6 @@
 ---
 title: "AlbertoFDR"
 description: ""
-url: "https://github.com/AlbertoFDR"
+external_url: "https://github.com/AlbertoFDR"
 category: "Miscellaneous"
 ---

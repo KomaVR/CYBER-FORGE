@@ -1,6 +1,6 @@
 ---
 title: "emtuls"
 description: ""
-url: "https://github.com/emtuls"
+external_url: "https://github.com/emtuls"
 category: "Miscellaneous"
 ---

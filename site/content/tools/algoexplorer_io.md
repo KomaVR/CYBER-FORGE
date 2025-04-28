@@ -1,6 +1,6 @@
 ---
 title: "algoexplorer.io"
 description: ""
-url: "https://algoexplorer.io"
+external_url: "https://algoexplorer.io"
 category: "Miscellaneous"
 ---

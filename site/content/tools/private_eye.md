@@ -1,6 +1,6 @@
 ---
 title: "Private Eye"
 description: ""
-url: "https://www.privateeye.com"
+external_url: "https://www.privateeye.com"
 category: "Miscellaneous"
 ---

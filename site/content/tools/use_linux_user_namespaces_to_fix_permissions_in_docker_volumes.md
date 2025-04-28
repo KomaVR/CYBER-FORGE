@@ -1,6 +1,6 @@
 ---
 title: "Use Linux user namespaces to fix permissions in docker volumes"
 description: ""
-url: "https://www.jujens.eu/posts/en/2017/Jul/02/docker-userns-remap/"
+external_url: "https://www.jujens.eu/posts/en/2017/Jul/02/docker-userns-remap/"
 category: "Miscellaneous"
 ---

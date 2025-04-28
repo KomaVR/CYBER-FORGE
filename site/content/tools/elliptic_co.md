@@ -1,6 +1,6 @@
 ---
 title: "elliptic.co"
 description: ""
-url: "https://elliptic.co"
+external_url: "https://elliptic.co"
 category: "Miscellaneous"
 ---

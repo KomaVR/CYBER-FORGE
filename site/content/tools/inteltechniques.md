@@ -1,6 +1,6 @@
 ---
 title: "IntelTechniques"
 description: ""
-url: "https://inteltechniques.com/"
+external_url: "https://inteltechniques.com/"
 category: "Miscellaneous"
 ---

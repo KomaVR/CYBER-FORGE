@@ -1,6 +1,6 @@
 ---
 title: "blackMasterLord"
 description: ""
-url: "https://github.com/blackMasterLord"
+external_url: "https://github.com/blackMasterLord"
 category: "Miscellaneous"
 ---

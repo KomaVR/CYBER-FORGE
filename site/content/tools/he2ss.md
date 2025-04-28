@@ -1,6 +1,6 @@
 ---
 title: "he2ss"
 description: ""
-url: "https://github.com/he2ss"
+external_url: "https://github.com/he2ss"
 category: "Miscellaneous"
 ---

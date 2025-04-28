@@ -1,6 +1,6 @@
 ---
 title: "Reverse Engineering for Beginners"
 description: ""
-url: "http://beginners.re/"
+external_url: "http://beginners.re/"
 category: "Miscellaneous"
 ---

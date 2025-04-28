@@ -1,6 +1,6 @@
 ---
 title: "tenyuhuang"
 description: ""
-url: "https://github.com/tenyuhuang"
+external_url: "https://github.com/tenyuhuang"
 category: "Miscellaneous"
 ---

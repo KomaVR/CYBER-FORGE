@@ -1,6 +1,6 @@
 ---
 title: "SEO Checker"
 description: ""
-url: "https://www.seobility.net/en/seocheck/"
+external_url: "https://www.seobility.net/en/seocheck/"
 category: "Miscellaneous"
 ---

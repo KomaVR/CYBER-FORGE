@@ -23,6 +23,6 @@ WeChat
 
 
 "
-url: "https://www.scmp.com/news/china/politics/article/3018725/how-unwitting-users-wechat-aid-chinese-messaging-apps"
+external_url: "https://www.scmp.com/news/china/politics/article/3018725/how-unwitting-users-wechat-aid-chinese-messaging-apps"
 category: "Password Cracking"
 ---

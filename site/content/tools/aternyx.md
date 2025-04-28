@@ -1,6 +1,6 @@
 ---
 title: "aternyx"
 description: ""
-url: "https://github.com/aternyx"
+external_url: "https://github.com/aternyx"
 category: "Miscellaneous"
 ---

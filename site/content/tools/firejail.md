@@ -1,6 +1,6 @@
 ---
 title: "FireJail"
 description: "Thanks to"
-url: "https://firejail.wordpress.com/"
+external_url: "https://firejail.wordpress.com/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "EVM Tools"
 description: ""
-url: "https://github.com/CoinCulture/evm-tools"
+external_url: "https://github.com/CoinCulture/evm-tools"
 category: "Miscellaneous"
 ---

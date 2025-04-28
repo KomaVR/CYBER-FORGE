@@ -5,6 +5,6 @@ description: ", may require:
 Linux >= 2.6.13
 
 "
-url: "https://github.com/seb-m/pyinotify"
+external_url: "https://github.com/seb-m/pyinotify"
 category: "Miscellaneous"
 ---

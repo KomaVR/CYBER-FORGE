@@ -1,6 +1,6 @@
 ---
 title: "Pleco"
 description: ""
-url: "https://www.pleco.com/"
+external_url: "https://www.pleco.com/"
 category: "Miscellaneous"
 ---

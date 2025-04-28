@@ -1,6 +1,6 @@
 ---
 title: "AnubisDB"
 description: ""
-url: "https://jonlu.ca/anubis/"
+external_url: "https://jonlu.ca/anubis/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "chfl4gs"
 description: ""
-url: "https://github.com/chfl4gs"
+external_url: "https://github.com/chfl4gs"
 category: "Miscellaneous"
 ---

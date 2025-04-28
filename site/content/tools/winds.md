@@ -1,6 +1,6 @@
 ---
 title: "Winds"
 description: ""
-url: "http://winds.getstream.io"
+external_url: "http://winds.getstream.io"
 category: "Miscellaneous"
 ---

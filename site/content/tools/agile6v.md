@@ -1,6 +1,6 @@
 ---
 title: "agile6v"
 description: ""
-url: "https://github.com/agile6v"
+external_url: "https://github.com/agile6v"
 category: "Miscellaneous"
 ---

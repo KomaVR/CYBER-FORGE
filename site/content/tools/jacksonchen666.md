@@ -1,6 +1,6 @@
 ---
 title: "JacksonChen666"
 description: ""
-url: "https://github.com/JacksonChen666"
+external_url: "https://github.com/JacksonChen666"
 category: "Miscellaneous"
 ---

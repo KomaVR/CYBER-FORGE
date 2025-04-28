@@ -1,6 +1,6 @@
 ---
 title: "Funda"
 description: "(NL)"
-url: "https://www.funda.nl/"
+external_url: "https://www.funda.nl/"
 category: "Miscellaneous"
 ---

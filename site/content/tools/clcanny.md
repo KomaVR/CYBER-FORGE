@@ -1,6 +1,6 @@
 ---
 title: "Clcanny"
 description: ""
-url: "https://github.com/Clcanny"
+external_url: "https://github.com/Clcanny"
 category: "Miscellaneous"
 ---

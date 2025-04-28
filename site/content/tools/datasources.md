@@ -6,6 +6,6 @@ Support
 
 
 "
-url: "http://docs.dbgpt.cn/docs/modules/connections"
+external_url: "http://docs.dbgpt.cn/docs/modules/connections"
 category: "Miscellaneous"
 ---

@@ -12,6 +12,6 @@ Honeypots
 Incident Response
 
 "
-url: "https://github.com/paragonie/awesome-appsec"
+external_url: "https://github.com/paragonie/awesome-appsec"
 category: "Malware Analysis"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "rshipp"
 description: ""
-url: "https://github.com/rshipp"
+external_url: "https://github.com/rshipp"
 category: "Miscellaneous"
 ---

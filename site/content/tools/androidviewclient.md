@@ -1,6 +1,6 @@
 ---
 title: "AndroidViewClient"
 description: "by dtmilano"
-url: "https://github.com/dtmilano/AndroidViewClient/"
+external_url: "https://github.com/dtmilano/AndroidViewClient/"
 category: "Miscellaneous"
 ---

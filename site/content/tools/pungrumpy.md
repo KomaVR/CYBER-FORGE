@@ -1,6 +1,6 @@
 ---
 title: "PunGrumpy"
 description: ""
-url: "https://github.com/PunGrumpy"
+external_url: "https://github.com/PunGrumpy"
 category: "Miscellaneous"
 ---

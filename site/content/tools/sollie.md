@@ -1,6 +1,6 @@
 ---
 title: "sollie"
 description: ""
-url: "https://github.com/sollie"
+external_url: "https://github.com/sollie"
 category: "Miscellaneous"
 ---

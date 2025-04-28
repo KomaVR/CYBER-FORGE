@@ -1,6 +1,6 @@
 ---
 title: "tinyAdapter"
 description: ""
-url: "https://github.com/tinyAdapter"
+external_url: "https://github.com/tinyAdapter"
 category: "Miscellaneous"
 ---

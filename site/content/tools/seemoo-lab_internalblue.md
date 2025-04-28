@@ -1,6 +1,6 @@
 ---
 title: "seemoo-lab/internalblue"
 description: ""
-url: "https://github.com/seemoo-lab/internalblue"
+external_url: "https://github.com/seemoo-lab/internalblue"
 category: "Miscellaneous"
 ---

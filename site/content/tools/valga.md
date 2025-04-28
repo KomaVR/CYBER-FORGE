@@ -1,6 +1,6 @@
 ---
 title: "valga"
 description: ""
-url: "https://github.com/valga"
+external_url: "https://github.com/valga"
 category: "Miscellaneous"
 ---

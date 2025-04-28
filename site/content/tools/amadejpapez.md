@@ -1,6 +1,6 @@
 ---
 title: "amadejpapez"
 description: ""
-url: "https://github.com/amadejpapez"
+external_url: "https://github.com/amadejpapez"
 category: "Miscellaneous"
 ---

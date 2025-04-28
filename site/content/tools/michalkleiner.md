@@ -1,6 +1,6 @@
 ---
 title: "michalkleiner"
 description: ""
-url: "https://github.com/michalkleiner"
+external_url: "https://github.com/michalkleiner"
 category: "Miscellaneous"
 ---

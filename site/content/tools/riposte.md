@@ -1,6 +1,6 @@
 ---
 title: "riposte"
 description: ""
-url: "https://github.com/fwkz/riposte"
+external_url: "https://github.com/fwkz/riposte"
 category: "Miscellaneous"
 ---

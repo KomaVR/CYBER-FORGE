@@ -12,6 +12,6 @@ packetdisplay
 filter
 
 "
-url: "https://github.com/m4n3dw0lf/pythem/wiki/Commands-Reference#pforensic"
+external_url: "https://github.com/m4n3dw0lf/pythem/wiki/Commands-Reference#pforensic"
 category: "Malware Analysis"
 ---

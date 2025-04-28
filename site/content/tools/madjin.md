@@ -1,6 +1,6 @@
 ---
 title: "madjin"
 description: ""
-url: "https://github.com/madjin"
+external_url: "https://github.com/madjin"
 category: "Miscellaneous"
 ---

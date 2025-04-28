@@ -1,6 +1,6 @@
 ---
 title: "gbiagomba"
 description: ""
-url: "https://github.com/gbiagomba"
+external_url: "https://github.com/gbiagomba"
 category: "Miscellaneous"
 ---

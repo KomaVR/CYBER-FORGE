@@ -1,6 +1,6 @@
 ---
 title: "cbjrobertson"
 description: ""
-url: "https://github.com/cbjrobertson"
+external_url: "https://github.com/cbjrobertson"
 category: "Miscellaneous"
 ---

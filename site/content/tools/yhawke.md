@@ -1,6 +1,6 @@
 ---
 title: "yhawke"
 description: ""
-url: "https://github.com/yhawke"
+external_url: "https://github.com/yhawke"
 category: "Miscellaneous"
 ---

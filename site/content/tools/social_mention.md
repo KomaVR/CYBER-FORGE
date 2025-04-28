@@ -1,6 +1,6 @@
 ---
 title: "Social Mention"
 description: ""
-url: "http://socialmention.com/"
+external_url: "http://socialmention.com/"
 category: "Miscellaneous"
 ---

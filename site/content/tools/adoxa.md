@@ -1,6 +1,6 @@
 ---
 title: "adoxa"
 description: ""
-url: "https://github.com/adoxa"
+external_url: "https://github.com/adoxa"
 category: "Miscellaneous"
 ---

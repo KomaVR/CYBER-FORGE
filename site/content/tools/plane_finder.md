@@ -1,6 +1,6 @@
 ---
 title: "Plane Finder"
 description: ""
-url: "https://planefinder.net/"
+external_url: "https://planefinder.net/"
 category: "Miscellaneous"
 ---

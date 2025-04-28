@@ -1,6 +1,6 @@
 ---
 title: "nftchecker.io"
 description: ""
-url: "https://nftchecker.io"
+external_url: "https://nftchecker.io"
 category: "Miscellaneous"
 ---

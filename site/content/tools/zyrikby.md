@@ -1,6 +1,6 @@
 ---
 title: "zyrikby"
 description: ""
-url: "https://github.com/zyrikby"
+external_url: "https://github.com/zyrikby"
 category: "Miscellaneous"
 ---

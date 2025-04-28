@@ -1,6 +1,6 @@
 ---
 title: "maskprocessor"
 description: "High-Performance word generator with a per-position configureable charset."
-url: "https://github.com/hashcat/maskprocessor"
+external_url: "https://github.com/hashcat/maskprocessor"
 category: "Miscellaneous"
 ---

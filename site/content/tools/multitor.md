@@ -1,6 +1,6 @@
 ---
 title: "Multitor"
 description: ""
-url: "https://github.com/trimstray/multitor"
+external_url: "https://github.com/trimstray/multitor"
 category: "Miscellaneous"
 ---

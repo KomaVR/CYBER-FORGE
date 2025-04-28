@@ -1,6 +1,6 @@
 ---
 title: "tbeadle"
 description: ""
-url: "https://github.com/tbeadle"
+external_url: "https://github.com/tbeadle"
 category: "Miscellaneous"
 ---

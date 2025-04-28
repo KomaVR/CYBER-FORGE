@@ -1,6 +1,6 @@
 ---
 title: "oko.palkeo.com"
 description: ""
-url: "https://oko.palkeo.com"
+external_url: "https://oko.palkeo.com"
 category: "Miscellaneous"
 ---

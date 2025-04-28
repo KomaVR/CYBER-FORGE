@@ -1,6 +1,6 @@
 ---
 title: "Skrapp"
 description: ": Browser addon to find emails on Linkedin"
-url: "https://www.skrapp.io/"
+external_url: "https://www.skrapp.io/"
 category: "Miscellaneous"
 ---

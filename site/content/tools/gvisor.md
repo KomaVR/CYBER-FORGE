@@ -1,6 +1,6 @@
 ---
 title: "gvisor"
 description: ""
-url: "https://github.com/google/gvisor"
+external_url: "https://github.com/google/gvisor"
 category: "Miscellaneous"
 ---

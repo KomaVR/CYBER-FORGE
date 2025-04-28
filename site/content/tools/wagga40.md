@@ -1,6 +1,6 @@
 ---
 title: "wagga40"
 description: ""
-url: "https://github.com/wagga40"
+external_url: "https://github.com/wagga40"
 category: "Miscellaneous"
 ---

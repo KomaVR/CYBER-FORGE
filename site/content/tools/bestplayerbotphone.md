@@ -1,6 +1,6 @@
 ---
 title: "bestplayerbotphone"
 description: ""
-url: "https://github.com/bestplayerbotphone"
+external_url: "https://github.com/bestplayerbotphone"
 category: "Miscellaneous"
 ---

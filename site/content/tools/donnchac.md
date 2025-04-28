@@ -1,6 +1,6 @@
 ---
 title: "DonnchaC"
 description: ""
-url: "https://github.com/DonnchaC"
+external_url: "https://github.com/DonnchaC"
 category: "Miscellaneous"
 ---

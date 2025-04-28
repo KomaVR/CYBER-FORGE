@@ -1,6 +1,6 @@
 ---
 title: "The FatRat"
 description: ""
-url: "https://github.com/Screetsec/TheFatRat"
+external_url: "https://github.com/Screetsec/TheFatRat"
 category: "Miscellaneous"
 ---

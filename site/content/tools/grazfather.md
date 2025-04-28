@@ -1,6 +1,6 @@
 ---
 title: "Grazfather"
 description: ""
-url: "https://github.com/Grazfather"
+external_url: "https://github.com/Grazfather"
 category: "Miscellaneous"
 ---

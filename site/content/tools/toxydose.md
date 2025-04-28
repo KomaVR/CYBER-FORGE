@@ -1,6 +1,6 @@
 ---
 title: "toxydose"
 description: ""
-url: "https://github.com/toxydose"
+external_url: "https://github.com/toxydose"
 category: "Miscellaneous"
 ---

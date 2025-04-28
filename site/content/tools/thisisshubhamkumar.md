@@ -2,6 +2,6 @@
 title: "thisisshubhamkumar"
 description: "thisisshubhamkumar
 Shubh"
-url: "https://github.com/thisisshubhamkumar"
+external_url: "https://github.com/thisisshubhamkumar"
 category: "Miscellaneous"
 ---

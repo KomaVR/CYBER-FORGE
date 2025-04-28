@@ -1,6 +1,6 @@
 ---
 title: "PDF Books for Download"
 description: ""
-url: "https://pdfbook-s.com/"
+external_url: "https://pdfbook-s.com/"
 category: "Miscellaneous"
 ---

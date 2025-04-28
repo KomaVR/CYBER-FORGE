@@ -1,6 +1,6 @@
 ---
 title: "ret2got/disasm.pro"
 description: "[201星][14d] [JS]  A realtime assembler/disassembler (formerly known as disasm.ninja)"
-url: "https://github.com/ret2got/disasm.pro"
+external_url: "https://github.com/ret2got/disasm.pro"
 category: "Reverse Engineering"
 ---

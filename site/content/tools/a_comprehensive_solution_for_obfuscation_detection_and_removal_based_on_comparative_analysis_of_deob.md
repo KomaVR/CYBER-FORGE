@@ -1,6 +1,6 @@
 ---
 title: "A comprehensive solution for obfuscation detection and removal based on comparative analysis of deobfuscation tools"
 description: "📓  (October 2021)"
-url: "https://ieeexplore.ieee.org/document/9645824"
+external_url: "https://ieeexplore.ieee.org/document/9645824"
 category: "Miscellaneous"
 ---

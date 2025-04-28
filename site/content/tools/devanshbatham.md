@@ -1,6 +1,6 @@
 ---
 title: "devanshbatham"
 description: ""
-url: "https://github.com/devanshbatham"
+external_url: "https://github.com/devanshbatham"
 category: "Miscellaneous"
 ---

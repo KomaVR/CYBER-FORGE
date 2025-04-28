@@ -1,6 +1,6 @@
 ---
 title: "chenjunyu19"
 description: ""
-url: "https://github.com/chenjunyu19"
+external_url: "https://github.com/chenjunyu19"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "/docs/requests"
 description: "Requests API from G4F:"
-url: "https://github.com/gpt4free/gpt4free.github.io/blob/main/docs/requests.md"
+external_url: "https://github.com/gpt4free/gpt4free.github.io/blob/main/docs/requests.md"
 category: "Miscellaneous"
 ---

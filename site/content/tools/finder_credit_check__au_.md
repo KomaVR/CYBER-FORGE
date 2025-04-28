@@ -1,6 +1,6 @@
 ---
 title: "Finder Credit Check (AU)"
 description: "Account required."
-url: "https://www.finder.com.au/credit-score/login"
+external_url: "https://www.finder.com.au/credit-score/login"
 category: "Miscellaneous"
 ---

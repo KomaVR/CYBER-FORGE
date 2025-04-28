@@ -1,6 +1,6 @@
 ---
 title: "actions-user"
 description: ""
-url: "https://github.com/actions-user"
+external_url: "https://github.com/actions-user"
 category: "Miscellaneous"
 ---

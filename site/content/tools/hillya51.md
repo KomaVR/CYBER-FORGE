@@ -1,6 +1,6 @@
 ---
 title: "HIllya51"
 description: ""
-url: "https://github.com/HIllya51"
+external_url: "https://github.com/HIllya51"
 category: "Miscellaneous"
 ---

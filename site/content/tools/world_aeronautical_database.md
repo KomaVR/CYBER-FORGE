@@ -1,6 +1,6 @@
 ---
 title: "World Aeronautical Database"
 description: ""
-url: "http://worldaerodata.com/"
+external_url: "http://worldaerodata.com/"
 category: "Miscellaneous"
 ---

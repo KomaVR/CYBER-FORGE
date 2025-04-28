@@ -1,6 +1,6 @@
 ---
 title: "Artikash"
 description: ""
-url: "https://github.com/Artikash"
+external_url: "https://github.com/Artikash"
 category: "Miscellaneous"
 ---

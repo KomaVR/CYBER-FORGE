@@ -1,6 +1,6 @@
 ---
 title: "@osxdaily"
 description: ""
-url: "https://twitter.com/osxdaily"
+external_url: "https://twitter.com/osxdaily"
 category: "Miscellaneous"
 ---

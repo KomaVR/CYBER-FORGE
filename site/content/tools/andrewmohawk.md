@@ -1,6 +1,6 @@
 ---
 title: "AndrewMohawk"
 description: ""
-url: "https://github.com/AndrewMohawk"
+external_url: "https://github.com/AndrewMohawk"
 category: "Miscellaneous"
 ---

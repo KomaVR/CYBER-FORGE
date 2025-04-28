@@ -1,6 +1,6 @@
 ---
 title: "vjerci"
 description: ""
-url: "https://github.com/vjerci"
+external_url: "https://github.com/vjerci"
 category: "Miscellaneous"
 ---

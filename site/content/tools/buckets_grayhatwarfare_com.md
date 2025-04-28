@@ -1,6 +1,6 @@
 ---
 title: "buckets.grayhatwarfare.com"
 description: "Public buckets"
-url: "https://buckets.grayhatwarfare.com/"
+external_url: "https://buckets.grayhatwarfare.com/"
 category: "Miscellaneous"
 ---

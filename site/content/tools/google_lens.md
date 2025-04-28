@@ -1,6 +1,6 @@
 ---
 title: "Google Lens"
 description: ""
-url: "https://lens.google.com/"
+external_url: "https://lens.google.com/"
 category: "Miscellaneous"
 ---

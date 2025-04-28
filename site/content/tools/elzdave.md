@@ -2,6 +2,6 @@
 title: "elzdave"
 description: "elzdave
 David Eleazar"
-url: "https://github.com/elzdave"
+external_url: "https://github.com/elzdave"
 category: "Miscellaneous"
 ---

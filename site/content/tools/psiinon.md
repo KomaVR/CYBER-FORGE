@@ -1,6 +1,6 @@
 ---
 title: "psiinon"
 description: ""
-url: "https://github.com/psiinon"
+external_url: "https://github.com/psiinon"
 category: "Miscellaneous"
 ---

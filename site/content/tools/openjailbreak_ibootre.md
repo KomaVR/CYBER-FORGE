@@ -1,6 +1,6 @@
 ---
 title: "OpenJailbreak/iBootRE"
 description: ""
-url: "https://github.com/OpenJailbreak/iBootRE"
+external_url: "https://github.com/OpenJailbreak/iBootRE"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "ScriptTiger"
 description: ""
-url: "https://github.com/ScriptTiger"
+external_url: "https://github.com/ScriptTiger"
 category: "Miscellaneous"
 ---

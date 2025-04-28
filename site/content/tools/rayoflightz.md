@@ -1,6 +1,6 @@
 ---
 title: "RayofLightz"
 description: ""
-url: "https://github.com/RayofLightz"
+external_url: "https://github.com/RayofLightz"
 category: "Miscellaneous"
 ---

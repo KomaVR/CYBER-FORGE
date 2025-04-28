@@ -1,6 +1,6 @@
 ---
 title: "bendehaan"
 description: ""
-url: "https://github.com/bendehaan"
+external_url: "https://github.com/bendehaan"
 category: "Miscellaneous"
 ---

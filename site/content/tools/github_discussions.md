@@ -1,6 +1,6 @@
 ---
 title: "GitHub Discussions"
 description: ""
-url: "https://github.com/OWASP/owasp-mastg/discussions"
+external_url: "https://github.com/OWASP/owasp-mastg/discussions"
 category: "Miscellaneous"
 ---

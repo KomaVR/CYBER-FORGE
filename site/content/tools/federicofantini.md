@@ -1,6 +1,6 @@
 ---
 title: "federicofantini"
 description: ""
-url: "https://github.com/federicofantini"
+external_url: "https://github.com/federicofantini"
 category: "Miscellaneous"
 ---

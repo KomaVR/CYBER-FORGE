@@ -1,6 +1,6 @@
 ---
 title: "Larryxi"
 description: ""
-url: "https://github.com/Larryxi"
+external_url: "https://github.com/Larryxi"
 category: "Miscellaneous"
 ---

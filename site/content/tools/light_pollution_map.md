@@ -1,6 +1,6 @@
 ---
 title: "Light pollution map"
 description: ""
-url: "https://www.lightpollutionmap.info/"
+external_url: "https://www.lightpollutionmap.info/"
 category: "Miscellaneous"
 ---

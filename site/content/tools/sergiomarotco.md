@@ -1,6 +1,6 @@
 ---
 title: "sergiomarotco"
 description: ""
-url: "https://github.com/sergiomarotco"
+external_url: "https://github.com/sergiomarotco"
 category: "Miscellaneous"
 ---

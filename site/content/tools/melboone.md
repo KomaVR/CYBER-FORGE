@@ -1,6 +1,6 @@
 ---
 title: "melboone"
 description: ""
-url: "https://github.com/melboone"
+external_url: "https://github.com/melboone"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "cpscan"
 description: "website admin panel finder."
-url: "https://github.com/SusmithKrishnan/cpscan"
+external_url: "https://github.com/SusmithKrishnan/cpscan"
 category: "Web Exploitation"
 ---

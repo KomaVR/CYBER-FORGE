@@ -1,6 +1,6 @@
 ---
 title: "Android Tamer"
 description: "Virtual / Live Platform for Android Security professionals."
-url: "https://androidtamer.com"
+external_url: "https://androidtamer.com"
 category: "Miscellaneous"
 ---

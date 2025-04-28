@@ -2,6 +2,6 @@
 title: "0xmaximus"
 description: "0xmaximus
 imMAXIMUS"
-url: "https://github.com/0xmaximus"
+external_url: "https://github.com/0xmaximus"
 category: "Miscellaneous"
 ---

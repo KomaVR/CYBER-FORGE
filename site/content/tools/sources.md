@@ -1,6 +1,6 @@
 ---
 title: "Sources"
 description: ""
-url: "http://www.sources.com"
+external_url: "http://www.sources.com"
 category: "Miscellaneous"
 ---

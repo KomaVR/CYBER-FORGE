@@ -4,6 +4,6 @@ description: "Wikimapia, crowdsourced information related to geographic location
 works like Google Maps but possibility to switch between Google,
 Bing, OSM, etc.,
 "
-url: "http://www.wikimapia.org"
+external_url: "http://www.wikimapia.org"
 category: "Miscellaneous"
 ---

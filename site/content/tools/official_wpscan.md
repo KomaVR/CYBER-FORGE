@@ -1,6 +1,6 @@
 ---
 title: "official WPScan"
 description: "docker pull wpscanteam/wpscan"
-url: "https://hub.docker.com/r/wpscanteam/wpscan/"
+external_url: "https://hub.docker.com/r/wpscanteam/wpscan/"
 category: "Miscellaneous"
 ---

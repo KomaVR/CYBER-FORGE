@@ -1,6 +1,6 @@
 ---
 title: "https://goteleport.com/docs/get-started/"
 description: "Getting Started:"
-url: "https://goteleport.com/docs/get-started/"
+external_url: "https://goteleport.com/docs/get-started/"
 category: "Miscellaneous"
 ---

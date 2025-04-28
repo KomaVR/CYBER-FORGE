@@ -1,6 +1,6 @@
 ---
 title: "Bryzizzle"
 description: ""
-url: "https://github.com/Bryzizzle"
+external_url: "https://github.com/Bryzizzle"
 category: "Miscellaneous"
 ---

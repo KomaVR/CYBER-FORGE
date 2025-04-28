@@ -1,6 +1,6 @@
 ---
 title: "link2"
 description: ""
-url: "https://sploitfun.wordpress.com/author/sploitfun/"
+external_url: "https://sploitfun.wordpress.com/author/sploitfun/"
 category: "Miscellaneous"
 ---

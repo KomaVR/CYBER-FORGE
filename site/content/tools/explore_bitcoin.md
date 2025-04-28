@@ -1,6 +1,6 @@
 ---
 title: "Explore Bitcoin"
 description: ""
-url: "https://explorer.bitcoin.com"
+external_url: "https://explorer.bitcoin.com"
 category: "Miscellaneous"
 ---

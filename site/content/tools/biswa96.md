@@ -1,6 +1,6 @@
 ---
 title: "Biswa96"
 description: ""
-url: "https://github.com/Biswa96"
+external_url: "https://github.com/Biswa96"
 category: "Miscellaneous"
 ---

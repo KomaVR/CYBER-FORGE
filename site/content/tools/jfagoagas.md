@@ -1,6 +1,6 @@
 ---
 title: "jfagoagas"
 description: ""
-url: "https://github.com/jfagoagas"
+external_url: "https://github.com/jfagoagas"
 category: "Miscellaneous"
 ---

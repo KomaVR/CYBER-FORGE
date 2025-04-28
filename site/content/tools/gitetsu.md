@@ -1,6 +1,6 @@
 ---
 title: "gitetsu"
 description: ""
-url: "https://github.com/gitetsu"
+external_url: "https://github.com/gitetsu"
 category: "Miscellaneous"
 ---

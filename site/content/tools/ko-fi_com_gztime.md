@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://ko-fi.com/gztime"
+external_url: "https://ko-fi.com/gztime"
 category: "Miscellaneous"
 ---

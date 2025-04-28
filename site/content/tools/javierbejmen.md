@@ -1,6 +1,6 @@
 ---
 title: "JavierBejMen"
 description: ""
-url: "https://github.com/JavierBejMen"
+external_url: "https://github.com/JavierBejMen"
 category: "Miscellaneous"
 ---

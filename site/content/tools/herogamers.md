@@ -1,6 +1,6 @@
 ---
 title: "HeroGamers"
 description: ""
-url: "https://github.com/HeroGamers"
+external_url: "https://github.com/HeroGamers"
 category: "Miscellaneous"
 ---

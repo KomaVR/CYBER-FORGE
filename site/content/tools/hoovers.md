@@ -1,6 +1,6 @@
 ---
 title: "Hoovers"
 description: ""
-url: "http://www.hoovers.com"
+external_url: "http://www.hoovers.com"
 category: "Miscellaneous"
 ---

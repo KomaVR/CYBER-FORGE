@@ -1,6 +1,6 @@
 ---
 title: "karlmortensen"
 description: ""
-url: "https://github.com/karlmortensen"
+external_url: "https://github.com/karlmortensen"
 category: "Miscellaneous"
 ---

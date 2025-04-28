@@ -1,6 +1,6 @@
 ---
 title: "Antonio Davide"
 description: "for QHexView"
-url: "https://github.com/Dax89"
+external_url: "https://github.com/Dax89"
 category: "Miscellaneous"
 ---

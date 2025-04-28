@@ -1,6 +1,6 @@
 ---
 title: "nichtsfrei"
 description: ""
-url: "https://github.com/nichtsfrei"
+external_url: "https://github.com/nichtsfrei"
 category: "Miscellaneous"
 ---

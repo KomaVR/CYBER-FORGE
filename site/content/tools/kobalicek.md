@@ -1,6 +1,6 @@
 ---
 title: "kobalicek"
 description: ""
-url: "https://github.com/kobalicek"
+external_url: "https://github.com/kobalicek"
 category: "Miscellaneous"
 ---

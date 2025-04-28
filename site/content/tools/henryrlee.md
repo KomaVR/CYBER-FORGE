@@ -1,6 +1,6 @@
 ---
 title: "HenryRLee"
 description: ""
-url: "https://github.com/HenryRLee"
+external_url: "https://github.com/HenryRLee"
 category: "Miscellaneous"
 ---

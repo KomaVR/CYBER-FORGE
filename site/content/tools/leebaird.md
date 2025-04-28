@@ -1,6 +1,6 @@
 ---
 title: "leebaird"
 description: ""
-url: "https://github.com/leebaird"
+external_url: "https://github.com/leebaird"
 category: "Miscellaneous"
 ---

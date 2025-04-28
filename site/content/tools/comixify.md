@@ -1,6 +1,6 @@
 ---
 title: "Comixify"
 description: ""
-url: "https://comixify.ii.pw.edu.pl/"
+external_url: "https://comixify.ii.pw.edu.pl/"
 category: "Miscellaneous"
 ---

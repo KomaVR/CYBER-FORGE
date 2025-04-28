@@ -6,6 +6,6 @@ description: "LM + NTLM hashes and corresponding plaintext passwords:
 https://openwall.info/wiki/_media/john/pw-fake-nt100k.gz 100k
 
 "
-url: "https://openwall.info/wiki/_media/john/pw-fake-nt.gz"
+external_url: "https://openwall.info/wiki/_media/john/pw-fake-nt.gz"
 category: "Password Cracking"
 ---

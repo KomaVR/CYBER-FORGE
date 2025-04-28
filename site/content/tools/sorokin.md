@@ -1,6 +1,6 @@
 ---
 title: "sorokin"
 description: ""
-url: "https://github.com/sorokin"
+external_url: "https://github.com/sorokin"
 category: "Miscellaneous"
 ---

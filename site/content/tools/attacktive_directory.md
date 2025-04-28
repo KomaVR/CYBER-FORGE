@@ -1,6 +1,6 @@
 ---
 title: "Attacktive Directory"
 description: "Medium"
-url: "https://tryhackme.com/room/attacktivedirectory"
+external_url: "https://tryhackme.com/room/attacktivedirectory"
 category: "Miscellaneous"
 ---

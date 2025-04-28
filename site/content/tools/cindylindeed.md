@@ -1,6 +1,6 @@
 ---
 title: "cindylindeed"
 description: ""
-url: "https://github.com/cindylindeed"
+external_url: "https://github.com/cindylindeed"
 category: "Miscellaneous"
 ---

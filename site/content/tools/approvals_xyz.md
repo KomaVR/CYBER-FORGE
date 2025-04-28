@@ -1,6 +1,6 @@
 ---
 title: "approvals.xyz"
 description: ""
-url: "https://approvals.xyz"
+external_url: "https://approvals.xyz"
 category: "Miscellaneous"
 ---

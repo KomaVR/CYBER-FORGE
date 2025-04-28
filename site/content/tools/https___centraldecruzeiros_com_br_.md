@@ -1,6 +1,6 @@
 ---
 title: "https://centraldecruzeiros.com.br/"
 description: ""
-url: "https://centraldecruzeiros.com.br/"
+external_url: "https://centraldecruzeiros.com.br/"
 category: "Miscellaneous"
 ---

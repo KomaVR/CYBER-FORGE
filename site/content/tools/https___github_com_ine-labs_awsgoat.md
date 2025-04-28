@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/ine-labs/AWSGoat"
 description: "AWSGoat:"
-url: "https://github.com/ine-labs/AWSGoat"
+external_url: "https://github.com/ine-labs/AWSGoat"
 category: "Miscellaneous"
 ---

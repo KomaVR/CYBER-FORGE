@@ -1,6 +1,6 @@
 ---
 title: "assafcarlsbad"
 description: ""
-url: "https://github.com/assafcarlsbad"
+external_url: "https://github.com/assafcarlsbad"
 category: "Miscellaneous"
 ---

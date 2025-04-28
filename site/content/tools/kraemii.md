@@ -1,6 +1,6 @@
 ---
 title: "Kraemii"
 description: ""
-url: "https://github.com/Kraemii"
+external_url: "https://github.com/Kraemii"
 category: "Miscellaneous"
 ---

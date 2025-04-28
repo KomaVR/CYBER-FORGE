@@ -1,6 +1,6 @@
 ---
 title: "kennwhite"
 description: ""
-url: "https://github.com/kennwhite"
+external_url: "https://github.com/kennwhite"
 category: "Miscellaneous"
 ---

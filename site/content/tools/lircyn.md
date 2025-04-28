@@ -1,6 +1,6 @@
 ---
 title: "Lircyn"
 description: ""
-url: "https://github.com/Lircyn"
+external_url: "https://github.com/Lircyn"
 category: "Miscellaneous"
 ---

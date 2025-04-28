@@ -1,6 +1,6 @@
 ---
 title: "SubDomainRadar.io"
 description: "Discover hidden subdomains with unparalleled accuracy and speed"
-url: "https://subdomainradar.io"
+external_url: "https://subdomainradar.io"
 category: "Miscellaneous"
 ---

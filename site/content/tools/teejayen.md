@@ -1,6 +1,6 @@
 ---
 title: "teejayen"
 description: ""
-url: "https://github.com/teejayen"
+external_url: "https://github.com/teejayen"
 category: "Miscellaneous"
 ---

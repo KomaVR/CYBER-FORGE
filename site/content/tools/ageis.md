@@ -1,6 +1,6 @@
 ---
 title: "ageis"
 description: ""
-url: "https://github.com/ageis"
+external_url: "https://github.com/ageis"
 category: "Miscellaneous"
 ---

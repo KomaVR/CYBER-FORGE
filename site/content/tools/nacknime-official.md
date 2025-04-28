@@ -1,6 +1,6 @@
 ---
 title: "nacknime-official"
 description: ""
-url: "https://github.com/nacknime-official"
+external_url: "https://github.com/nacknime-official"
 category: "Miscellaneous"
 ---

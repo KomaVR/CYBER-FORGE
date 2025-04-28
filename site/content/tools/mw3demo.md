@@ -1,6 +1,6 @@
 ---
 title: "mw3demo"
 description: ""
-url: "https://github.com/mw3demo"
+external_url: "https://github.com/mw3demo"
 category: "Miscellaneous"
 ---

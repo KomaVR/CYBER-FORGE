@@ -1,6 +1,6 @@
 ---
 title: "SheSource"
 description: ""
-url: "http://www.shesource.org"
+external_url: "http://www.shesource.org"
 category: "Miscellaneous"
 ---

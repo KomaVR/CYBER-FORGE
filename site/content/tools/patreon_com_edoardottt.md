@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://patreon.com/edoardottt"
+external_url: "https://patreon.com/edoardottt"
 category: "Miscellaneous"
 ---

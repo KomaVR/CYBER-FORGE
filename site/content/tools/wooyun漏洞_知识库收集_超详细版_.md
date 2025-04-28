@@ -1,6 +1,6 @@
 ---
 title: "WooYun漏洞、知识库收集(超详细版)"
 description: "链接:   密码: 28gr"
-url: "https://pan.baidu.com/s/1Y0qPKDrU6uoiuAX-Ihuj4w"
+external_url: "https://pan.baidu.com/s/1Y0qPKDrU6uoiuAX-Ihuj4w"
 category: "Miscellaneous"
 ---

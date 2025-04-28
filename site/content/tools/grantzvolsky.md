@@ -1,6 +1,6 @@
 ---
 title: "grantzvolsky"
 description: ""
-url: "https://github.com/grantzvolsky"
+external_url: "https://github.com/grantzvolsky"
 category: "Miscellaneous"
 ---

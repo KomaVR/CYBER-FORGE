@@ -1,6 +1,6 @@
 ---
 title: "Press Reader"
 description: ""
-url: "http://www.pressreader.com"
+external_url: "http://www.pressreader.com"
 category: "Miscellaneous"
 ---

@@ -2,6 +2,6 @@
 title: "HunxByts"
 description: "HunxByts
 K1LLU"
-url: "https://github.com/HunxByts"
+external_url: "https://github.com/HunxByts"
 category: "Miscellaneous"
 ---

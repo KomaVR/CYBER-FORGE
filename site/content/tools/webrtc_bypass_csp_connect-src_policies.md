@@ -25,6 +25,6 @@ corCTF 2023 - crabspace
 
 
 "
-url: "https://github.com/w3c/webrtc-nv-use-cases/issues/35"
+external_url: "https://github.com/w3c/webrtc-nv-use-cases/issues/35"
 category: "Grey Hat Tools"
 ---

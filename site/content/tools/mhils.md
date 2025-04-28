@@ -1,6 +1,6 @@
 ---
 title: "mhils"
 description: ""
-url: "https://github.com/mhils"
+external_url: "https://github.com/mhils"
 category: "Miscellaneous"
 ---

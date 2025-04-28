@@ -1,6 +1,6 @@
 ---
 title: "Scribble Maps"
 description: ""
-url: "http://scribblemaps.com"
+external_url: "http://scribblemaps.com"
 category: "Miscellaneous"
 ---

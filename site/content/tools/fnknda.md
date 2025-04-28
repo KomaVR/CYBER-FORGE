@@ -1,6 +1,6 @@
 ---
 title: "fnknda"
 description: ""
-url: "https://github.com/fnknda"
+external_url: "https://github.com/fnknda"
 category: "Miscellaneous"
 ---

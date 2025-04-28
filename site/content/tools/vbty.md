@@ -1,6 +1,6 @@
 ---
 title: "vbty"
 description: ""
-url: "https://github.com/vbty"
+external_url: "https://github.com/vbty"
 category: "Miscellaneous"
 ---

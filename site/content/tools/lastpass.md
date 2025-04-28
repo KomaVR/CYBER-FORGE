@@ -1,6 +1,6 @@
 ---
 title: "Lastpass"
 description: ""
-url: "https://lastpass.com"
+external_url: "https://lastpass.com"
 category: "Miscellaneous"
 ---

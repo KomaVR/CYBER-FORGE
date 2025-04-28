@@ -1,6 +1,6 @@
 ---
 title: "capnspacehook"
 description: ""
-url: "https://github.com/capnspacehook"
+external_url: "https://github.com/capnspacehook"
 category: "Miscellaneous"
 ---

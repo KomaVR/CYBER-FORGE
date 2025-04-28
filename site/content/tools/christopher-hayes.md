@@ -1,6 +1,6 @@
 ---
 title: "Christopher-Hayes"
 description: ""
-url: "https://github.com/Christopher-Hayes"
+external_url: "https://github.com/Christopher-Hayes"
 category: "Miscellaneous"
 ---

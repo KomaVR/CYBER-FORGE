@@ -1,6 +1,6 @@
 ---
 title: "polarathene"
 description: ""
-url: "https://github.com/polarathene"
+external_url: "https://github.com/polarathene"
 category: "Miscellaneous"
 ---

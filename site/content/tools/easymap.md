@@ -1,6 +1,6 @@
 ---
 title: "Easymap"
 description: "No description provided"
-url: "https://github.com/Cvar1984/Easymap"
+external_url: "https://github.com/Cvar1984/Easymap"
 category: "Miscellaneous"
 ---

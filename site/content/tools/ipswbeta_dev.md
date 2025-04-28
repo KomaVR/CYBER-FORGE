@@ -1,6 +1,6 @@
 ---
 title: "ipswbeta.dev"
 description: ""
-url: "https://ipswbeta.dev"
+external_url: "https://ipswbeta.dev"
 category: "Miscellaneous"
 ---

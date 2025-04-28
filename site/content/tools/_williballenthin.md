@@ -1,6 +1,6 @@
 ---
 title: "@williballenthin"
 description: ""
-url: "https://twitter.com/williballenthin"
+external_url: "https://twitter.com/williballenthin"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "蓝凌智慧协同平台 fl_define_edit.aspx SQL注入漏洞"
 description: ""
-url: "https://mrxn.net/jswz/landray-eis-fl_define_edit-sqli.html"
+external_url: "https://mrxn.net/jswz/landray-eis-fl_define_edit-sqli.html"
 category: "Web Exploitation"
 ---

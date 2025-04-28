@@ -1,6 +1,6 @@
 ---
 title: "markus-gitdev"
 description: ""
-url: "https://github.com/markus-gitdev"
+external_url: "https://github.com/markus-gitdev"
 category: "Miscellaneous"
 ---

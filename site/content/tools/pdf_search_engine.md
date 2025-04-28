@@ -1,6 +1,6 @@
 ---
 title: "PDF Search Engine"
 description: ""
-url: "http://www.pdfsearchengine.info/"
+external_url: "http://www.pdfsearchengine.info/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Bumble Dating App"
 description: ""
-url: "https://bumble.com"
+external_url: "https://bumble.com"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "extract-endpoints"
 description: ""
-url: "https://github.com/gwen001/extract-endpoints"
+external_url: "https://github.com/gwen001/extract-endpoints"
 category: "Miscellaneous"
 ---

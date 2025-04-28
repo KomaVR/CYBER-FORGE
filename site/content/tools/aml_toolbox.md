@@ -1,6 +1,6 @@
 ---
 title: "AML Toolbox"
 description: ""
-url: "https://start.me/p/rxeRqr/aml-toolbox"
+external_url: "https://start.me/p/rxeRqr/aml-toolbox"
 category: "Miscellaneous"
 ---

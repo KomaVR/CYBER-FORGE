@@ -1,6 +1,6 @@
 ---
 title: "metehan-arslan"
 description: ""
-url: "https://github.com/metehan-arslan"
+external_url: "https://github.com/metehan-arslan"
 category: "Miscellaneous"
 ---

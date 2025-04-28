@@ -1,6 +1,6 @@
 ---
 title: "Human Development Reports"
 description: ""
-url: "http://hdr.undp.org/en/global-reports"
+external_url: "http://hdr.undp.org/en/global-reports"
 category: "Miscellaneous"
 ---

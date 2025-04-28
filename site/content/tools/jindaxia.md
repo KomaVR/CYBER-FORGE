@@ -1,6 +1,6 @@
 ---
 title: "jindaxia"
 description: ""
-url: "https://github.com/jindaxia"
+external_url: "https://github.com/jindaxia"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Spraten"
 description: ""
-url: "https://github.com/Spraten"
+external_url: "https://github.com/Spraten"
 category: "Miscellaneous"
 ---

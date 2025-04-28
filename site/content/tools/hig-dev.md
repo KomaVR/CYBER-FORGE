@@ -1,6 +1,6 @@
 ---
 title: "hig-dev"
 description: ""
-url: "https://github.com/hig-dev"
+external_url: "https://github.com/hig-dev"
 category: "Miscellaneous"
 ---

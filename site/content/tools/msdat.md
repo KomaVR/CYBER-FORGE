@@ -1,6 +1,6 @@
 ---
 title: "MSDAT"
 description: "Microsoft SQL Database Attacking Tool is an open source penetration testing tool that tests the security of Microsoft SQL Databases remotely."
-url: "https://github.com/quentinhardy/msdat"
+external_url: "https://github.com/quentinhardy/msdat"
 category: "Web Exploitation"
 ---

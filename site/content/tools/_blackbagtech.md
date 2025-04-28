@@ -1,6 +1,6 @@
 ---
 title: "@blackbagtech"
 description: ""
-url: "https://twitter.com/blackbagtech"
+external_url: "https://twitter.com/blackbagtech"
 category: "Miscellaneous"
 ---

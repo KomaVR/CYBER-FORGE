@@ -1,6 +1,6 @@
 ---
 title: "AlexanderCecile"
 description: ""
-url: "https://github.com/AlexanderCecile"
+external_url: "https://github.com/AlexanderCecile"
 category: "Miscellaneous"
 ---

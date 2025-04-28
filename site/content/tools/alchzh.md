@@ -1,6 +1,6 @@
 ---
 title: "alchzh"
 description: ""
-url: "https://github.com/alchzh"
+external_url: "https://github.com/alchzh"
 category: "Miscellaneous"
 ---

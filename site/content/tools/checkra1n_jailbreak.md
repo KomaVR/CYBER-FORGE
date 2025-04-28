@@ -1,6 +1,6 @@
 ---
 title: "checkra1n jailbreak"
 description: ""
-url: "https://checkra.in/"
+external_url: "https://checkra.in/"
 category: "Miscellaneous"
 ---

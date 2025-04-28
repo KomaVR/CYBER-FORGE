@@ -1,6 +1,6 @@
 ---
 title: "Apache Ultimate Bad Bot Blocker"
 description: ""
-url: "https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker"
+external_url: "https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker"
 category: "Miscellaneous"
 ---

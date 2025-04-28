@@ -1,6 +1,6 @@
 ---
 title: "ikelos"
 description: ""
-url: "https://github.com/ikelos"
+external_url: "https://github.com/ikelos"
 category: "Miscellaneous"
 ---

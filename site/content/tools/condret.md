@@ -1,6 +1,6 @@
 ---
 title: "condret"
 description: ""
-url: "https://github.com/condret"
+external_url: "https://github.com/condret"
 category: "Miscellaneous"
 ---

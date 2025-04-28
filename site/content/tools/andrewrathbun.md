@@ -2,6 +2,6 @@
 title: "AndrewRathbun"
 description: "AndrewRathbun
 Andrew Rathbun"
-url: "https://github.com/AndrewRathbun"
+external_url: "https://github.com/AndrewRathbun"
 category: "Miscellaneous"
 ---

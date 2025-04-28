@@ -1,6 +1,6 @@
 ---
 title: "Web.dev metadata tags"
 description: ""
-url: "https://web.dev/learn/html/metadata/"
+external_url: "https://web.dev/learn/html/metadata/"
 category: "Web Exploitation"
 ---

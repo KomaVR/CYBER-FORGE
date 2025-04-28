@@ -1,6 +1,6 @@
 ---
 title: "carellamartina"
 description: ""
-url: "https://github.com/carellamartina"
+external_url: "https://github.com/carellamartina"
 category: "Miscellaneous"
 ---

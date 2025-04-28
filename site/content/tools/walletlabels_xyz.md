@@ -1,6 +1,6 @@
 ---
 title: "walletLabels.xyz"
 description: "& TLDR"
-url: "https://walletLabels.xyz"
+external_url: "https://walletLabels.xyz"
 category: "Miscellaneous"
 ---

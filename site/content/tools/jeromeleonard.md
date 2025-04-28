@@ -1,6 +1,6 @@
 ---
 title: "jeromeleonard"
 description: ""
-url: "https://github.com/jeromeleonard"
+external_url: "https://github.com/jeromeleonard"
 category: "Miscellaneous"
 ---

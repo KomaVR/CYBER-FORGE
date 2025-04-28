@@ -1,6 +1,6 @@
 ---
 title: "nextvladislav"
 description: ""
-url: "https://github.com/nextvladislav"
+external_url: "https://github.com/nextvladislav"
 category: "Miscellaneous"
 ---

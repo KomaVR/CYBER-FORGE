@@ -1,6 +1,6 @@
 ---
 title: "Levin's Who needs task_for_pid() anyway..."
 description: ""
-url: "https://newosxbook.com/articles/PST2.html"
+external_url: "https://newosxbook.com/articles/PST2.html"
 category: "Miscellaneous"
 ---

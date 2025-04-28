@@ -1,6 +1,6 @@
 ---
 title: "AllStocksLinks"
 description: ""
-url: "http://www.allstocks.com/links"
+external_url: "http://www.allstocks.com/links"
 category: "Miscellaneous"
 ---

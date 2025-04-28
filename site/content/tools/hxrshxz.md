@@ -1,6 +1,6 @@
 ---
 title: "hxrshxz"
 description: ""
-url: "https://github.com/hxrshxz"
+external_url: "https://github.com/hxrshxz"
 category: "Miscellaneous"
 ---

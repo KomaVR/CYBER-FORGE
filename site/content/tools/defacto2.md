@@ -1,6 +1,6 @@
 ---
 title: "Defacto2"
 description: "🌎"
-url: "https://defacto2.net/defacto2"
+external_url: "https://defacto2.net/defacto2"
 category: "Miscellaneous"
 ---

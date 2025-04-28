@@ -1,6 +1,6 @@
 ---
 title: "Serpstat"
 description: ""
-url: "https://serpstat.com"
+external_url: "https://serpstat.com"
 category: "Miscellaneous"
 ---

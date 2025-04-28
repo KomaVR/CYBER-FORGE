@@ -8,6 +8,6 @@ Alexa
 亚马逊提供 Alexa 录音的非人工审听选项
 
 "
-url: "https://cn.engadget.com/2019/07/04/amazon-keeps-alexa-transcripts/"
+external_url: "https://cn.engadget.com/2019/07/04/amazon-keeps-alexa-transcripts/"
 category: "Miscellaneous"
 ---

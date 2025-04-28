@@ -1,6 +1,6 @@
 ---
 title: "aguinetqb"
 description: ""
-url: "https://github.com/aguinetqb"
+external_url: "https://github.com/aguinetqb"
 category: "Miscellaneous"
 ---

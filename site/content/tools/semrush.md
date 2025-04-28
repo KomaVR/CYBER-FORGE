@@ -1,6 +1,6 @@
 ---
 title: "SEMrush"
 description: ""
-url: "https://www.semrush.com"
+external_url: "https://www.semrush.com"
 category: "Miscellaneous"
 ---

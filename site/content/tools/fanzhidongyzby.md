@@ -1,6 +1,6 @@
 ---
 title: "fanzhidongyzby"
 description: ""
-url: "https://github.com/fanzhidongyzby"
+external_url: "https://github.com/fanzhidongyzby"
 category: "Miscellaneous"
 ---

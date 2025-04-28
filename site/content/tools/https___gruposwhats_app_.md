@@ -1,6 +1,6 @@
 ---
 title: "https://gruposwhats.app/"
 description: ""
-url: "https://gruposwhats.app/"
+external_url: "https://gruposwhats.app/"
 category: "Miscellaneous"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "OverTheWire's Narnia Wargame"
 description: ""
-url: "http://overthewire.org/wargames/narnia/"
+external_url: "http://overthewire.org/wargames/narnia/"
 category: "Miscellaneous"
 ---
 

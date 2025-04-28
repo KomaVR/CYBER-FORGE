@@ -1,6 +1,6 @@
 ---
 title: "SnowzNZ"
 description: ""
-url: "https://github.com/SnowzNZ"
+external_url: "https://github.com/SnowzNZ"
 category: "Miscellaneous"
 ---

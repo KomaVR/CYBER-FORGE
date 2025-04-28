@@ -1,6 +1,6 @@
 ---
 title: "@aheadless"
 description: ""
-url: "https://twitter.com/aheadless"
+external_url: "https://twitter.com/aheadless"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Offshore"
 description: "Intermediate"
-url: "https://app.hackthebox.com/prolabs/overview/offshore"
+external_url: "https://app.hackthebox.com/prolabs/overview/offshore"
 category: "Miscellaneous"
 ---

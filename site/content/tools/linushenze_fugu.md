@@ -1,6 +1,6 @@
 ---
 title: "LinusHenze/Fugu"
 description: ""
-url: "https://github.com/LinusHenze/Fugu"
+external_url: "https://github.com/LinusHenze/Fugu"
 category: "Miscellaneous"
 ---

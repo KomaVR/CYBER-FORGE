@@ -1,6 +1,6 @@
 ---
 title: "ansuz"
 description: ""
-url: "https://github.com/ansuz"
+external_url: "https://github.com/ansuz"
 category: "Miscellaneous"
 ---

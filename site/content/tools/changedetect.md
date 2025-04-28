@@ -1,6 +1,6 @@
 ---
 title: "ChangeDetect"
 description: ""
-url: "http://www.changedetect.com"
+external_url: "http://www.changedetect.com"
 category: "Miscellaneous"
 ---

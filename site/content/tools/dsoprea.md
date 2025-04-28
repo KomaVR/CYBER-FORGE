@@ -1,6 +1,6 @@
 ---
 title: "dsoprea"
 description: ""
-url: "https://github.com/dsoprea"
+external_url: "https://github.com/dsoprea"
 category: "Miscellaneous"
 ---

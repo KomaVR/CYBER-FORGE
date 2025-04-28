@@ -1,6 +1,6 @@
 ---
 title: "BrendanGrant"
 description: ""
-url: "https://github.com/BrendanGrant"
+external_url: "https://github.com/BrendanGrant"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "HackTheBox"
 description: ""
-url: "https://www.hackthebox.eu/"
+external_url: "https://www.hackthebox.eu/"
 category: "Miscellaneous"
 ---

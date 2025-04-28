@@ -1,6 +1,6 @@
 ---
 title: "GrepItAll"
 description: ""
-url: "https://github.com/GrepItAll"
+external_url: "https://github.com/GrepItAll"
 category: "Miscellaneous"
 ---

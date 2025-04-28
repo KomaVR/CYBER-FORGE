@@ -1,6 +1,6 @@
 ---
 title: "dnsx"
 description: ""
-url: "https://github.com/projectdiscovery/dnsx"
+external_url: "https://github.com/projectdiscovery/dnsx"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "JyothishmathiCV"
 description: ""
-url: "https://github.com/JyothishmathiCV"
+external_url: "https://github.com/JyothishmathiCV"
 category: "Miscellaneous"
 ---

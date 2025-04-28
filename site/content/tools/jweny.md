@@ -1,6 +1,6 @@
 ---
 title: "jweny"
 description: ""
-url: "https://github.com/jweny"
+external_url: "https://github.com/jweny"
 category: "Miscellaneous"
 ---

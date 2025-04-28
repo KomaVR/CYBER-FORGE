@@ -1,6 +1,6 @@
 ---
 title: "blockfence"
 description: ""
-url: "https://chrome.google.com/webstore/detail/blockfence/cpgbcelefhmacblaocimfilfnchkghba"
+external_url: "https://chrome.google.com/webstore/detail/blockfence/cpgbcelefhmacblaocimfilfnchkghba"
 category: "Miscellaneous"
 ---

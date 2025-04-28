@@ -1,6 +1,6 @@
 ---
 title: "poocoin.app"
 description: ""
-url: "https://poocoin.app"
+external_url: "https://poocoin.app"
 category: "Miscellaneous"
 ---

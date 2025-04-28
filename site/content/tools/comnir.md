@@ -1,6 +1,6 @@
 ---
 title: "Comnir"
 description: ""
-url: "https://github.com/Comnir"
+external_url: "https://github.com/Comnir"
 category: "Miscellaneous"
 ---

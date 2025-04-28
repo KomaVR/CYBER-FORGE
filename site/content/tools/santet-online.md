@@ -1,6 +1,6 @@
 ---
 title: "santet-online"
 description: "No description provided"
-url: "https://github.com/Gameye98/santet-online"
+external_url: "https://github.com/Gameye98/santet-online"
 category: "Miscellaneous"
 ---

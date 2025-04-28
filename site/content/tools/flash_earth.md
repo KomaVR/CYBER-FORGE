@@ -1,6 +1,6 @@
 ---
 title: "Flash Earth"
 description: ""
-url: "http://www.flashearth.com"
+external_url: "http://www.flashearth.com"
 category: "Miscellaneous"
 ---

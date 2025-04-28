@@ -1,6 +1,6 @@
 ---
 title: "shaialon"
 description: ""
-url: "https://github.com/shaialon"
+external_url: "https://github.com/shaialon"
 category: "Miscellaneous"
 ---

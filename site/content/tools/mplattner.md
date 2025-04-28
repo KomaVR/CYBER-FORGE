@@ -1,6 +1,6 @@
 ---
 title: "mplattner"
 description: ""
-url: "https://github.com/mplattner"
+external_url: "https://github.com/mplattner"
 category: "Miscellaneous"
 ---

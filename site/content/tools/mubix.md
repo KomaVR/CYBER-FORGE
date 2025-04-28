@@ -1,6 +1,6 @@
 ---
 title: "mubix"
 description: ""
-url: "https://github.com/mubix"
+external_url: "https://github.com/mubix"
 category: "Miscellaneous"
 ---

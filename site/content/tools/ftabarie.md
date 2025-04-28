@@ -1,6 +1,6 @@
 ---
 title: "ftabarie"
 description: ""
-url: "https://github.com/ftabarie"
+external_url: "https://github.com/ftabarie"
 category: "Miscellaneous"
 ---

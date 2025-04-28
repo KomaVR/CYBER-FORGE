@@ -9,6 +9,6 @@ http://dnsbin.zhack.ca/
 http://requestbin.net/dns
 
 "
-url: "http://ceye.io"
+external_url: "http://ceye.io"
 category: "Miscellaneous"
 ---

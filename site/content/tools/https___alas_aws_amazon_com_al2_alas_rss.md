@@ -1,6 +1,6 @@
 ---
 title: "https://alas.aws.amazon.com/AL2/alas.rss"
 description: "Amazon Linux ALAS:"
-url: "https://alas.aws.amazon.com/AL2/alas.rss"
+external_url: "https://alas.aws.amazon.com/AL2/alas.rss"
 category: "Miscellaneous"
 ---

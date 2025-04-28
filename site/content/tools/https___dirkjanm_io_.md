@@ -1,6 +1,6 @@
 ---
 title: "https://dirkjanm.io/"
 description: ""
-url: "https://dirkjanm.io/"
+external_url: "https://dirkjanm.io/"
 category: "Miscellaneous"
 ---

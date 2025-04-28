@@ -1,6 +1,6 @@
 ---
 title: "Calastrophe"
 description: ""
-url: "https://github.com/Calastrophe"
+external_url: "https://github.com/Calastrophe"
 category: "Miscellaneous"
 ---

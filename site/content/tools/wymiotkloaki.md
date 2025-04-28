@@ -1,6 +1,6 @@
 ---
 title: "wymiotkloaki"
 description: ""
-url: "https://github.com/wymiotkloaki"
+external_url: "https://github.com/wymiotkloaki"
 category: "Miscellaneous"
 ---

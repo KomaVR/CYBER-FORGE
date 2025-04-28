@@ -3,6 +3,6 @@ title: "https://github.com/sepinf-inc/IPED"
 description: "
 IPED:  (GNU GENERAL PUBLIC LICENSE)
 "
-url: "https://github.com/sepinf-inc/IPED"
+external_url: "https://github.com/sepinf-inc/IPED"
 category: "Miscellaneous"
 ---

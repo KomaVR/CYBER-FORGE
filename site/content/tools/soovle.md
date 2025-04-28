@@ -1,6 +1,6 @@
 ---
 title: "Soovle"
 description: ""
-url: "http://www.soovle.com"
+external_url: "http://www.soovle.com"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "TomasTurina"
 description: ""
-url: "https://github.com/TomasTurina"
+external_url: "https://github.com/TomasTurina"
 category: "Miscellaneous"
 ---

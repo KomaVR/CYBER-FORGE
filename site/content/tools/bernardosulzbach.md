@@ -1,6 +1,6 @@
 ---
 title: "bernardosulzbach"
 description: ""
-url: "https://github.com/bernardosulzbach"
+external_url: "https://github.com/bernardosulzbach"
 category: "Miscellaneous"
 ---

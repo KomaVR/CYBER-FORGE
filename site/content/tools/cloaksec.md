@@ -1,6 +1,6 @@
 ---
 title: "cloaksec"
 description: ""
-url: "https://github.com/cloaksec"
+external_url: "https://github.com/cloaksec"
 category: "Miscellaneous"
 ---

@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://www.buymeacoffee.com/OdedShimon"
+external_url: "https://www.buymeacoffee.com/OdedShimon"
 category: "Miscellaneous"
 ---

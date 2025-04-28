@@ -1,6 +1,6 @@
 ---
 title: "overdodactyl"
 description: ""
-url: "https://github.com/overdodactyl"
+external_url: "https://github.com/overdodactyl"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Gocy015"
 description: ""
-url: "https://github.com/Gocy015"
+external_url: "https://github.com/Gocy015"
 category: "Miscellaneous"
 ---

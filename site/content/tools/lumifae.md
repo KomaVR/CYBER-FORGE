@@ -1,6 +1,6 @@
 ---
 title: "LumiFae"
 description: ""
-url: "https://github.com/LumiFae"
+external_url: "https://github.com/LumiFae"
 category: "Miscellaneous"
 ---

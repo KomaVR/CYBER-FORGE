@@ -1,6 +1,6 @@
 ---
 title: "White-hua"
 description: ""
-url: "https://github.com/White-hua"
+external_url: "https://github.com/White-hua"
 category: "Miscellaneous"
 ---

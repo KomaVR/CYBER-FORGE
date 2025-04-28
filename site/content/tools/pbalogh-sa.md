@@ -1,6 +1,6 @@
 ---
 title: "pbalogh-sa"
 description: ""
-url: "https://github.com/pbalogh-sa"
+external_url: "https://github.com/pbalogh-sa"
 category: "Miscellaneous"
 ---

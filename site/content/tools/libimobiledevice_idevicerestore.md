@@ -5,6 +5,6 @@ description: "com.apple.restored - iDevice Restore Protocol
 
 
 "
-url: "https://github.com/libimobiledevice/idevicerestore"
+external_url: "https://github.com/libimobiledevice/idevicerestore"
 category: "Miscellaneous"
 ---

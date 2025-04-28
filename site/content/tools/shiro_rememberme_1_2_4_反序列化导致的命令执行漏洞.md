@@ -1,6 +1,6 @@
 ---
 title: "Shiro RememberMe 1.2.4 反序列化导致的命令执行漏洞"
 description: ""
-url: "https://paper.seebug.org/shiro-rememberme-1-2-4/"
+external_url: "https://paper.seebug.org/shiro-rememberme-1-2-4/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "paseaf"
 description: ""
-url: "https://github.com/paseaf"
+external_url: "https://github.com/paseaf"
 category: "Miscellaneous"
 ---

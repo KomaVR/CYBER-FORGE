@@ -1,6 +1,6 @@
 ---
 title: "kershrita"
 description: ""
-url: "https://github.com/kershrita"
+external_url: "https://github.com/kershrita"
 category: "Miscellaneous"
 ---

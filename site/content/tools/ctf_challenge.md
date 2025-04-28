@@ -6,6 +6,6 @@ Collection of web challenges made by Adam Langley that are made to be as realist
 Good for getting bug bounty experience
 
 "
-url: "https://ctfchallenge.com/register"
+external_url: "https://ctfchallenge.com/register"
 category: "Web Exploitation"
 ---

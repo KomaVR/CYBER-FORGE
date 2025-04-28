@@ -1,6 +1,6 @@
 ---
 title: "hexa-decim8"
 description: ""
-url: "https://github.com/hexa-decim8"
+external_url: "https://github.com/hexa-decim8"
 category: "Miscellaneous"
 ---

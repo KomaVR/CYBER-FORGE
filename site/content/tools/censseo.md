@@ -1,6 +1,6 @@
 ---
 title: "Censseo"
 description: ""
-url: "https://github.com/Censseo"
+external_url: "https://github.com/Censseo"
 category: "Miscellaneous"
 ---

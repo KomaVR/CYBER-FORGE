@@ -1,6 +1,6 @@
 ---
 title: "Free Website Translation"
 description: ""
-url: "http://free-website-translation.com/"
+external_url: "http://free-website-translation.com/"
 category: "Web Exploitation"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "m0mosenpai"
 description: ""
-url: "https://github.com/m0mosenpai"
+external_url: "https://github.com/m0mosenpai"
 category: "Miscellaneous"
 ---

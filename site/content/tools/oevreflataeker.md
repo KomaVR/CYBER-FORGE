@@ -1,6 +1,6 @@
 ---
 title: "OevreFlataeker"
 description: ""
-url: "https://github.com/OevreFlataeker"
+external_url: "https://github.com/OevreFlataeker"
 category: "Miscellaneous"
 ---

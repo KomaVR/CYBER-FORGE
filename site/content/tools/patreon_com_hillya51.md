@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://patreon.com/HIllya51"
+external_url: "https://patreon.com/HIllya51"
 category: "Miscellaneous"
 ---

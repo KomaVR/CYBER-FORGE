@@ -1,6 +1,6 @@
 ---
 title: "P1kachu"
 description: ""
-url: "https://github.com/P1kachu"
+external_url: "https://github.com/P1kachu"
 category: "Miscellaneous"
 ---

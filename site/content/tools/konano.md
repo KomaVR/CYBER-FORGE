@@ -1,6 +1,6 @@
 ---
 title: "Konano"
 description: ""
-url: "https://github.com/Konano"
+external_url: "https://github.com/Konano"
 category: "Miscellaneous"
 ---

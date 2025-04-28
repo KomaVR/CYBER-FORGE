@@ -1,6 +1,6 @@
 ---
 title: "https://www.editthiscookie.com/"
 description: "EditThisCookie:"
-url: "https://www.editthiscookie.com/"
+external_url: "https://www.editthiscookie.com/"
 category: "Miscellaneous"
 ---

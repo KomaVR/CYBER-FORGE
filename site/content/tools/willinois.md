@@ -1,6 +1,6 @@
 ---
 title: "willinois"
 description: ""
-url: "https://github.com/willinois"
+external_url: "https://github.com/willinois"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "pwnmeow"
 description: ""
-url: "https://github.com/pwnmeow"
+external_url: "https://github.com/pwnmeow"
 category: "Miscellaneous"
 ---

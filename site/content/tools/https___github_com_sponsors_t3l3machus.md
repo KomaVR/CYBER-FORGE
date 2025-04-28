@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://github.com/sponsors/t3l3machus"
+external_url: "https://github.com/sponsors/t3l3machus"
 category: "Miscellaneous"
 ---

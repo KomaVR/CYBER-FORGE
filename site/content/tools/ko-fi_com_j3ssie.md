@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://ko-fi.com/j3ssie"
+external_url: "https://ko-fi.com/j3ssie"
 category: "Miscellaneous"
 ---

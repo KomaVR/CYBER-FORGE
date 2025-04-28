@@ -1,6 +1,6 @@
 ---
 title: "https://pwnhub.cn/index"
 description: ""
-url: "https://pwnhub.cn/index"
+external_url: "https://pwnhub.cn/index"
 category: "Miscellaneous"
 ---

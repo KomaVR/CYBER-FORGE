@@ -1,6 +1,6 @@
 ---
 title: "Google Data Center Security: 6 Layers Deep"
 description: ""
-url: "https://www.youtube.com/watch?v=kd33UVZhnAA"
+external_url: "https://www.youtube.com/watch?v=kd33UVZhnAA"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "LasCC"
 description: ""
-url: "https://github.com/LasCC"
+external_url: "https://github.com/LasCC"
 category: "Miscellaneous"
 ---

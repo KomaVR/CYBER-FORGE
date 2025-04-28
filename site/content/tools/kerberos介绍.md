@@ -1,6 +1,6 @@
 ---
 title: "kerberos介绍"
 description: ""
-url: "https://shenaniganslabs.io/media/Constructing%20Kerberos%20Attacks%20with%20Delegation%20Primitives.pdf"
+external_url: "https://shenaniganslabs.io/media/Constructing%20Kerberos%20Attacks%20with%20Delegation%20Primitives.pdf"
 category: "Miscellaneous"
 ---

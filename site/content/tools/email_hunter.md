@@ -1,6 +1,6 @@
 ---
 title: "Email Hunter"
 description: ""
-url: "https://emailhunter.co/"
+external_url: "https://emailhunter.co/"
 category: "Miscellaneous"
 ---

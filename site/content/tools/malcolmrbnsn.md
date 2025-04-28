@@ -1,6 +1,6 @@
 ---
 title: "malcolmrbnsn"
 description: ""
-url: "https://github.com/malcolmrbnsn"
+external_url: "https://github.com/malcolmrbnsn"
 category: "Miscellaneous"
 ---

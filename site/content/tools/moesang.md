@@ -1,6 +1,6 @@
 ---
 title: "Moesang"
 description: ""
-url: "https://github.com/Moesang"
+external_url: "https://github.com/Moesang"
 category: "Miscellaneous"
 ---

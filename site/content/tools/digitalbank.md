@@ -1,6 +1,6 @@
 ---
 title: "Digitalbank"
 description: ""
-url: "https://github.com/CyberScions/Digitalbank"
+external_url: "https://github.com/CyberScions/Digitalbank"
 category: "Miscellaneous"
 ---

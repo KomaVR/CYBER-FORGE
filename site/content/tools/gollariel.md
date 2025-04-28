@@ -1,6 +1,6 @@
 ---
 title: "gollariel"
 description: ""
-url: "https://github.com/gollariel"
+external_url: "https://github.com/gollariel"
 category: "Miscellaneous"
 ---

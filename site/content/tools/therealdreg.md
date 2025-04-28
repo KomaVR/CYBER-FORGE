@@ -1,6 +1,6 @@
 ---
 title: "therealdreg"
 description: ""
-url: "https://github.com/therealdreg"
+external_url: "https://github.com/therealdreg"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Blog of Osanda"
 description: "Security Researching and Reverse Engineering."
-url: "https://osandamalith.com/"
+external_url: "https://osandamalith.com/"
 category: "Miscellaneous"
 ---

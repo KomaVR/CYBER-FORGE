@@ -1,6 +1,6 @@
 ---
 title: "skraxberger"
 description: ""
-url: "https://github.com/skraxberger"
+external_url: "https://github.com/skraxberger"
 category: "Miscellaneous"
 ---

@@ -6,6 +6,6 @@ description: "
 Encoding converter
 
 "
-url: "https://r12a.github.io/apps/encodings/"
+external_url: "https://r12a.github.io/apps/encodings/"
 category: "Miscellaneous"
 ---

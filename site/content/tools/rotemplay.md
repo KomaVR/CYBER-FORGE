@@ -1,6 +1,6 @@
 ---
 title: "rotemplay"
 description: ""
-url: "https://github.com/rotemplay"
+external_url: "https://github.com/rotemplay"
 category: "Miscellaneous"
 ---

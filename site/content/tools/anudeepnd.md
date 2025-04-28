@@ -1,6 +1,6 @@
 ---
 title: "anudeepND"
 description: ""
-url: "https://github.com/anudeepND"
+external_url: "https://github.com/anudeepND"
 category: "Miscellaneous"
 ---

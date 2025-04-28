@@ -1,6 +1,6 @@
 ---
 title: "ViaMichelin"
 description: ""
-url: "http://www.viamichelin.com"
+external_url: "http://www.viamichelin.com"
 category: "Miscellaneous"
 ---

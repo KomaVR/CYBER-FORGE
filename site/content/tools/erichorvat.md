@@ -1,6 +1,6 @@
 ---
 title: "EricHorvat"
 description: ""
-url: "https://github.com/EricHorvat"
+external_url: "https://github.com/EricHorvat"
 category: "Miscellaneous"
 ---

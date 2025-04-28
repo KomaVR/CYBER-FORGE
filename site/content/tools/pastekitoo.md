@@ -1,6 +1,6 @@
 ---
 title: "Pastekitoo"
 description: ""
-url: "https://github.com/Pastekitoo"
+external_url: "https://github.com/Pastekitoo"
 category: "Miscellaneous"
 ---

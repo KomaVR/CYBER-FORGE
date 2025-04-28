@@ -1,6 +1,6 @@
 ---
 title: "Email Extractor"
 description: ": Chrome extension to extract emails from web pages"
-url: "https://chrome.google.com/webstore/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc?hl=en"
+external_url: "https://chrome.google.com/webstore/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc?hl=en"
 category: "Web Exploitation"
 ---

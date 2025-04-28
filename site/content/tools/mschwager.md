@@ -1,6 +1,6 @@
 ---
 title: "mschwager"
 description: ""
-url: "https://github.com/mschwager"
+external_url: "https://github.com/mschwager"
 category: "Miscellaneous"
 ---

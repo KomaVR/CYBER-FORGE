@@ -1,6 +1,6 @@
 ---
 title: "ErvalhouS"
 description: ""
-url: "https://github.com/ErvalhouS"
+external_url: "https://github.com/ErvalhouS"
 category: "Miscellaneous"
 ---

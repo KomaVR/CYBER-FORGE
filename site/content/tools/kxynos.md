@@ -1,6 +1,6 @@
 ---
 title: "kxynos"
 description: ""
-url: "https://github.com/kxynos"
+external_url: "https://github.com/kxynos"
 category: "Miscellaneous"
 ---

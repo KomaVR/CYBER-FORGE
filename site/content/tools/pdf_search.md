@@ -1,6 +1,6 @@
 ---
 title: "PDF Search"
 description: ""
-url: "https://www.pdfsearch.io/"
+external_url: "https://www.pdfsearch.io/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/wgpsec/cloudsword"
 description: ""
-url: "https://github.com/wgpsec/cloudsword"
+external_url: "https://github.com/wgpsec/cloudsword"
 category: "Miscellaneous"
 ---

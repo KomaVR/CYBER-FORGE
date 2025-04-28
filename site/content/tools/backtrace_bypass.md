@@ -10,6 +10,6 @@ description: "
 7.4 - all versions to date
 
 "
-url: "https://github.com/mm0r1/exploits/tree/master/php7-backtrace-bypass"
+external_url: "https://github.com/mm0r1/exploits/tree/master/php7-backtrace-bypass"
 category: "Grey Hat Tools"
 ---

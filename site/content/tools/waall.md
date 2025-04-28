@@ -1,6 +1,6 @@
 ---
 title: "waall"
 description: ""
-url: "https://github.com/waall"
+external_url: "https://github.com/waall"
 category: "Miscellaneous"
 ---

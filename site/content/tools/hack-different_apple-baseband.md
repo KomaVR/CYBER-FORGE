@@ -15,6 +15,6 @@ idp_heaxagon
 
 
 "
-url: "https://github.com/hack-different/apple-baseband"
+external_url: "https://github.com/hack-different/apple-baseband"
 category: "Reverse Engineering"
 ---

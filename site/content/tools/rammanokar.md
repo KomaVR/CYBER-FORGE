@@ -1,6 +1,6 @@
 ---
 title: "rammanokar"
 description: ""
-url: "https://github.com/rammanokar"
+external_url: "https://github.com/rammanokar"
 category: "Miscellaneous"
 ---

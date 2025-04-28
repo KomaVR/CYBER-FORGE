@@ -1,6 +1,6 @@
 ---
 title: "grimbelhax"
 description: ""
-url: "https://github.com/grimbelhax"
+external_url: "https://github.com/grimbelhax"
 category: "Miscellaneous"
 ---

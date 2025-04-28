@@ -34,6 +34,6 @@ list files in system
 More python injection
 
 "
-url: "https://github.com/epinna/tplmap"
+external_url: "https://github.com/epinna/tplmap"
 category: "Miscellaneous"
 ---

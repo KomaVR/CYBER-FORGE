@@ -1,6 +1,6 @@
 ---
 title: "kleozzy"
 description: ""
-url: "https://github.com/kleozzy"
+external_url: "https://github.com/kleozzy"
 category: "Miscellaneous"
 ---

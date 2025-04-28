@@ -3,6 +3,6 @@ title: "https://github.com/clarkvoss/AEM-List"
 description: "
 
 "
-url: "https://github.com/clarkvoss/AEM-List"
+external_url: "https://github.com/clarkvoss/AEM-List"
 category: "Miscellaneous"
 ---

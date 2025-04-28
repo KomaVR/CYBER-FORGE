@@ -1,6 +1,6 @@
 ---
 title: "xudafeng"
 description: ""
-url: "https://github.com/xudafeng"
+external_url: "https://github.com/xudafeng"
 category: "Miscellaneous"
 ---

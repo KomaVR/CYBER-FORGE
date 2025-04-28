@@ -1,6 +1,6 @@
 ---
 title: "Knowem"
 description: ""
-url: "http://www.knowem.com/"
+external_url: "http://www.knowem.com/"
 category: "Miscellaneous"
 ---

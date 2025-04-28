@@ -2,6 +2,6 @@
 title: "Soulghost"
 description: "Soulghost
 Sou1gh0st"
-url: "https://github.com/Soulghost"
+external_url: "https://github.com/Soulghost"
 category: "Miscellaneous"
 ---

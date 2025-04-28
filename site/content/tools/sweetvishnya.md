@@ -1,6 +1,6 @@
 ---
 title: "SweetVishnya"
 description: ""
-url: "https://github.com/SweetVishnya"
+external_url: "https://github.com/SweetVishnya"
 category: "Miscellaneous"
 ---

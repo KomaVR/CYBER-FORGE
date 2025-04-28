@@ -3,6 +3,6 @@ title: "TryHackMe | Blaster"
 description: "
  
 "
-url: "https://tryhackme.com/room/blaster"
+external_url: "https://tryhackme.com/room/blaster"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "BlackHat Python - Appendix"
 description: ": Japan security book's samples"
-url: "https://github.com/oreilly-japan/black-hat-python-jp-support/tree/master/appendix-A"
+external_url: "https://github.com/oreilly-japan/black-hat-python-jp-support/tree/master/appendix-A"
 category: "Miscellaneous"
 ---

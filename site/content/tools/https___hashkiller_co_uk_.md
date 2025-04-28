@@ -3,6 +3,6 @@ title: "https://hashkiller.co.uk/"
 description: "
 
 "
-url: "https://hashkiller.co.uk/"
+external_url: "https://hashkiller.co.uk/"
 category: "Password Cracking"
 ---

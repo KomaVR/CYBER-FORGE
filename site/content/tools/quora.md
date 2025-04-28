@@ -1,6 +1,6 @@
 ---
 title: "Quora"
 description: ""
-url: "http://www.quora.com"
+external_url: "http://www.quora.com"
 category: "Miscellaneous"
 ---

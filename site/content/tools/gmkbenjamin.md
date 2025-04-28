@@ -1,6 +1,6 @@
 ---
 title: "gmkbenjamin"
 description: ""
-url: "https://github.com/gmkbenjamin"
+external_url: "https://github.com/gmkbenjamin"
 category: "Miscellaneous"
 ---

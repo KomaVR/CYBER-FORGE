@@ -1,6 +1,6 @@
 ---
 title: "PointerScanner-X"
 description: "Pointer scanning: PINCE uses  to scan pointers efficiently"
-url: "https://github.com/kekeimiku/PointerSearcher-X/"
+external_url: "https://github.com/kekeimiku/PointerSearcher-X/"
 category: "White Hat Tools"
 ---

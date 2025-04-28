@@ -1,6 +1,6 @@
 ---
 title: "EtherScan"
 description: ""
-url: "https://etherscan.io/"
+external_url: "https://etherscan.io/"
 category: "Miscellaneous"
 ---

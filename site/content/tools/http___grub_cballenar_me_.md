@@ -4,6 +4,6 @@ description: "
 Gruber, slideshare downloader,
 
 "
-url: "http://grub.cballenar.me/"
+external_url: "http://grub.cballenar.me/"
 category: "Miscellaneous"
 ---

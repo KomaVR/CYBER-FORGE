@@ -1,6 +1,6 @@
 ---
 title: "multiflexi"
 description: ""
-url: "https://github.com/multiflexi"
+external_url: "https://github.com/multiflexi"
 category: "Miscellaneous"
 ---

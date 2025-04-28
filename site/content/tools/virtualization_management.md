@@ -4,6 +4,6 @@ description: "
 
 Our free, self-paced online  training class focuses on installing, configuring and managing virtualization software. You’ll learn how to work your way around the cloud and how to build the infrastructure for it.
 "
-url: "https://www.cybrary.it/course/virtualization-management"
+external_url: "https://www.cybrary.it/course/virtualization-management"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "MiroKaku"
 description: ""
-url: "https://github.com/MiroKaku"
+external_url: "https://github.com/MiroKaku"
 category: "Miscellaneous"
 ---

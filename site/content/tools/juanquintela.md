@@ -1,6 +1,6 @@
 ---
 title: "juanquintela"
 description: ""
-url: "https://github.com/juanquintela"
+external_url: "https://github.com/juanquintela"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "pndyjack"
 description: ""
-url: "https://github.com/pndyjack"
+external_url: "https://github.com/pndyjack"
 category: "Miscellaneous"
 ---

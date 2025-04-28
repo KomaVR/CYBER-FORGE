@@ -1,6 +1,6 @@
 ---
 title: "xyfir/ptorx"
 description: ""
-url: "https://github.com/xyfir/ptorx"
+external_url: "https://github.com/xyfir/ptorx"
 category: "Miscellaneous"
 ---

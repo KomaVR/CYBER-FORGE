@@ -1,6 +1,6 @@
 ---
 title: "hunter.how"
 description: ""
-url: "https://hunter.how"
+external_url: "https://hunter.how"
 category: "Miscellaneous"
 ---

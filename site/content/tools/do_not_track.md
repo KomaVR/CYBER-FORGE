@@ -1,6 +1,6 @@
 ---
 title: "Do Not Track"
 description: ""
-url: "http://donottrack.us"
+external_url: "http://donottrack.us"
 category: "Miscellaneous"
 ---

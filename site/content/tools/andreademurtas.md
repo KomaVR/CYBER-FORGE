@@ -1,6 +1,6 @@
 ---
 title: "andreademurtas"
 description: ""
-url: "https://github.com/andreademurtas"
+external_url: "https://github.com/andreademurtas"
 category: "Miscellaneous"
 ---

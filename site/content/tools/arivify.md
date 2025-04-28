@@ -1,6 +1,6 @@
 ---
 title: "Arivify"
 description: ""
-url: "https://www.arivify.com"
+external_url: "https://www.arivify.com"
 category: "Miscellaneous"
 ---

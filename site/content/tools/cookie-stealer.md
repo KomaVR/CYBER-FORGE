@@ -1,6 +1,6 @@
 ---
 title: "Cookie-stealer"
 description: "Crappy cookie stealer."
-url: "https://github.com/Xyl2k/Cookie-stealer"
+external_url: "https://github.com/Xyl2k/Cookie-stealer"
 category: "Miscellaneous"
 ---

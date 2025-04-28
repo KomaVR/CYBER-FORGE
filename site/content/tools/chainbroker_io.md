@@ -1,6 +1,6 @@
 ---
 title: "chainbroker.io"
 description: ""
-url: "https://chainbroker.io"
+external_url: "https://chainbroker.io"
 category: "Miscellaneous"
 ---

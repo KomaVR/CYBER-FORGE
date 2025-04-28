@@ -1,6 +1,6 @@
 ---
 title: "tkmikan"
 description: ""
-url: "https://github.com/tkmikan"
+external_url: "https://github.com/tkmikan"
 category: "Miscellaneous"
 ---

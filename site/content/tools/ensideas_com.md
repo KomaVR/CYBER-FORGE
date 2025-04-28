@@ -1,6 +1,6 @@
 ---
 title: "ensideas.com"
 description: ""
-url: "https://ensideas.com"
+external_url: "https://ensideas.com"
 category: "Miscellaneous"
 ---

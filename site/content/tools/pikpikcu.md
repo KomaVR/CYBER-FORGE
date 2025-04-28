@@ -1,6 +1,6 @@
 ---
 title: "pikpikcu"
 description: ""
-url: "https://github.com/pikpikcu"
+external_url: "https://github.com/pikpikcu"
 category: "Miscellaneous"
 ---

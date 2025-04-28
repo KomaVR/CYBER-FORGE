@@ -1,6 +1,6 @@
 ---
 title: "Quick Sprout"
 description: ""
-url: "https://www.quicksprout.com"
+external_url: "https://www.quicksprout.com"
 category: "Miscellaneous"
 ---

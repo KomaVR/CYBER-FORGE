@@ -1,6 +1,6 @@
 ---
 title: "Youtube channel"
 description: ""
-url: "https://www.youtube.com/user/owtfproject"
+external_url: "https://www.youtube.com/user/owtfproject"
 category: "Miscellaneous"
 ---

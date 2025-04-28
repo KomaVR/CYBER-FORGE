@@ -1,6 +1,6 @@
 ---
 title: "balestek"
 description: ""
-url: "https://github.com/balestek"
+external_url: "https://github.com/balestek"
 category: "Miscellaneous"
 ---

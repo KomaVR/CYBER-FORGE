@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://buymeacoffee.com/d4vinci"
+external_url: "https://buymeacoffee.com/d4vinci"
 category: "Miscellaneous"
 ---

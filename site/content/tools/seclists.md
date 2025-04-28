@@ -1,6 +1,6 @@
 ---
 title: "SecLists"
 description: ""
-url: "http://seclists.org/"
+external_url: "http://seclists.org/"
 category: "Miscellaneous"
 ---

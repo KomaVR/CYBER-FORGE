@@ -1,6 +1,6 @@
 ---
 title: "whyitfor"
 description: ""
-url: "https://github.com/whyitfor"
+external_url: "https://github.com/whyitfor"
 category: "Miscellaneous"
 ---

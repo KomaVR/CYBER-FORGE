@@ -1,6 +1,6 @@
 ---
 title: "TagsYouTube"
 description: ""
-url: "https://tagsyoutube.com/"
+external_url: "https://tagsyoutube.com/"
 category: "Miscellaneous"
 ---

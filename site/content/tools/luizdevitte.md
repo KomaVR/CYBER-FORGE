@@ -1,6 +1,6 @@
 ---
 title: "LuizDevitte"
 description: ""
-url: "https://github.com/LuizDevitte"
+external_url: "https://github.com/LuizDevitte"
 category: "Miscellaneous"
 ---

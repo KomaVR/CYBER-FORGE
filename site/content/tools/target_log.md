@@ -1,6 +1,6 @@
 ---
 title: "Target Log"
 description: ""
-url: "http://targetolog.com/"
+external_url: "http://targetolog.com/"
 category: "Miscellaneous"
 ---

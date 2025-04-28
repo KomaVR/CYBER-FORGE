@@ -1,6 +1,6 @@
 ---
 title: "Ad-Bean"
 description: ""
-url: "https://github.com/Ad-Bean"
+external_url: "https://github.com/Ad-Bean"
 category: "Miscellaneous"
 ---

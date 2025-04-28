@@ -1,6 +1,6 @@
 ---
 title: "elmarco"
 description: ""
-url: "https://github.com/elmarco"
+external_url: "https://github.com/elmarco"
 category: "Miscellaneous"
 ---

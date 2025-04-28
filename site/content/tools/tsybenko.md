@@ -1,6 +1,6 @@
 ---
 title: "tsybenko"
 description: ""
-url: "https://github.com/tsybenko"
+external_url: "https://github.com/tsybenko"
 category: "Miscellaneous"
 ---

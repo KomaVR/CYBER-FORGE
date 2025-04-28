@@ -1,6 +1,6 @@
 ---
 title: "gister9000"
 description: ""
-url: "https://github.com/gister9000"
+external_url: "https://github.com/gister9000"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "blockstream"
 description: ""
-url: "https://blockstream.info"
+external_url: "https://blockstream.info"
 category: "Miscellaneous"
 ---

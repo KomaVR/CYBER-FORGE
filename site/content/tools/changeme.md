@@ -1,6 +1,6 @@
 ---
 title: "Changeme"
 description: ""
-url: "https://github.com/ztgrace/changeme"
+external_url: "https://github.com/ztgrace/changeme"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Loubaris"
 description: ""
-url: "https://github.com/Loubaris"
+external_url: "https://github.com/Loubaris"
 category: "Miscellaneous"
 ---

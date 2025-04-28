@@ -1,6 +1,6 @@
 ---
 title: "https://ctf-wiki.github.io/ctf-wiki/index.html"
 description: ""
-url: "https://ctf-wiki.github.io/ctf-wiki/index.html"
+external_url: "https://ctf-wiki.github.io/ctf-wiki/index.html"
 category: "Miscellaneous"
 ---

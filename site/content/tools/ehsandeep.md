@@ -1,6 +1,6 @@
 ---
 title: "ehsandeep"
 description: ""
-url: "https://github.com/ehsandeep"
+external_url: "https://github.com/ehsandeep"
 category: "Miscellaneous"
 ---

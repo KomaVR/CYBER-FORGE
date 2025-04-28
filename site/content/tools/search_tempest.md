@@ -1,6 +1,6 @@
 ---
 title: "Search Tempest"
 description: ""
-url: "https://www.searchtempest.com/"
+external_url: "https://www.searchtempest.com/"
 category: "Miscellaneous"
 ---

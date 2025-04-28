@@ -1,6 +1,6 @@
 ---
 title: "XHProf"
 description: ""
-url: "https://github.com/phacility/xhprof"
+external_url: "https://github.com/phacility/xhprof"
 category: "Miscellaneous"
 ---

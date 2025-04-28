@@ -3,6 +3,6 @@ title: "Terraform Provider"
 description: "
 
 "
-url: "https://github.com/madacluster/netmaker-terraform-provider"
+external_url: "https://github.com/madacluster/netmaker-terraform-provider"
 category: "Miscellaneous"
 ---

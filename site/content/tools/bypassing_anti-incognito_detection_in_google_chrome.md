@@ -7,6 +7,6 @@ description: "
 Google Chrome Incognito Mode Can Still Be Detected by These Methods
 
 "
-url: "https://mishravikas.com/articles/2019-07/bypassing-anti-incognito-detection-google-chrome.html"
+external_url: "https://mishravikas.com/articles/2019-07/bypassing-anti-incognito-detection-google-chrome.html"
 category: "Grey Hat Tools"
 ---

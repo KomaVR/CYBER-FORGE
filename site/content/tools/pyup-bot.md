@@ -1,6 +1,6 @@
 ---
 title: "pyup-bot"
 description: ""
-url: "https://github.com/pyup-bot"
+external_url: "https://github.com/pyup-bot"
 category: "Miscellaneous"
 ---

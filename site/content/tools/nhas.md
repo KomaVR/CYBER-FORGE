@@ -1,6 +1,6 @@
 ---
 title: "NHAS"
 description: ""
-url: "https://github.com/NHAS"
+external_url: "https://github.com/NHAS"
 category: "Miscellaneous"
 ---

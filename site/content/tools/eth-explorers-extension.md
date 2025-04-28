@@ -1,6 +1,6 @@
 ---
 title: "eth-explorers-extension"
 description: ""
-url: "https://github.com/apoorvlathey/eth-explorers-extension"
+external_url: "https://github.com/apoorvlathey/eth-explorers-extension"
 category: "Miscellaneous"
 ---

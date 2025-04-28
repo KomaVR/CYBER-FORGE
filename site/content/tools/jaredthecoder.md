@@ -1,6 +1,6 @@
 ---
 title: "jaredthecoder"
 description: ""
-url: "https://github.com/jaredthecoder"
+external_url: "https://github.com/jaredthecoder"
 category: "Miscellaneous"
 ---

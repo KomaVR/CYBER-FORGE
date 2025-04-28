@@ -1,6 +1,6 @@
 ---
 title: "Feederator"
 description: ""
-url: "http://www.feederator.org"
+external_url: "http://www.feederator.org"
 category: "Miscellaneous"
 ---

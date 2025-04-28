@@ -1,6 +1,6 @@
 ---
 title: "cueo"
 description: ""
-url: "https://github.com/cueo"
+external_url: "https://github.com/cueo"
 category: "Miscellaneous"
 ---

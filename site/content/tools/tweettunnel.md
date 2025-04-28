@@ -1,6 +1,6 @@
 ---
 title: "TweetTunnel"
 description: ""
-url: "http://tweettunnel.com/"
+external_url: "http://tweettunnel.com/"
 category: "Miscellaneous"
 ---

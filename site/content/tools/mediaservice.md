@@ -1,6 +1,6 @@
 ---
 title: "Mediaservice"
 description: ""
-url: "https://techblog.mediaservice.net/"
+external_url: "https://techblog.mediaservice.net/"
 category: "Miscellaneous"
 ---

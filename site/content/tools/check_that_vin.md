@@ -1,6 +1,6 @@
 ---
 title: "Check That Vin"
 description: ""
-url: "https://checkthatvin.com"
+external_url: "https://checkthatvin.com"
 category: "Miscellaneous"
 ---

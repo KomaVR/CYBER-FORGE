@@ -1,6 +1,6 @@
 ---
 title: "lawrencium"
 description: ""
-url: "https://github.com/lawrencium"
+external_url: "https://github.com/lawrencium"
 category: "Miscellaneous"
 ---

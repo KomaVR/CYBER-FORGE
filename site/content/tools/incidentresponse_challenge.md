@@ -1,6 +1,6 @@
 ---
 title: "IncidentResponse Challenge"
 description: ""
-url: "https://incident-response-challenge.com"
+external_url: "https://incident-response-challenge.com"
 category: "Miscellaneous"
 ---

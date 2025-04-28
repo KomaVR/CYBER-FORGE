@@ -1,6 +1,6 @@
 ---
 title: "Open Access Scientific Journals"
 description: ""
-url: "http://www.pagepress.org"
+external_url: "http://www.pagepress.org"
 category: "Miscellaneous"
 ---

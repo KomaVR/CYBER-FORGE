@@ -1,6 +1,6 @@
 ---
 title: "Slideworld"
 description: ""
-url: "http://www.slideworld.com/"
+external_url: "http://www.slideworld.com/"
 category: "Miscellaneous"
 ---

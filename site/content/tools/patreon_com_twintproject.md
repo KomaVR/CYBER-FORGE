@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://patreon.com/twintproject"
+external_url: "https://patreon.com/twintproject"
 category: "Miscellaneous"
 ---

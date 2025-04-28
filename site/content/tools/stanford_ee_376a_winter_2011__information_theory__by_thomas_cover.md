@@ -1,6 +1,6 @@
 ---
 title: "Stanford EE 376a winter 2011, Information Theory, by Thomas Cover"
 description: ""
-url: "https://www.youtube.com/user/classxteam/playlists"
+external_url: "https://www.youtube.com/user/classxteam/playlists"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "gozineb"
 description: ""
-url: "https://github.com/gozineb"
+external_url: "https://github.com/gozineb"
 category: "Miscellaneous"
 ---

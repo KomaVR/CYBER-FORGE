@@ -1,6 +1,6 @@
 ---
 title: "xtherk"
 description: ""
-url: "https://github.com/xtherk"
+external_url: "https://github.com/xtherk"
 category: "Miscellaneous"
 ---

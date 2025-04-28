@@ -1,6 +1,6 @@
 ---
 title: "ivankovnatsky"
 description: ""
-url: "https://github.com/ivankovnatsky"
+external_url: "https://github.com/ivankovnatsky"
 category: "Miscellaneous"
 ---

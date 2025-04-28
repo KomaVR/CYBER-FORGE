@@ -1,6 +1,6 @@
 ---
 title: "egofer"
 description: ""
-url: "https://github.com/egofer"
+external_url: "https://github.com/egofer"
 category: "Miscellaneous"
 ---

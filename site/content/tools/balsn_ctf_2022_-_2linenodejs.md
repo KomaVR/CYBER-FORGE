@@ -6,6 +6,6 @@ Example
 
 
 "
-url: "https://gist.github.com/ginoah/e723a1babffae01ffa5149121776648c"
+external_url: "https://gist.github.com/ginoah/e723a1babffae01ffa5149121776648c"
 category: "Miscellaneous"
 ---

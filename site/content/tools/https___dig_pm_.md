@@ -1,6 +1,6 @@
 ---
 title: "https://dig.pm/"
 description: "dig.pm:"
-url: "https://dig.pm/"
+external_url: "https://dig.pm/"
 category: "Miscellaneous"
 ---

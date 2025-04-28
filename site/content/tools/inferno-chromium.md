@@ -1,6 +1,6 @@
 ---
 title: "inferno-chromium"
 description: ""
-url: "https://github.com/inferno-chromium"
+external_url: "https://github.com/inferno-chromium"
 category: "Miscellaneous"
 ---

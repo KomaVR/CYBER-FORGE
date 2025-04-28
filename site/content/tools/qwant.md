@@ -1,6 +1,6 @@
 ---
 title: "Qwant"
 description: ""
-url: "http://www.qwant.com/"
+external_url: "http://www.qwant.com/"
 category: "Miscellaneous"
 ---

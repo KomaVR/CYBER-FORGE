@@ -1,6 +1,6 @@
 ---
 title: "Telegram Index"
 description: ""
-url: "https://github.com/odysseusmax/tg-index"
+external_url: "https://github.com/odysseusmax/tg-index"
 category: "Miscellaneous"
 ---

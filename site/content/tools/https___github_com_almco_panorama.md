@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/AlmCo/Panorama"
 description: ""
-url: "https://github.com/AlmCo/Panorama"
+external_url: "https://github.com/AlmCo/Panorama"
 category: "Miscellaneous"
 ---

@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://pmny.in/bIKNZngt4ys1"
+external_url: "https://pmny.in/bIKNZngt4ys1"
 category: "Miscellaneous"
 ---

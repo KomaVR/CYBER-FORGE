@@ -1,6 +1,6 @@
 ---
 title: "socialscan"
 description: ""
-url: "https://pypi.org/project/socialscan/"
+external_url: "https://pypi.org/project/socialscan/"
 category: "Miscellaneous"
 ---

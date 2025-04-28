@@ -3,6 +3,6 @@ title: "Rapid Attack Infrastructure"
 description: "
  - Obscurity Labs
 "
-url: "https://github.com/obscuritylabs/RAI"
+external_url: "https://github.com/obscuritylabs/RAI"
 category: "Miscellaneous"
 ---

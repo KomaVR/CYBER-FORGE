@@ -1,6 +1,6 @@
 ---
 title: "marcruef"
 description: ""
-url: "https://github.com/marcruef"
+external_url: "https://github.com/marcruef"
 category: "Miscellaneous"
 ---

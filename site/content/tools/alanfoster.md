@@ -1,6 +1,6 @@
 ---
 title: "AlanFoster"
 description: ""
-url: "https://github.com/AlanFoster"
+external_url: "https://github.com/AlanFoster"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Nuclei"
 description: ""
-url: "https://nuclei.projectdiscovery.io/"
+external_url: "https://nuclei.projectdiscovery.io/"
 category: "Miscellaneous"
 ---

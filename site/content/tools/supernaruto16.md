@@ -1,6 +1,6 @@
 ---
 title: "supernaruto16"
 description: ""
-url: "https://github.com/supernaruto16"
+external_url: "https://github.com/supernaruto16"
 category: "Miscellaneous"
 ---

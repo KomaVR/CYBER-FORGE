@@ -1,6 +1,6 @@
 ---
 title: "Rep Digger"
 description: ""
-url: "https://repdigger.com/"
+external_url: "https://repdigger.com/"
 category: "Miscellaneous"
 ---

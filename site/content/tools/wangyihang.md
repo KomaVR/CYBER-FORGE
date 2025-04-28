@@ -1,6 +1,6 @@
 ---
 title: "WangYihang"
 description: ""
-url: "https://github.com/WangYihang"
+external_url: "https://github.com/WangYihang"
 category: "Miscellaneous"
 ---

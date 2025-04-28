@@ -1,6 +1,6 @@
 ---
 title: "martinbydefault"
 description: ""
-url: "https://github.com/martinbydefault"
+external_url: "https://github.com/martinbydefault"
 category: "Miscellaneous"
 ---

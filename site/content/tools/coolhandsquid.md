@@ -1,6 +1,6 @@
 ---
 title: "CoolHandSquid"
 description: ""
-url: "https://github.com/CoolHandSquid"
+external_url: "https://github.com/CoolHandSquid"
 category: "Miscellaneous"
 ---

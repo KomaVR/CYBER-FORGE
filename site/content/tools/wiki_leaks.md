@@ -1,6 +1,6 @@
 ---
 title: "Wiki Leaks"
 description: ""
-url: "https://wikileaks.org/"
+external_url: "https://wikileaks.org/"
 category: "Miscellaneous"
 ---

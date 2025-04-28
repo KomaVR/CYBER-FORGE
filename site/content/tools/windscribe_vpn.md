@@ -1,6 +1,6 @@
 ---
 title: "Windscribe VPN"
 description: ""
-url: "https://windscribe.com/"
+external_url: "https://windscribe.com/"
 category: "Miscellaneous"
 ---

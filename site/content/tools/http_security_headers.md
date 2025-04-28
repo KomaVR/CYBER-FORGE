@@ -1,6 +1,6 @@
 ---
 title: "HTTP Security Headers"
 description: ""
-url: "https://securityheaders.com/"
+external_url: "https://securityheaders.com/"
 category: "Miscellaneous"
 ---

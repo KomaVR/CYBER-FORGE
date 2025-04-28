@@ -1,6 +1,6 @@
 ---
 title: "Western Australia Police Force"
 description: "Australian  Website."
-url: "https://www.police.wa.gov.au/"
+external_url: "https://www.police.wa.gov.au/"
 category: "Web Exploitation"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Telegram Community"
 description: ""
-url: "https://telegram.community/"
+external_url: "https://telegram.community/"
 category: "Miscellaneous"
 ---

@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://liberapay.com/ismailtasdelen"
+external_url: "https://liberapay.com/ismailtasdelen"
 category: "Miscellaneous"
 ---

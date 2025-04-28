@@ -1,6 +1,6 @@
 ---
 title: "Join the CNCF Slack"
 description: "and then our users or developers channel."
-url: "https://slack.cncf.io/"
+external_url: "https://slack.cncf.io/"
 category: "Miscellaneous"
 ---

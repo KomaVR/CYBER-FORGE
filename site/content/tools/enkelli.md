@@ -1,6 +1,6 @@
 ---
 title: "enkelli"
 description: ""
-url: "https://github.com/enkelli"
+external_url: "https://github.com/enkelli"
 category: "Miscellaneous"
 ---

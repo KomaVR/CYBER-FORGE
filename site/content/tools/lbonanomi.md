@@ -1,6 +1,6 @@
 ---
 title: "lbonanomi"
 description: ""
-url: "https://github.com/lbonanomi"
+external_url: "https://github.com/lbonanomi"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "TeleTarget"
 description: ""
-url: "https://teletarget.com/catalog/"
+external_url: "https://teletarget.com/catalog/"
 category: "Miscellaneous"
 ---

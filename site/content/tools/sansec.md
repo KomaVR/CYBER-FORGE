@@ -1,6 +1,6 @@
 ---
 title: "Sansec"
 description: "(2024-)"
-url: "https://sansec.io/"
+external_url: "https://sansec.io/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "yenatch"
 description: ""
-url: "https://github.com/yenatch"
+external_url: "https://github.com/yenatch"
 category: "Miscellaneous"
 ---

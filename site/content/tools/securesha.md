@@ -1,6 +1,6 @@
 ---
 title: "Securesha"
 description: ""
-url: "https://securesha.re"
+external_url: "https://securesha.re"
 category: "Miscellaneous"
 ---

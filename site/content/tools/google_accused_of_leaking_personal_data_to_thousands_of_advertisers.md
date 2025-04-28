@@ -25,6 +25,6 @@ mxrch/GHunt
 
 
 "
-url: "https://www.zdnet.com/article/google-accused-of-leaking-personal-data-to-thousands-of-advertisers/"
+external_url: "https://www.zdnet.com/article/google-accused-of-leaking-personal-data-to-thousands-of-advertisers/"
 category: "OSINT & Recon"
 ---

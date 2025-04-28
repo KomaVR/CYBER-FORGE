@@ -1,6 +1,6 @@
 ---
 title: "GrakePch"
 description: ""
-url: "https://github.com/GrakePch"
+external_url: "https://github.com/GrakePch"
 category: "Miscellaneous"
 ---

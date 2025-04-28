@@ -1,6 +1,6 @@
 ---
 title: "Australian Broadcasting Corporation Archives"
 description: ""
-url: "https://www.abc.net.au/archives/contact.htm"
+external_url: "https://www.abc.net.au/archives/contact.htm"
 category: "Miscellaneous"
 ---

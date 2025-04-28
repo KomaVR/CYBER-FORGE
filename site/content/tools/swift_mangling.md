@@ -5,6 +5,6 @@ description: "Swift
 
 
 "
-url: "https://github.com/apple/swift/blob/main/docs/ABI/Mangling.rst"
+external_url: "https://github.com/apple/swift/blob/main/docs/ABI/Mangling.rst"
 category: "Miscellaneous"
 ---

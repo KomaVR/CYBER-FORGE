@@ -1,6 +1,6 @@
 ---
 title: "moderncsv.com"
 description: ""
-url: "https://www.moderncsv.com/"
+external_url: "https://www.moderncsv.com/"
 category: "Miscellaneous"
 ---

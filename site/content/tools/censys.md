@@ -1,6 +1,6 @@
 ---
 title: "Censys"
 description: ""
-url: "https://search.censys.io"
+external_url: "https://search.censys.io"
 category: "Miscellaneous"
 ---

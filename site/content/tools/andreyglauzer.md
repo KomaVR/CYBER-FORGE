@@ -1,6 +1,6 @@
 ---
 title: "andreyglauzer"
 description: ""
-url: "https://github.com/andreyglauzer"
+external_url: "https://github.com/andreyglauzer"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "superponible"
 description: ""
-url: "https://github.com/superponible"
+external_url: "https://github.com/superponible"
 category: "Miscellaneous"
 ---

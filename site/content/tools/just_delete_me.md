@@ -1,6 +1,6 @@
 ---
 title: "Just Delete Me"
 description: ""
-url: "https://backgroundchecks.org/justdeleteme/fake-identity-generator/"
+external_url: "https://backgroundchecks.org/justdeleteme/fake-identity-generator/"
 category: "Miscellaneous"
 ---

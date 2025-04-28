@@ -1,6 +1,6 @@
 ---
 title: "https://poc.xray.cool/"
 description: "online"
-url: "https://poc.xray.cool/"
+external_url: "https://poc.xray.cool/"
 category: "Miscellaneous"
 ---

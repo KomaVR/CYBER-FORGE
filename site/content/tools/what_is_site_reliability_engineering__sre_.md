@@ -1,6 +1,6 @@
 ---
 title: "What is Site Reliability Engineering (SRE)?"
 description: ""
-url: "https://www.ibm.com/cloud/learn/site-reliability-engineering"
+external_url: "https://www.ibm.com/cloud/learn/site-reliability-engineering"
 category: "Miscellaneous"
 ---

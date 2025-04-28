@@ -38,6 +38,6 @@ barcrange - CVE-2024-49113-Checker
 xforcered - SoaPy
 
 "
-url: "https://github.com/fortra"
+external_url: "https://github.com/fortra"
 category: "Web Exploitation"
 ---

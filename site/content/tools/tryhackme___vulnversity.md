@@ -3,6 +3,6 @@ title: "TryHackMe | Vulnversity"
 description: "
  
 "
-url: "https://tryhackme.com/room/vulnversity"
+external_url: "https://tryhackme.com/room/vulnversity"
 category: "Miscellaneous"
 ---

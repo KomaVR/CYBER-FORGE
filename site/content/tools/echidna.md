@@ -1,6 +1,6 @@
 ---
 title: "Echidna"
 description: ""
-url: "https://github.com/crytic/echidna"
+external_url: "https://github.com/crytic/echidna"
 category: "Miscellaneous"
 ---

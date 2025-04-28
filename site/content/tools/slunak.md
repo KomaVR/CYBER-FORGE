@@ -1,6 +1,6 @@
 ---
 title: "slunak"
 description: ""
-url: "https://github.com/slunak"
+external_url: "https://github.com/slunak"
 category: "Miscellaneous"
 ---

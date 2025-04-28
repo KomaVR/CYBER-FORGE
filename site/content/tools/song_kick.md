@@ -1,6 +1,6 @@
 ---
 title: "Song Kick"
 description: ""
-url: "https://www.songkick.com/"
+external_url: "https://www.songkick.com/"
 category: "Miscellaneous"
 ---

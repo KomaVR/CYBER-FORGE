@@ -1,6 +1,6 @@
 ---
 title: "Google SRE Classroom"
 description: ""
-url: "https://sre.google/classroom/"
+external_url: "https://sre.google/classroom/"
 category: "Miscellaneous"
 ---

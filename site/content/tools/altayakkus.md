@@ -1,6 +1,6 @@
 ---
 title: "AltayAkkus"
 description: ""
-url: "https://github.com/AltayAkkus"
+external_url: "https://github.com/AltayAkkus"
 category: "Miscellaneous"
 ---

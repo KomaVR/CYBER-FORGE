@@ -1,6 +1,6 @@
 ---
 title: "alex-kovoy"
 description: ""
-url: "https://github.com/alex-kovoy"
+external_url: "https://github.com/alex-kovoy"
 category: "Miscellaneous"
 ---

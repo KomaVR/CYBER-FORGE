@@ -1,6 +1,6 @@
 ---
 title: "dzonerzy"
 description: ""
-url: "https://github.com/dzonerzy"
+external_url: "https://github.com/dzonerzy"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Epieos"
 description: ""
-url: "https://github.com/Epieos"
+external_url: "https://github.com/Epieos"
 category: "Miscellaneous"
 ---

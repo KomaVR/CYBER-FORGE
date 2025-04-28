@@ -1,6 +1,6 @@
 ---
 title: "nomerogram"
 description: "(RU)"
-url: "https://www.nomerogram.ru/"
+external_url: "https://www.nomerogram.ru/"
 category: "Miscellaneous"
 ---

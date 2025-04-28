@@ -1,6 +1,6 @@
 ---
 title: "frangio"
 description: ""
-url: "https://github.com/frangio"
+external_url: "https://github.com/frangio"
 category: "Miscellaneous"
 ---

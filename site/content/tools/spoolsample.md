@@ -1,6 +1,6 @@
 ---
 title: "SpoolSample"
 description: ""
-url: "https://github.com/leechristensen/SpoolSample"
+external_url: "https://github.com/leechristensen/SpoolSample"
 category: "Miscellaneous"
 ---

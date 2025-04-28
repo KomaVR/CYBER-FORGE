@@ -1,6 +1,6 @@
 ---
 title: "PaulCher"
 description: ""
-url: "https://github.com/PaulCher"
+external_url: "https://github.com/PaulCher"
 category: "Miscellaneous"
 ---

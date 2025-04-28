@@ -1,6 +1,6 @@
 ---
 title: "laciKE"
 description: ""
-url: "https://github.com/laciKE"
+external_url: "https://github.com/laciKE"
 category: "Miscellaneous"
 ---

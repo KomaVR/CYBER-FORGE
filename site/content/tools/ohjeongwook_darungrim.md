@@ -6,6 +6,6 @@ IDA插件
 DGEngine
 
 "
-url: "https://github.com/ohjeongwook/darungrim"
+external_url: "https://github.com/ohjeongwook/darungrim"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "jeffmendoza"
 description: ""
-url: "https://github.com/jeffmendoza"
+external_url: "https://github.com/jeffmendoza"
 category: "Miscellaneous"
 ---

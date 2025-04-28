@@ -1,6 +1,6 @@
 ---
 title: "wINfOG"
 description: ""
-url: "https://github.com/wINfOG"
+external_url: "https://github.com/wINfOG"
 category: "Miscellaneous"
 ---

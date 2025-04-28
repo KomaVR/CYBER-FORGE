@@ -1,6 +1,6 @@
 ---
 title: "obilodeau"
 description: ""
-url: "https://github.com/obilodeau"
+external_url: "https://github.com/obilodeau"
 category: "Miscellaneous"
 ---

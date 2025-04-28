@@ -1,6 +1,6 @@
 ---
 title: "Envensi"
 description: ""
-url: "https://www.evensi.com/"
+external_url: "https://www.evensi.com/"
 category: "Miscellaneous"
 ---

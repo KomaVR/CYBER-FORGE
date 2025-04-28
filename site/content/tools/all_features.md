@@ -2,6 +2,6 @@
 title: "All features"
 description: "
 "
-url: "https://github.com/features"
+external_url: "https://github.com/features"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "impersonator.xyz"
 description: ""
-url: "https://impersonator.xyz"
+external_url: "https://impersonator.xyz"
 category: "Miscellaneous"
 ---

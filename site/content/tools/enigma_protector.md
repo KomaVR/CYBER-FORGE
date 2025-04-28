@@ -1,6 +1,6 @@
 ---
 title: "Enigma Protector"
 description: "Professional system for executable files licensing and protection."
-url: "https://www.enigmaprotector.com"
+external_url: "https://www.enigmaprotector.com"
 category: "Miscellaneous"
 ---

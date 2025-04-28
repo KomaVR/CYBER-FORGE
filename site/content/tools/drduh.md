@@ -1,6 +1,6 @@
 ---
 title: "drduh"
 description: ""
-url: "https://github.com/drduh"
+external_url: "https://github.com/drduh"
 category: "Miscellaneous"
 ---

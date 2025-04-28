@@ -1,6 +1,6 @@
 ---
 title: "Marcioshub"
 description: ""
-url: "https://github.com/Marcioshub"
+external_url: "https://github.com/Marcioshub"
 category: "Miscellaneous"
 ---

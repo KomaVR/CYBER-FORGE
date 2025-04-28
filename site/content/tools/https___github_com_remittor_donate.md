@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://github.com/remittor/donate"
+external_url: "https://github.com/remittor/donate"
 category: "Miscellaneous"
 ---

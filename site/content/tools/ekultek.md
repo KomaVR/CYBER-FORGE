@@ -1,6 +1,6 @@
 ---
 title: "Ekultek"
 description: ""
-url: "https://github.com/Ekultek"
+external_url: "https://github.com/Ekultek"
 category: "Miscellaneous"
 ---

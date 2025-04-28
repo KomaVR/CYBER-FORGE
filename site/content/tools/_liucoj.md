@@ -1,6 +1,6 @@
 ---
 title: "@liucoj"
 description: ""
-url: "https://twitter.com/liucoj"
+external_url: "https://twitter.com/liucoj"
 category: "Miscellaneous"
 ---

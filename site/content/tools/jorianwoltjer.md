@@ -1,6 +1,6 @@
 ---
 title: "JorianWoltjer"
 description: ""
-url: "https://github.com/JorianWoltjer"
+external_url: "https://github.com/JorianWoltjer"
 category: "Miscellaneous"
 ---

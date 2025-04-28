@@ -1,6 +1,6 @@
 ---
 title: "Enaium"
 description: ""
-url: "https://github.com/Enaium"
+external_url: "https://github.com/Enaium"
 category: "Miscellaneous"
 ---

@@ -7,6 +7,6 @@ PAN
 SPRR & GXF
 
 "
-url: "https://blog.siguza.net/APRR/"
+external_url: "https://blog.siguza.net/APRR/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Lanyrd"
 description: ""
-url: "http://lanyrd.com/"
+external_url: "http://lanyrd.com/"
 category: "Miscellaneous"
 ---

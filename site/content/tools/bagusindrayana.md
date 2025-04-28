@@ -1,6 +1,6 @@
 ---
 title: "bagusindrayana"
 description: ""
-url: "https://github.com/bagusindrayana"
+external_url: "https://github.com/bagusindrayana"
 category: "Miscellaneous"
 ---

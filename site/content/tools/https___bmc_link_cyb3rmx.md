@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://bmc.link/cyb3rmx"
+external_url: "https://bmc.link/cyb3rmx"
 category: "Miscellaneous"
 ---

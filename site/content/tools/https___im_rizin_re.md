@@ -1,6 +1,6 @@
 ---
 title: "https://im.rizin.re"
 description: "Mattermost:"
-url: "https://im.rizin.re"
+external_url: "https://im.rizin.re"
 category: "Miscellaneous"
 ---

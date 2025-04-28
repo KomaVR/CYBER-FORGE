@@ -2,6 +2,6 @@
 title: "AliMilani"
 description: "AliMilani
 Ali Milani"
-url: "https://github.com/AliMilani"
+external_url: "https://github.com/AliMilani"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Vokaysh"
 description: ""
-url: "https://github.com/Vokaysh"
+external_url: "https://github.com/Vokaysh"
 category: "Miscellaneous"
 ---

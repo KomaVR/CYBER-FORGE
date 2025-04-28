@@ -1,6 +1,6 @@
 ---
 title: "BenediktMKuehne"
 description: ""
-url: "https://github.com/BenediktMKuehne"
+external_url: "https://github.com/BenediktMKuehne"
 category: "Miscellaneous"
 ---

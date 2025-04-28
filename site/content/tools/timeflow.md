@@ -1,6 +1,6 @@
 ---
 title: "Timeflow"
 description: ""
-url: "https://github.com/FlowingMedia/TimeFlow/wiki"
+external_url: "https://github.com/FlowingMedia/TimeFlow/wiki"
 category: "Miscellaneous"
 ---

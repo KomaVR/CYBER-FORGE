@@ -1,6 +1,6 @@
 ---
 title: "Daum"
 description: "(KR)"
-url: "http://www.daum.net/"
+external_url: "http://www.daum.net/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "briandbecker"
 description: ""
-url: "https://github.com/briandbecker"
+external_url: "https://github.com/briandbecker"
 category: "Miscellaneous"
 ---

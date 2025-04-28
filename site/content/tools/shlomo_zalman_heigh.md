@@ -1,6 +1,6 @@
 ---
 title: "Shlomo Zalman Heigh"
 description: ""
-url: "https://github.com/szh"
+external_url: "https://github.com/szh"
 category: "Miscellaneous"
 ---

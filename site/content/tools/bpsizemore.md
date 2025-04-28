@@ -1,6 +1,6 @@
 ---
 title: "bpsizemore"
 description: ""
-url: "https://github.com/bpsizemore"
+external_url: "https://github.com/bpsizemore"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Townscript"
 description: ""
-url: "https://www.townscript.com"
+external_url: "https://www.townscript.com"
 category: "Miscellaneous"
 ---

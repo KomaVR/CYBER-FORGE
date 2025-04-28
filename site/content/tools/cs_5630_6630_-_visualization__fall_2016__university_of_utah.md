@@ -1,6 +1,6 @@
 ---
 title: "CS 5630/6630 - Visualization, Fall 2016, University of Utah"
 description: "(Lectures - Youtube)"
-url: "http://dataviscourse.net/2016/index.html"
+external_url: "http://dataviscourse.net/2016/index.html"
 category: "Miscellaneous"
 ---

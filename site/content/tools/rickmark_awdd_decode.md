@@ -5,6 +5,6 @@ description: "AWDD - Apple Wireless Diagnostics (misnomer, more than wireless, s
 
 
 "
-url: "https://github.com/rickmark/awdd_decode"
+external_url: "https://github.com/rickmark/awdd_decode"
 category: "Miscellaneous"
 ---

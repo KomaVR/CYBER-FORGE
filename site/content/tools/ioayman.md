@@ -1,6 +1,6 @@
 ---
 title: "IOAyman"
 description: ""
-url: "https://github.com/IOAyman"
+external_url: "https://github.com/IOAyman"
 category: "Miscellaneous"
 ---

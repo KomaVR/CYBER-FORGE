@@ -1,6 +1,6 @@
 ---
 title: "hlein"
 description: ""
-url: "https://github.com/hlein"
+external_url: "https://github.com/hlein"
 category: "Miscellaneous"
 ---

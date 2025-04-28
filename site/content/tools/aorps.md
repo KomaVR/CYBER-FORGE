@@ -1,6 +1,6 @@
 ---
 title: "AOrps"
 description: ""
-url: "https://github.com/AOrps"
+external_url: "https://github.com/AOrps"
 category: "Miscellaneous"
 ---

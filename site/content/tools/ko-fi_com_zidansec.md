@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://ko-fi.com/zidansec"
+external_url: "https://ko-fi.com/zidansec"
 category: "Miscellaneous"
 ---

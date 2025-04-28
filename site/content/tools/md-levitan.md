@@ -1,6 +1,6 @@
 ---
 title: "MD-Levitan"
 description: ""
-url: "https://github.com/MD-Levitan"
+external_url: "https://github.com/MD-Levitan"
 category: "Miscellaneous"
 ---

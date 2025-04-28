@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://ko-fi.com/prbhtkumr"
+external_url: "https://ko-fi.com/prbhtkumr"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "y0urself"
 description: ""
-url: "https://github.com/y0urself"
+external_url: "https://github.com/y0urself"
 category: "Miscellaneous"
 ---

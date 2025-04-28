@@ -1,6 +1,6 @@
 ---
 title: "GraphQLmap"
 description: ""
-url: "https://github.com/swisskyrepo/GraphQLmap"
+external_url: "https://github.com/swisskyrepo/GraphQLmap"
 category: "Miscellaneous"
 ---

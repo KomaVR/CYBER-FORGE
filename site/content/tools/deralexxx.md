@@ -1,6 +1,6 @@
 ---
 title: "deralexxx"
 description: ""
-url: "https://github.com/deralexxx"
+external_url: "https://github.com/deralexxx"
 category: "Miscellaneous"
 ---

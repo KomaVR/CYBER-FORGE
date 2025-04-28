@@ -1,6 +1,6 @@
 ---
 title: "Alleba"
 description: "(PH)"
-url: "http://www.alleba.com/"
+external_url: "http://www.alleba.com/"
 category: "Miscellaneous"
 ---

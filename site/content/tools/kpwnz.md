@@ -1,6 +1,6 @@
 ---
 title: "KpwnZ"
 description: ""
-url: "https://github.com/KpwnZ"
+external_url: "https://github.com/KpwnZ"
 category: "Miscellaneous"
 ---

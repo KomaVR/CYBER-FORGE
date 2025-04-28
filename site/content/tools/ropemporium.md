@@ -7,6 +7,6 @@ Very high quality. Teaches the most basic to the most advanced techniques.
 I'm currently adding my own writeups here
 
 "
-url: "https://ropemporium.com/"
+external_url: "https://ropemporium.com/"
 category: "Miscellaneous"
 ---

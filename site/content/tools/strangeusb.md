@@ -1,6 +1,6 @@
 ---
 title: "StrangeUSB"
 description: ""
-url: "https://github.com/StrangeUSB"
+external_url: "https://github.com/StrangeUSB"
 category: "Miscellaneous"
 ---

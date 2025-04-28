@@ -1,6 +1,6 @@
 ---
 title: "Whats Up In Town"
 description: ""
-url: "https://whatupintown.com/"
+external_url: "https://whatupintown.com/"
 category: "Miscellaneous"
 ---

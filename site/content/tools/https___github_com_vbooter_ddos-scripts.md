@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/vbooter/DDoS-Scripts"
 description: ""
-url: "https://github.com/vbooter/DDoS-Scripts"
+external_url: "https://github.com/vbooter/DDoS-Scripts"
 category: "Miscellaneous"
 ---

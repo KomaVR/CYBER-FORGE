@@ -1,6 +1,6 @@
 ---
 title: "hzqst"
 description: ""
-url: "https://github.com/hzqst"
+external_url: "https://github.com/hzqst"
 category: "Miscellaneous"
 ---

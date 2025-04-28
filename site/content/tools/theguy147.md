@@ -1,6 +1,6 @@
 ---
 title: "theguy147"
 description: ""
-url: "https://github.com/theguy147"
+external_url: "https://github.com/theguy147"
 category: "Miscellaneous"
 ---

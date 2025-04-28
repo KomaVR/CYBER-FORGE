@@ -1,6 +1,6 @@
 ---
 title: "World Bank Doing Business"
 description: ""
-url: "http://www.doingbusiness.org"
+external_url: "http://www.doingbusiness.org"
 category: "Miscellaneous"
 ---

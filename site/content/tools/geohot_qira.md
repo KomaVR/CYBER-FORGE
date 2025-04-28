@@ -1,6 +1,6 @@
 ---
 title: "geohot/qira"
 description: ""
-url: "https://github.com/geohot/qira"
+external_url: "https://github.com/geohot/qira"
 category: "Miscellaneous"
 ---

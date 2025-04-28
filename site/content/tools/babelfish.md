@@ -1,6 +1,6 @@
 ---
 title: "Babelfish"
 description: ""
-url: "https://www.babelfish.com/"
+external_url: "https://www.babelfish.com/"
 category: "Miscellaneous"
 ---

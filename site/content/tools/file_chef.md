@@ -1,6 +1,6 @@
 ---
 title: "File Chef"
 description: ""
-url: "http://filechef.com"
+external_url: "http://filechef.com"
 category: "Miscellaneous"
 ---

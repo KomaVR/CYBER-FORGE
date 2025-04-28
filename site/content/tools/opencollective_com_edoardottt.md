@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://opencollective.com/edoardottt"
+external_url: "https://opencollective.com/edoardottt"
 category: "Miscellaneous"
 ---

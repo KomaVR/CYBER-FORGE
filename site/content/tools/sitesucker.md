@@ -1,6 +1,6 @@
 ---
 title: "SiteSucker"
 description: ""
-url: "http://ricks-apps.com/osx/sitesucker/index.html"
+external_url: "http://ricks-apps.com/osx/sitesucker/index.html"
 category: "Miscellaneous"
 ---

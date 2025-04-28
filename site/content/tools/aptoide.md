@@ -1,6 +1,6 @@
 ---
 title: "Aptoide"
 description: ""
-url: "https://aptoide.com/"
+external_url: "https://aptoide.com/"
 category: "Miscellaneous"
 ---

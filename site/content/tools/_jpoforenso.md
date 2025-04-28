@@ -1,6 +1,6 @@
 ---
 title: "@JPoForenso"
 description: ""
-url: "https://twitter.com/JPoForenso"
+external_url: "https://twitter.com/JPoForenso"
 category: "Miscellaneous"
 ---

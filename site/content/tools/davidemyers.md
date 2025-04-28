@@ -1,6 +1,6 @@
 ---
 title: "davidemyers"
 description: ""
-url: "https://github.com/davidemyers"
+external_url: "https://github.com/davidemyers"
 category: "Miscellaneous"
 ---

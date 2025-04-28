@@ -1,6 +1,6 @@
 ---
 title: "NSQ"
 description: "Messaging:"
-url: "https://nsq.io/"
+external_url: "https://nsq.io/"
 category: "Miscellaneous"
 ---

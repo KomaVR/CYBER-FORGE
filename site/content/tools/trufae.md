@@ -1,6 +1,6 @@
 ---
 title: "trufae"
 description: ""
-url: "https://github.com/trufae"
+external_url: "https://github.com/trufae"
 category: "Miscellaneous"
 ---

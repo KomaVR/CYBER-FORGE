@@ -1,6 +1,6 @@
 ---
 title: "omarbenabdejlil"
 description: ""
-url: "https://github.com/omarbenabdejlil"
+external_url: "https://github.com/omarbenabdejlil"
 category: "Miscellaneous"
 ---

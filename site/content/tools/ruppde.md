@@ -1,6 +1,6 @@
 ---
 title: "ruppde"
 description: ""
-url: "https://github.com/ruppde"
+external_url: "https://github.com/ruppde"
 category: "Miscellaneous"
 ---

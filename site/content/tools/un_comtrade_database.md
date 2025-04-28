@@ -1,6 +1,6 @@
 ---
 title: "UN COMTRADE Database"
 description: ""
-url: "http://comtrade.un.org"
+external_url: "http://comtrade.un.org"
 category: "Miscellaneous"
 ---

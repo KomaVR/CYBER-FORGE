@@ -1,6 +1,6 @@
 ---
 title: "dufferzafar"
 description: ""
-url: "https://github.com/dufferzafar"
+external_url: "https://github.com/dufferzafar"
 category: "Miscellaneous"
 ---

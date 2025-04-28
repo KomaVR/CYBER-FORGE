@@ -1,6 +1,6 @@
 ---
 title: "TheDauntless"
 description: ""
-url: "https://github.com/TheDauntless"
+external_url: "https://github.com/TheDauntless"
 category: "Miscellaneous"
 ---

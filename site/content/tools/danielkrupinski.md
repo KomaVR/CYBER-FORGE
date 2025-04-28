@@ -1,6 +1,6 @@
 ---
 title: "danielkrupinski"
 description: ""
-url: "https://github.com/danielkrupinski"
+external_url: "https://github.com/danielkrupinski"
 category: "Miscellaneous"
 ---

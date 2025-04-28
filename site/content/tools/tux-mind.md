@@ -1,6 +1,6 @@
 ---
 title: "tux-mind"
 description: ""
-url: "https://github.com/tux-mind"
+external_url: "https://github.com/tux-mind"
 category: "Miscellaneous"
 ---

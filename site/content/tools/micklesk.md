@@ -1,6 +1,6 @@
 ---
 title: "MickLesk"
 description: ""
-url: "https://github.com/MickLesk"
+external_url: "https://github.com/MickLesk"
 category: "Miscellaneous"
 ---

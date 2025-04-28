@@ -1,6 +1,6 @@
 ---
 title: "aimarket"
 description: ""
-url: "https://github.com/aimarket"
+external_url: "https://github.com/aimarket"
 category: "Miscellaneous"
 ---

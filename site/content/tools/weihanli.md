@@ -1,6 +1,6 @@
 ---
 title: "WeihanLi"
 description: ""
-url: "https://github.com/WeihanLi"
+external_url: "https://github.com/WeihanLi"
 category: "Miscellaneous"
 ---

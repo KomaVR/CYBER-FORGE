@@ -6,6 +6,6 @@ The Privacy, Security, and OSINT Show
 
 
 "
-url: "https://soundcloud.com/user-98066669/237-the-huge-osint-show"
+external_url: "https://soundcloud.com/user-98066669/237-the-huge-osint-show"
 category: "OSINT & Recon"
 ---

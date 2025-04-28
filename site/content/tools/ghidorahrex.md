@@ -1,6 +1,6 @@
 ---
 title: "GhidorahRex"
 description: ""
-url: "https://github.com/GhidorahRex"
+external_url: "https://github.com/GhidorahRex"
 category: "Miscellaneous"
 ---

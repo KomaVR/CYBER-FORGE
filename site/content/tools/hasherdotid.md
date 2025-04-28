@@ -1,6 +1,6 @@
 ---
 title: "hasherdotid"
 description: "Hasherdotid."
-url: "https://github.com/galauerscrew/hasherdotid"
+external_url: "https://github.com/galauerscrew/hasherdotid"
 category: "Password Cracking"
 ---

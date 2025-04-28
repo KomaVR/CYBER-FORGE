@@ -1,6 +1,6 @@
 ---
 title: "Dothop"
 description: ""
-url: "http://dothop.com/"
+external_url: "http://dothop.com/"
 category: "Miscellaneous"
 ---

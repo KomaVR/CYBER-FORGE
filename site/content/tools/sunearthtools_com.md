@@ -1,6 +1,6 @@
 ---
 title: "SunEarthTools.com"
 description: ""
-url: "http://www.sunearthtools.com/"
+external_url: "http://www.sunearthtools.com/"
 category: "Miscellaneous"
 ---

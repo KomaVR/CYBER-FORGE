@@ -1,6 +1,6 @@
 ---
 title: "reox"
 description: ""
-url: "https://github.com/reox"
+external_url: "https://github.com/reox"
 category: "Miscellaneous"
 ---

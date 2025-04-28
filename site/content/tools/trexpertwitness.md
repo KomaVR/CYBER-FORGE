@@ -1,6 +1,6 @@
 ---
 title: "TRExpertWitness"
 description: ""
-url: "https://trexpertwitness.com"
+external_url: "https://trexpertwitness.com"
 category: "Miscellaneous"
 ---

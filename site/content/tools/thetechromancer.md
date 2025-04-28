@@ -1,6 +1,6 @@
 ---
 title: "TheTechromancer"
 description: ""
-url: "https://github.com/TheTechromancer"
+external_url: "https://github.com/TheTechromancer"
 category: "Miscellaneous"
 ---

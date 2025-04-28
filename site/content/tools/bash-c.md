@@ -1,6 +1,6 @@
 ---
 title: "bash-c"
 description: ""
-url: "https://github.com/bash-c"
+external_url: "https://github.com/bash-c"
 category: "Miscellaneous"
 ---

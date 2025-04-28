@@ -1,6 +1,6 @@
 ---
 title: "juliazero"
 description: ""
-url: "https://github.com/juliazero"
+external_url: "https://github.com/juliazero"
 category: "Miscellaneous"
 ---

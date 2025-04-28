@@ -1,6 +1,6 @@
 ---
 title: "sgloutnikov"
 description: ""
-url: "https://github.com/sgloutnikov"
+external_url: "https://github.com/sgloutnikov"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Bioischanged"
 description: ""
-url: "http://bioischanged.com/"
+external_url: "http://bioischanged.com/"
 category: "Miscellaneous"
 ---

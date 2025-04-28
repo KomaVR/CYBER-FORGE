@@ -5,6 +5,6 @@ description: "SecureROM
 
 
 "
-url: "https://github.com/hekapooios/hekapooios.github.io/tree/master/resources/APROM"
+external_url: "https://github.com/hekapooios/hekapooios.github.io/tree/master/resources/APROM"
 category: "Miscellaneous"
 ---

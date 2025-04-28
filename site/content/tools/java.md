@@ -1,6 +1,6 @@
 ---
 title: "Java"
 description: ""
-url: "https://www.java.com/en/download/"
+external_url: "https://www.java.com/en/download/"
 category: "Miscellaneous"
 ---

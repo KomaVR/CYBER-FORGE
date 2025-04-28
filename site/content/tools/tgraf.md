@@ -1,6 +1,6 @@
 ---
 title: "tgraf"
 description: ""
-url: "https://github.com/tgraf"
+external_url: "https://github.com/tgraf"
 category: "Miscellaneous"
 ---

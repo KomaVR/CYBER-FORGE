@@ -1,6 +1,6 @@
 ---
 title: "UNECE"
 description: ""
-url: "http://w3.unece.org/PXWeb/en"
+external_url: "http://w3.unece.org/PXWeb/en"
 category: "Miscellaneous"
 ---

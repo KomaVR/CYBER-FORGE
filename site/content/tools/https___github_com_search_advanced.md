@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/search/advanced"
 description: "Github Dork"
-url: "https://github.com/search/advanced"
+external_url: "https://github.com/search/advanced"
 category: "Miscellaneous"
 ---

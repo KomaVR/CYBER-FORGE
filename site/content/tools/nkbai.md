@@ -1,6 +1,6 @@
 ---
 title: "nkbai"
 description: ""
-url: "https://github.com/nkbai"
+external_url: "https://github.com/nkbai"
 category: "Miscellaneous"
 ---

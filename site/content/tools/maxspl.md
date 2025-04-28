@@ -1,6 +1,6 @@
 ---
 title: "maxspl"
 description: ""
-url: "https://github.com/maxspl"
+external_url: "https://github.com/maxspl"
 category: "Miscellaneous"
 ---

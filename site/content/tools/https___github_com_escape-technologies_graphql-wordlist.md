@@ -122,6 +122,6 @@ HITCON 2018 - BabyQuery
 
 
 "
-url: "https://github.com/Escape-Technologies/graphql-wordlist"
+external_url: "https://github.com/Escape-Technologies/graphql-wordlist"
 category: "Grey Hat Tools"
 ---

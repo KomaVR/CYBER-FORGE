@@ -1,6 +1,6 @@
 ---
 title: "Get-Metadata"
 description: ""
-url: "https://www.get-metadata.com/"
+external_url: "https://www.get-metadata.com/"
 category: "Miscellaneous"
 ---

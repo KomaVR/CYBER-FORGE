@@ -1,6 +1,6 @@
 ---
 title: "Coowon"
 description: ""
-url: "http://coowon.com"
+external_url: "http://coowon.com"
 category: "Miscellaneous"
 ---

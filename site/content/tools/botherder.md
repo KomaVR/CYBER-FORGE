@@ -1,6 +1,6 @@
 ---
 title: "botherder"
 description: ""
-url: "https://github.com/botherder"
+external_url: "https://github.com/botherder"
 category: "Miscellaneous"
 ---

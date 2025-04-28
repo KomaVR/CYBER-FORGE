@@ -1,6 +1,6 @@
 ---
 title: "@YiJhu"
 description: "Chinese-Traditional translation"
-url: "https://github.com/YiJhu"
+external_url: "https://github.com/YiJhu"
 category: "Miscellaneous"
 ---

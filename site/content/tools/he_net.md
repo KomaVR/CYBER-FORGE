@@ -1,6 +1,6 @@
 ---
 title: "HE.net"
 description: ""
-url: "https://bgp.he.net"
+external_url: "https://bgp.he.net"
 category: "Miscellaneous"
 ---

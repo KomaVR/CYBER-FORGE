@@ -1,6 +1,6 @@
 ---
 title: "https://www.ctyun.cn/document/10000101/10006768"
 description: "for ctyun obs"
-url: "https://www.ctyun.cn/document/10000101/10006768"
+external_url: "https://www.ctyun.cn/document/10000101/10006768"
 category: "Miscellaneous"
 ---

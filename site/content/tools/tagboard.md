@@ -1,6 +1,6 @@
 ---
 title: "Tagboard"
 description: ""
-url: "https://tagboard.com"
+external_url: "https://tagboard.com"
 category: "Miscellaneous"
 ---

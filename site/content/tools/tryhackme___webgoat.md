@@ -3,6 +3,6 @@ title: "TryHackMe | WebGOAT"
 description: "
  
 "
-url: "https://tryhackme.com/room/webgoat"
+external_url: "https://tryhackme.com/room/webgoat"
 category: "Web Exploitation"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Netsparker"
 description: "Web Application Security Scanner."
-url: "https://www.netsparker.com"
+external_url: "https://www.netsparker.com"
 category: "White Hat Tools"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "riswandans"
 description: ""
-url: "https://github.com/riswandans"
+external_url: "https://github.com/riswandans"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "earlbread"
 description: ""
-url: "https://github.com/earlbread"
+external_url: "https://github.com/earlbread"
 category: "Miscellaneous"
 ---

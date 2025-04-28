@@ -1,6 +1,6 @@
 ---
 title: "iii-i"
 description: ""
-url: "https://github.com/iii-i"
+external_url: "https://github.com/iii-i"
 category: "Miscellaneous"
 ---

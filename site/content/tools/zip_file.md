@@ -12,6 +12,6 @@ git clone https://github.com/trailofbits/algo.git
 
 
 "
-url: "https://github.com/trailofbits/algo/archive/master.zip"
+external_url: "https://github.com/trailofbits/algo/archive/master.zip"
 category: "Miscellaneous"
 ---

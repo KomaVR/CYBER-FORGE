@@ -1,6 +1,6 @@
 ---
 title: "Druzi"
 description: ""
-url: "https://druzi.uk/"
+external_url: "https://druzi.uk/"
 category: "Miscellaneous"
 ---

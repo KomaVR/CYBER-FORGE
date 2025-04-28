@@ -1,6 +1,6 @@
 ---
 title: "Yubico - PGP"
 description: ""
-url: "https://developers.yubico.com/PGP/"
+external_url: "https://developers.yubico.com/PGP/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "nategraf"
 description: ""
-url: "https://github.com/nategraf"
+external_url: "https://github.com/nategraf"
 category: "Miscellaneous"
 ---

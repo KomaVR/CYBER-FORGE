@@ -1,6 +1,6 @@
 ---
 title: "htnhan"
 description: ""
-url: "https://github.com/htnhan"
+external_url: "https://github.com/htnhan"
 category: "Miscellaneous"
 ---

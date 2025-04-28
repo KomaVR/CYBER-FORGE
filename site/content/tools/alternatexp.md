@@ -1,6 +1,6 @@
 ---
 title: "alternatexp"
 description: ""
-url: "https://github.com/alternatexp"
+external_url: "https://github.com/alternatexp"
 category: "Miscellaneous"
 ---

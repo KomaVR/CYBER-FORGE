@@ -2,6 +2,6 @@
 title: "tannerhelland"
 description: "tannerhelland
 Tanner"
-url: "https://github.com/tannerhelland"
+external_url: "https://github.com/tannerhelland"
 category: "Miscellaneous"
 ---

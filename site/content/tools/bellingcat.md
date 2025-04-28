@@ -1,6 +1,6 @@
 ---
 title: "Bellingcat"
 description: ""
-url: "https://www.bellingcat.com/"
+external_url: "https://www.bellingcat.com/"
 category: "Miscellaneous"
 ---

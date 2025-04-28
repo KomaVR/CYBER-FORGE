@@ -1,6 +1,6 @@
 ---
 title: "Resolver"
 description: ""
-url: "https://metaproductsrevolver.com"
+external_url: "https://metaproductsrevolver.com"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "gergesh"
 description: ""
-url: "https://github.com/gergesh"
+external_url: "https://github.com/gergesh"
 category: "Miscellaneous"
 ---

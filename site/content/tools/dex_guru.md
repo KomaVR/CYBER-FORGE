@@ -1,6 +1,6 @@
 ---
 title: "dex.guru"
 description: ""
-url: "https://dex.guru/multichart"
+external_url: "https://dex.guru/multichart"
 category: "Miscellaneous"
 ---

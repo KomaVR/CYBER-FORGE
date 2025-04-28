@@ -1,6 +1,6 @@
 ---
 title: "PublicWWW"
 description: ""
-url: "https://publicwww.com"
+external_url: "https://publicwww.com"
 category: "Miscellaneous"
 ---

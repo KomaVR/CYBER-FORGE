@@ -1,6 +1,6 @@
 ---
 title: "Privilege-Escalation"
 description: ""
-url: "https://github.com/AusJock/Privilege-Escalation"
+external_url: "https://github.com/AusJock/Privilege-Escalation"
 category: "Miscellaneous"
 ---

@@ -3,6 +3,6 @@ title: "Contact GitHub Support"
 description: "
 
 "
-url: "https://support.github.com"
+external_url: "https://support.github.com"
 category: "Miscellaneous"
 ---

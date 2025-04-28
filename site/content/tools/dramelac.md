@@ -1,6 +1,6 @@
 ---
 title: "Dramelac"
 description: ""
-url: "https://github.com/Dramelac"
+external_url: "https://github.com/Dramelac"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Ahmia"
 description: ""
-url: "https://ahmia.fi"
+external_url: "https://ahmia.fi"
 category: "Miscellaneous"
 ---

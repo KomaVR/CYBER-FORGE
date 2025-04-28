@@ -1,6 +1,6 @@
 ---
 title: "russjones"
 description: ""
-url: "https://github.com/russjones"
+external_url: "https://github.com/russjones"
 category: "Miscellaneous"
 ---

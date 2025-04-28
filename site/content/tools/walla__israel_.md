@@ -1,6 +1,6 @@
 ---
 title: "Walla (Israel)"
 description: ""
-url: "http://www.walla.co.il"
+external_url: "http://www.walla.co.il"
 category: "Miscellaneous"
 ---

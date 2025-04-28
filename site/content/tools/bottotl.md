@@ -1,6 +1,6 @@
 ---
 title: "bottotl"
 description: ""
-url: "https://github.com/bottotl"
+external_url: "https://github.com/bottotl"
 category: "Miscellaneous"
 ---

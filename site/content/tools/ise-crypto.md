@@ -1,6 +1,6 @@
 ---
 title: "ise-crypto"
 description: ""
-url: "https://github.com/ise-crypto"
+external_url: "https://github.com/ise-crypto"
 category: "Miscellaneous"
 ---

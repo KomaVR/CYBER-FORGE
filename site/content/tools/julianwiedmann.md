@@ -1,6 +1,6 @@
 ---
 title: "julianwiedmann"
 description: ""
-url: "https://github.com/julianwiedmann"
+external_url: "https://github.com/julianwiedmann"
 category: "Miscellaneous"
 ---

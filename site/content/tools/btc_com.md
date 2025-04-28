@@ -1,6 +1,6 @@
 ---
 title: "btc.com"
 description: ""
-url: "https://btc.com/"
+external_url: "https://btc.com/"
 category: "Miscellaneous"
 ---

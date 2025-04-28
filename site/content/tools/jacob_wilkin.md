@@ -1,6 +1,6 @@
 ---
 title: "Jacob Wilkin"
 description: ""
-url: "https://github.com/Greenwolf"
+external_url: "https://github.com/Greenwolf"
 category: "Miscellaneous"
 ---

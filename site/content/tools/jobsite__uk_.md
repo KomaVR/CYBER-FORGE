@@ -1,6 +1,6 @@
 ---
 title: "Jobsite (UK)"
 description: ""
-url: "http://www.jobsite.co.uk"
+external_url: "http://www.jobsite.co.uk"
 category: "Miscellaneous"
 ---

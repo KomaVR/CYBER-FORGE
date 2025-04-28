@@ -1,6 +1,6 @@
 ---
 title: "Azult"
 description: ""
-url: "https://github.com/Azult"
+external_url: "https://github.com/Azult"
 category: "Miscellaneous"
 ---

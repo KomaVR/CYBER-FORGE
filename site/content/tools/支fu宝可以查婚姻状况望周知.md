@@ -6,6 +6,6 @@ alipay
 
 
 "
-url: "https://www.douban.com/group/topic/142322388/"
+external_url: "https://www.douban.com/group/topic/142322388/"
 category: "Miscellaneous"
 ---

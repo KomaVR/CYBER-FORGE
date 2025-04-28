@@ -1,6 +1,6 @@
 ---
 title: "https://lists.blocklist.de/lists/apache.txt"
 description: ""
-url: "https://lists.blocklist.de/lists/apache.txt"
+external_url: "https://lists.blocklist.de/lists/apache.txt"
 category: "Miscellaneous"
 ---

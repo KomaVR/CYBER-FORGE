@@ -1,6 +1,6 @@
 ---
 title: "PeratX"
 description: ""
-url: "https://github.com/PeratX"
+external_url: "https://github.com/PeratX"
 category: "Miscellaneous"
 ---

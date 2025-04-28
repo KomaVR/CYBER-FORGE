@@ -1,6 +1,6 @@
 ---
 title: "Alan Vivona"
 description: ""
-url: "https://github.com/alanvivona"
+external_url: "https://github.com/alanvivona"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "glassnode.com"
 description: ""
-url: "https://glassnode.com"
+external_url: "https://glassnode.com"
 category: "Miscellaneous"
 ---

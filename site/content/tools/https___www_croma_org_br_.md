@@ -1,6 +1,6 @@
 ---
 title: "https://www.croma.org.br/"
 description: "CROMA"
-url: "https://www.croma.org.br/"
+external_url: "https://www.croma.org.br/"
 category: "Miscellaneous"
 ---

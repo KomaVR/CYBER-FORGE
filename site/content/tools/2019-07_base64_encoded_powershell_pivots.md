@@ -8,6 +8,6 @@ JPG
 others...
 
 "
-url: "https://inquest.net/blog/2019/07/19/base64-encoded-powershell-pivots"
+external_url: "https://inquest.net/blog/2019/07/19/base64-encoded-powershell-pivots"
 category: "Miscellaneous"
 ---

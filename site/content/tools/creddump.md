@@ -1,6 +1,6 @@
 ---
 title: "Creddump"
 description: "Dump windows credentials."
-url: "https://github.com/moyix/creddump"
+external_url: "https://github.com/moyix/creddump"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "flichtenheld"
 description: ""
-url: "https://github.com/flichtenheld"
+external_url: "https://github.com/flichtenheld"
 category: "Miscellaneous"
 ---

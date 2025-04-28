@@ -1,6 +1,6 @@
 ---
 title: "Great Lakes Wildlife"
 description: ""
-url: "http://maps.glifwc.org/"
+external_url: "http://maps.glifwc.org/"
 category: "Miscellaneous"
 ---

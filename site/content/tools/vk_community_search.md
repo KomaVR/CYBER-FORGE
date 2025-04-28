@@ -1,6 +1,6 @@
 ---
 title: "VK Community Search"
 description: ""
-url: "http://vk.com/communities"
+external_url: "http://vk.com/communities"
 category: "Miscellaneous"
 ---

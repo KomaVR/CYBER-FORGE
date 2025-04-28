@@ -1,6 +1,6 @@
 ---
 title: "filinpavel"
 description: ""
-url: "https://github.com/filinpavel"
+external_url: "https://github.com/filinpavel"
 category: "Miscellaneous"
 ---

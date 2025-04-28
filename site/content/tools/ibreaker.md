@@ -1,6 +1,6 @@
 ---
 title: "iBreaker"
 description: ""
-url: "https://github.com/iBreaker"
+external_url: "https://github.com/iBreaker"
 category: "Miscellaneous"
 ---

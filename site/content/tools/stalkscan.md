@@ -1,6 +1,6 @@
 ---
 title: "Stalkscan"
 description: ""
-url: "https://www.stalkscan.com/"
+external_url: "https://www.stalkscan.com/"
 category: "Miscellaneous"
 ---

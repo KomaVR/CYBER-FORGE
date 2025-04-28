@@ -2,6 +2,6 @@
 title: "Collections"
 description: "
 "
-url: "https://github.com/collections"
+external_url: "https://github.com/collections"
 category: "Miscellaneous"
 ---

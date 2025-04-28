@@ -1,6 +1,6 @@
 ---
 title: "tdenisenko"
 description: ""
-url: "https://github.com/tdenisenko"
+external_url: "https://github.com/tdenisenko"
 category: "Miscellaneous"
 ---

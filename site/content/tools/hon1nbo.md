@@ -1,6 +1,6 @@
 ---
 title: "hon1nbo"
 description: ""
-url: "https://github.com/hon1nbo"
+external_url: "https://github.com/hon1nbo"
 category: "Miscellaneous"
 ---

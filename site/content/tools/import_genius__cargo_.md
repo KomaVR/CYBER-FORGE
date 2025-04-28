@@ -1,6 +1,6 @@
 ---
 title: "Import Genius (Cargo)"
 description: ""
-url: "http://importgenius.com/"
+external_url: "http://importgenius.com/"
 category: "Miscellaneous"
 ---

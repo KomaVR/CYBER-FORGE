@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://www.buymeacoffee.com/swissky"
+external_url: "https://www.buymeacoffee.com/swissky"
 category: "Miscellaneous"
 ---

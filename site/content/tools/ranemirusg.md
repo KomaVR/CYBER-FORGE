@@ -1,6 +1,6 @@
 ---
 title: "ranemirusG"
 description: ""
-url: "https://github.com/ranemirusG"
+external_url: "https://github.com/ranemirusG"
 category: "Miscellaneous"
 ---

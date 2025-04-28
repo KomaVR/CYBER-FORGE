@@ -1,6 +1,6 @@
 ---
 title: "alexmaloteaux"
 description: ""
-url: "https://github.com/alexmaloteaux"
+external_url: "https://github.com/alexmaloteaux"
 category: "Miscellaneous"
 ---

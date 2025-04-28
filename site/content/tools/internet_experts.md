@@ -1,6 +1,6 @@
 ---
 title: "Internet Experts"
 description: ""
-url: "http://www.internetexperts.info"
+external_url: "http://www.internetexperts.info"
 category: "Miscellaneous"
 ---

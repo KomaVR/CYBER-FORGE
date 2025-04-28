@@ -1,6 +1,6 @@
 ---
 title: "SatIntel"
 description: ""
-url: "https://github.com/ANG13T/SatIntel"
+external_url: "https://github.com/ANG13T/SatIntel"
 category: "Miscellaneous"
 ---

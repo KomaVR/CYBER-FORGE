@@ -1,6 +1,6 @@
 ---
 title: "Wheest"
 description: ""
-url: "https://github.com/Wheest"
+external_url: "https://github.com/Wheest"
 category: "Miscellaneous"
 ---

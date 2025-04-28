@@ -1,6 +1,6 @@
 ---
 title: "jondot"
 description: ""
-url: "https://github.com/jondot"
+external_url: "https://github.com/jondot"
 category: "Miscellaneous"
 ---

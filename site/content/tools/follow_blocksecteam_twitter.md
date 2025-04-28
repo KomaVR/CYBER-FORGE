@@ -1,6 +1,6 @@
 ---
 title: "Follow BlockSecTeam Twitter"
 description: ""
-url: "https://mobile.twitter.com/BlockSecTeam"
+external_url: "https://mobile.twitter.com/BlockSecTeam"
 category: "Miscellaneous"
 ---

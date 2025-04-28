@@ -1,6 +1,6 @@
 ---
 title: "ppfeister"
 description: ""
-url: "https://github.com/ppfeister"
+external_url: "https://github.com/ppfeister"
 category: "Miscellaneous"
 ---

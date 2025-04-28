@@ -1,6 +1,6 @@
 ---
 title: "ManDude"
 description: ""
-url: "https://github.com/ManDude"
+external_url: "https://github.com/ManDude"
 category: "Miscellaneous"
 ---

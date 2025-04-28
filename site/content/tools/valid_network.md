@@ -1,6 +1,6 @@
 ---
 title: "Valid.Network"
 description: ""
-url: "https://valid.network/crypto-insights"
+external_url: "https://valid.network/crypto-insights"
 category: "White Hat Tools"
 ---

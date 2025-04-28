@@ -1,6 +1,6 @@
 ---
 title: "tom0li"
 description: "@"
-url: "https://github.com/tom0li"
+external_url: "https://github.com/tom0li"
 category: "Miscellaneous"
 ---

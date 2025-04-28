@@ -1,6 +1,6 @@
 ---
 title: "Abine"
 description: ""
-url: "https://www.abine.com"
+external_url: "https://www.abine.com"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Domain Crawler"
 description: ""
-url: "http://www.domaincrawler.com"
+external_url: "http://www.domaincrawler.com"
 category: "Miscellaneous"
 ---

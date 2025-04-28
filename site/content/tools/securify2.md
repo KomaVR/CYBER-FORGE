@@ -1,6 +1,6 @@
 ---
 title: "securify2"
 description: ""
-url: "https://github.com/eth-sri/securify2"
+external_url: "https://github.com/eth-sri/securify2"
 category: "Miscellaneous"
 ---

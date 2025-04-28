@@ -5,6 +5,6 @@ description: "TREVO CUBATAO
 
 
 "
-url: "https://www.ecovias.com.br/boletim/camera/1"
+external_url: "https://www.ecovias.com.br/boletim/camera/1"
 category: "Miscellaneous"
 ---

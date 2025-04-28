@@ -7,6 +7,6 @@ description: "Example
 SEETF 2023 - readonlt
 
 "
-url: "https://github.com/w181496/My-CTF-Challenges/tree/master/Balsn-CTF-2021#2linephp"
+external_url: "https://github.com/w181496/My-CTF-Challenges/tree/master/Balsn-CTF-2021#2linephp"
 category: "Miscellaneous"
 ---

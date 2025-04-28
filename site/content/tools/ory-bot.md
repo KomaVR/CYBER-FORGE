@@ -1,6 +1,6 @@
 ---
 title: "ory-bot"
 description: ""
-url: "https://github.com/ory-bot"
+external_url: "https://github.com/ory-bot"
 category: "Miscellaneous"
 ---

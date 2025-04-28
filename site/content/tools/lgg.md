@@ -1,6 +1,6 @@
 ---
 title: "lgg"
 description: ""
-url: "https://github.com/lgg"
+external_url: "https://github.com/lgg"
 category: "Miscellaneous"
 ---

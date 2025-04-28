@@ -7,6 +7,6 @@ https://github.com/H4ckForJob/dirmap
 https://github.com/ffuf/ffuf
 
 "
-url: "https://github.com/maurosoria/dirsearch"
+external_url: "https://github.com/maurosoria/dirsearch"
 category: "Miscellaneous"
 ---

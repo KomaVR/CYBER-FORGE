@@ -1,6 +1,6 @@
 ---
 title: "jvoisin"
 description: ""
-url: "https://github.com/jvoisin"
+external_url: "https://github.com/jvoisin"
 category: "Miscellaneous"
 ---

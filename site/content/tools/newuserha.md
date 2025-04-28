@@ -1,6 +1,6 @@
 ---
 title: "NewUserHa"
 description: ""
-url: "https://github.com/NewUserHa"
+external_url: "https://github.com/NewUserHa"
 category: "Miscellaneous"
 ---

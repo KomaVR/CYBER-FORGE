@@ -1,6 +1,6 @@
 ---
 title: "yolylight"
 description: ""
-url: "https://github.com/yolylight"
+external_url: "https://github.com/yolylight"
 category: "Miscellaneous"
 ---

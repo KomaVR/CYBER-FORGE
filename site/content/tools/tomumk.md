@@ -1,6 +1,6 @@
 ---
 title: "tomumk"
 description: ""
-url: "https://github.com/tomumk"
+external_url: "https://github.com/tomumk"
 category: "Miscellaneous"
 ---

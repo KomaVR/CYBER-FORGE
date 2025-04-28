@@ -1,6 +1,6 @@
 ---
 title: "FlashbackData"
 description: ""
-url: "https://www.flashbackdata.com/blog/"
+external_url: "https://www.flashbackdata.com/blog/"
 category: "Miscellaneous"
 ---

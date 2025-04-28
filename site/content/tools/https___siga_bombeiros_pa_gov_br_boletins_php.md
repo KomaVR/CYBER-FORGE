@@ -1,6 +1,6 @@
 ---
 title: "https://siga.bombeiros.pa.gov.br/boletins.php"
 description: "Boletim Geral de Bombeiros"
-url: "https://siga.bombeiros.pa.gov.br/boletins.php"
+external_url: "https://siga.bombeiros.pa.gov.br/boletins.php"
 category: "Miscellaneous"
 ---

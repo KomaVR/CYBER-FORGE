@@ -3,6 +3,6 @@ title: "TryHackMe | Gatekeeper"
 description: "
  
 "
-url: "https://tryhackme.com/room/gatekeeper"
+external_url: "https://tryhackme.com/room/gatekeeper"
 category: "Miscellaneous"
 ---

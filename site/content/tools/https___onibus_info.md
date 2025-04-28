@@ -1,6 +1,6 @@
 ---
 title: "https://onibus.info"
 description: ""
-url: "https://onibus.info"
+external_url: "https://onibus.info"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "arainho"
 description: ""
-url: "https://github.com/arainho"
+external_url: "https://github.com/arainho"
 category: "Miscellaneous"
 ---

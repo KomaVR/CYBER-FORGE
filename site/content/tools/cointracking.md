@@ -1,6 +1,6 @@
 ---
 title: "CoinTracking"
 description: ""
-url: "https://cointracking.info"
+external_url: "https://cointracking.info"
 category: "Miscellaneous"
 ---

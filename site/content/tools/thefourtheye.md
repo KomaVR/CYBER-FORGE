@@ -1,6 +1,6 @@
 ---
 title: "thefourtheye"
 description: ""
-url: "https://github.com/thefourtheye"
+external_url: "https://github.com/thefourtheye"
 category: "Miscellaneous"
 ---

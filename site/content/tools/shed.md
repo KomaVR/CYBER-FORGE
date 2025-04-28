@@ -1,6 +1,6 @@
 ---
 title: "Shed"
 description: ".NET runtime inspector."
-url: "https://github.com/enkomio/shed"
+external_url: "https://github.com/enkomio/shed"
 category: "Miscellaneous"
 ---

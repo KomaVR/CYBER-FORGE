@@ -1,6 +1,6 @@
 ---
 title: "axpatito"
 description: ""
-url: "https://github.com/axpatito"
+external_url: "https://github.com/axpatito"
 category: "Miscellaneous"
 ---

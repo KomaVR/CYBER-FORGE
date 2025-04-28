@@ -1,6 +1,6 @@
 ---
 title: "@ErvalhouS"
 description: "Fernando Bellincanta, Twitter: , GitHub:"
-url: "https://twitter.com/ErvalhouS"
+external_url: "https://twitter.com/ErvalhouS"
 category: "Miscellaneous"
 ---

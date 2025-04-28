@@ -1,6 +1,6 @@
 ---
 title: "https://webassembly.studio/"
 description: ""
-url: "https://webassembly.studio/"
+external_url: "https://webassembly.studio/"
 category: "Web Exploitation"
 ---

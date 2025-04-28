@@ -1,6 +1,6 @@
 ---
 title: "bitscrunch.com"
 description: ""
-url: "https://bitscrunch.com/"
+external_url: "https://bitscrunch.com/"
 category: "Miscellaneous"
 ---

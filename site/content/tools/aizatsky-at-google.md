@@ -1,6 +1,6 @@
 ---
 title: "aizatsky-at-google"
 description: ""
-url: "https://github.com/aizatsky-at-google"
+external_url: "https://github.com/aizatsky-at-google"
 category: "Miscellaneous"
 ---

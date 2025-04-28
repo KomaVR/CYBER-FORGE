@@ -1,6 +1,6 @@
 ---
 title: "CTF Time"
 description: "General information on CTF occuring around the worlds."
-url: "https://ctftime.org/"
+external_url: "https://ctftime.org/"
 category: "Miscellaneous"
 ---

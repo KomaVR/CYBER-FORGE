@@ -1,6 +1,6 @@
 ---
 title: "rt-bast"
 description: ""
-url: "https://github.com/rt-bast"
+external_url: "https://github.com/rt-bast"
 category: "Miscellaneous"
 ---

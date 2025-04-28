@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://patreon.com/boik"
+external_url: "https://patreon.com/boik"
 category: "Miscellaneous"
 ---

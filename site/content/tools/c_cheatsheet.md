@@ -1,6 +1,6 @@
 ---
 title: "C cheatsheet"
 description: ""
-url: "https://learnxinyminutes.com/docs/c/"
+external_url: "https://learnxinyminutes.com/docs/c/"
 category: "Miscellaneous"
 ---

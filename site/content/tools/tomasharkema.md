@@ -1,6 +1,6 @@
 ---
 title: "tomasharkema"
 description: ""
-url: "https://github.com/tomasharkema"
+external_url: "https://github.com/tomasharkema"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "dmbaturin"
 description: ""
-url: "https://github.com/dmbaturin"
+external_url: "https://github.com/dmbaturin"
 category: "Miscellaneous"
 ---

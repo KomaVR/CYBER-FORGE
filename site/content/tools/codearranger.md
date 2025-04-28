@@ -1,6 +1,6 @@
 ---
 title: "codearranger"
 description: ""
-url: "https://github.com/codearranger"
+external_url: "https://github.com/codearranger"
 category: "Miscellaneous"
 ---

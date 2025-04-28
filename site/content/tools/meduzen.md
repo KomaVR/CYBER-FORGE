@@ -1,6 +1,6 @@
 ---
 title: "meduzen"
 description: ""
-url: "https://github.com/meduzen"
+external_url: "https://github.com/meduzen"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "juanhundo"
 description: ""
-url: "https://github.com/juanhundo"
+external_url: "https://github.com/juanhundo"
 category: "Miscellaneous"
 ---

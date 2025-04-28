@@ -1,6 +1,6 @@
 ---
 title: "carlosmonastyrski"
 description: ""
-url: "https://github.com/carlosmonastyrski"
+external_url: "https://github.com/carlosmonastyrski"
 category: "Miscellaneous"
 ---

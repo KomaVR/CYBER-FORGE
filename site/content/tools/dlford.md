@@ -1,6 +1,6 @@
 ---
 title: "dlford"
 description: ""
-url: "https://github.com/dlford"
+external_url: "https://github.com/dlford"
 category: "Miscellaneous"
 ---

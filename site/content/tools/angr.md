@@ -6,6 +6,6 @@ Docs
 Tutorial
 
 "
-url: "https://github.com/angr/angr"
+external_url: "https://github.com/angr/angr"
 category: "Miscellaneous"
 ---

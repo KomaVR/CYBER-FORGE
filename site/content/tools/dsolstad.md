@@ -1,6 +1,6 @@
 ---
 title: "dsolstad"
 description: ""
-url: "https://github.com/dsolstad"
+external_url: "https://github.com/dsolstad"
 category: "Miscellaneous"
 ---

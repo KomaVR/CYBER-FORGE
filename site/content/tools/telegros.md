@@ -1,6 +1,6 @@
 ---
 title: "Telegros"
 description: ""
-url: "https://telegros.ru/"
+external_url: "https://telegros.ru/"
 category: "Miscellaneous"
 ---

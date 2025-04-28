@@ -1,6 +1,6 @@
 ---
 title: "Honeything"
 description: "A honeypot for Internet of TR-069 things. It's designed to act as completely a modem/router that has RomPager embedded web server and supports TR-069 (CWMP) protocol."
-url: "https://github.com/omererdem/honeything"
+external_url: "https://github.com/omererdem/honeything"
 category: "Web Exploitation"
 ---

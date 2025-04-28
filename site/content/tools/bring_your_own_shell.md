@@ -8,6 +8,6 @@ File and PID concealment through Glibc hijacking (via patcher in get_persistence
  functionality supporting elvish and other interactive programs through custom modules
 
 "
-url: "https://github.com/jm33-m0/emp3r0r/blob/master/core/modules/elvish/config.json"
+external_url: "https://github.com/jm33-m0/emp3r0r/blob/master/core/modules/elvish/config.json"
 category: "Miscellaneous"
 ---

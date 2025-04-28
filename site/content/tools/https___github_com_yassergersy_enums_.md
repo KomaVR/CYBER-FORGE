@@ -3,6 +3,6 @@ title: "https://github.com/YasserGersy/Enums/"
 description: "
 
 "
-url: "https://github.com/YasserGersy/Enums/"
+external_url: "https://github.com/YasserGersy/Enums/"
 category: "Miscellaneous"
 ---

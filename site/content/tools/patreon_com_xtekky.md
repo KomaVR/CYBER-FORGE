@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://patreon.com/xtekky"
+external_url: "https://patreon.com/xtekky"
 category: "Miscellaneous"
 ---

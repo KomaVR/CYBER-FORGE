@@ -1,6 +1,6 @@
 ---
 title: "Tenderly"
 description: ""
-url: "https://tenderly.co/"
+external_url: "https://tenderly.co/"
 category: "Miscellaneous"
 ---

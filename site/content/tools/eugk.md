@@ -1,6 +1,6 @@
 ---
 title: "eugk"
 description: ""
-url: "https://github.com/eugk"
+external_url: "https://github.com/eugk"
 category: "Miscellaneous"
 ---

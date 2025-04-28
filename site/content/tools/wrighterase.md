@@ -1,6 +1,6 @@
 ---
 title: "wrighterase"
 description: ""
-url: "https://github.com/wrighterase"
+external_url: "https://github.com/wrighterase"
 category: "Miscellaneous"
 ---

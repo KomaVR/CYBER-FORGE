@@ -1,6 +1,6 @@
 ---
 title: "pencilnav"
 description: ""
-url: "https://github.com/pencilnav"
+external_url: "https://github.com/pencilnav"
 category: "Miscellaneous"
 ---

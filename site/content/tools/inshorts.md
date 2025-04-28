@@ -1,6 +1,6 @@
 ---
 title: "Inshorts"
 description: ""
-url: "https://www.inshorts.com"
+external_url: "https://www.inshorts.com"
 category: "Miscellaneous"
 ---

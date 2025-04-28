@@ -5,6 +5,6 @@ description: "
  2021 Playlist
 
 "
-url: "https://www.sloconf.com/"
+external_url: "https://www.sloconf.com/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Berkantdemirci"
 description: ""
-url: "https://github.com/Berkantdemirci"
+external_url: "https://github.com/Berkantdemirci"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "WhiteWinterWolf"
 description: ""
-url: "https://github.com/WhiteWinterWolf"
+external_url: "https://github.com/WhiteWinterWolf"
 category: "Miscellaneous"
 ---

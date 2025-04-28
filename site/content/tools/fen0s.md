@@ -1,6 +1,6 @@
 ---
 title: "fen0s"
 description: ""
-url: "https://github.com/fen0s"
+external_url: "https://github.com/fen0s"
 category: "Miscellaneous"
 ---

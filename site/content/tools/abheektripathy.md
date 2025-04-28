@@ -1,6 +1,6 @@
 ---
 title: "abheektripathy"
 description: ""
-url: "https://github.com/abheektripathy"
+external_url: "https://github.com/abheektripathy"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "nanoly.com"
 description: ""
-url: "https://nanoly.com"
+external_url: "https://nanoly.com"
 category: "Miscellaneous"
 ---

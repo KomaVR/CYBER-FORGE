@@ -1,6 +1,6 @@
 ---
 title: "Vuldroid"
 description: ""
-url: "https://github.com/jaiswalakshansh/Vuldroid"
+external_url: "https://github.com/jaiswalakshansh/Vuldroid"
 category: "Miscellaneous"
 ---

@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://liberapay.com/yokoffing"
+external_url: "https://liberapay.com/yokoffing"
 category: "Miscellaneous"
 ---

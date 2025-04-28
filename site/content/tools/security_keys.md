@@ -10,6 +10,6 @@ Mobile Push Notifications
 with Duo.
 
 "
-url: "https://www.authelia.com/overview/authentication/security-key/"
+external_url: "https://www.authelia.com/overview/authentication/security-key/"
 category: "Web Exploitation"
 ---

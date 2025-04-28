@@ -1,6 +1,6 @@
 ---
 title: "Live Cruise Ship Tracker"
 description: ""
-url: "http://www.livecruiseshiptracker.com"
+external_url: "http://www.livecruiseshiptracker.com"
 category: "Miscellaneous"
 ---

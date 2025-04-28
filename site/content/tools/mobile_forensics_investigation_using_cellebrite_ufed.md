@@ -1,6 +1,6 @@
 ---
 title: "Mobile Forensics Investigation using Cellebrite UFED"
 description: "2017.04 [hackingarticles]"
-url: "http://www.hackingarticles.in/mobile-forensics-investigation-using-cellebrite-ufed/"
+external_url: "http://www.hackingarticles.in/mobile-forensics-investigation-using-cellebrite-ufed/"
 category: "Malware Analysis"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "A tool for organizing info"
 description: ""
-url: "https://obsidian.md/"
+external_url: "https://obsidian.md/"
 category: "Miscellaneous"
 ---

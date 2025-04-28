@@ -1,6 +1,6 @@
 ---
 title: "Doxygen"
 description: ""
-url: "https://lief.re/doc/latest/doxygen/index.html"
+external_url: "https://lief.re/doc/latest/doxygen/index.html"
 category: "Miscellaneous"
 ---

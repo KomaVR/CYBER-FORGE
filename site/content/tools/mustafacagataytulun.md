@@ -1,6 +1,6 @@
 ---
 title: "mustafacagataytulun"
 description: ""
-url: "https://github.com/mustafacagataytulun"
+external_url: "https://github.com/mustafacagataytulun"
 category: "Miscellaneous"
 ---

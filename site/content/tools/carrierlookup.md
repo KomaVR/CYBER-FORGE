@@ -1,6 +1,6 @@
 ---
 title: "CarrierLookup"
 description: ""
-url: "https://www.carrierlookup.com/"
+external_url: "https://www.carrierlookup.com/"
 category: "Miscellaneous"
 ---

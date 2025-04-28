@@ -1,6 +1,6 @@
 ---
 title: "travi"
 description: ""
-url: "https://github.com/travi"
+external_url: "https://github.com/travi"
 category: "Miscellaneous"
 ---

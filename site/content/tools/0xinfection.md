@@ -1,6 +1,6 @@
 ---
 title: "0xInfection"
 description: ""
-url: "https://github.com/0xInfection"
+external_url: "https://github.com/0xInfection"
 category: "Miscellaneous"
 ---

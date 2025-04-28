@@ -1,6 +1,6 @@
 ---
 title: "Reverse Taint Analysis Using Binary Ninja"
 description: "2019.08 [trailofbits]"
-url: "http://blog.trailofbits.com/2019/08/29/reverse-taint-analysis-using-binary-ninja/"
+external_url: "http://blog.trailofbits.com/2019/08/29/reverse-taint-analysis-using-binary-ninja/"
 category: "Reverse Engineering"
 ---

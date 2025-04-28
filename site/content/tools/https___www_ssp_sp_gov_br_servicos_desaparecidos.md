@@ -1,6 +1,6 @@
 ---
 title: "https://www.ssp.sp.gov.br/servicos/desaparecidos"
 description: ""
-url: "https://www.ssp.sp.gov.br/servicos/desaparecidos"
+external_url: "https://www.ssp.sp.gov.br/servicos/desaparecidos"
 category: "Miscellaneous"
 ---

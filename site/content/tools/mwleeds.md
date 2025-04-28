@@ -1,6 +1,6 @@
 ---
 title: "mwleeds"
 description: ""
-url: "https://github.com/mwleeds"
+external_url: "https://github.com/mwleeds"
 category: "Miscellaneous"
 ---

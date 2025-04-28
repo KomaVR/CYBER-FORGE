@@ -1,6 +1,6 @@
 ---
 title: "https://dados.saude.go.gov.br/dataset/"
 description: ""
-url: "https://dados.saude.go.gov.br/dataset/"
+external_url: "https://dados.saude.go.gov.br/dataset/"
 category: "Miscellaneous"
 ---

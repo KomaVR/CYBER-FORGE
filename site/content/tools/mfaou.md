@@ -1,6 +1,6 @@
 ---
 title: "mFaou"
 description: ""
-url: "https://github.com/mFaou"
+external_url: "https://github.com/mFaou"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "akindyakov"
 description: ""
-url: "https://github.com/akindyakov"
+external_url: "https://github.com/akindyakov"
 category: "Miscellaneous"
 ---

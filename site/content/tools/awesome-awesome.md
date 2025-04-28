@@ -1,6 +1,6 @@
 ---
 title: "awesome-awesome"
 description: ""
-url: "https://github.com/emijrp/awesome-awesome"
+external_url: "https://github.com/emijrp/awesome-awesome"
 category: "Miscellaneous"
 ---

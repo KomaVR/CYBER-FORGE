@@ -1,6 +1,6 @@
 ---
 title: "Canva"
 description: ""
-url: "https://www.canva.com"
+external_url: "https://www.canva.com"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "reedloden"
 description: ""
-url: "https://github.com/reedloden"
+external_url: "https://github.com/reedloden"
 category: "Miscellaneous"
 ---

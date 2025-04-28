@@ -1,6 +1,6 @@
 ---
 title: "knah"
 description: ""
-url: "https://github.com/knah"
+external_url: "https://github.com/knah"
 category: "Miscellaneous"
 ---

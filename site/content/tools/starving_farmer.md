@@ -1,6 +1,6 @@
 ---
 title: "Starving Farmer"
 description: ""
-url: "http://www.starvingfarmer.com/"
+external_url: "http://www.starvingfarmer.com/"
 category: "Miscellaneous"
 ---

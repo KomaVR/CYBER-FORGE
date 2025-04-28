@@ -1,6 +1,6 @@
 ---
 title: "daeken"
 description: ""
-url: "https://github.com/daeken"
+external_url: "https://github.com/daeken"
 category: "Miscellaneous"
 ---

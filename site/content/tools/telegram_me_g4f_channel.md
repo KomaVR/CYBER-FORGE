@@ -4,6 +4,6 @@ description: "
 Stay updated with our Telegram Channel 📨
 Join us at .
 "
-url: "https://telegram.me/g4f_channel"
+external_url: "https://telegram.me/g4f_channel"
 category: "Miscellaneous"
 ---

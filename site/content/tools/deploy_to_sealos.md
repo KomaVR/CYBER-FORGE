@@ -1,6 +1,6 @@
 ---
 title: "Deploy to sealos"
 description: ""
-url: "https://www.bytebase.com/docs/get-started/install/deploy-to-sealos"
+external_url: "https://www.bytebase.com/docs/get-started/install/deploy-to-sealos"
 category: "Miscellaneous"
 ---

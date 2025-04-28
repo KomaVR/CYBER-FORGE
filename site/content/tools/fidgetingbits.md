@@ -1,6 +1,6 @@
 ---
 title: "fidgetingbits"
 description: ""
-url: "https://github.com/fidgetingbits"
+external_url: "https://github.com/fidgetingbits"
 category: "Miscellaneous"
 ---

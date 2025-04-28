@@ -1,6 +1,6 @@
 ---
 title: "aguilajesus"
 description: ""
-url: "https://github.com/aguilajesus"
+external_url: "https://github.com/aguilajesus"
 category: "Miscellaneous"
 ---

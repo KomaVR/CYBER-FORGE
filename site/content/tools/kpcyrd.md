@@ -1,6 +1,6 @@
 ---
 title: "kpcyrd"
 description: ""
-url: "https://github.com/kpcyrd"
+external_url: "https://github.com/kpcyrd"
 category: "Miscellaneous"
 ---

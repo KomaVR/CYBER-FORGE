@@ -1,6 +1,6 @@
 ---
 title: "dirkjanm"
 description: ""
-url: "https://github.com/dirkjanm"
+external_url: "https://github.com/dirkjanm"
 category: "Miscellaneous"
 ---

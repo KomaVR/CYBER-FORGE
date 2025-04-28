@@ -1,6 +1,6 @@
 ---
 title: "Huawei AppGallery"
 description: ""
-url: "https://appgallery.huawei.com/"
+external_url: "https://appgallery.huawei.com/"
 category: "Miscellaneous"
 ---

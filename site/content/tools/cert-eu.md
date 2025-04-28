@@ -3,6 +3,6 @@ title: "CERT-EU"
 description: "
 
 "
-url: "https://cert.europa.eu/cert/plainedition/en/cert_about.html"
+external_url: "https://cert.europa.eu/cert/plainedition/en/cert_about.html"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Tofo"
 description: ""
-url: "http://tofo.me/"
+external_url: "http://tofo.me/"
 category: "Miscellaneous"
 ---

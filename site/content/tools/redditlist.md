@@ -1,6 +1,6 @@
 ---
 title: "Redditlist"
 description: ""
-url: "http://redditlist.com/"
+external_url: "http://redditlist.com/"
 category: "Miscellaneous"
 ---

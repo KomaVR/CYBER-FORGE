@@ -1,6 +1,6 @@
 ---
 title: "jawallace"
 description: ""
-url: "https://github.com/jawallace"
+external_url: "https://github.com/jawallace"
 category: "Miscellaneous"
 ---

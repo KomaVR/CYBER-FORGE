@@ -1,6 +1,6 @@
 ---
 title: "hendrik1120"
 description: ""
-url: "https://github.com/hendrik1120"
+external_url: "https://github.com/hendrik1120"
 category: "Miscellaneous"
 ---

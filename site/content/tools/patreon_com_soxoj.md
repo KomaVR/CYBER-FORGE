@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://patreon.com/soxoj"
+external_url: "https://patreon.com/soxoj"
 category: "Miscellaneous"
 ---

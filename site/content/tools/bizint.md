@@ -1,6 +1,6 @@
 ---
 title: "Bizint"
 description: ""
-url: "http://www.bizint.com"
+external_url: "http://www.bizint.com"
 category: "Miscellaneous"
 ---

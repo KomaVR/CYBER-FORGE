@@ -1,6 +1,6 @@
 ---
 title: "PolpOnline"
 description: ""
-url: "https://github.com/PolpOnline"
+external_url: "https://github.com/PolpOnline"
 category: "Miscellaneous"
 ---

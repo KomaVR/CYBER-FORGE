@@ -21,6 +21,6 @@ Example
 
 
 "
-url: "https://blog.kaibro.tw/2018/10/24/HITCON-CTF-2018-Web/"
+external_url: "https://blog.kaibro.tw/2018/10/24/HITCON-CTF-2018-Web/"
 category: "Miscellaneous"
 ---

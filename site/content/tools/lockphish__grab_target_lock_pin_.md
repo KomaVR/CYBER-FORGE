@@ -1,6 +1,6 @@
 ---
 title: "Lockphish (Grab target LOCK PIN)"
 description: ""
-url: "https://github.com/JasonJerry/lockphish"
+external_url: "https://github.com/JasonJerry/lockphish"
 category: "Miscellaneous"
 ---

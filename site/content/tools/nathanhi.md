@@ -1,6 +1,6 @@
 ---
 title: "nathanhi"
 description: ""
-url: "https://github.com/nathanhi"
+external_url: "https://github.com/nathanhi"
 category: "Miscellaneous"
 ---

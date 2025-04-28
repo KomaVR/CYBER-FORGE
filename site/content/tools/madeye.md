@@ -1,6 +1,6 @@
 ---
 title: "madeye"
 description: ""
-url: "https://github.com/madeye"
+external_url: "https://github.com/madeye"
 category: "Miscellaneous"
 ---

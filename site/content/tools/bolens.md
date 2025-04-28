@@ -1,6 +1,6 @@
 ---
 title: "bolens"
 description: ""
-url: "https://github.com/bolens"
+external_url: "https://github.com/bolens"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "GreyNoise"
 description: ""
-url: "https://greynoise.io"
+external_url: "https://greynoise.io"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Databasd"
 description: ""
-url: "https://databasd.com/"
+external_url: "https://databasd.com/"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "allonhadaya"
 description: ""
-url: "https://github.com/allonhadaya"
+external_url: "https://github.com/allonhadaya"
 category: "Miscellaneous"
 ---

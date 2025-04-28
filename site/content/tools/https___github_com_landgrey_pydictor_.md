@@ -11,6 +11,6 @@ Windows: https://github.com/shadwork/Windows-Crunch
 
 
 "
-url: "https://github.com/LandGrey/pydictor/"
+external_url: "https://github.com/LandGrey/pydictor/"
 category: "Miscellaneous"
 ---

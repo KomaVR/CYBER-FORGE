@@ -1,6 +1,6 @@
 ---
 title: "PhiRequiem"
 description: ""
-url: "https://github.com/PhiRequiem"
+external_url: "https://github.com/PhiRequiem"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "watchers.pro"
 description: ""
-url: "https://watchers.pro"
+external_url: "https://watchers.pro"
 category: "Miscellaneous"
 ---

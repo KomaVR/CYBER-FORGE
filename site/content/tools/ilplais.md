@@ -1,6 +1,6 @@
 ---
 title: "ILPlais"
 description: ""
-url: "https://github.com/ILPlais"
+external_url: "https://github.com/ILPlais"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Miles Greenwark"
 description: ""
-url: "https://github.com/king-millez"
+external_url: "https://github.com/king-millez"
 category: "Miscellaneous"
 ---

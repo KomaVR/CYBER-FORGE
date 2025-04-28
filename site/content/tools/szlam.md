@@ -1,6 +1,6 @@
 ---
 title: "SzLam"
 description: ""
-url: "https://github.com/SzLam"
+external_url: "https://github.com/SzLam"
 category: "Miscellaneous"
 ---

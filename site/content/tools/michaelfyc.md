@@ -1,6 +1,6 @@
 ---
 title: "michaelfyc"
 description: ""
-url: "https://github.com/michaelfyc"
+external_url: "https://github.com/michaelfyc"
 category: "Miscellaneous"
 ---

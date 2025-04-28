@@ -1,6 +1,6 @@
 ---
 title: "ntddk"
 description: ""
-url: "https://github.com/ntddk"
+external_url: "https://github.com/ntddk"
 category: "Miscellaneous"
 ---

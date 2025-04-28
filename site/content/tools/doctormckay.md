@@ -1,6 +1,6 @@
 ---
 title: "DoctorMcKay"
 description: ""
-url: "https://github.com/DoctorMcKay"
+external_url: "https://github.com/DoctorMcKay"
 category: "Miscellaneous"
 ---

@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://liberapay.com/Matomo"
+external_url: "https://liberapay.com/Matomo"
 category: "Miscellaneous"
 ---

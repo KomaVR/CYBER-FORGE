@@ -1,6 +1,6 @@
 ---
 title: "TXT Record Lookup (via MxToolbox)"
 description: ""
-url: "https://mxtoolbox.com/TXTLookup.aspx"
+external_url: "https://mxtoolbox.com/TXTLookup.aspx"
 category: "Miscellaneous"
 ---

@@ -21,6 +21,6 @@ https://bugs.chromium.org/p/chromium/issues/detail?id=682020
 https://blog.jeremiahgrossman.com/2006/08/i-know-where-youve-been.html - that web 1.0 thing
 
 "
-url: "https://bugs.chromium.org/p/chromium/issues/detail?id=659489"
+external_url: "https://bugs.chromium.org/p/chromium/issues/detail?id=659489"
 category: "Grey Hat Tools"
 ---

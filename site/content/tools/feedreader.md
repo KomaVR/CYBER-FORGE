@@ -1,6 +1,6 @@
 ---
 title: "FeedReader"
 description: ""
-url: "http://www.feedreader.com"
+external_url: "http://www.feedreader.com"
 category: "Miscellaneous"
 ---

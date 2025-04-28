@@ -1,6 +1,6 @@
 ---
 title: "fork-while-fork"
 description: ""
-url: "https://github.com/fork-while-fork"
+external_url: "https://github.com/fork-while-fork"
 category: "Miscellaneous"
 ---

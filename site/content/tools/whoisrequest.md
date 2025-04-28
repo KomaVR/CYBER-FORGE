@@ -1,6 +1,6 @@
 ---
 title: "WhoIsRequest"
 description: ""
-url: "http://whoisrequest.com"
+external_url: "http://whoisrequest.com"
 category: "Miscellaneous"
 ---

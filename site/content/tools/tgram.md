@@ -1,6 +1,6 @@
 ---
 title: "Tgram"
 description: ""
-url: "https://tgram.ru/channels"
+external_url: "https://tgram.ru/channels"
 category: "Miscellaneous"
 ---

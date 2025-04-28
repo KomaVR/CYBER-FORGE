@@ -1,6 +1,6 @@
 ---
 title: "Schedule Warble"
 description: ""
-url: "https://warble.co/"
+external_url: "https://warble.co/"
 category: "Miscellaneous"
 ---

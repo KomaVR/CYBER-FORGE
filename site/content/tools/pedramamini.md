@@ -1,6 +1,6 @@
 ---
 title: "pedramamini"
 description: ""
-url: "https://github.com/pedramamini"
+external_url: "https://github.com/pedramamini"
 category: "Miscellaneous"
 ---

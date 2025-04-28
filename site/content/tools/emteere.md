@@ -1,6 +1,6 @@
 ---
 title: "emteere"
 description: ""
-url: "https://github.com/emteere"
+external_url: "https://github.com/emteere"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "lsasolutions/makegpg"
 description: ""
-url: "https://gitlab.com/lsasolutions/makegpg"
+external_url: "https://gitlab.com/lsasolutions/makegpg"
 category: "Miscellaneous"
 ---

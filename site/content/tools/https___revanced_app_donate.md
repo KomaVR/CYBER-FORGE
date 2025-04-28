@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://revanced.app/donate"
+external_url: "https://revanced.app/donate"
 category: "Miscellaneous"
 ---

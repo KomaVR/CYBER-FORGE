@@ -1,6 +1,6 @@
 ---
 title: "metrika.co"
 description: ""
-url: "https://metrika.co/"
+external_url: "https://metrika.co/"
 category: "Miscellaneous"
 ---

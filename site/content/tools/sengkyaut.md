@@ -1,6 +1,6 @@
 ---
 title: "sengkyaut"
 description: ""
-url: "https://github.com/sengkyaut"
+external_url: "https://github.com/sengkyaut"
 category: "Miscellaneous"
 ---

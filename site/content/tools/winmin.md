@@ -1,6 +1,6 @@
 ---
 title: "WinMin"
 description: ""
-url: "https://github.com/WinMin"
+external_url: "https://github.com/WinMin"
 category: "Miscellaneous"
 ---

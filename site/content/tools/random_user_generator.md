@@ -1,6 +1,6 @@
 ---
 title: "Random User Generator"
 description: ""
-url: "https://randomuser.me/"
+external_url: "https://randomuser.me/"
 category: "Miscellaneous"
 ---

@@ -3,6 +3,6 @@ title: "https://github.com/Lucifer1993/cmsprint"
 description: "
 
 "
-url: "https://github.com/Lucifer1993/cmsprint"
+external_url: "https://github.com/Lucifer1993/cmsprint"
 category: "Miscellaneous"
 ---

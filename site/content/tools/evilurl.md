@@ -1,6 +1,6 @@
 ---
 title: "EvilURL"
 description: ""
-url: "https://github.com/UndeadSec/EvilURL"
+external_url: "https://github.com/UndeadSec/EvilURL"
 category: "Black Hat Tools"
 ---

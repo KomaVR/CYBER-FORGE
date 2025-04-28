@@ -1,6 +1,6 @@
 ---
 title: "xatier"
 description: ""
-url: "https://github.com/xatier"
+external_url: "https://github.com/xatier"
 category: "Miscellaneous"
 ---

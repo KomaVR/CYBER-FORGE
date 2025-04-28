@@ -5,6 +5,6 @@ description: "Property Lists
 
 
 "
-url: "https://github.com/libimobiledevice/libplist"
+external_url: "https://github.com/libimobiledevice/libplist"
 category: "Miscellaneous"
 ---

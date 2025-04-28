@@ -1,6 +1,6 @@
 ---
 title: "ngkogkos"
 description: ""
-url: "https://github.com/ngkogkos"
+external_url: "https://github.com/ngkogkos"
 category: "Miscellaneous"
 ---

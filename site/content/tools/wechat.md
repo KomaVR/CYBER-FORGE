@@ -1,6 +1,6 @@
 ---
 title: "WeChat"
 description: ""
-url: "https://www.wechat.com/"
+external_url: "https://www.wechat.com/"
 category: "Miscellaneous"
 ---

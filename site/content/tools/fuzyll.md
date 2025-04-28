@@ -1,6 +1,6 @@
 ---
 title: "fuzyll"
 description: ""
-url: "https://github.com/fuzyll"
+external_url: "https://github.com/fuzyll"
 category: "Miscellaneous"
 ---

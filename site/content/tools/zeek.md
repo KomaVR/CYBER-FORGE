@@ -9,6 +9,6 @@ p0f
 airodump-ng
 
 "
-url: "https://zeek.org/"
+external_url: "https://zeek.org/"
 category: "Miscellaneous"
 ---

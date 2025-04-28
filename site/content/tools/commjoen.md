@@ -1,6 +1,6 @@
 ---
 title: "commjoen"
 description: ""
-url: "https://github.com/commjoen"
+external_url: "https://github.com/commjoen"
 category: "Miscellaneous"
 ---

@@ -3,6 +3,6 @@ title: "virink"
 description: "
 
 "
-url: "https://github.com/virink"
+external_url: "https://github.com/virink"
 category: "Miscellaneous"
 ---

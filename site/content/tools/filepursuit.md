@@ -3,6 +3,6 @@ title: "FilePursuit"
 description: "
 
 "
-url: "https://filepursuit.com/"
+external_url: "https://filepursuit.com/"
 category: "Miscellaneous"
 ---

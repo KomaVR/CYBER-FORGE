@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/carlospolop/PEASS-ng/releases/latest/download/linpeas.sh"
 description: ""
-url: "https://github.com/carlospolop/PEASS-ng/releases/latest/download/linpeas.sh"
+external_url: "https://github.com/carlospolop/PEASS-ng/releases/latest/download/linpeas.sh"
 category: "Miscellaneous"
 ---

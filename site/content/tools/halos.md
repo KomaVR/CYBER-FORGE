@@ -1,6 +1,6 @@
 ---
 title: "halos"
 description: ""
-url: "https://github.com/halos"
+external_url: "https://github.com/halos"
 category: "Miscellaneous"
 ---

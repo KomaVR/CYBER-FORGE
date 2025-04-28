@@ -1,6 +1,6 @@
 ---
 title: "square/ponydebugger"
 description: "[5775星][4m] [ObjC]  Remote network and data debugging for your native iOS app using Chrome Developer Tools"
-url: "https://github.com/square/ponydebugger"
+external_url: "https://github.com/square/ponydebugger"
 category: "White Hat Tools"
 ---

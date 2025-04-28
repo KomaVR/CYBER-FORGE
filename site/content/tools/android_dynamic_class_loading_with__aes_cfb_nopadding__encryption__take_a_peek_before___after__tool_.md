@@ -6,6 +6,6 @@ description: "Success stories:
 Decrypting Malware String Encryption
 
 "
-url: "https://twitter.com/enovella_/status/946899042973437952"
+external_url: "https://twitter.com/enovella_/status/946899042973437952"
 category: "Malware Analysis"
 ---

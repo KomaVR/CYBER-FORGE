@@ -1,6 +1,6 @@
 ---
 title: "xtexx"
 description: ""
-url: "https://github.com/xtexx"
+external_url: "https://github.com/xtexx"
 category: "Miscellaneous"
 ---

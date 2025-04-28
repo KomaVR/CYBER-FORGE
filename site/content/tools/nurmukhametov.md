@@ -1,6 +1,6 @@
 ---
 title: "nurmukhametov"
 description: ""
-url: "https://github.com/nurmukhametov"
+external_url: "https://github.com/nurmukhametov"
 category: "Miscellaneous"
 ---

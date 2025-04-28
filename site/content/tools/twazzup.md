@@ -1,6 +1,6 @@
 ---
 title: "Twazzup"
 description: ""
-url: "http://www.twazzup.com/"
+external_url: "http://www.twazzup.com/"
 category: "Miscellaneous"
 ---

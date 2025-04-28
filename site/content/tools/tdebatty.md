@@ -1,6 +1,6 @@
 ---
 title: "tdebatty"
 description: ""
-url: "https://github.com/tdebatty"
+external_url: "https://github.com/tdebatty"
 category: "Miscellaneous"
 ---

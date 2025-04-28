@@ -1,6 +1,6 @@
 ---
 title: "tremor021"
 description: ""
-url: "https://github.com/tremor021"
+external_url: "https://github.com/tremor021"
 category: "Miscellaneous"
 ---

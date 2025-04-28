@@ -1,6 +1,6 @@
 ---
 title: "LunaSec"
 description: "Database for PII with automatic encryption/tokenization, sandboxed components for handling data, and centralized authorization controls."
-url: "https://github.com/lunasec-io/lunasec"
+external_url: "https://github.com/lunasec-io/lunasec"
 category: "Malware Analysis"
 ---

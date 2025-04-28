@@ -1,6 +1,6 @@
 ---
 title: "AWS Observability Recipes"
 description: ""
-url: "https://aws-observability.github.io/aws-o11y-recipes/"
+external_url: "https://aws-observability.github.io/aws-o11y-recipes/"
 category: "Miscellaneous"
 ---

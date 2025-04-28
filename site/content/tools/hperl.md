@@ -1,6 +1,6 @@
 ---
 title: "hperl"
 description: ""
-url: "https://github.com/hperl"
+external_url: "https://github.com/hperl"
 category: "Miscellaneous"
 ---

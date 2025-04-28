@@ -1,6 +1,6 @@
 ---
 title: "richardwesthaver"
 description: ""
-url: "https://github.com/richardwesthaver"
+external_url: "https://github.com/richardwesthaver"
 category: "Miscellaneous"
 ---

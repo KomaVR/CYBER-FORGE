@@ -1,6 +1,6 @@
 ---
 title: "ArnoStiefvater"
 description: ""
-url: "https://github.com/ArnoStiefvater"
+external_url: "https://github.com/ArnoStiefvater"
 category: "Miscellaneous"
 ---

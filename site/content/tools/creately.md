@@ -1,6 +1,6 @@
 ---
 title: "creately"
 description: ""
-url: "http://creately.com"
+external_url: "http://creately.com"
 category: "Miscellaneous"
 ---

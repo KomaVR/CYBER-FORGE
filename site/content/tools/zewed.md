@@ -1,6 +1,6 @@
 ---
 title: "Zewed"
 description: ""
-url: "https://github.com/Zewed"
+external_url: "https://github.com/Zewed"
 category: "Miscellaneous"
 ---

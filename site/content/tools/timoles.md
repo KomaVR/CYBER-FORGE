@@ -1,6 +1,6 @@
 ---
 title: "timoles"
 description: ""
-url: "https://github.com/timoles"
+external_url: "https://github.com/timoles"
 category: "Miscellaneous"
 ---

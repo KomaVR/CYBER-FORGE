@@ -1,6 +1,6 @@
 ---
 title: "glennschler"
 description: ""
-url: "https://github.com/glennschler"
+external_url: "https://github.com/glennschler"
 category: "Miscellaneous"
 ---

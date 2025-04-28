@@ -11,6 +11,6 @@ Make sure you try TXT
 
 
 "
-url: "https://en.wikipedia.org/wiki/List_of_DNS_record_types"
+external_url: "https://en.wikipedia.org/wiki/List_of_DNS_record_types"
 category: "Miscellaneous"
 ---

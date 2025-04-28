@@ -1,6 +1,6 @@
 ---
 title: "SeanOverton"
 description: ""
-url: "https://github.com/SeanOverton"
+external_url: "https://github.com/SeanOverton"
 category: "Miscellaneous"
 ---

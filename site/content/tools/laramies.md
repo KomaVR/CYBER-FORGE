@@ -1,6 +1,6 @@
 ---
 title: "laramies"
 description: ""
-url: "https://github.com/laramies"
+external_url: "https://github.com/laramies"
 category: "Miscellaneous"
 ---

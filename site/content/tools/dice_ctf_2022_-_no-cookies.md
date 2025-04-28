@@ -20,6 +20,6 @@ HITCON CTF 2022 - Self Destruct Message
 
 
 "
-url: "https://blog.huli.tw/2022/02/08/what-i-learned-from-dicectf-2022/"
+external_url: "https://blog.huli.tw/2022/02/08/what-i-learned-from-dicectf-2022/"
 category: "Web Exploitation"
 ---

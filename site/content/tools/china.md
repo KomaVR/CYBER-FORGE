@@ -1,6 +1,6 @@
 ---
 title: "china"
 description: "ZoomEye  - worldwide"
-url: "https://zoomeye.org"
+external_url: "https://zoomeye.org"
 category: "Miscellaneous"
 ---

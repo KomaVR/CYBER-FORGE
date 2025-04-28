@@ -1,6 +1,6 @@
 ---
 title: "authentik-automation"
 description: ""
-url: "https://github.com/apps/authentik-automation"
+external_url: "https://github.com/apps/authentik-automation"
 category: "Miscellaneous"
 ---

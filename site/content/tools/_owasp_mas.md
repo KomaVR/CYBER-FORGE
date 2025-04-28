@@ -1,6 +1,6 @@
 ---
 title: "@OWASP_MAS"
 description: "(Official Account)"
-url: "https://twitter.com/OWASP_MAS"
+external_url: "https://twitter.com/OWASP_MAS"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "RootUp"
 description: ""
-url: "https://github.com/RootUp"
+external_url: "https://github.com/RootUp"
 category: "Miscellaneous"
 ---

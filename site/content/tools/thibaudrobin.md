@@ -1,6 +1,6 @@
 ---
 title: "thibaudrobin"
 description: ""
-url: "https://github.com/thibaudrobin"
+external_url: "https://github.com/thibaudrobin"
 category: "Miscellaneous"
 ---

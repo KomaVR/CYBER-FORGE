@@ -1,6 +1,6 @@
 ---
 title: "nmilcoff"
 description: ""
-url: "https://github.com/nmilcoff"
+external_url: "https://github.com/nmilcoff"
 category: "Miscellaneous"
 ---

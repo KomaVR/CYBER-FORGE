@@ -1,6 +1,6 @@
 ---
 title: "masagrator"
 description: ""
-url: "https://github.com/masagrator"
+external_url: "https://github.com/masagrator"
 category: "Miscellaneous"
 ---

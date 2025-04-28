@@ -1,6 +1,6 @@
 ---
 title: "Thomas Patzke (@blubbfiction)"
 description: ""
-url: "https://twitter.com/blubbfiction"
+external_url: "https://twitter.com/blubbfiction"
 category: "Miscellaneous"
 ---

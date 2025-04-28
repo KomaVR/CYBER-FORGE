@@ -7,6 +7,6 @@ so far the most effective png recovery tool i've found (as long as you don't car
 photopea also works very well
 
 "
-url: "https://online.officerecovery.com/pixrecovery/"
+external_url: "https://online.officerecovery.com/pixrecovery/"
 category: "Miscellaneous"
 ---

@@ -8,6 +8,6 @@ description: "
 
 
 "
-url: "https://github.com/OffcierCia/support"
+external_url: "https://github.com/OffcierCia/support"
 category: "Miscellaneous"
 ---

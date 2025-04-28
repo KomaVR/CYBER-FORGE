@@ -1,6 +1,6 @@
 ---
 title: "Blogspot Blog Search"
 description: ""
-url: "https://searchblogspot.com/"
+external_url: "https://searchblogspot.com/"
 category: "Miscellaneous"
 ---

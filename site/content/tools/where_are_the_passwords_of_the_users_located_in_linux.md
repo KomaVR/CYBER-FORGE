@@ -1,6 +1,6 @@
 ---
 title: "Where are the passwords of the users located in Linux?"
 description: ""
-url: "https://www.cyberciti.biz/faq/where-are-the-passwords-of-the-users-located-in-linux/"
+external_url: "https://www.cyberciti.biz/faq/where-are-the-passwords-of-the-users-located-in-linux/"
 category: "Miscellaneous"
 ---

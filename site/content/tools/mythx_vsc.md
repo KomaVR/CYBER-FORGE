@@ -1,6 +1,6 @@
 ---
 title: "Mythx VSC"
 description: ""
-url: "https://marketplace.visualstudio.com/items?itemName=MythX.mythxvsc"
+external_url: "https://marketplace.visualstudio.com/items?itemName=MythX.mythxvsc"
 category: "Miscellaneous"
 ---

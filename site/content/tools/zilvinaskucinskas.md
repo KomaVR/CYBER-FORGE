@@ -1,6 +1,6 @@
 ---
 title: "ZilvinasKucinskas"
 description: ""
-url: "https://github.com/ZilvinasKucinskas"
+external_url: "https://github.com/ZilvinasKucinskas"
 category: "Miscellaneous"
 ---

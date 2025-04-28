@@ -1,6 +1,6 @@
 ---
 title: "OPSWAT"
 description: ""
-url: "https://metadefender.opswat.com/#!/"
+external_url: "https://metadefender.opswat.com/#!/"
 category: "Miscellaneous"
 ---

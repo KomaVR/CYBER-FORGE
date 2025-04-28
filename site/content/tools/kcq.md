@@ -1,6 +1,6 @@
 ---
 title: "kcq"
 description: ""
-url: "https://github.com/kcq"
+external_url: "https://github.com/kcq"
 category: "Miscellaneous"
 ---

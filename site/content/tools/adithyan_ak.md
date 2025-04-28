@@ -1,6 +1,6 @@
 ---
 title: "Adithyan AK"
 description: ""
-url: "https://github.com/adithyan-ak"
+external_url: "https://github.com/adithyan-ak"
 category: "Miscellaneous"
 ---

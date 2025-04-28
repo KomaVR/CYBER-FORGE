@@ -1,6 +1,6 @@
 ---
 title: "cobra obfuscator"
 description: ""
-url: "http://obfuscator.uk/example/"
+external_url: "http://obfuscator.uk/example/"
 category: "Miscellaneous"
 ---

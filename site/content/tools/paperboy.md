@@ -1,6 +1,6 @@
 ---
 title: "Paperboy"
 description: ""
-url: "http://www.thepaperboy.com"
+external_url: "http://www.thepaperboy.com"
 category: "Miscellaneous"
 ---

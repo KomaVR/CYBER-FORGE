@@ -5,6 +5,6 @@ description: "ENTRADA IMIGRANTES PLANALTO
 
 
 "
-url: "http://site.ecovias.com.br/cameras/vpon/0kamera1.jpg"
+external_url: "http://site.ecovias.com.br/cameras/vpon/0kamera1.jpg"
 category: "Miscellaneous"
 ---

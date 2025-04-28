@@ -1,6 +1,6 @@
 ---
 title: "sharvilshah"
 description: ""
-url: "https://github.com/sharvilshah"
+external_url: "https://github.com/sharvilshah"
 category: "Miscellaneous"
 ---

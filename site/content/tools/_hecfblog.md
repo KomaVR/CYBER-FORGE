@@ -1,6 +1,6 @@
 ---
 title: "@HECFBlog"
 description: "SANS Certified Instructor"
-url: "https://twitter.com/HECFBlog"
+external_url: "https://twitter.com/HECFBlog"
 category: "Miscellaneous"
 ---

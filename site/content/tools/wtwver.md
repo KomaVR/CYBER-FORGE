@@ -1,6 +1,6 @@
 ---
 title: "wtwver"
 description: ""
-url: "https://github.com/wtwver"
+external_url: "https://github.com/wtwver"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "teardemon"
 description: ""
-url: "https://github.com/teardemon"
+external_url: "https://github.com/teardemon"
 category: "Miscellaneous"
 ---

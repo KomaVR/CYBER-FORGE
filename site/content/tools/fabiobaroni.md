@@ -1,6 +1,6 @@
 ---
 title: "FabioBaroni"
 description: ""
-url: "https://github.com/FabioBaroni"
+external_url: "https://github.com/FabioBaroni"
 category: "Miscellaneous"
 ---

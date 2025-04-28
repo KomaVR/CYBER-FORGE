@@ -8,6 +8,6 @@ Reporting bugs/ideas
 Development guidelines
 
 "
-url: "https://github.com/NullArray/AutoSploit/wiki"
+external_url: "https://github.com/NullArray/AutoSploit/wiki"
 category: "Miscellaneous"
 ---

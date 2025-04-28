@@ -1,6 +1,6 @@
 ---
 title: "sebastianwis"
 description: ""
-url: "https://github.com/sebastianwis"
+external_url: "https://github.com/sebastianwis"
 category: "Miscellaneous"
 ---

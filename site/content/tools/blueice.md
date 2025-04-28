@@ -1,6 +1,6 @@
 ---
 title: "BlueIce"
 description: ""
-url: "https://github.com/BlueIce"
+external_url: "https://github.com/BlueIce"
 category: "Miscellaneous"
 ---

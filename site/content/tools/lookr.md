@@ -1,6 +1,6 @@
 ---
 title: "lookr"
 description: ""
-url: "https://www.lookr.com/"
+external_url: "https://www.lookr.com/"
 category: "Miscellaneous"
 ---

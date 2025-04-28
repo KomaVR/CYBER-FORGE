@@ -1,6 +1,6 @@
 ---
 title: "PhotoBucket"
 description: ""
-url: "https://photobucket.com"
+external_url: "https://photobucket.com"
 category: "Miscellaneous"
 ---

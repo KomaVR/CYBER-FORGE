@@ -1,6 +1,6 @@
 ---
 title: "studer"
 description: ""
-url: "https://github.com/studer"
+external_url: "https://github.com/studer"
 category: "Miscellaneous"
 ---

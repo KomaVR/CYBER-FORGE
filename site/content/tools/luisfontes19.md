@@ -1,6 +1,6 @@
 ---
 title: "luisfontes19"
 description: ""
-url: "https://github.com/luisfontes19"
+external_url: "https://github.com/luisfontes19"
 category: "Miscellaneous"
 ---

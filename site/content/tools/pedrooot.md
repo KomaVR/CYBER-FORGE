@@ -1,6 +1,6 @@
 ---
 title: "pedrooot"
 description: ""
-url: "https://github.com/pedrooot"
+external_url: "https://github.com/pedrooot"
 category: "Miscellaneous"
 ---

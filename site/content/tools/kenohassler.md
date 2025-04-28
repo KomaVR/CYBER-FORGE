@@ -2,6 +2,6 @@
 title: "kenohassler"
 description: "kenohassler
 Keno Hassler"
-url: "https://github.com/kenohassler"
+external_url: "https://github.com/kenohassler"
 category: "Miscellaneous"
 ---

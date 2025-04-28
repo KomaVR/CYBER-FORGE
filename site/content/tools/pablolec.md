@@ -1,6 +1,6 @@
 ---
 title: "PabloLec"
 description: ""
-url: "https://github.com/PabloLec"
+external_url: "https://github.com/PabloLec"
 category: "Miscellaneous"
 ---

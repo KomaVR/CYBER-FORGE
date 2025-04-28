@@ -1,6 +1,6 @@
 ---
 title: "KodjoB"
 description: ""
-url: "https://github.com/KodjoB"
+external_url: "https://github.com/KodjoB"
 category: "Miscellaneous"
 ---

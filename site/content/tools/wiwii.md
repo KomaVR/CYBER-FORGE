@@ -1,6 +1,6 @@
 ---
 title: "wiwii"
 description: ""
-url: "https://github.com/wiwii"
+external_url: "https://github.com/wiwii"
 category: "Miscellaneous"
 ---

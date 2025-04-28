@@ -1,6 +1,6 @@
 ---
 title: "Nils Petzäll"
 description: ", and"
-url: "https://github.com/npetzall"
+external_url: "https://github.com/npetzall"
 category: "Miscellaneous"
 ---

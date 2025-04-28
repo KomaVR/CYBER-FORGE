@@ -1,6 +1,6 @@
 ---
 title: "halpomeranz"
 description: ""
-url: "https://github.com/halpomeranz"
+external_url: "https://github.com/halpomeranz"
 category: "Miscellaneous"
 ---

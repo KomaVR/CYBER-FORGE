@@ -28,6 +28,6 @@ Example 3: VolgaCTF 2019 - shop
 
 
 "
-url: "https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Mass_Assignment_Cheat_Sheet.md"
+external_url: "https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Mass_Assignment_Cheat_Sheet.md"
 category: "Miscellaneous"
 ---

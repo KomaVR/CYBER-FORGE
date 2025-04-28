@@ -1,6 +1,6 @@
 ---
 title: "Eventbrite"
 description: ""
-url: "https://www.eventbrite.com"
+external_url: "https://www.eventbrite.com"
 category: "Miscellaneous"
 ---

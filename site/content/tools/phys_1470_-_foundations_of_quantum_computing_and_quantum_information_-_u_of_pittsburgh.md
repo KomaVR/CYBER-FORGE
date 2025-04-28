@@ -1,6 +1,6 @@
 ---
 title: "Phys 1470 - Foundations of Quantum Computing and Quantum Information - U of Pittsburgh"
 description: ""
-url: "https://www.youtube.com/playlist?list=PL9KDUYiMK3D5etNeur9HocwcAcfcDtArw"
+external_url: "https://www.youtube.com/playlist?list=PL9KDUYiMK3D5etNeur9HocwcAcfcDtArw"
 category: "Miscellaneous"
 ---

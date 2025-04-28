@@ -1,6 +1,6 @@
 ---
 title: "darlinghq/darling-dmg"
 description: ""
-url: "https://github.com/darlinghq/darling-dmg"
+external_url: "https://github.com/darlinghq/darling-dmg"
 category: "Miscellaneous"
 ---

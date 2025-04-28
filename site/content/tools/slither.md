@@ -1,6 +1,6 @@
 ---
 title: "Slither"
 description: ""
-url: "https://github.com/crytic/slither"
+external_url: "https://github.com/crytic/slither"
 category: "Miscellaneous"
 ---

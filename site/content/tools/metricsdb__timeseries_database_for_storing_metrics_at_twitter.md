@@ -1,6 +1,6 @@
 ---
 title: "MetricsDB: TimeSeries Database for storing metrics at Twitter"
 description: ""
-url: "https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/metricsdb"
+external_url: "https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/metricsdb"
 category: "Miscellaneous"
 ---

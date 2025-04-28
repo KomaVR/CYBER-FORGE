@@ -1,6 +1,6 @@
 ---
 title: "Yushkevichav"
 description: ""
-url: "https://github.com/Yushkevichav"
+external_url: "https://github.com/Yushkevichav"
 category: "Miscellaneous"
 ---

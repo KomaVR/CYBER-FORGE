@@ -1,6 +1,6 @@
 ---
 title: "Jazzinghen"
 description: ""
-url: "https://github.com/Jazzinghen"
+external_url: "https://github.com/Jazzinghen"
 category: "Miscellaneous"
 ---

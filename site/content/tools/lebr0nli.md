@@ -1,6 +1,6 @@
 ---
 title: "lebr0nli"
 description: ""
-url: "https://github.com/lebr0nli"
+external_url: "https://github.com/lebr0nli"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "ghidracadabra"
 description: ""
-url: "https://github.com/ghidracadabra"
+external_url: "https://github.com/ghidracadabra"
 category: "Reverse Engineering"
 ---

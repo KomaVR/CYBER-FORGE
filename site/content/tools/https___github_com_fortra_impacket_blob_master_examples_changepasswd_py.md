@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/fortra/impacket/blob/master/examples/changepasswd.py"
 description: ""
-url: "https://github.com/fortra/impacket/blob/master/examples/changepasswd.py"
+external_url: "https://github.com/fortra/impacket/blob/master/examples/changepasswd.py"
 category: "Miscellaneous"
 ---

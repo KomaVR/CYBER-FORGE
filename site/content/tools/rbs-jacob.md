@@ -1,6 +1,6 @@
 ---
 title: "rbs-jacob"
 description: ""
-url: "https://github.com/rbs-jacob"
+external_url: "https://github.com/rbs-jacob"
 category: "Miscellaneous"
 ---

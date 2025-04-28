@@ -1,6 +1,6 @@
 ---
 title: "ItsIgnacioPortal"
 description: ""
-url: "https://github.com/ItsIgnacioPortal"
+external_url: "https://github.com/ItsIgnacioPortal"
 category: "Miscellaneous"
 ---

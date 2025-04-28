@@ -1,6 +1,6 @@
 ---
 title: "Taringa"
 description: "(Latin America)"
-url: "http://www.taringa.net/"
+external_url: "http://www.taringa.net/"
 category: "Miscellaneous"
 ---

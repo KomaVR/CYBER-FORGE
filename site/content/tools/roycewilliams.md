@@ -1,6 +1,6 @@
 ---
 title: "roycewilliams"
 description: ""
-url: "https://github.com/roycewilliams"
+external_url: "https://github.com/roycewilliams"
 category: "Miscellaneous"
 ---

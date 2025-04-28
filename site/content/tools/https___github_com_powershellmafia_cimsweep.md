@@ -1,6 +1,6 @@
 ---
 title: "https://github.com/PowerShellMafia/CimSweep"
 description: ""
-url: "https://github.com/PowerShellMafia/CimSweep"
+external_url: "https://github.com/PowerShellMafia/CimSweep"
 category: "Miscellaneous"
 ---

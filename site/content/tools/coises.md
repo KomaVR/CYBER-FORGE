@@ -1,6 +1,6 @@
 ---
 title: "Coises"
 description: ""
-url: "https://github.com/Coises"
+external_url: "https://github.com/Coises"
 category: "Miscellaneous"
 ---

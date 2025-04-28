@@ -10,6 +10,6 @@ snowman
 Hex-Rays
 
 "
-url: "https://www.hopperapp.com"
+external_url: "https://www.hopperapp.com"
 category: "Reverse Engineering"
 ---

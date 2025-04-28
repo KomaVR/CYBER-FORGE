@@ -1,6 +1,6 @@
 ---
 title: "fmonjalet"
 description: ""
-url: "https://github.com/fmonjalet"
+external_url: "https://github.com/fmonjalet"
 category: "Miscellaneous"
 ---

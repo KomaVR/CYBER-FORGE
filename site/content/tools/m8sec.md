@@ -1,6 +1,6 @@
 ---
 title: "m8sec"
 description: ""
-url: "https://github.com/m8sec"
+external_url: "https://github.com/m8sec"
 category: "Miscellaneous"
 ---

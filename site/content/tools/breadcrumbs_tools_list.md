@@ -1,6 +1,6 @@
 ---
 title: "BreadCrumbs Tools List"
 description: ""
-url: "https://www.breadcrumbs.app/our-tools"
+external_url: "https://www.breadcrumbs.app/our-tools"
 category: "Miscellaneous"
 ---

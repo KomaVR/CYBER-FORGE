@@ -1,6 +1,6 @@
 ---
 title: "Hackbar"
 description: "Firefox addon for easy web exploitation."
-url: "https://addons.mozilla.org/en-US/firefox/addon/hackbartool/"
+external_url: "https://addons.mozilla.org/en-US/firefox/addon/hackbartool/"
 category: "Black Hat Tools"
 ---

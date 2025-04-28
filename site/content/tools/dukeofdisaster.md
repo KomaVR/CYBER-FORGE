@@ -1,6 +1,6 @@
 ---
 title: "dukeofdisaster"
 description: ""
-url: "https://github.com/dukeofdisaster"
+external_url: "https://github.com/dukeofdisaster"
 category: "Miscellaneous"
 ---

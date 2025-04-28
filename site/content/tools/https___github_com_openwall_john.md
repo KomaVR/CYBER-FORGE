@@ -9,6 +9,6 @@ https://github.com/HashPals/Name-That-Hash hash identifier
 https://github.com/noraj/haiti hash identifier
 
 "
-url: "https://github.com/openwall/john"
+external_url: "https://github.com/openwall/john"
 category: "Password Cracking"
 ---

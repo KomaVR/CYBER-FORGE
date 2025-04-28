@@ -1,6 +1,6 @@
 ---
 title: "MarkoShiva"
 description: ""
-url: "https://github.com/MarkoShiva"
+external_url: "https://github.com/MarkoShiva"
 category: "Miscellaneous"
 ---

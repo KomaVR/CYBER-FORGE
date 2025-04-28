@@ -1,6 +1,6 @@
 ---
 title: "intelliearth"
 description: ""
-url: "https://intelliearth.harrisgeospatial.com/"
+external_url: "https://intelliearth.harrisgeospatial.com/"
 category: "Miscellaneous"
 ---

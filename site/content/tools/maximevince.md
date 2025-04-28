@@ -2,6 +2,6 @@
 title: "maximevince"
 description: "maximevince
 Maxime Vincent"
-url: "https://github.com/maximevince"
+external_url: "https://github.com/maximevince"
 category: "Miscellaneous"
 ---

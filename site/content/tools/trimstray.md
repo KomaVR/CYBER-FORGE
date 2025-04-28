@@ -1,6 +1,6 @@
 ---
 title: "trimstray"
 description: ""
-url: "https://github.com/trimstray"
+external_url: "https://github.com/trimstray"
 category: "Miscellaneous"
 ---

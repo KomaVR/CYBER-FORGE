@@ -1,6 +1,6 @@
 ---
 title: "effectiveaml.org"
 description: ""
-url: "https://www.effectiveaml.org"
+external_url: "https://www.effectiveaml.org"
 category: "Miscellaneous"
 ---

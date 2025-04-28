@@ -1,6 +1,6 @@
 ---
 title: "TweetStats"
 description: ""
-url: "http://www.tweetstats.com/"
+external_url: "http://www.tweetstats.com/"
 category: "Miscellaneous"
 ---

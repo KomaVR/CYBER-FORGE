@@ -5,6 +5,6 @@ description: "BALANCA IMIGRANTES PLANALTO
 
 
 "
-url: "https://www.ecovias.com.br/boletim/camera/2"
+external_url: "https://www.ecovias.com.br/boletim/camera/2"
 category: "Miscellaneous"
 ---

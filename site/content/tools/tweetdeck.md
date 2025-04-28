@@ -1,6 +1,6 @@
 ---
 title: "TweetDeck"
 description: ""
-url: "https://www.tweetdeck.com"
+external_url: "https://www.tweetdeck.com"
 category: "Miscellaneous"
 ---

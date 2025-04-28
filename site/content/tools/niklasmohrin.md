@@ -1,6 +1,6 @@
 ---
 title: "niklasmohrin"
 description: ""
-url: "https://github.com/niklasmohrin"
+external_url: "https://github.com/niklasmohrin"
 category: "Miscellaneous"
 ---

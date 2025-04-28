@@ -1,6 +1,6 @@
 ---
 title: "mablanco"
 description: ""
-url: "https://github.com/mablanco"
+external_url: "https://github.com/mablanco"
 category: "Miscellaneous"
 ---

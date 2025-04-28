@@ -1,6 +1,6 @@
 ---
 title: "GraphX"
 description: ""
-url: "http://spark.apache.org/graphx"
+external_url: "http://spark.apache.org/graphx"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Veoh"
 description: ""
-url: "http://www.veoh.com"
+external_url: "http://www.veoh.com"
 category: "Miscellaneous"
 ---

@@ -3,6 +3,6 @@ title: "BLOG:wonderkun.cc"
 description: "
 
 "
-url: "http://wonderkun.cc"
+external_url: "http://wonderkun.cc"
 category: "Miscellaneous"
 ---

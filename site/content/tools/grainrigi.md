@@ -1,6 +1,6 @@
 ---
 title: "grainrigi"
 description: ""
-url: "https://github.com/grainrigi"
+external_url: "https://github.com/grainrigi"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "lmeyerov"
 description: ""
-url: "https://github.com/lmeyerov"
+external_url: "https://github.com/lmeyerov"
 category: "Miscellaneous"
 ---

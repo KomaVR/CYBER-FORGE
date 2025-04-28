@@ -1,6 +1,6 @@
 ---
 title: "Emu"
 description: "(CTID emulation plans)"
-url: "https://github.com/mitre/emu"
+external_url: "https://github.com/mitre/emu"
 category: "Miscellaneous"
 ---

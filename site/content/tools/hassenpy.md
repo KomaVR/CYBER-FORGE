@@ -1,6 +1,6 @@
 ---
 title: "HassenPy"
 description: ""
-url: "https://github.com/HassenPy"
+external_url: "https://github.com/HassenPy"
 category: "Miscellaneous"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "gustavocovas"
 description: ""
-url: "https://github.com/gustavocovas"
+external_url: "https://github.com/gustavocovas"
 category: "Miscellaneous"
 ---

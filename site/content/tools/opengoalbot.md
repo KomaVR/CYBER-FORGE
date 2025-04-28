@@ -1,6 +1,6 @@
 ---
 title: "OpenGOALBot"
 description: ""
-url: "https://github.com/OpenGOALBot"
+external_url: "https://github.com/OpenGOALBot"
 category: "Miscellaneous"
 ---

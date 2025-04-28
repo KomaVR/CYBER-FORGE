@@ -1,6 +1,6 @@
 ---
 title: "Data breach searches"
 description: ""
-url: "https://asciinema.org/a/296145"
+external_url: "https://asciinema.org/a/296145"
 category: "Miscellaneous"
 ---
