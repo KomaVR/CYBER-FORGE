@@ -31,17 +31,18 @@ jobs:
         run: |
           cd scraper
           python3 generate_hugo_content.py
-
-      - name: Run Markdown Front-Matter Fixer
-        run: |
-          cd scraper
-          python3 fix_existing_tool_pages.py   # <— Make sure this script lives in scraper/
       
       - name: Strictly rebuild front matter
         run: |
           cd scraper
           python3 strict_frontmatter_rebuild.py
           
+      - name: Run Markdown Front-Matter Fixer
+        run: |
+          cd scraper
+          python3 fix_existing_tool_pages.py   # <— Make sure this script lives in scraper/
+      
+      
       - name: Install Hugo
         uses: peaceiris/actions-hugo@v2
         with:
