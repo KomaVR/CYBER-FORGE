@@ -1,0 +1,37 @@
+name: Generate Cyber Sources
+
+on:
+  workflow_dispatch: # Manual trigger button
+  schedule:
+    - cron: '0 12 * * 0' # Every Sunday at noon UTC
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    env:
+      CYBERFORGE_GH_TOKEN: ${{ secrets.CYBERFORGE_GH_TOKEN }}  # <-- OUR SAFE SECRET
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: pip install -r scraper/requirements.txt
+
+    - name: Generate Sources
+      run: |
+        cd scraper
+        python generate_sources.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.email "actions@github.com"
+        git config --global user.name "GitHub Actions"
+        git add scraper/sources.txt
+        git commit -m "Auto-update sources [bot]" || echo "No changes to commit"
+        git push
+        
