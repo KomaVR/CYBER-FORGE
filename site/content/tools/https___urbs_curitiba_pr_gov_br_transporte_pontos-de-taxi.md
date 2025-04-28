@@ -1,0 +1,6 @@
+---
+title: "https://urbs.curitiba.pr.gov.br/transporte/pontos-de-taxi"
+description: ""
+url: "https://urbs.curitiba.pr.gov.br/transporte/pontos-de-taxi"
+category: "Miscellaneous"
+---

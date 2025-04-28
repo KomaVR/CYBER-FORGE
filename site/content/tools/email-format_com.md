@@ -1,0 +1,6 @@
+---
+title: "email-format.com"
+description: "Find the email address formats in use at thousands of companies"
+url: "https://www.email-format.com/"
+category: "Miscellaneous"
+---

@@ -1,0 +1,6 @@
+---
+title: "R2MSDN"
+description: "R2 plugin to add MSDN documentation URLs and parameter names to imported function calls."
+url: "https://github.com/newlog/r2msdn"
+category: "Miscellaneous"
+---

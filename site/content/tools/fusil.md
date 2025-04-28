@@ -1,0 +1,6 @@
+---
+title: "Fusil"
+description: "A Python library used to write fuzzing programs. It helps to start process with a prepared environment (limit memory, environment variables, redirect stdout, etc.), start network client or server, and create mangled files."
+url: "http://fusil.readthedocs.io/"
+category: "White Hat Tools"
+---

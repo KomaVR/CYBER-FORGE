@@ -1,0 +1,6 @@
+---
+title: "OfflineRegistryView"
+description: "Simple tool for Windows that allows you to read offline Registry files from external drive and view the desired Registry key in .reg file format."
+url: "https://www.nirsoft.net/utils/offline_registry_view.html"
+category: "Miscellaneous"
+---

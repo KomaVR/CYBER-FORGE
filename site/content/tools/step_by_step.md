@@ -1,0 +1,6 @@
+---
+title: "step by step"
+description: ""
+url: "https://www.doomedraven.com/2020/04/how-to-create-virtual-machine-with-virt.html"
+category: "Miscellaneous"
+---

@@ -1,0 +1,10 @@
+---
+title: "passphrase.html"
+description: "Memorized or wrote down the Certify key (identity) passphrase to a secure and durable location
+
+echo $CERTIFY_PASS to see it again;  or passphrase.txt to transcribe it
+
+"
+url: "https://raw.githubusercontent.com/drduh/YubiKey-Guide/master/templates/passphrase.html"
+category: "Miscellaneous"
+---

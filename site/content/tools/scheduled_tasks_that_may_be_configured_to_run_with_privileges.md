@@ -1,0 +1,6 @@
+---
+title: "scheduled tasks that may be configured to run with privileges"
+description: "Once you have logged in and Windows has settled, optionally also run ."
+url: "https://gist.github.com/wdormann/8afe4edf605627ee4f203861b6cc3a1c"
+category: "Miscellaneous"
+---

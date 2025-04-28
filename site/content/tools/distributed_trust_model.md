@@ -1,0 +1,6 @@
+---
+title: "Distributed trust model"
+description: ""
+url: "https://d1wqtxts1xzle7.cloudfront.net/33336702/nspw1997-rahman.pdf?1396028832=&response-content-disposition=inline%3B+filename%3DA_distributed_trust_model.pdf&Expires=1597138791&Signature=FVH0GVQDZshfyTHzeIFQP6nCuXp2bnZxMocVIajTTeAXvA6asDZcHr1P7ZRWEG0Vig9gy~K8MJtBEsyKvqpt7lOsnxfCnY395v1qPFh~5OdyV-t8B48ctY02y9JTxofh3ZHNdWLv5NaPkKtjkqJK8ceQPW4UO1DqHNEIFU7LmFPtT3JKSplTtA86d08VoLgxhn1G5Aq55IbW8ImVSb40hgU2XMwyLanUfPw4qUSmjyq-CBwX9XzwCwer3QOZp8o3lNDMB9nubiczUcZ6EczlcTDBDGLCa3wr2GbtQOpVg1mcZOHqgwHkow0lFEx4qTJdeObKuFTnxd62ZO1jrFp1gA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA"
+category: "Miscellaneous"
+---

@@ -1,0 +1,6 @@
+---
+title: "VCL rules for hits"
+description: ""
+url: "https://book.varnish-software.com/4.0/chapters/VCL_Subroutines.html#vcl-vcl-hit"
+category: "Miscellaneous"
+---

@@ -1,0 +1,6 @@
+---
+title: "biweekly community meetings"
+description: "Join the  to discuss development, issues, use cases, etc."
+url: "https://docs.google.com/document/d/1QdskbeCtgKcdWYHI6EXkLFxyzTCyVT6e8MgB3CaAhWI/edit#heading=h.294j02tlxam"
+category: "Miscellaneous"
+---

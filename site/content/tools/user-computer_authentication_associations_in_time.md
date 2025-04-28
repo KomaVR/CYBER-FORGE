@@ -1,0 +1,6 @@
+---
+title: "User-Computer Authentication Associations in Time"
+description: "This anonymized data set encompasses 9 continuous months and represents 708,304,516 successful authentication events from users to computers collected from the Los Alamos National Laboratory (LANL) enterprise network."
+url: "https://csr.lanl.gov/data/auth/"
+category: "White Hat Tools"
+---

@@ -1,0 +1,6 @@
+---
+title: "APT"
+description: "What are you trying to protect and from whom? Is the adversary a three letter agency, a nosy eavesdropper on the network, or a determined  orchestrating a campaign against you?"
+url: "https://en.wikipedia.org/wiki/Advanced_persistent_threat"
+category: "White Hat Tools"
+---

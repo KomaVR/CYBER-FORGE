@@ -1,0 +1,16 @@
+---
+title: "zer0pts CTF 2020 - Can you guess it?"
+description: "
+basename (php bug 62119)
+
+basename(\"index.php/config.php/喵\")
+
+config.php
+
+
+Example: 
+
+"
+url: "https://github.com/w181496/CTF/tree/master/zer0pts2020/can_you_guess_it"
+category: "Miscellaneous"
+---

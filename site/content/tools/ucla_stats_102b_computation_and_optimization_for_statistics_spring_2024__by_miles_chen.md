@@ -1,0 +1,6 @@
+---
+title: "UCLA Stats 102B Computation and Optimization for Statistics spring 2024, by Miles Chen"
+description: ""
+url: "https://www.youtube.com/playlist?list=PLIygTcviGPKD4XftRgjRlTITljOx792YN"
+category: "Miscellaneous"
+---

@@ -1,0 +1,6 @@
+---
+title: "TamperingSyscalls：绕过 EDR 的系统调用达到免杀"
+description: ""
+url: "https://github.com/rad9800/TamperingSyscalls"
+category: "Miscellaneous"
+---

@@ -1,0 +1,6 @@
+---
+title: "LaZagne:一键抓取目标机器上的所有明文密码（有点类似于mimikatz）"
+description: ""
+url: "https://github.com/AlessandroZ/LaZagne"
+category: "Miscellaneous"
+---

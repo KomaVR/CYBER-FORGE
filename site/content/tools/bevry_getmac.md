@@ -1,0 +1,6 @@
+---
+title: "bevry/getmac"
+description: "[211星][13d] [TS]  Get the mac address of the current machine you are on via Node.js"
+url: "https://github.com/bevry/getmac"
+category: "Miscellaneous"
+---
