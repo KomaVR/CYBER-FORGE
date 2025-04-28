@@ -1,16 +1,17 @@
-name: Build and Deploy Hugo Site
+name: Build & Deploy Hugo Site
 
 on:
   push:
     branches: [ main ]
   schedule:
-    - cron: '0 3 * * *' # daily at 3AM UTC (optional)
+    - cron: '0 3 * * *'  # Daily deploy at 3 AM UTC
+  workflow_dispatch:     # <-- THIS adds the Deploy Now button
 
 permissions:
   contents: write
 
 jobs:
-  build-deploy:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -18,19 +19,19 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
       - name: Install Python Dependencies
         run: |
           cd scraper
-          pip install pyyaml
+          pip install -r requirements.txt
 
-      - name: Fix Filenames and Frontmatter
+      - name: Run Fixer Script (Fix Broken Files)
         run: |
           cd scraper
-          python3 fix_filenames_and_frontmatter.py || echo "Continue even if fixing fails"
+          python3 fix_filenames_and_frontmatter.py
 
       - name: Install Hugo
         uses: peaceiris/actions-hugo@v2
@@ -40,13 +41,11 @@ jobs:
       - name: Build Hugo Site
         run: |
           cd site
-          hugo --buildFuture --buildDrafts || echo "Continue even if build fails"
+          hugo || echo "Hugo build failed but continuing deployment..."
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site/public
-          publish_branch: gh-pages
-          cname: cyberform.org  # Remove this line if you don't have a custom domain
-          
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          cname: cyberform.org
