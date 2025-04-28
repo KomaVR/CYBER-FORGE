@@ -1,0 +1,13 @@
+/* Dark cyberpunk theme */
+body { background: #0e0e0e; color: #ccc; font-family: 'Source Code Pro', monospace; margin:0; padding:0;}
+a { color: #33FF33; text-decoration: none; }
+a:hover { color: #fff; }
+header, footer { background: #111; padding: 1rem; text-align: center; }
+.tool-list { display: grid; grid-template-columns: repeat(auto-fill,minmax(280px,1fr)); gap:1rem; padding:1rem; }
+.tool-item { background:#1a1a1a; padding:1rem; border:1px solid #333; border-radius:4px; }
+.tool-item h2 { margin:0 0 .5rem 0; font-size:1.2rem; }
+.category { font-size:0.75rem; color:#888; }
+.tool-detail { max-width:800px; margin:2rem auto; padding:1rem; background:#1a1a1a; border:1px solid #333; border-radius:4px; }
+.btn { display:inline-block; padding:0.5rem 1rem; background:#33FF33; color:#0e0e0e; border-radius:3px; }
+.pagination { text-align:center; margin:2rem; }
+.pagination a { margin:0 .5rem; color:#33FF33; }
