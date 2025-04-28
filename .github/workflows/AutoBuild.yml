@@ -26,6 +26,7 @@ jobs:
         run: |
           cd scraper
           pip install -r requirements.txt
+          pip install PyYAML
 
       - name: Generate Hugo Content
         run: |
