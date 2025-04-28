@@ -1,0 +1,12 @@
+{{ define "main" }}
+<section class="tool-list">
+  {{ range .Paginator.Pages }}
+  <article class="tool-item">
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <p>{{ .Params.description }}</p>
+    <span class="category">{{ .Params.category }}</span>
+  </article>
+  {{ end }}
+</section>
+{{ partial "pagination.html" . }}
+{{ end }}
