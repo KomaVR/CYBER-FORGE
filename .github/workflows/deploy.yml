@@ -4,19 +4,19 @@ on:
   push:
     branches: [ main ]
   schedule:
-    - cron: '0 3 * * *'  # daily at 3AM UTC
-  workflow_dispatch:     # adds the “Run workflow” button
+    - cron: '0 3 * * *'   # optional daily rebuild
+  workflow_dispatch:      # adds “Run workflow” button
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  build-deploy:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -29,10 +29,10 @@ jobs:
           pip install -r requirements.txt
           pip install pyyaml
 
-      - name: Run Fixer Script (Fix Broken Files)
+      - name: Run Fixer Script (Fix Filenames & Front Matter)
         run: |
           cd scraper
-          python3 fix_filenames_and_frontmatter.py || echo "Continue even if fixing fails"
+          python3 fix_filenames_and_frontmatter.py || echo "Fixer errors skipped"
 
       - name: Install Hugo
         uses: peaceiris/actions-hugo@v2
@@ -42,12 +42,12 @@ jobs:
       - name: Build Hugo Site
         run: |
           cd site
-          hugo || echo "Hugo build failed but continuing deployment..."
+          hugo || echo "Hugo build errors skipped"
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          publish_dir: ./site/public
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site/public
           publish_branch: gh-pages
-          cname: cyberform.org  # remove if you’re not using a custom domain
+          cname: cyberform.org
