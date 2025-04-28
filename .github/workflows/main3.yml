@@ -5,7 +5,7 @@ on:
     branches: [ main ]
   schedule:
     - cron: '0 3 * * *'  # Daily deploy at 3 AM UTC
-  workflow_dispatch:     # <-- THIS adds the Deploy Now button
+  workflow_dispatch:     # <-- This adds the Deploy Now button
 
 permissions:
   contents: write
@@ -23,10 +23,11 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install Python Dependencies
+      - name: Install Python Dependencies (Including PyYAML)
         run: |
           cd scraper
-          pip install -r requirements.txt
+          pip install -r requirements.txt  # Ensure PyYAML is listed in requirements.txt
+          pip install pyyaml  # Install PyYAML if it's not in requirements.txt
 
       - name: Run Fixer Script (Fix Broken Files)
         run: |
