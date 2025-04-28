@@ -2,39 +2,38 @@ import os
 import requests
 import time
 
-GITHUB_API = "https://api.github.com"
 TOKEN = os.getenv("CYBERFORGE_GH_TOKEN")
-HEADERS = {"Authorization": f"token {TOKEN}"} if TOKEN else {}
-TOPICS = ["hacking","pentest","security","vulnerability","exploit","reversing","malware","forensics","osint"]
+if not TOKEN:
+    raise RuntimeError("Missing CYBERFORGE_GH_TOKEN environment variable.")
 
-def fetch_repos(topic, per_page=100, pages=3):
-    repos = []
-    for page in range(1, pages + 1):
-        params = {
-            "q": f"topic:{topic}",
-            "sort": "stars",
-            "order": "desc",
-            "per_page": per_page,
-            "page": page
-        }
-        r = requests.get(f"{GITHUB_API}/search/repositories", headers=HEADERS, params=params)
-        r.raise_for_status()
-        for item in r.json().get("items", []):
-            repos.append(item["html_url"])
-        time.sleep(1)  # avoid rate limit
-    return repos
+HEADERS = {"Authorization": f"token {TOKEN}"}
+GITHUB_API = "https://api.github.com"
+TOPICS = ["hacking", "pentest", "security", "vulnerability", "exploit", "reverse-engineering", "malware", "osint", "ctf", "forensics"]
+OUTPUT_FILE = "sources.txt"
+
+def search_repositories(topic):
+    url = f"{GITHUB_API}/search/repositories?q=topic:{topic}&sort=stars&order=desc&per_page=100"
+    response = requests.get(url, headers=HEADERS)
+    if response.status_code != 200:
+        raise Exception(f"GitHub API error: {response.status_code} - {response.text}")
+    return [repo['html_url'] for repo in response.json().get('items', [])]
 
 def main():
-    out = set()
+    print("Starting repository scrape...")
+    all_urls = set()
+
     for topic in TOPICS:
-        print(f"[+] Fetching for topic: {topic}")
-        out.update(fetch_repos(topic))
-    final = list(out)[:1000]
-    with open("sources.txt", "w") as f:
-        for url in final:
+        print(f"Searching for topic: {topic}")
+        urls = search_repositories(topic)
+        all_urls.update(urls)
+        time.sleep(2)  # Be nice to GitHub API
+
+    print(f"Found {len(all_urls)} repositories.")
+    with open(OUTPUT_FILE, "w") as f:
+        for url in sorted(all_urls):
             f.write(url + "\n")
-    print(f"[+] sources.txt generated with {len(final)} entries.")
+    print(f"Sources written to {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     main()
-  
+    
