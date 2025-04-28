@@ -1,0 +1,39 @@
+name: Auto Build & Deploy
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 3 * * *'  # daily at 3AM
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with: python-version: '3.x'
+
+      - name: Install Scraper deps
+        run: |
+          cd scraper
+          pip install -r requirements.txt
+
+      - name: Bootstrap Scraper
+        run: |
+          cd scraper
+          python3 bootstrap.py
+
+      - name: Build Hugo site
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.104.2'
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          publish_dir: ./site/public
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          
