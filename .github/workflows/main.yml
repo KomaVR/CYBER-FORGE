@@ -1,37 +1,48 @@
-name: Generate Cyber Sources
+name: Auto-update Sources
 
 on:
-  workflow_dispatch: # Manual trigger button
+  push:
+    branches:
+      - main
   schedule:
-    - cron: '0 12 * * 0' # Every Sunday at noon UTC
+    - cron: '0 0 * * *'  # Optional: Runs once a day at midnight.
 
 jobs:
-  generate:
+  update-sources:
     runs-on: ubuntu-latest
-    env:
-      CYBERFORGE_GH_TOKEN: ${{ secrets.CYBERFORGE_GH_TOKEN }}  # <-- OUR SAFE SECRET
+
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      # Checkout the repository code
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.x'
+      # Set up Python environment (if you need it)
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
 
-    - name: Install dependencies
-      run: pip install -r scraper/requirements.txt
+      # Install dependencies (if necessary)
+      - name: Install dependencies
+        run: |
+          pip install -r scraper/requirements.txt
 
-    - name: Generate Sources
-      run: |
-        cd scraper
-        python generate_sources.py
+      # Run the scraper to update sources.txt
+      - name: Run scraper/generate_sources.py
+        run: python scraper/generate_sources.py
 
-    - name: Commit and push changes
-      run: |
-        git config --global user.email "actions@github.com"
-        git config --global user.name "GitHub Actions"
-        git add scraper/sources.txt
-        git commit -m "Auto-update sources [bot]" || echo "No changes to commit"
-        git push
-        
+      # Set up git user for commit
+      - name: Set up git user
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+
+      # Commit changes to sources.txt
+      - name: Commit and push changes
+        env:
+          GH_TOKEN: ${{ secrets.CYBERFORGE_GH_TOKEN }}
+        run: |
+          git add scraper/sources.txt
+          git diff --quiet || git commit -m "Auto-update sources by GitHub Actions"
+          git push https://x-access-token:${GH_TOKEN}@github.com/KomaVR/CYBER-FORGE.git HEAD:main
+
