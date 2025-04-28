@@ -1,1 +1,9 @@
+<nav class="pagination">
+  {{ if .Paginator.HasPrev }}
+    <a class="prev" href="{{ .Paginator.Prev.URL }}">← Newer</a>
+  {{ end }}
+  {{ if .Paginator.HasNext }}
+    <a class="next" href="{{ .Paginator.Next.URL }}">Older →</a>
+  {{ end }}
+</nav>
 
