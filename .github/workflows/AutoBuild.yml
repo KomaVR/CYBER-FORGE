@@ -32,10 +32,10 @@ jobs:
           cd scraper
           python3 generate_hugo_content.py
 
-      - name: Cleanup Front Matter
+      - name: Force Rebuild Markdown Front-Matter
         run: |
           cd scraper
-          python3 cleanup_frontmatter.py
+          python3 force_rebuild_md.py
 
       - name: Install Hugo
         uses: peaceiris/actions-hugo@v2
@@ -53,3 +53,4 @@ jobs:
           publish_dir: ./site/public
           github_token: ${{ secrets.CYBERFORGE_GH_TOKEN }}
           cname: cyberform.org
+          
