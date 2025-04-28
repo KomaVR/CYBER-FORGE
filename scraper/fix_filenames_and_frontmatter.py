@@ -36,7 +36,7 @@ def fix_front_matter(filepath):
         print(f"Error fixing front matter in {filepath}: {e}")
 
 def main():
-    content_dir = 'site/content/tools'
+    content_dir = '../site/content/tools'
 
     for filename in os.listdir(content_dir):
         old_path = os.path.join(content_dir, filename)
