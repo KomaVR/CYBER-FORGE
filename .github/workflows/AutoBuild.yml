@@ -5,7 +5,6 @@ on:
     branches: [ main ]
   schedule:
     - cron: '0 3 * * *'  # daily at 3AM UTC
-  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,6 +12,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
@@ -26,7 +26,7 @@ jobs:
         run: |
           cd scraper
           pip install -r requirements.txt || true
-          pip install pyyaml googletrans==4.0.0rc1
+          pip install pyyaml
 
       - name: Generate Hugo Content
         run: |
@@ -38,7 +38,7 @@ jobs:
           cd scraper
           python3 strict_frontmatter_rebuild.py
 
-      - name: Fix Existing Markdown Files
+      - name: Fix Existing Markdown Files (Skip broken YAML)
         run: |
           cd scraper
           python3 fix_filenames_and_frontmatter.py
@@ -48,10 +48,10 @@ jobs:
           cd scraper
           python3 cleanup_frontmatter.py
 
-      - name: Fix External Links & Translate
+      - name: Fix External Links (Move Visit Website to external_link)
         run: |
           cd scraper
-          python3 fix_external_links_and_translate.py
+          python3 fix_external_links.py
 
       - name: Install Hugo
         uses: peaceiris/actions-hugo@v2
@@ -61,22 +61,31 @@ jobs:
       - name: Purge Bad Markdown Files
         run: |
           python3 - <<EOF
-          import os, yaml
+          import os
+          import yaml
+
           content_dir = "site/content/tools"
-          for root, _, files in os.walk(content_dir):
-              for file in files:
-                  if file.endswith(".md"):
-                      path = os.path.join(root, file)
+
+          for root, dirs, files in os.walk(content_dir):
+              for filename in files:
+                  if filename.endswith(".md"):
+                      path = os.path.join(root, filename)
                       try:
-                          lines = open(path, "r").read().splitlines()
+                          with open(path, "r", encoding="utf-8") as f:
+                              lines = f.readlines()
+
                           if lines[0].strip() != '---':
-                              raise Exception("Missing ---")
-                          fm = []
-                          for l in lines[1:]:
-                              if l.strip() == '---': break
-                              fm.append(l)
-                          yaml.safe_load("\n".join(fm))
-                      except Exception:
+                              raise Exception("Missing starting ---")
+
+                          yaml_lines = []
+                          for line in lines[1:]:
+                              if line.strip() == '---':
+                                  break
+                              yaml_lines.append(line)
+
+                          yaml.safe_load("".join(yaml_lines))
+                      except Exception as e:
+                          print(f"Bad YAML in {path}: {e}")
                           os.remove(path)
                           print(f"Deleted bad file: {path}")
           EOF
