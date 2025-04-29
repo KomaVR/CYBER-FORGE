@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ .Title }}</title>
+  <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}CyberForge – Auto-updating hacker vault.{{ end }}">
+  
+  <!-- OpenGraph / Discord / Twitter embed -->
+  <meta property="og:title" content="{{ .Title }}">
+  <meta property="og:description" content="{{ .Params.description }}">
+  <meta property="og:image" content="{{ .Site.Params.image }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta name="twitter:card" content="summary_large_image">
+  
+  <link rel="stylesheet" href="/style.css">
+  <link rel="icon" type="image/png" href="/images/mit-license-logo.png">
+</head>
+
+<body>
+  <header>
+    <h1><a href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
+    <nav>
+      {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}">{{ .Name }}</a>
+      {{ end }}
+    </nav>
+  </header>
+
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  <footer>
+    <p>© CyberForge Crew 2025</p>
+    <p>Licensed under <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a></p>
+  </footer>
+
+  <script>
+    document.querySelectorAll('a').forEach(link => {
+      if (link.hostname !== location.hostname) {
+        link.target = "_blank";
+      }
+    });
+  </script>
+</body>
+</html>
