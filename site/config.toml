@@ -4,6 +4,8 @@ languageCode = "en-us"
 theme = "cyberpunk"
 paginate = 25
 enableRobotsTXT = true
+canonifyURLs = true
+relativeURLs = false
 
 [params]
   author = "CyberForge Crew"
