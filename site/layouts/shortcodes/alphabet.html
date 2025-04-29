@@ -1,0 +1,20 @@
+mkdir -p site/layouts/shortcodes
+cat << 'EOF' > site/layouts/shortcodes/alphabet.html
+{{/* 
+  alphabet.html
+  Loops through all pages in the "tools" section,
+  sorts them by Title, and renders each with a link & description.
+*/}}
+
+<div class="tool-list">
+  {{ $tools := where .Site.RegularPages "Section" "tools" }}
+  {{ range $tools.ByTitle }}
+    <div class="tool-item">
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      {{ with .Params.description }}
+        <p>{{ . }}</p>
+      {{ end }}
+    </div>
+  {{ end }}
+</div>
+EOF
