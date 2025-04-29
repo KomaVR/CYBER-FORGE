@@ -1,3 +1,4 @@
+cat << 'EOF' > site/content/_index.md
 ---
 title: "Welcome to CyberForge"
 description: "Your auto-updating hacker vault of tools and tutorials."
@@ -11,3 +12,4 @@ This is the hacker’s vault—a living, breathing arsenal of tools for black, g
 - 🔍 Check out [Categories](/categories/) to filter by topic.  
 
 > _“Hack the planet.”_
+EOF
