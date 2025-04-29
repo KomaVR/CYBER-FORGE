@@ -1,0 +1,7 @@
+name = "Cyberpunk"
+license = "MIT"
+licenselink = "https://opensource.org/licenses/MIT"
+description = "CyberForge cyberpunk hacker theme."
+homepage = "https://cyberform.org/"
+tags = ["cyberpunk", "hacker", "dark", "modern", "futuristic"]
+min_version = "0.41.0"
