@@ -1,3 +1,7 @@
-name = "cyberpunk"
+name = "Cyberpunk"
 license = "MIT"
-description = "A dark neon Hugo theme for hacker portals."
+licenselink = "https://opensource.org/licenses/MIT"
+description = "CyberForge cyberpunk hacker theme."
+homepage = "https://cyberform.org/"
+tags = ["cyberpunk", "hacker", "dark", "modern", "futuristic"]
+min_version = "0.41.0"
