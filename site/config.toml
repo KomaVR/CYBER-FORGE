@@ -1,7 +1,7 @@
 baseURL = "https://cyberform.org/"
 title = "Cyberforge – Hacker's Vault"
 languageCode = "en-us"
-theme = "cyberpunk"
+theme = "ananke"
 paginate = 25
 enableRobotsTXT = true
 
