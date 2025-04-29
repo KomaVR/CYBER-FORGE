@@ -1,13 +1,49 @@
-/* Dark cyberpunk theme */
-body { background: #0e0e0e; color: #ccc; font-family: 'Source Code Pro', monospace; margin:0; padding:0;}
-a { color: #33FF33; text-decoration: none; }
-a:hover { color: #fff; }
-header, footer { background: #111; padding: 1rem; text-align: center; }
-.tool-list { display: grid; grid-template-columns: repeat(auto-fill,minmax(280px,1fr)); gap:1rem; padding:1rem; }
-.tool-item { background:#1a1a1a; padding:1rem; border:1px solid #333; border-radius:4px; }
-.tool-item h2 { margin:0 0 .5rem 0; font-size:1.2rem; }
-.category { font-size:0.75rem; color:#888; }
-.tool-detail { max-width:800px; margin:2rem auto; padding:1rem; background:#1a1a1a; border:1px solid #333; border-radius:4px; }
-.btn { display:inline-block; padding:0.5rem 1rem; background:#33FF33; color:#0e0e0e; border-radius:3px; }
-.pagination { text-align:center; margin:2rem; }
-.pagination a { margin:0 .5rem; color:#33FF33; }
+/* --- Global readability --- */
+body {
+  line-height: 1.6;
+  max-width: 900px;
+  margin: auto;
+  padding: 1.5rem;
+  background: #0d0d0d;
+  color: #33ff33;
+}
+
+/* --- Tool detail --- */
+.tool-detail p {
+  margin-bottom: 1rem;
+}
+
+/* --- Visit Tool button --- */
+.button {
+  display: inline-block;
+  background: #00ffff;
+  color: #000;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  text-decoration: none;
+  margin-top: 1rem;
+}
+
+/* --- Category list --- */
+.category-list {
+  list-style: none;
+  padding: 0;
+}
+.category-list li {
+  margin: 0.5rem 0;
+}
+
+/* --- Tool list on category page --- */
+.tool-list {
+  list-style: none;
+  padding: 0;
+}
+.tool-list li {
+  margin: 0.75rem 0;
+}
+
+/* --- General headings --- */
+h1, h2, h3 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+}
