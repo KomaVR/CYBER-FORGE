@@ -1,15 +1,15 @@
-cat << 'EOF' > site/content/_index.md
+cat << 'EOF' > site/content/tools/_index.md
 ---
-title: "Welcome to CyberForge"
-description: "Your auto-updating hacker vault of tools and tutorials."
+title: "Tools"
+description: "A collection of hacking tools, utilities, and resources."
 ---
 
-# Welcome to CyberForge
+# Tools
 
-This is the hacker’s vault — a living, breathing arsenal of tools for black, grey, and white hats.
+Welcome to the Tools section!  
+Here you’ll find a collection of cybersecurity tools, dork lists, recon utilities, and much more.
 
-- 👉 Go to [Tools](/tools/) to browse all available tools.  
-- 🔍 Check out [Categories](/categories/) to filter by topic.
+Browse the tools below (sorted alphabetically):
 
-> _"Hack the planet."_
+{{< alphabet >}}
 EOF
