@@ -15,7 +15,7 @@ enableRobotsTXT = true
   home = ["HTML","RSS"]
 
 [taxonomies]
-  category = "catagories"
+  category = "categories"
 
 [menu]
   [[menu.main]]
