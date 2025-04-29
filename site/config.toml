@@ -1,14 +1,14 @@
 baseURL = "https://cyberform.org/"
 title = "Cyberforge – Hacker's Vault"
 languageCode = "en-us"
-theme = "ananke"
+theme = "cyberpunk"
 paginate = 25
 enableRobotsTXT = true
 
 [params]
   author = "Cyberforge Crew"
   description = "Auto-updating arsenal for Black, Grey, and White Hat hackers."
-  themeColor = "#33FF33"
+  themeColor = "#00FFEA"
 
 [outputs]
   home = ["HTML","RSS"]
@@ -26,4 +26,3 @@ enableRobotsTXT = true
     name = "Categories"
     url = "/categories/"
     weight = 3
-    
