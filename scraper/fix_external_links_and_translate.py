@@ -2,20 +2,25 @@
 import os
 import re
 import yaml
-from googletrans import Translator, constants
+import requests
 
-translator = Translator()
+LIBRETRANSLATE_URL = "https://libretranslate.de/translate"
 
 def translate_text(text: str) -> str:
-    """Translate any text to English."""
-    # Skip empty
+    """Translate any text to English using LibreTranslate."""
     if not text.strip():
         return text
-    # Use Googletrans to translate
     try:
-        return translator.translate(text, dest="en").text
+        response = requests.post(LIBRETRANSLATE_URL, data={
+            "q": text,
+            "source": "auto",
+            "target": "en",
+            "format": "text"
+        }, timeout=10)
+        response.raise_for_status()
+        return response.json()["translatedText"]
     except Exception as e:
-        print(f"[WARN] Translation failed for text: {text[:30]}…: {e}")
+        print(f"[WARN] Translation failed for: {text[:30]}…: {e}")
         return text
 
 def fix_markdown_file(path: str):
@@ -34,32 +39,29 @@ def fix_markdown_file(path: str):
     raw_fm = parts[1]
     body = "---".join(parts[2:]).strip()
 
-    # Load front matter
     fm = yaml.safe_load(raw_fm) or {}
 
-    # 1) Rename external_category → categories (list)
+    # Rename external_category → categories (list)
     if "external_category" in fm:
         fm["categories"] = [fm.pop("external_category")]
 
-    # 2) Pull [Visit Website](URL) into external_link
+    # Extract external link from body
     m = re.search(r'\[Visit Website\]\((.*?)\)', body, re.IGNORECASE)
     if m:
         fm["external_link"] = m.group(1).strip()
         body = re.sub(r'\[Visit Website\]\(.*?\)', "", body, flags=re.IGNORECASE).strip()
 
-    # 3) Translate front-matter fields to English
+    # Translate front matter
     for key in ["title", "description"]:
         if key in fm and isinstance(fm[key], str):
             fm[key] = translate_text(fm[key])
 
-    # Also translate each category if present
     if "categories" in fm and isinstance(fm["categories"], list):
         fm["categories"] = [translate_text(c) for c in fm["categories"]]
 
-    # 4) Translate the body
+    # Translate body
     body = translate_text(body)
 
-    # Reassemble the file
     new_fm = yaml.safe_dump(fm, sort_keys=False, allow_unicode=True).strip()
     new_content = f"---\n{new_fm}\n---\n\n{body}\n"
 
@@ -77,3 +79,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
