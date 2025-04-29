@@ -1,0 +1,10 @@
+{{ define "main" }}
+<h1>Categories</h1>
+<ul class="category-list">
+  {{ range $term := .Data.Terms.Alphabetical }}
+    <li>
+      <a href="{{ $term.Page.RelPermalink }}">{{ $term.LinkTitle }} ({{ $term.Count }})</a>
+    </li>
+  {{ end }}
+</ul>
+{{ end }}
