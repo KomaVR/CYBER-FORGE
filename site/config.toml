@@ -8,6 +8,7 @@ enableRobotsTXT = true
 [params]
   author = "Cyberforge Crew"
   description = "Auto-updating arsenal for Black, Grey, and White Hat hackers."
+  defaultImage = "https://cyberform.org/images/og-default.png"
   themeColor = "#00FFEA"
 
 [outputs]
